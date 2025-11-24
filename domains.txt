@@ -10732,6 +10732,7 @@ claimsfreebox.lat
 claimshibashootout.pages.dev
 claimshubs.click
 claimsinvestigationunit.com
+claimsmonad.xyz
 claimsoi.pro
 claimsol-8fx.pages.dev
 claimsolairdrop.pages.dev
@@ -14443,6 +14444,7 @@ dhackcybersolution.com.mercatorgenius.org
 dhge.pages.dev
 dhjf81.pages.dev
 dhl-negombo.com
+dhl.order0391.icu
 dhlsupplychaintest.earcu.com
 dhxexpressservices.org
 diagnosticnode.co
@@ -28503,6 +28505,7 @@ monadairdrops.xyz
 monadavatars.xyz
 monadbft.vercel.app
 monadbridge.app
+monadbridge.com
 monadbridge.fi
 monadchecker.pages.dev
 monadchecker.run
@@ -36641,6 +36644,7 @@ snapshot-vertical.com
 snapshot-volt.network
 snapshot.lat
 snapshotbox.lat
+snapshotbox.xyz
 snapshots-blockstreet.xyz
 snapshots-bonk.com
 snapshots-bonk.net

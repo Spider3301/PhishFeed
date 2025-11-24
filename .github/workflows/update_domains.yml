@@ -3,18 +3,22 @@ name: Update domain list from external JSON
 # run every 2 hours + manual trigger
 on:
   schedule:
-    - cron: '0 */2 * * *'    # at minute 0 every 2nd hour (12 times/day) - runs in UTC
+    - cron: '0 */2 * * *'
   workflow_dispatch:
+
+# Give the workflow explicit permission to write repository contents
+permissions:
+  contents: write
 
 jobs:
   update_domains:
     runs-on: ubuntu-latest
     steps:
-      - name: Checkout repo
+      - name: Checkout repo (with push credentials)
         uses: actions/checkout@v4
         with:
-          # keep credentials so we can push
-          persist-credentials: true
+          persist-credentials: true   # allow pushing with GITHUB_TOKEN
+          fetch-depth: 0
 
       - name: Fetch external JSON
         run: |
@@ -26,9 +30,7 @@ jobs:
 
       - name: Convert JSON list to plain TXT (one domain per line, unique & sorted)
         run: |
-          # if JSON is simple array of strings, this extracts them, removes blanks, sorts & uniques
           jq -r '.[]' list.json | sed '/^\s*$/d' | sort -u > domains.txt
-          # If your JSON structure is different, change the jq expression above (see notes).
           true
 
       - name: Commit and push only if changed
@@ -37,9 +39,7 @@ jobs:
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
-
           git add domains.txt
-          # commit only if there are changes staged
           if git diff --cached --quiet; then
             echo "No changes to domains.txt — nothing to commit."
           else

@@ -32667,6 +32667,7 @@ pre-hourglass.app
 pre-hourglass.com
 pre-zama.org
 preclaim-monad.com
+predeposit-megaeth.net
 predeposit-stable.app
 predeposit-stable.com
 predeposit-stable.io
@@ -36794,6 +36795,7 @@ snapshot-tutorial.co
 snapshot-vertical.com
 snapshot-volt.network
 snapshot.lat
+snapshotbox.cyou
 snapshotbox.lat
 snapshotbox.xyz
 snapshots-blockstreet.xyz
@@ -38082,6 +38084,7 @@ standx-bonuses.app
 standx-bonuses.com
 standx-claims.com
 standx-community.cfd
+standx-mainnet.com
 standx-rewards.app
 standx-rewards.com
 standx.app

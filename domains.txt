@@ -27742,6 +27742,7 @@ meteorasol.com
 meteorateam.lat
 meteorateam.lol
 meteoratoken.top
+meteoravoucher.netlify.app
 meteoravp.live
 meteorawhitelist.pages.dev
 meteorlive.xyz
@@ -33356,6 +33357,8 @@ pumpfun-claims.com
 pumpfun-event.info
 pumpfun-event.org
 pumpfun-finance.com
+pumpfun-finance.info
+pumpfun-finance.net
 pumpfun-foundation.com
 pumpfun-fun.xyz
 pumpfun-promo.com
@@ -33418,6 +33421,7 @@ pumpswaps.fun
 pumptoken.info
 pumptoken.net
 pumptokenfun.com
+pumptokenvouch9lm3p.netlify.app
 pumptokenvouchmmk6t.netlify.app
 pumptokenvouchztc0s.netlify.app
 pumpx.fr
@@ -43704,6 +43708,7 @@ votings-virtual.net
 votingtrend.xyz
 voucher-5606.notcolayer.app
 voucher.solhq.cc
+vouchtiketpump.netlify.app
 voxigenai.org
 voyagexchange.com
 vozanosports.com

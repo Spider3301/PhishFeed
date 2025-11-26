@@ -33797,6 +33797,7 @@ pumpfun.link
 pumpfun.money
 pumpfun.pro
 pumpfun.pump-airdrop.cfd
+pumpfun.today
 pumpfun.us.com
 pumpfun2025.com
 pumpfunairdrop.web.app
@@ -35835,6 +35836,7 @@ s2-mogcoin.xyz
 s2-pengu.com
 s2-polygon.xyz
 s2-quant.network
+s3-jupiter.fun
 s4-syncswap.com
 s4kj0dxrmdfybkpc46qcltq.pages.dev
 s5-ethena.com
@@ -40759,6 +40761,7 @@ tidedrop.live
 tiecontinentallogistics.com.ng
 tiger-us.com
 tigo-rewards.top
+tikapply.com
 tikfestawarding24.satupintu.events
 tiki-sbvr.com
 tikkok.net
@@ -41269,6 +41272,7 @@ traderid.info
 traderjoe-dex.com
 traderjoe-v3.xyz
 traderjoe.org
+traderjoexyz.bylfg.live
 traderjoexyz.bylfg.net
 traderogre.com
 tradersutopia.com

@@ -9685,6 +9685,7 @@ circleswap.net
 circuitcoreshifts.com
 cirilloderon.com
 cirsclientsaccess.com
+citichain.network
 citipremium.com
 citizencityfirmgloba.com
 citstg.com
@@ -10021,6 +10022,7 @@ claim-onbasebrian.com
 claim-ondofinance.com
 claim-onefootballclub.live
 claim-openledger.xyz
+claim-opensea.netlify.app
 claim-openseanft.alwaysdata.net
 claim-opsec-v2.pages.dev
 claim-orangepepe.lol
@@ -12439,6 +12441,7 @@ contractsapproval.com
 contractsapprove.org
 contractverified.online
 contributionless.github.io
+contributors.meteoras.net
 contuniversalbk.com
 contybet.com
 convefinance.com
@@ -19183,6 +19186,7 @@ gifts-aave.org
 gifts.steampowered.com.de
 giftsolaxy.net
 gigabrain.world
+gigadoge.network
 gigasoiana.com
 gigaverse.app
 giggeltoken.com
@@ -31707,6 +31711,7 @@ pandu.x-sol.us
 panducoin.com
 pandunpandas.com
 pandupandas.co
+pandupandes.com
 panduspanda.com
 panduspanda.fun
 panduspandas.fun
@@ -32478,6 +32483,7 @@ pipetoken.top
 pipoptiontrades.com
 pippin-drop.fun
 pippin.finance
+pippin.network
 pipsdeals.com
 pipskey-fxtrd.com
 piqo.to
@@ -33844,6 +33850,7 @@ pumpfun.link
 pumpfun.money
 pumpfun.pro
 pumpfun.pump-airdrop.cfd
+pumpfun.rocks
 pumpfun.today
 pumpfun.us.com
 pumpfun2025.com
@@ -35414,6 +35421,7 @@ rixy.bet
 rizowex.com
 rizzmas-bonus.lol
 rizzmas-events.xyz
+rizzmas.network
 rizzmas.xyz
 rizzmascto.lol
 rjddz.my
@@ -35884,6 +35892,7 @@ s2-mogcoin.xyz
 s2-pengu.com
 s2-polygon.xyz
 s2-quant.network
+s3-jup.fun
 s3-jupiter.fun
 s4-syncswap.com
 s4kj0dxrmdfybkpc46qcltq.pages.dev
@@ -36193,6 +36202,7 @@ scaling-waffle-sigma.vercel.app
 scallop.airdropsalert.life
 scam-assist.co.uk
 scam.moscow
+scamcoin.network
 scamminder.com
 scan-aml.info
 scan-chain.com
@@ -40625,6 +40635,7 @@ thecoinbase.us
 thecoinclaim.com
 thecourierguy-ten.vercel.app
 thecraxsrat.com
+thecroxcoin.network
 thecryptoape.com
 thecur-e-finance.com
 thecur-e-saw.com
@@ -42307,6 +42318,7 @@ twt-trustwallet.com
 twt-vjsq9u72.pages.dev
 twt-y1jbmyof.pages.dev
 twt-yppgm5ch.pages.dev
+twt02.top
 twt11.top
 twt12.top
 twt13.top

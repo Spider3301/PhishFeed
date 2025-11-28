@@ -2054,6 +2054,7 @@ airdrop.painistswap.io
 airdrop.paintnswap.io
 airdrop.paintswap.in
 airdrop.paintswap.world
+airdrop.paintswaps.live
 airdrop.paintswaps.xyz
 airdrop.palio.digital
 airdrop.perceptrons.xyz
@@ -15912,6 +15913,7 @@ eligible-hyperliquid.xyz
 eligible-jupiter.cc
 eligible-jupiter.net
 eligible-jupiter.pro
+eligible-jupiter.top
 eligible-ondo.finance
 eligible-plasma.com
 eligible-plume.org
@@ -34273,6 +34275,7 @@ pumpfuncard.netlify.app
 pumpfunclaim.xyz
 pumpfunearn.com
 pumpfung.icu
+pumpfung.world
 pumpfungame.com
 pumpfunns.xyz
 pumpfunrewards.web.app
@@ -34280,6 +34283,7 @@ pumpfunsol.co
 pumpfxn.xyz
 pumpgal.events
 pumpgame.icu
+pumpgame.lol
 pumpgame.pro
 pumpgame.top
 pumpgift.fun
@@ -44947,6 +44951,7 @@ vwa-co.in
 vwa-coin.icu
 vwa.allocation.pro
 vwa.eligibile.cc
+vwa.eligibility.cc
 vwa.lat
 vwa.st
 vwa.x-co.in

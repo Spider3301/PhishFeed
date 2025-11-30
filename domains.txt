@@ -2148,6 +2148,7 @@ airdropalert.club
 airdropalert.digital
 airdropalert.life
 airdropalert.lol
+airdropalert.you
 airdropalerts.click
 airdropalerts.club
 airdropalerts.life
@@ -4626,6 +4627,7 @@ apps-aane.com
 apps-asterdex.com
 apps-believe.com
 apps-celus.zone
+apps-claim-monad.xyz
 apps-hemi.xyz
 apps-infinit.com
 apps-jito.com
@@ -9190,6 +9192,7 @@ celsols.com
 cemeteryledger.com
 cemrox.com
 cenae.cl
+cenatcasino.com
 cenatero.com
 cenfibull.com
 cenfibulls.com
@@ -13714,6 +13717,7 @@ dankurmidatalink.com.ng
 dankurmidatalink.com.ng.onetargetdata.com.ng
 danwx.xyz
 dao-hylo.xyz
+dao-maker.org
 dao-telco.in
 dao.origindefis.world
 dao1.space

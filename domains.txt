@@ -3160,6 +3160,7 @@ amlchaincheck.com
 amlchebot.app
 amlcheck-online.com
 amlcheck-secure.com
+amlcheck-trc20.com
 amlcheck-tron.com
 amlcheck-trust.com
 amlcheck-trustwallet.com
@@ -6632,6 +6633,7 @@ bewijoka.top
 bewka.com
 bexace.com
 bexbeto.pro
+bexgem.com
 bexotrades.com
 bexrom.com
 beyondsports.live
@@ -13344,6 +13346,7 @@ crystaltrust-capital.com
 crystaltrustwallet.com
 crystalweb3ledger.com
 crystalweb3vault.com
+crystalwin.top
 cryvenbit.com
 cs-case.ru
 cs-gift.pro
@@ -14666,6 +14669,7 @@ dentone.pages.dev
 dentreward.com
 denzdengirislerburda.my-homeip.com
 deobax.com
+deonax.com
 deosax.com
 dep-vavada14.ru
 depcas.com
@@ -18686,6 +18690,7 @@ fortunagrid.com
 fortunapulse.com
 fortunavault.com
 fortunawhee.sol-galaxy.cc
+fortuncas.com
 fortune-phantom.net
 fortunearena.top
 fortunefinancetrade.com
@@ -19057,6 +19062,7 @@ gain-worldcoin.com
 gain.sol-galaxy.cc
 gainena.com
 gainfinancialsfreedoms.com
+gainixwot.com
 gains.sushiswap.best
 gainsreserve.com
 gal-0x000.xyz
@@ -23597,6 +23603,7 @@ kavasbotsverify.pages.dev
 kawsmex.com
 kaya.alev777bonus.com
 kayabasltd.com
+kazbets.com
 kazdex.com
 kazio.sbs
 kazitradebd.com
@@ -25927,6 +25934,7 @@ leoddfree.com
 leradex.com
 lerihex.me
 lerofex.com
+lertcas.com
 lesoarm.com
 lesodex.com
 lesowex.com
@@ -27152,6 +27160,7 @@ lunobex.com
 lunocas.com
 luntra-paycore.com
 luoram.com
+luorax.com
 luosax.com
 lupenax.com
 lupimupitupilupi.com
@@ -29456,7 +29465,9 @@ mixstable.com
 mixtum.biz
 mixtum.io
 mixum.io
+mixvex.com
 miyamiyamiya.pages.dev
+mizofex.com
 mizowex.com
 mj-api.kun-ai.com
 mjhgfghjk.pages.dev
@@ -32022,6 +32033,7 @@ ops.pro
 ops.pro-earnllc.com
 opsea-login.pages.dev
 opstacks.xyz
+optcoinus.com
 opti-nexus.netlify.app
 opticonsniper.app
 optilux.raindropss.xyz
@@ -33537,6 +33549,7 @@ pnlvia01.xyz
 po-29z.pages.dev
 po555queen.com
 poaiiswbie.hetins.biz.id
+poanax.com
 poawax.com
 poc-tinybase-cloudflare-client.pages.dev
 pockcas.com
@@ -35294,6 +35307,7 @@ rani-bow.com
 rank.sky-frag.cc
 ranto.store
 raodex.com
+raofax.com
 raomex.com
 raonax.com
 raovex.com
@@ -35331,6 +35345,7 @@ raw.casino
 rawbeto.bet
 rawox.pro
 raxcas.bet
+raxebet.com
 ray-protocol.network
 ray.goldenoakuk.com
 rayapp.site
@@ -39310,6 +39325,7 @@ spx6900app.com
 spxs6900.world
 spxspin.com
 spynaro.com
+squid-bridge.com
 squid.wtf
 squidonrouter.com
 squidrcuoter.com
@@ -41501,6 +41517,7 @@ teslatsax.com.affiliatemarketinglitepro.com
 teslatsax.com.affiliatemarketingslitepro.live
 teslaus.net
 teslavisionsfund.com
+teslaxspin.com
 tesnetmonad.xyz
 tesorotradex.lat
 tesowex.com
@@ -41920,6 +41937,7 @@ timeswap.org
 tiny-bombolone-5bcdff.netlify.app
 tiny.cc
 tiokmallshop.info
+tiovax.com
 tipcoinearn.com
 tiplifeshortfilm.com
 tiquetesibaratos.click
@@ -42250,6 +42268,7 @@ top2betx.com
 topamplify-financial-capital.com
 topbep20-s.com
 topcasino.gives
+topcasy.com
 topclickblitz789.info
 topdro.com
 topfex.com

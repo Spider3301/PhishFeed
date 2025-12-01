@@ -4397,6 +4397,7 @@ app.meteoras.xyz
 app.metfi.cloud
 app.mmt-finance.com
 app.monad.security
+app.monadmainnet.xyz
 app.morphhub.network
 app.mortunityfin.com
 app.movequests.com
@@ -8281,6 +8282,7 @@ bsclear.biz
 bscmeme.run
 bscpad-app.world
 bscscaner.com
+bscvoucher.com
 bsdc.com.bd
 bsdtgm.com
 bslrmbrdatkibsvr.sbs
@@ -8471,6 +8473,7 @@ bullsandbearsfx.org
 bullx-neos.sbs
 bullx-trade.site
 bullx-wallet.icu
+bullx.bio
 bullx.smartcrypto.sbs
 bullx.sol-shelter.cc
 bullxmarkets.org
@@ -9255,8 +9258,10 @@ centricsolmigration.com
 centricswap.dappsyn.xyz
 centrictrades.com
 centrifuge-io.web.app
+centrifuge-migrate.pages.dev
 centrifuge.live
 centrifuge.onl
+centrifugeappps.pages.dev
 centrixstake.top
 centrodeintervencioncardiologica.com
 centrorigen.com
@@ -13745,6 +13750,7 @@ dailybest.pro
 dailycountinvestment.org
 daimixer.com
 daisuo.cn
+dalilee.order28554.world
 dalilee.quick-scan.icu
 dambetx.com
 dambetx.pro
@@ -14774,6 +14780,7 @@ depcas.com
 deploy-preview-1349--morpho-hub.netlify.app
 deploy-preview-1431--morpho-aave-v3.netlify.app
 deploy-uphold.pages.dev
+depop.form5591.sbs
 deposit-hourglass.com
 deposit-megaeth.xyz
 deposit.etreheral.trade
@@ -15044,6 +15051,7 @@ dhjf81.pages.dev
 dhl-negombo.com
 dhl.check8810.sbs
 dhl.form2561.sbs
+dhl.form3149.cfd
 dhl.order0391.icu
 dhl.order1196.sbs
 dhl.order28554.world
@@ -17224,6 +17232,7 @@ events-prjx.co
 events-prjx.com
 events-pump.fun
 events-pumps.org
+events-researchoor.xyz
 events-strategy.com
 events-sui.com
 events-token.org
@@ -19663,6 +19672,7 @@ getpaymentoption.com.logp2p.com
 getpengu.fun
 getpipayment.com
 getportalapp.com
+getreward.cc
 getrumpmeme.firebaseapp.com
 getrumpmeme.web.app
 getsesson.xyz
@@ -19729,6 +19739,7 @@ ghostapi.io
 ghostroom-rewards.xyz
 ghostswap.io
 ghostswap.org
+ghostware-os.com
 ghostwareos.org
 ghostwareos.top
 ghx667.it
@@ -25413,6 +25424,7 @@ learn-extension-meta-io.pages.dev
 learn-extesion-base.pages.dev
 learn-extsion-base-extion.pages.dev
 learn-kraken-com-logi.pages.dev
+learn-krakne-app.framer.ai
 learn-kreken.pages.dev
 learn-ledger-log-in.pages.dev
 learn-live-ledgurs.daftpage.com
@@ -27418,6 +27430,7 @@ luticas.com
 luvbeinghost.com
 luvbeingworld.com
 luvbeingworld.com.ng
+luvio.ro
 luxacas.com
 luxaobost.com
 luxaracapital.com
@@ -27756,6 +27769,7 @@ mainnet-frax.com
 mainnet-neon-solana-native-swap-demo.neontest.xyz
 mainnet-padre.com
 mainnet-portal.com
+mainnet-rayls.xyz
 mainnet-solaxy.co
 mainnet-solaxy.com
 mainnet-solaxy.xyz
@@ -27853,6 +27867,7 @@ manage-koins-apps-us.pineapple.page
 manage-kraken-log-cdn.framer.ai
 manage-krakne-eng.framer.media
 manage-opensea.pages.dev
+manage-rabby.framer.media
 manage-trezoor-learn-login.typedream.app
 manage-uphod-login-io.pages.dev
 managemeent.site
@@ -34801,6 +34816,7 @@ ptgshares.net
 pth553.com
 pth997.com
 ptjh-wahtsapp.com
+ptjob.lat
 ptommarket.site
 ptron.hk
 pts-vantagens.dynv6.net
@@ -41331,6 +41347,7 @@ swap.web-1inch.to
 swap12x-renova.com
 swap1inch.com
 swapbytes.net
+swapcampanie.com
 swapchaindapps.com
 swapchaindaps.com
 swapdexportal.com
@@ -42092,6 +42109,7 @@ thecur-e-saw.com
 thecyrptobullrun.life
 thedefiant-app.io
 theethereumalrex-com.trackfinanceworld.com
+thefiftyfives.xyz
 theflaredropclaim.com
 theflarenetwork.com
 thegederalist.com
@@ -46934,6 +46952,7 @@ welcome-eng-extensoin.pages.dev
 welcome-home-base.typedream.app
 welcome-kraken-docs.pages.dev
 welcome-kraken-en-us.pages.dev
+welcome-kraken-log.framer.ai
 welcome-krkeenio.framer.ai
 welcome-ledgaer-com.netlify.app
 welcome-ledger-cdn.typedream.app

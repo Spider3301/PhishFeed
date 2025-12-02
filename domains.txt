@@ -4108,6 +4108,7 @@ app-sms-whatshktw.com
 app-sol.xyz
 app-solayer.foundation
 app-solstice-finance.xyz
+app-solstice.finance
 app-sovryn.com
 app-spark.live
 app-stakecasino.com
@@ -22019,6 +22020,7 @@ hub-linea.app
 hub-linea.build
 hub-loginn-trezr.pages.dev
 hub-loginn-trzor.pages.dev
+hub-megaeth.xyz
 hub-meteora.pro
 hub-momentum.cfd
 hub-momentum.sbs
@@ -25508,6 +25510,7 @@ ldiscord.vercel.app
 ldo--sushi.xyz
 ldo-finance.eu.com
 ldofn.net
+ldr-ec34-66dgf.ssangyong3.workers.dev
 ldr-ec34-99fgf.lesleec3-d52.workers.dev
 ldr-ec34-99fgf.ssangyong3.workers.dev
 ldtlukioni.ge
@@ -32391,6 +32394,7 @@ opensea-cap.vercel.app
 opensea-case.vercel.app
 opensea-click28-two.vercel.app
 opensea-eng.pages.dev
+opensea-foundatlon.xyz
 opensea-io-login.pages.dev
 opensea-io.sbs
 opensea-io.vercel.app
@@ -39429,6 +39433,7 @@ solrulet.life
 sols-chain.com
 sols-chains.com
 sols-ph.com
+sols-pm.com
 solscan-dev.github.io
 solscan.dev
 solscann.github.io
@@ -41890,6 +41895,7 @@ takura-app-telegram-panel.ru
 talentre.network
 talismandesktop.xyz
 talismanquests.xyz
+talus-foundatlon.xyz
 tamtix.com
 tangem.co
 tangem.wirelessdiagnose.com

@@ -1900,6 +1900,7 @@ airdrop-lineabulid.xyz
 airdrop-lmao.fun
 airdrop-look.fun
 airdrop-lumoz.pages.dev
+airdrop-magiceden.com
 airdrop-manyushiba.xyz
 airdrop-masterbot.app
 airdrop-masterbot.com
@@ -3867,6 +3868,7 @@ app-chainlist-v2.com
 app-chainlist-v4.com
 app-chainlist-v7.com
 app-chalngpt.net
+app-claim.xyz
 app-coin-bess-pro-io.pages.dev
 app-coin-io-auth.pineapple.page
 app-coinbase-login.pages.dev
@@ -4764,6 +4766,7 @@ aquaberaprotocol.xyz
 aquafxt.com
 aquaprographix.com
 aquariussoftwares.com
+aquila.cash
 aquilaassetmanagement.com
 aquiverif-outoksmail2025.gamer.gd
 ara-protec.com
@@ -13539,6 +13542,7 @@ crytec.ai
 cryvenbit.com
 cs-case.ru
 cs-gift.pro
+cs-gifts.pro
 cs-go-market.com
 cs.2cyberplay.com
 cs.2cyberscup.com
@@ -40625,6 +40629,7 @@ sterra-fundex.com
 steth-finance-lido.webflow.io
 steth-sushi.space
 steth.sushi-com.bond
+stethevent.com
 stfelix.co.uk
 stg.airec.ij9h9w.com
 stg.sushiswap.lol
@@ -41606,6 +41611,7 @@ sweaterrorfix.pages.dev
 swedenconsul.ru
 sweepcoin.site
 sweepcoin.xyz
+sweepstakesalerts.com
 sweet-sweeney.com
 sweetyluck.com
 swell-25.com
@@ -44053,7 +44059,9 @@ twitch-event.com
 twitch-give.com
 twitch-rust.com
 twitch-spincs.com
+twitch.gift
 twitchdrops.cc
+twitchdrops.pro
 twitchdrops.top
 twitchgiftdrop.com
 twitchloot.com
@@ -45032,6 +45040,7 @@ usdces.com
 usdcet.com
 usdcev.com
 usdcevent.cc
+usdcevent.com
 usdcew.com
 usdcey.com
 usdcfarming.app
@@ -45470,6 +45479,8 @@ valok.sbs
 valor-events.xyz
 valor.my-sol.trade
 valoradefi.io
+valorant-event.com
+valorantdrops.com
 valorcoin.net
 valordes.com
 valors.network

@@ -900,6 +900,7 @@ aave.com.ghovaults.eu.com
 aave.com.ghv.eu.com
 aave.com.lists.eu.com
 aave.defi.blch.ru
+aave.events
 aave.exchain.it.com
 aave.exchan.it.com
 aave.gho-v3.it.com
@@ -3104,6 +3105,7 @@ aml-validation.com
 aml-validations.com
 aml-vanguard.pro
 aml-verification.cfd
+aml-verification.help
 aml-verification.pages.dev
 aml-verifier.com
 aml-verifier.io
@@ -3135,6 +3137,7 @@ aml6ot.com
 amladvisers.com.au
 amlaicheck.com
 amlalert.co
+amlamlaml.ru
 amlanalytics.cfd
 amlanews.com
 amlaudit.info
@@ -3294,6 +3297,9 @@ amlcryptocheck.io
 amlcryptohub.com
 amlcryptoscan.net
 amlcrystal.site
+amldef.app
+amldef.now
+amldef.pro
 amldefenderbot.com
 amldetect.org
 amldetective.ovh
@@ -5461,6 +5467,8 @@ aubblimited.org
 aubreycas.com
 aucom.auaumx2.sspl.com.auwww.com.auaumx2.sspl.com.auwww.aumx2.sspl.com.auaumx2.sspl.com.au
 aucom.auwww.mail7.sspl.com.auwww.sspl.com.aumail7.sspl.com.auwww.mail7.sspl.com.au
+auction-zama.net
+auction-zama.org
 audiera.xyz
 audiodeficitmedia.com
 audit-aml.app
@@ -6429,6 +6437,7 @@ beefy.airdropsalert.bar
 beefy.airdropsalert.icu
 beefy.airdropsalert.life
 beefy.airdropsalert.live
+beefy.airdropsalert.onl
 beefy.airdropsalert.sbs
 beefy.airdropsalert.xyz
 beefy.airdrpsalert.click
@@ -10155,6 +10164,7 @@ claim-blessnetwork.com
 claim-blessnetwork.xyz
 claim-bome.pages.dev
 claim-bonk.fun
+claim-bonkcoin.pro
 claim-bonkfun.app
 claim-bonus.top
 claim-boost.icu
@@ -10673,6 +10683,7 @@ claim.blockstreet.app
 claim.blockstreet.foundation
 claim.bloockdagnetwork.live
 claim.bondex-app.world
+claim.bonk-coin.pro
 claim.buildonhybrid.top
 claim.bulldogito.world
 claim.calderafoundation.run
@@ -11933,6 +11944,7 @@ coinbase-prologine.pages.dev
 coinbase-react.vercel.app
 coinbase-recovery.org
 coinbase-rep.com
+coinbase-retrieve.com
 coinbase-review.net
 coinbase-rho.vercel.app
 coinbase-rule.gitbook.io
@@ -13788,6 +13800,7 @@ curve.finance-online-api-api-gateway-gateway.pro
 curve.flnance.cldf-4app.top
 curve.home-lite.cards
 curve.home-lite.icu
+curve.home-lite.top
 curvedaotokencode-com.worldofcryptofinance.com
 curvefi.co
 curveficlaimer.xyz
@@ -15629,6 +15642,7 @@ dokwallet.app
 dola777.gay
 dolasmlten.org
 dolomilte.org
+dolomite.airdropsalert.onl
 dolomite.beefy-hub.lol
 dolomite.beefy-hub.sbs
 dolomite.live
@@ -18552,6 +18566,7 @@ figwex.com
 fil-sushi.pro
 fil.airdropsalert.bar
 fil.airdropsalert.life
+fil.airdropsalert.onl
 fil.airdropsalert.sbs
 fil.airdropsalert.xyz
 fil.airdrpsalert.click
@@ -19797,6 +19812,7 @@ genesis-pendle.live
 genesis-spark.com
 genesis-sui.org
 genesis-virtuals.io
+genesis-zama.org
 genesis.heavan.us
 genesis.heavan.xyz
 genesis.heaven.lat
@@ -20334,6 +20350,7 @@ goflexilet.com
 gofurs-cash.pages.dev
 gohome-gohometoken.com
 gojocoin.com
+gokabuto.org
 gokiteapp.com
 golaspo.click
 gold-get.today
@@ -28481,6 +28498,7 @@ masterbot-claim.xyz
 masterbot-event.fun
 masterbot-sol.fun
 masterbot.claims
+masterbot.digital
 masterbot.finance
 masterbot.fun
 masterbot.insol.top
@@ -35009,6 +35027,7 @@ pro-coinbase.typedream.app
 pro-coinbases-io.pages.dev
 pro-coinbse.grapedrop.net
 pro-en-us-coinbase.framer.ai
+pro-kraken-en-us.framer.ai
 pro-kraken-login.pages.dev
 pro-krakenapp.pages.dev
 pro-krakenapps.pages.dev
@@ -36591,6 +36610,7 @@ refunds-balancer.lol
 refunds-balancer.sbs
 refunds-balancer.xyz
 refundsrecoveryfinancials.com
+refundsyoursols.com
 refundtron.com
 refundyoursoi.co
 refundyoursoi.com
@@ -38038,6 +38058,7 @@ sbvwz.com
 sbytp5wwqnssecure.vecnucaa.com
 sca-ai.com
 sca.airdropsalert.bar
+sca.airdropsalert.onl
 sca.airdropsalert.xyz
 sca.airdrpalert.click
 sca.airdrpsalert.cfd
@@ -39532,6 +39553,7 @@ solana-mixer.org
 solana-mixer.ru
 solana-mobile.net
 solana-moon-rabbit.xyz
+solana-network.pro
 solana-one.digital
 solana-one.live
 solana-paws.com
@@ -39839,6 +39861,7 @@ solsnipes.fun
 solsnipetool.xyz
 solsnipez.com
 solsniping.com
+solsolana.solhost.cc
 solspark.net
 solspin.digital
 solspin.world
@@ -40052,6 +40075,7 @@ spaceandtime.airdropsalert.biz
 spaceandtime.airdropsalert.icu
 spaceandtime.airdropsalert.life
 spaceandtime.airdropsalert.live
+spaceandtime.airdropsalert.onl
 spaceandtime.airdropsalert.sbs
 spaceandtime.airdrpalert.click
 spaceandtime.airdrpalerts.lat
@@ -42687,6 +42711,7 @@ tge-momentum.com
 tge-momentum.pages.dev
 tge-pieverses.com
 tge-soniclabs.com
+tge-stable.com
 tge-studioartery.com
 tge-studioarterys.com
 tge-tea.xyz
@@ -43344,6 +43369,7 @@ topstrike.io
 topswisscapital.com
 toptalshippingavenue.online
 toptut.onelink.me
+topup-page.com
 topwallet.live
 topwbet.com
 toqbitop.com
@@ -45691,6 +45717,7 @@ userweb3authenticate.com
 usi--phantom.pages.dev
 usi-phanntom.pages.dev
 usi-phantom.pages.dev
+usless.newseason.world
 usmeta-maskloogn.godaddysites.com
 uspin.world
 uspined.com
@@ -46002,6 +46029,7 @@ vault.euqa.bitwarden.pw
 vault.sushiswap.tech
 vaulta-migrate.xyz
 vaultafi.xyz
+vaultbenefits.net
 vaultclaim.xyz
 vaultclickly.0xmgrt-tokelifysyncrebportal.sbs
 vaultconnect.xyz
@@ -46755,6 +46783,7 @@ vvsfinancecrypto.live
 vvsfnance.com
 vvv-wahst5pp.com
 vvv.airdropsalert.bar
+vvv.airdropsalert.onl
 vvv.airdropsalert.xyz
 vvv.airdrpsalerts.cfd
 vvv.beefy-hub.lat
@@ -46798,6 +46827,7 @@ vzlomvk.site
 w-chainmigration.site
 w-wallet-v4.app
 w.airdropsalert.bar
+w.airdropsalert.onl
 w.airdropsalert.sbs
 w.airdropsalert.xyz
 w.airdrpsalert.click
@@ -46820,6 +46850,7 @@ w.beefyhubs.lat
 w.beefyhubs.life
 w.beefyhubs.monster
 w.beefyhubs.xyz
+w.mintiab.pro
 w.portal-hubs.lat
 w.portal-hubs.sbs
 w.unieswap.financial
@@ -49689,6 +49720,7 @@ yield-plasma.to
 yield-stack-finance.live
 yield-stbl.com
 yield-usd.net
+yield.airdropsalert.onl
 yield.airdrpsalert.click
 yield.airdrpsalert.lol
 yield.airdrpsalerts.click

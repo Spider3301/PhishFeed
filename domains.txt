@@ -10220,6 +10220,7 @@ claim-jindocoin.pages.dev
 claim-joepegs.com
 claim-joinsapien.xyz
 claim-jupiter.live
+claim-jupiter.lol
 claim-jupiter.ltd
 claim-jupiter.org
 claim-jupiter.pro
@@ -13791,6 +13792,7 @@ cypto-upholdld.pages.dev
 cyrptane-bitinvest.com
 cyrtoprimefx.live
 cyrtoprimefx.site
+cysicfoundation.name
 cysicpresale.xyz
 cyvmt.cc
 cz817203-wordpress-hb8u1.tw1.ru
@@ -23652,6 +23654,7 @@ jup.co.com
 jup.co.com.trezor-wallet.io
 jup.co.in
 jup.eu.com
+jup.humidifi.network
 jup.la
 jup.site
 jup.sol-universe.cc
@@ -23695,6 +23698,7 @@ jupi-official.web.app
 jupi-online.world
 jupi-swat.at
 jupi-world.web.app
+jupi.humidifi.network
 jupi.sol-world.cc
 jupi.zone
 jupiag.xyz
@@ -47424,6 +47428,7 @@ westcapitaltrusts.org
 westcex.com
 westrise-corebit.com
 wesxa.com
+wet.solhost.cc
 wetcas.com
 weth-sushi.xyz
 wethh.com

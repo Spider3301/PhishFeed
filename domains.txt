@@ -1770,6 +1770,7 @@ airdrop-0gfoundatlon.xyz
 airdrop-162.pages.dev
 airdrop-1rp.pages.dev
 airdrop-375ai.live
+airdrop-888.xyz
 airdrop-9e6.pages.dev
 airdrop-analog.pages.dev
 airdrop-arai.app
@@ -1952,6 +1953,7 @@ airdrop-paintswap.live
 airdrop-payai.network
 airdrop-pendle.finance
 airdrop-pendle.xyz
+airdrop-pepenode.io
 airdrop-pharos.live
 airdrop-plume.com
 airdrop-plume.org
@@ -1964,6 +1966,7 @@ airdrop-pudgypenguins.pages.dev
 airdrop-pump.com
 airdrop-pumpfun.org
 airdrop-rabbywallet.website
+airdrop-radrlabs.com
 airdrop-ramen.top
 airdrop-redstone.com
 airdrop-regret.com
@@ -9011,6 +9014,7 @@ capscutapk.com
 capstablefirm.com
 captaindopamine.com
 captainpepe.io
+captcha-gbqdrnwj.vercel.app
 captcha-load.netlify.app
 captcha.vercel.app
 captcha3.top
@@ -9207,6 +9211,7 @@ catexfi.com
 catherinegauthier.info
 catizen-rewards.pages.dev
 catizenairdrop.live
+catpcha-bots.site
 catpcha.vercel.app
 catpchabot.cc
 catpchabot.com
@@ -10280,6 +10285,7 @@ claim-hellofranklin.pro
 claim-holoworld.xyz
 claim-huma.pro
 claim-huma.uno
+claim-humidifi.org
 claim-hyperlane.app
 claim-hyperlane.live
 claim-hyperliquid.network
@@ -12720,6 +12726,7 @@ commontoken.top
 communarent.com
 community-drops.com
 community-ethereum.com
+community-idos.org
 community-metamask.io
 community-phatom.vercel.app
 community-stake.info
@@ -37273,6 +37280,7 @@ riverviewassetsrecoverygroup.com
 rixan.xyz
 rixwin.top
 rixy.bet
+rizmas.xyz
 rizowex.com
 rizzmas-bonus.lol
 rizzmas-events.xyz

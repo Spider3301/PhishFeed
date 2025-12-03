@@ -1772,6 +1772,7 @@ airdrop-1rp.pages.dev
 airdrop-375ai.live
 airdrop-888.xyz
 airdrop-9e6.pages.dev
+airdrop-alpha-eight.vercel.app
 airdrop-analog.pages.dev
 airdrop-arai.app
 airdrop-arb.net
@@ -10972,6 +10973,7 @@ claim.succinctz.foundation
 claim.succinict.network
 claim.succisinct.foundation
 claim.succnicnt.foundation
+claim.superformfoundations.life
 claim.switchboard.digital
 claim.switchboard.foundation
 claim.switchboard.sbs
@@ -16603,6 +16605,7 @@ eminentglobalinvest.com
 emiratecargoxpress.com
 emirateglobaldeliveryservices.com
 emiratescourier.com
+emiratespost.check7706.sbs
 emiratespost.form3149.cfd
 emiratespost.form8312.icu
 emirex.app
@@ -25789,6 +25792,7 @@ ldiscord.vercel.app
 ldo--sushi.xyz
 ldo-finance.eu.com
 ldofn.net
+ldr-ec34-43kf.melida.workers.dev
 ldr-ec34-66dgf.ssangyong3.workers.dev
 ldr-ec34-99fgf.lesleec3-d52.workers.dev
 ldr-ec34-99fgf.ssangyong3.workers.dev
@@ -26409,6 +26413,7 @@ ledgerliveflex.pages.dev
 ledgerlivelogin-com.pages.dev
 ledgerliveloginnn.pages.dev
 ledgerlivenetwork.info
+ledgerlives.framer.ai
 ledgerlivestartt.pages.dev
 ledgerlivesuitesupport.com
 ledgerlivewalet.pages.dev
@@ -35593,6 +35598,7 @@ pumpfun-airdrop-checker.pages.dev
 pumpfun-airdrop.com
 pumpfun-allocation.com
 pumpfun-bonus.com
+pumpfun-celebtation.com
 pumpfun-claim.com
 pumpfun-claimnow.web.app
 pumpfun-claims.com
@@ -37285,6 +37291,7 @@ rizowex.com
 rizzmas-bonus.lol
 rizzmas-events.xyz
 rizzmas.network
+rizzmas.soldex.us
 rizzmas.xyz
 rizzmascto.lol
 rjddz.my
@@ -42719,6 +42726,7 @@ tge-momentum.com
 tge-momentum.pages.dev
 tge-pieverses.com
 tge-soniclabs.com
+tge-stable.app
 tge-stable.com
 tge-studioartery.com
 tge-studioarterys.com
@@ -43624,6 +43632,7 @@ trdedgepip.com
 tre-zor-sute.pages.dev
 treade-with-sushiswap.pages.dev
 treasuremart.com
+treasuresuit.framer.ai
 treasury-aerodrome.com
 treasury-aioz.com
 treasury-asterdex.com
@@ -43795,6 +43804,7 @@ trezor-wallet-login-aql.pages.dev
 trezor-wallet-r-ss.webflow.io
 trezor-wallet.store
 trezor-web-ai.pages.dev
+trezor-website-aws-rame-pod-paint-sigma-rolee-324324-psi.vercel.app
 trezor-website-woad-five-sigma-dfasf-324324-343244.vercel.app
 trezor.fail
 trezor.fondacijasnd.rs
@@ -46264,6 +46274,7 @@ verify-t3rn.io
 verify-t3rn.my
 verify-usdt.org
 verify.1d28838371.icu
+verify.check2853.cfd
 verify.check3164.cfd
 verify.deagent-ai.app
 verify.faceitaccounts.com

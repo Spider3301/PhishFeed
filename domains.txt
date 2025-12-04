@@ -1506,6 +1506,7 @@ aethir-2-20mr.4everland.app
 aethir-snapshot.com
 aethir.airdropalerts.icu
 aethir.airdropalerts.life
+aethir.airdropsalert.app
 aethir.airdropsalert.biz
 aethir.airdropsalert.icu
 aethir.airdropsalert.xyz
@@ -2195,6 +2196,7 @@ airdropaggregata.live
 airdropalert.app
 airdropalert.club
 airdropalert.digital
+airdropalert.group
 airdropalert.life
 airdropalert.lol
 airdropalert.now
@@ -2695,6 +2697,7 @@ allocate-monad.xyz
 allocate-payai.network
 allocate-pudgypenguins.com
 allocate-pump.fun
+allocate-rainbow.com
 allocate-venusprotocol.xyz
 allocation-67coin.com
 allocation-aave.live
@@ -2850,6 +2853,7 @@ altafinances.org
 altafs.com
 altara.trade
 altay.exchange
+altcoinbase.github.io
 altcoinfun.co
 altdep.com
 alternativebrokage.net
@@ -12102,6 +12106,7 @@ coinbased.me
 coinbasedco.com
 coinbasedefiwallet.com
 coinbasee-en-signin.framer.ai
+coinbasee-extension-cloud.created.app
 coinbaseearning.com
 coinbaseelogin.blogspot.com.au
 coinbaseelogin.blogspot.com.co
@@ -12115,6 +12120,7 @@ coinbaseelogin.blogspot.mk
 coinbaseexchang.webflow.io
 coinbaseexpertise.com
 coinbaseexteension-usa.pages.dev
+coinbaseextencoin.framer.ai
 coinbaseextension-guide-o7c.pages.dev
 coinbaseextension-guide.pages.dev
 coinbaseextension-install.pages.dev
@@ -12170,6 +12176,7 @@ coinbaseprologen.framer.website
 coinbaseprologic.webflow.io
 coinbaseprologiinn.blogspot.md
 coinbaseprologin-web.pages.dev
+coinbaseprologin1n.wordpress.com
 coinbaseprologin1usa.wordpress.com
 coinbaseproologinz.webflow.io
 coinbasepulse.live
@@ -12549,6 +12556,7 @@ coinsnodechain.com
 coinsolutiondapp.com
 coinspeedrun.com
 coinspheremarkets.xyz
+coinss-helppro.framer.ai
 coinstake.info
 coinstakse.com
 coinstarte.com
@@ -12686,6 +12694,7 @@ com-meta-web.framer.website
 com-metamask-en-us.pineapple.page
 com-private.events
 com-recovery.help
+com-secure.us
 com-security.site
 com-server.eu
 com-sg.com
@@ -12862,7 +12871,9 @@ connect-cnbs.black-37a.workers.dev
 connect-cnbs.walrus112.workers.dev
 connect-coen--en.pineapple.page
 connect-coenbase-pro-web.pages.dev
+connect-coenbes-ios.framer.ai
 connect-coimbase-extension-cdn.pages.dev
+connect-coinbase-pro-en.framer.ai
 connect-coinbasepro.pages.dev
 connect-coins-base-com.pages.dev
 connect-collabland.space
@@ -12960,7 +12971,18 @@ connor-flannery.com
 consaltinggroup.ru
 consbseprolognx.gitbook.io
 consciouscrypts.com
+consensys-flow.com
+consensys-forge.com
+consensys-gen.com
+consensys-link.com
+consensys-loop.com
+consensys-peak.com
+consensys-wave.com
 consensys.world
+consensyscore.com
+consensysgrid.com
+consensyspace.com
+consensyspeak.com
 conservar-cuenta-outlook.imi.lat
 consignment.core-transtrack.info
 consistent-screen-578585.framer.app
@@ -14493,6 +14515,7 @@ db.solana-baltic.com
 dbdr-wahtsapp.com
 dbdsucks.com
 dbfix.ink
+dbr.airdropsalert.app
 dbr.airdrpalert.click
 dbr.airdrpsalert.life
 dbr.airdrpsalerts.info
@@ -16763,6 +16786,7 @@ en-uphold-usa.pages.dev
 en-us-coimbse-extension-doc.pages.dev
 en-us-desktop-ledgre.pages.dev
 en-us-dydx-trade-web.pages.dev
+en-us-ectn-coinase.framer.ai
 en-us-guide-coinbase-com.pages.dev
 en-us-kraken-auth.created.app
 en-us-kraken.framer.media
@@ -16844,6 +16868,7 @@ eng-coinbase-com.pages.dev
 eng-coinbase.com
 eng-coinbase.pages.dev
 eng-coinbasepro-learn.pineapple.page
+eng-coinbasepro-secure.framer.ai
 eng-coinbasepro-us.typedream.app
 eng-coinbse-pro-nav-start.pages.dev
 eng-defilama-us.pages.dev
@@ -17373,6 +17398,7 @@ eths-1s.it.com
 ethscan-erc20.github.io
 ethsmm.one
 ethtkki.com
+ethusdt.cyou
 ethwallet.pro
 ethwallets.org
 ethwin.vip
@@ -17414,6 +17440,7 @@ euc.li
 euclidprotocol.pro
 euclidprotocol.space
 eul-sushi.xyz
+eul.airdropsalert.app
 eul.airdropsalert.life
 eul.airdrpsalert.life
 eul.airdrpsalert.sbs
@@ -19426,6 +19453,7 @@ fuel-network.live
 fuel-network.top
 fuel-networkonline.xyz
 fuel-register.quest
+fuel.airdropsalert.app
 fuel.airdropsalert.xyz
 fuel.airdrpalert.click
 fuel.airdrpalerts.cfd
@@ -19794,6 +19822,7 @@ gemini-lxiogin.gitbook.io
 gemini-trade-assistant.prowintech.in
 gemini-usa-loggieez.godaddysites.com
 gemini.51chongzhi.org
+gemini.bili.club
 gemini.yuki.codes
 geminiaffil.com
 geminibank.safepal.com.ng
@@ -19802,11 +19831,13 @@ geminihphin.webflow.io
 geminiiellogin.gitbook.io
 geminiimageai.net
 geminiin-logiin.gitbook.io
+geminijt.com
 gemininetworks.org
 geminisparklescleanltd.com
 geminiuoilogin-1.gitbook.io
 geminns-cdnn-web.pages.dev
 gemlmi-es.top
+gemlmi-ind.top
 gemlogine.godaddysites.com
 gemmacoin.io
 gemni-lgin.webflow.io
@@ -19903,6 +19934,7 @@ get-carv.xyz
 get-chaingpt.org
 get-claimables.com
 get-claimme.com
+get-coin-bes-ask.framer.ai
 get-coinbase-com.framer.ai
 get-coinbase-extnsion.pages.dev
 get-coinbase-home.pages.dev
@@ -20563,6 +20595,7 @@ granvestor.com
 graph.airdropalerts.bond
 graph.airdropalerts.icu
 graph.airdropalerts.life
+graph.airdropsalert.app
 graph.airdropsalert.biz
 graph.airdropsalert.xyz
 graph.airdrpalerts.sbs
@@ -21481,6 +21514,7 @@ gwwex.com
 gxblockstream.com
 gxm2.top
 gxmble.icu
+gxpvid1xwp3v4x2g2z3y27zg.pages.dev
 gxrxntibvxvi.duckdns.org
 gxrxntifirxsxtlxrri.duckdns.org
 gyatcas.com
@@ -23231,6 +23265,7 @@ io-coinbese-start.pages.dev
 io-coinprologin.pages.dev
 io-connect-terezur.pages.dev
 io-connecte-trezur.pages.dev
+io-dextools.github.io
 io-en-coinbase-pro.pages.dev
 io-en-ledrlive-walet.pages.dev
 io-en-trezo-brdge.pages.dev
@@ -25189,6 +25224,7 @@ kraken.a-dex.cloud
 kraken.klcloud.ru
 kraken.komfortno24.ru
 kraken.pages.dev
+kraken.produktioptom.ru
 kraken.world
 kraken.xin
 kraken.znachenie-na-chasah.ru
@@ -26891,6 +26927,7 @@ linea-reward.com
 linea-rewards.com
 linea-spin.xyz
 linea-voting.com
+linea.airdropsalert.app
 linea.airdropsalert.bar
 linea.airdropsalert.biz
 linea.airdropsalert.xyz
@@ -29525,6 +29562,7 @@ metaora.org
 metaperps.io
 metaplex.sushis.vip
 metaquest-heroes.pages.dev
+metareg-eu.online
 metasafe.ai
 metasec.site
 metasecure.live
@@ -32251,6 +32289,7 @@ nvnz-wahtsapp.com
 nvpnj.cfd
 nvu-bankrot-netdolgov.ru
 nwamkpumeinv.com
+nwkpykccvfzubbl.wwcoinbase.com
 nxdrainer.com
 nxfrmdna-id.lawgreen.my.id
 nxpc-sushi.lat
@@ -32654,6 +32693,7 @@ oopengpu.online
 ooredoo-qa.com
 oovefest.xyz
 op.airdropalerts.bond
+op.airdropsalert.app
 op.airdropsalert.bar
 op.airdropsalert.biz
 op.airdropsalert.xyz
@@ -33877,6 +33917,7 @@ phanriags.com
 phantam-swallet.pages.dev
 phantamullatex.gitbook.io
 phantaom.pages.dev
+phantext.info
 phanthom.net
 phantm-nvwallet.pages.dev
 phantmmm-wallet.webflow.io
@@ -34585,6 +34626,7 @@ polyhredra.network
 polymarket-alerts-staging.pages.dev
 polymarket-elon-tracker.com
 polymarket.airdropalerts.icu
+polymarket.airdropsalert.app
 polymarket.airdropsalert.bar
 polymarket.airdropsalert.biz
 polymarket.airdropsalert.cfd
@@ -34875,6 +34917,7 @@ potential-octo-computing-machine-three.vercel.app
 potetracking.onelink.me
 potfltefidelity.qpon
 potionalpha.com
+potok-cash.eu
 povpov.sbs
 povtrader.world
 poweredartitem.com
@@ -34956,6 +34999,7 @@ presales-pump.fun
 presales-spacespay.web.app
 presalespacepay.info
 presaletest-chi.vercel.app
+present-extension-coin-en.pages.dev
 present-wallet-extension-coinbase.pages.dev
 presidentxi.live
 pressworldmaerk437.weeblysite.com
@@ -35068,6 +35112,7 @@ pro-coin-basee-auth-com.pages.dev
 pro-coinbas-login-io.pages.dev
 pro-coinbase--login.pages.dev
 pro-coinbase-en-logn.pages.dev
+pro-coinbase-learn.framer.ai
 pro-coinbase-log.pages.dev
 pro-coinbase-logen.pages.dev
 pro-coinbase-loggn.pages.dev
@@ -35102,6 +35147,7 @@ probitget.com
 probitglobalexchange.live
 probsecons.framer.ai
 process--extension-base.pages.dev
+process--extension-cobase.pages.dev
 process-extension-base-eng.pages.dev
 processing-aave.com
 processing-app.netlify.app
@@ -35148,6 +35194,7 @@ profitwithgsa.org
 profitxwallet-de.live
 profla-renetwork.org
 proftpulse.com
+program-harmonix.com
 progresstherapy.com.ph
 prohoster.biz
 prointteractiveltd.com
@@ -36526,6 +36573,7 @@ rebrywallet.gitbook.io
 rebuschain-app.pages.dev
 rec-migrate.cloud
 recall-coinbase.com
+recall.airdropsalert.app
 recall.airdropsalert.biz
 recall.airdropsalerts.sbs
 recall.airdrpalert.click
@@ -37521,6 +37569,8 @@ roobux4you.blogspot.com
 roobuxx4you.blogspot.com
 room-backroom.xyz
 roomconsnapshot.link
+roomgoogle.digital
+roomgooglelive.network
 roonplay.com
 rootcanalyuma.com
 rootsystemsbd.com
@@ -38388,6 +38438,7 @@ secure-phan-tom-w-allet.typedream.app
 secure-phhantom-wallet.typedream.app
 secure-portal-3888.vercel.app
 secure-pro-log-cdn.square.site
+secure-pros-base.framer.ai
 secure-robinhood-com-autth.webflow.io
 secure-robinwod-login.pages.dev
 secure-server-cb.com
@@ -39878,6 +39929,7 @@ sologemini-2-0.pages.dev
 solona-mining.com
 solonux.com
 solopencase.com
+solosatashi.com
 solpad.fun
 solpamp.com
 solpartypass.com
@@ -40058,6 +40110,7 @@ soph.portal-hubs.sbs
 soph.sushi-com.top
 sophon.airdropalerts.icu
 sophon.airdropalerts.life
+sophon.airdropsalert.app
 sophon.airdropsalert.biz
 sophon.airdropsalert.xyz
 sophon.airdrpalert.click
@@ -40448,6 +40501,7 @@ sso-coinbaseee-comn.framer.website
 sso-coinbasepro-cdn-e--auth.webflow.io
 sso-coinbes-pro-login-en.pages.dev
 sso-coinbesh-en.pages.dev
+sso-coinhold-portal.framer.ai
 sso-en-cdn-coinbase.pages.dev
 sso-en-coin-pro-auth.square.site
 sso-en-kraken-public.framer.media
@@ -42217,6 +42271,7 @@ syd-fx.io
 sydvolpert-usderk.com
 sylvaneo.com
 sylvialockhartassetmanagement.online
+sym.airdropsalert.app
 sym.airdropsalert.cfd
 sym.airdropsalert.life
 sym.airdropsalert.live
@@ -43188,6 +43243,7 @@ token-pump.fun
 token-pump.live
 token-riceai.xyz
 token-stable.app
+token-stable.com
 token-sweeper-eip-7702-qn.vercel.app
 token-unich.app
 token.antix.in
@@ -43327,6 +43383,7 @@ ton-mixer.to
 ton-staking-site.vercel.app
 ton-telegram.network
 ton.airdropalerts.icu
+ton.airdropsalert.app
 ton.airdropsalert.bar
 ton.airdropsalert.biz
 ton.airdropsalert.xyz
@@ -44577,6 +44634,7 @@ twich-legends-cup.com
 twich-legendscup.com
 twich-vertex-club.com
 twichfaceit.com
+twilight-brook-45f5.wsf4e.workers.dev
 twilio.store
 twin.com
 twitch-event.com
@@ -45502,6 +45560,7 @@ us04webzoom.fun
 us04wezoom.us
 us05-zoom.com
 us05web-zoom.com
+us05web-zoom.icu
 us05webzoom.space
 us05webzoominvite.com
 us05webzoomus.com
@@ -45719,6 +45778,7 @@ usdtflash.vip.flashusdtsender.com
 usdtflash2.com
 usdtflashapp.com
 usdtflashersoftwares.com
+usdtflashstore.com
 usdthn.com
 usdtmind.top
 usdtmixer.com
@@ -45906,6 +45966,7 @@ v-vpass-jp.xierggyh.com
 v-vpass-jp.zcbank-vip.com
 v-vpass-jp.zhaoshengzz.com
 v-vpass-jp.zydzpk.com
+v0-coinbasevaultsetup.vercel.app
 v0-de-bank-wallet-dashboard.vercel.app
 v0-kraken-silk.vercel.app
 v0-new-project-pnj5sfs9gay.vercel.app
@@ -46405,6 +46466,7 @@ vi-auth-v2.app
 via-evignetu.cyou
 viabet.io
 viabitnestvalidate.xyz
+viabtc.com.de
 vice-versa-bridge.live
 vicpayments.com
 victim-nomad.xyz
@@ -47769,6 +47831,7 @@ webmohitmk.github.io
 webogram.org
 weboticlab.ma
 webp--metsamask.gitbook.io
+webpage-coinbase-pro.created.app
 webpagetrezo.ghost.io
 webportalasset.com
 webportalmainnet.web.app
@@ -48330,6 +48393,7 @@ wlfi-x2.com
 wlfi.airdropalerts.bond
 wlfi.airdropalerts.icu
 wlfi.airdropalerts.life
+wlfi.airdropsalert.app
 wlfi.airdropsalert.bar
 wlfi.airdropsalert.biz
 wlfi.airdropsalert.xyz
@@ -50085,6 +50149,7 @@ zerionwalletextension.blogspot.com
 zermixia.org
 zero-coin.com
 zero-trx.com
+zero.airdropsalert.app
 zerobasetoken.top
 zerobasezk.xyz
 zeroexch.io
@@ -50214,6 +50279,7 @@ zksync-enterprise-df1wkzlnd-matter-labs-651a8986.vercel.app
 zksync-enterprise-pxn6m30gh-matter-labs-651a8986.vercel.app
 zksync-era.info
 zksync-zk-sync-zksync-v3-app.com
+zksync.airdropsalert.app
 zksync.airdropsalert.bar
 zksync.airdropsalert.biz
 zksync.airdropsalert.cfd

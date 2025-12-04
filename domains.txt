@@ -1213,6 +1213,7 @@ accountcenter-reviewtask-fds101v0c.netlify.app
 accountrestore-coinbase.com
 accounts.binance.me
 accounts.bmwweb.biz
+accounts.coinbase.earth
 accounts.coinbase.page
 accounts.coinbase.property
 accounts.ctradefx.com
@@ -5755,6 +5756,7 @@ auwww.sspl.com.aumail7.sspl.com.auwww.mail7.sspl.com.aucom.auwww.mail7.sspl.com.
 av-auth-v2.app
 av-defi.top
 av-eprotocol.la
+av-sync-v4.app
 av-vault-v1.app
 av-wallet-v4.app
 ava-claim.com
@@ -6845,6 +6847,7 @@ bifex.cc
 bifi.airdropsalert.life
 bifrost-bfc-code.trackfinanceworld.com
 bifrost-wallet.com
+bifrost.pl
 bifrost83.com
 bifrostgov.web.app
 bifrostrecovery.online
@@ -16673,6 +16676,7 @@ eminentglobalinvest.com
 emiratecargoxpress.com
 emirateglobaldeliveryservices.com
 emiratescourier.com
+emiratespost.check2185.sbs
 emiratespost.check7706.sbs
 emiratespost.form3149.cfd
 emiratespost.form8312.icu
@@ -17398,6 +17402,7 @@ ethget.top
 ethh.web3nfts.cc
 ethhero.pro
 ethhero.rpo
+ethhy.com
 ethiax.wjnhx.com
 ethincinerator.com
 ethiz.xyz
@@ -17440,6 +17445,7 @@ ethyh.com
 ethyk.vip
 ethyu.ltd
 ethyupolstaking.webflow.io
+ethyyo.com
 ethzrm.org
 ethzxp.com
 etoki.net
@@ -20854,6 +20860,7 @@ guildwho.net
 gulcas.com
 gulfmedicaltourism.com
 gulld.xyz
+gumlree.check4740.cfd
 gumlree.check5481.icu
 gummy.pages.dev
 gummy.v2-cryptolist.org
@@ -24189,6 +24196,7 @@ justsend.pro
 justsqianthink.com
 justxsnagz.com
 jutpex.com
+jutroen.com
 juts-allocates.pages.dev
 juuup.ng
 jvp-ag.co.com
@@ -31353,6 +31361,7 @@ mynftmint-session11.vercel.app
 mynftmint-session17.vercel.app
 mypaintswap.com
 mypaws.world
+myprofile-google.com
 myprofitpulse.net
 myprojectmintings01.vercel.app
 myprojectmintings02.vercel.app
@@ -33089,6 +33098,7 @@ orcaapp-swap.com
 orcadesktop.app
 orcamind.ai
 order-verify-jp.com
+order.rounitrade.com
 order.welyds.com
 orderlyreward.info
 ordialnode.pages.dev
@@ -34791,6 +34801,7 @@ poorderspecificationstoacces.vercel.app
 pop-upheld.pages.dev
 pop.coinbaseregion.com
 pop.connexioncouple.online
+pop.metamaskswiss.online
 pop.zyphernetwork.xyz
 popblindboxmartsg.com
 popcashsp.com
@@ -34969,6 +34980,7 @@ pos223.com
 posblockchainmining.org
 posh-confirm.shop
 poshmark.n33order.cfd
+poshmark.n34order.sbs
 poshta-md.trust-pay.click
 posodex.com
 posodontosuprema.com.br
@@ -40132,6 +40144,7 @@ something-meme.xyz
 somethingmeme-bq8.pages.dev
 somethmeme.xyz
 somitax.cc
+somixola.com
 sommia.network
 somnexsol-airdrop.com
 somnia-checker.xyz
@@ -46501,6 +46514,7 @@ verify-usdt.org
 verify.1d28838371.icu
 verify.check2853.cfd
 verify.check3164.cfd
+verify.check3562.sbs
 verify.deagent-ai.app
 verify.faceitaccounts.com
 verify.faceitxrush.top
@@ -46619,6 +46633,7 @@ vinescoin.com
 viniciussoaresti.github.io
 vinsgcs.com
 vintagevista.xyz
+vinted.view-my-orders.icu
 vintoon.com
 vinufficial.website
 viocex.com
@@ -47662,6 +47677,7 @@ web.vrtxinternational.com
 web.whastsnapp.com
 web.whatsappp.vip
 web.whatssaapp.com.cn
+web.worldlibertyfinancial.meme
 web.ww-trade.online
 web3-1503--roadmap-behavior.website-private-v2.pages.dev
 web3-airdrop.su
@@ -48307,6 +48323,7 @@ wienerdg.xyz
 wiernerdog-claim.pages.dev
 wifl-unlock.icu
 wifl-unlock.me
+wiflcoin.com
 wifsbag.com
 wiki.gambler-partners.is
 wikicatcoin.live
@@ -50119,6 +50136,7 @@ z.lqhub.info
 z12o.xyz
 z13f.xyz
 z20u.xyz
+z6rds-baaaa-aaaao-a4xnq-cai.icp0.io
 z8q5-bmmanager096629.vercel.app
 za.gl
 zabeel1.ae
@@ -50262,6 +50280,7 @@ zerion-wallet-us.teleporthq.app
 zerion.la
 zerioningeborg.pages.dev
 zerionwalletextension.blogspot.com
+zerkalo-kraken-darknet.shop
 zermixia.org
 zero-coin.com
 zero-trx.com

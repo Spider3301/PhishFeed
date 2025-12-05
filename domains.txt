@@ -36902,6 +36902,7 @@ register-orbt.app
 register-pancakeswap.xyz
 register-payai.network
 register-plasma.to
+register-predict.fun
 register-pupcollection.com
 register-renzoprotocol.pages.dev
 register-renzoprotocol.xyz
@@ -40720,6 +40721,7 @@ stable-register.net
 stable-signup.app
 stable-signup.net
 stable-signup.xyz
+stable-tge.com
 stable-whitelist.app
 stable.merkl.app
 stable.merkl.pro

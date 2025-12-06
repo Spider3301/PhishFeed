@@ -10975,6 +10975,7 @@ claim.juplter.la
 claim.juplter.ltd
 claim.juplter.pro
 claim.juplter.team
+claim.juplter.today
 claim.juplter.tv
 claim.juplter.tw
 claim.juplter.vc
@@ -12896,6 +12897,7 @@ cometpresale.xyz
 comex-globa.com
 comexmotcs.com
 comexproctp.com
+comfitarterial
 cominara211.info
 comm.coinbase.hsvtprivate.com
 command-confirm.com

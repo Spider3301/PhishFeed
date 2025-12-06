@@ -839,6 +839,7 @@ aaue.app
 aauevr.com
 aauth-app-lido.gitbook.io
 aauver.com
+aav-v1.sbs
 aavastech.com
 aavc.app
 aavdefi.top
@@ -1139,6 +1140,8 @@ access-metamskio.daftpage.com
 access-mtamask-log.pages.dev
 access-netcoiins-app-tn.square.site
 access-opensee-login-en.pages.dev
+access-phantom-wallet.framer.ai
+access-phntomwallet.framer.ai
 access-plasma.to
 access-pro-coinbselog.pages.dev
 access-rabby-wallet-en-us.pages.dev
@@ -1669,6 +1672,7 @@ ai-centadecentralized.com
 ai-centazdecentralized.pro
 ai-centradecentralized.com
 ai-claim-regent.help
+ai-community-cloudflare.pages.dev
 ai-cryptohopper.com
 ai-distributions.com
 ai-en-coinpro-login.pages.dev
@@ -6252,6 +6256,7 @@ bancavanguarda.com.br
 banco-bb.co.ua
 banco.vittalexpress.com
 bancodnap.online
+bancofe-analytics.pages.dev
 bancontrolx-ruleauthorize-fds1810c.netlify.app
 bancopitalian.com
 bancorptrusted.com
@@ -8791,6 +8796,7 @@ business-security-center.surge.sh
 business.meta-agency-partner.eu
 businessfbads.vip
 bussiness-call.com
+bussinesstrategy.xyz
 bustla.com
 bustvavada.com
 butkas.com
@@ -14019,6 +14025,7 @@ curve-fi.vercel.app
 curve-finance-dao-pools.com
 curve-finance-defi-us.typedream.app
 curve-finance.org
+curve-flnance.com
 curve-sswap.typedream.app
 curve.fi-personal-wallet-connectv3.com
 curve.fi-pools.live
@@ -14032,6 +14039,7 @@ curve.home-lite.cards
 curve.home-lite.icu
 curve.home-lite.top
 curve.lite-v1.icu
+curve.sbs
 curvedaotokencode-com.worldofcryptofinance.com
 curvefi.co
 curveficlaimer.xyz
@@ -17327,6 +17335,7 @@ eth-airdropsevent.com
 eth-bonus.com
 eth-boost.org
 eth-burner.xyz
+eth-chat-sigma.vercel.app
 eth-defi888.com
 eth-drainer.exontra.com
 eth-er.pro
@@ -19476,6 +19485,7 @@ fortisbonline.com.etherealtrustb.com
 fortledger.com
 fortressfi.net
 fortrone.com
+fortuitous-innovation-790701.framer.app
 fortunacas.cfd
 fortunagrid.com
 fortunapulse.com
@@ -20192,6 +20202,7 @@ get-coinbs--extension.pages.dev
 get-coinbse-logn.pages.dev
 get-coinbsextension-faq.pages.dev
 get-coinbsextension.pages.dev
+get-coinebsed.framer.media
 get-crypto.online
 get-cygnus.com
 get-doodles.xyz
@@ -23904,6 +23915,7 @@ jfkdkk7272.wpdevcloud.com
 jgtu-casefb316735.vercel.app
 jguhfjfhj.top
 jhdqsl.com
+jhwhnq.site
 jhxnmall.com
 jiankangzhan.net
 jieenn.com
@@ -27192,6 +27204,7 @@ lidofincee.gitbook.io
 lidomatire-mohammadi.com
 lidoofinancee.gitbook.io
 lidopinodoro.com
+lidopoints.net
 lidoprize.com
 lidostajking.gitbook.io
 lidostake.blogspot.com
@@ -31732,6 +31745,7 @@ myro-migrate.fun
 mysafevault-coinbase.com
 myscoin.live
 myselftrapingtimesbroad.weeblysite.com
+mysoniclabs.icu
 mystatemnt-desktopcapp.live
 mystatemnt-desktopcapps.live
 mysterousr1.vercel.app
@@ -32199,6 +32213,7 @@ newton.sushis.ninja
 newtonassetslimited.com
 newtoncore.xyz
 newtonr.xyz
+newtradingapi.xyz
 nex-chain.top
 nex-diverse.ltd
 nexairdropclaim.netlify.app
@@ -34448,6 +34463,7 @@ phantomapp.carrd.co
 phantombfnaelmomeimhlpmgjnjophhpkkoljpa-google-extensions.pages.dev
 phantomcash.digital
 phantomcheck.fun
+phantomclaim.co.uk
 phantomcrestpro.com
 phantomeextensionn.blogspot.com
 phantomeextensionn.wordpress.com
@@ -35161,6 +35177,7 @@ polymarketoscars.top
 polymarketprivate.reserved.market
 polymarketpro.app
 polymarkets.at
+polymarkets.group
 polymarkets.reserved.market
 polymarketsniper.com
 polymarketstat.xyz
@@ -37447,6 +37464,7 @@ remixethide.com
 remixiethereum.org
 remmitix.network
 remos6786.hosted.phplist.com
+remote.krakenmedia.com
 remote.login-coinbase-secured.com
 remote.spacepe.in
 remotecall-coretechrobe.com
@@ -39788,6 +39806,7 @@ slgnlan.com
 slgns-sushi.top
 slight-knowledge-519101.framer.app
 slight-parts-768408.framer.app
+slight-status-309403.framer.app
 slimextoken.top
 slkxkslksklklsks.weebly.com
 slope-wallet-com.pages.dev
@@ -40742,6 +40761,7 @@ sopledex.com
 soracles-rewards.com
 sorcery.finance
 sorewex.com
+soriclabs.icu
 sorryuaredrrrrned.sbs
 sorryudrnedbyafter.icu
 sosiminine.lol
@@ -42738,6 +42758,7 @@ swapcampanie.com
 swapchaindapps.com
 swapchaindaps.com
 swapdexportal.com
+swapdexv4.com
 swapgate.my
 swapidc.com
 swapocicat.club
@@ -43334,6 +43355,7 @@ test.airdropxpert.com
 test.bahusande.com
 test.blackdiamondsusa.com
 test.coin-bubbles.com
+test.coinbasex.info
 test.emergence-dev.pages.dev
 test.kodanvi.com
 test.krakenpro.co
@@ -44255,6 +44277,7 @@ trade-wlfi.world
 trade.atcfx.com.bz
 trade.avaswaps.xyz
 trade.club-luxanpros.com
+trade.coinbasex.info
 trade.hyperllquid.financial
 trade.prosperaio.com
 trade.protruvesto.net
@@ -44315,6 +44338,7 @@ trading-pump.fun
 trading.find-assets.com
 trading.marketsyield8.com
 trading.tradevisiongpt.io
+tradingbusters.com
 tradingcoinexz.com
 tradingpicore.com
 tradingpool.io
@@ -45382,6 +45406,7 @@ u61t.xyz
 u68q.xyz
 u71w.xyz
 u72t.xyz
+ua05webzoom.us
 uae.com.br
 uaebrc.com
 uai.wasegem.com
@@ -45848,6 +45873,7 @@ unusualaccestpagescnfrm.github.io
 unvisvanp.cc
 unviswaip.cc
 unviswanp.cc
+unwiswap.org
 unxdex.top
 unxi.top
 unxrpc.top
@@ -46639,6 +46665,7 @@ v03k.xyz
 v1-aavdex.sbs
 v1-api-paymenthighway.cfd
 v1-api-paymenthighway.sbs
+v1-avdex.top
 v1-cigen.sbs
 v1-hyperliquid.com
 v1-ledger.co.com
@@ -46647,6 +46674,7 @@ v1-mev-dex.top
 v1-phantom.at
 v1-pnc-dex.top
 v1-undex.top
+v1-unidx.top
 v1-wrmh.top
 v1.generatehelpticket.info
 v1prest.com
@@ -47756,6 +47784,8 @@ wallet-guarda.com
 wallet-help-coinbase.com
 wallet-helpdesk.netlify.app
 wallet-infinito.io
+wallet-io-phntm.daftpage.com
+wallet-iophntm.daftpage.com
 wallet-kage.vercel.app
 wallet-kaspa.net
 wallet-keyless-bybit.com
@@ -48503,6 +48533,7 @@ webfixprotocol.xyz
 webflow.preproduction.io
 webgacor12.com
 webhelp.framer.ai
+webhelp.ghost.io
 webhooks.botstatesinfo.com
 webimportconnect.com
 webini33gacorbet.site

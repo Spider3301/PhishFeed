@@ -75,6 +75,7 @@
 02213.pages.net.br
 025662nhhh.hyperphp.com
 0432js13.am.coinbase.cm
+049734-coinbase.com
 07dws.cn
 0888naveankorea-oneinamillion-class.vercel.app
 08pf.cn
@@ -166,6 +167,7 @@
 108283b.cc
 10bnb.cfd
 10eth.org
+1111111111xzc.sbs
 1111365wz.cc
 11223.academy
 114030coinbase.com
@@ -1096,6 +1098,7 @@ acc.case1009536868.help
 acc.fiberpixel8.com
 acc.trueanchorcub.com
 accboosthub.com
+acccess-cnbase-proauth.daftpage.com
 acccess-rabbywalllet.framer.website
 acces-balancerr-finance.pages.dev
 acces-coinbase-chrome-extension.pages.dev
@@ -1119,6 +1122,7 @@ access-coinpro-web-en.framer.ai
 access-dydx-trade-en-us.pages.dev
 access-dydxedex-en.pages.dev
 access-e-coinbase.pages.dev
+access-en-us-keraken.daftpage.com
 access-eng-coinbase.pages.dev
 access-everlyn.com
 access-extnsion-mtmsk.pages.dev
@@ -1141,6 +1145,7 @@ access-pro-coinbselog.pages.dev
 access-rabby-wallet-en-us.pages.dev
 access-secure-coin-pro.daftpage.com
 access-secure-krakeen.daftpage.com
+access-secure-metamask.daftpage.com
 access-slush-walet.pages.dev
 access-stockwiz.icu
 access-sui-wallet-us.pages.dev
@@ -2223,8 +2228,10 @@ airdropalert.pro
 airdropalert.you
 airdropalerts.click
 airdropalerts.club
+airdropalerts.dev
 airdropalerts.help
 airdropalerts.life
+airdropalerts.lol
 airdropambient.live
 airdropanimix.live
 airdropavalon.live
@@ -3953,6 +3960,7 @@ app-coiin-base-sign.framer.ai
 app-coin-bess-pro-io.pages.dev
 app-coin-io-auth.pineapple.page
 app-coinbase-login.pages.dev
+app-coinbase-pro-us.daftpage.com
 app-coinbase-wallet-eng.typedream.app
 app-coinbse-ext-io.pages.dev
 app-coinbse-sign-en.pages.dev
@@ -3982,6 +3990,7 @@ app-efhen.li
 app-ehtremail.portal-sync.com
 app-eigenlaeyer.com
 app-en-coin-pro-base.pages.dev
+app-en-coinbase-pro.daftpage.com
 app-espiao.online
 app-ethena.click
 app-ethena.eu.com
@@ -5607,6 +5616,7 @@ auth--sso-kucon-service.webflow.io
 auth-aerodrome-slipstream-io-us.pages.dev
 auth-aerodrome-slipstreeam-en-us.pages.dev
 auth-balancer-dex-eng-us.pages.dev
+auth-basepro-cdn.daftpage.com
 auth-blokfe.godaddysites.com
 auth-cdn-eng-uphold-eng.my.canva.site
 auth-cdn-krakeen-sso.pages.dev
@@ -5678,6 +5688,7 @@ auth-secure.pt
 auth-sso-coinbasepro--sso.webflow.io
 auth-sso-karakeen.onepage.website
 auth-sso-krakeen-log.daftpage.com
+auth-sso-metamask.daftpage.com
 auth-sushiswap-exchange-en-us.pages.dev
 auth-sushiswap-trade-en-us.pages.dev
 auth-sushiswap-tradee-en-us.pages.dev
@@ -6600,6 +6611,7 @@ begin-krakken-cdn.typedream.app
 begin-krakken-cloud.typedream.app
 begin-ledgr-en-live-us.teachable.com
 begin-logn-support-cnbase.pages.dev
+begin-meta-mask-io.daftpage.com
 begin-name-coinbasepro.pages.dev
 begin-new-trezr.typedream.app
 begin-sso-krakensso.daftpage.com
@@ -8198,17 +8210,25 @@ bonsl.buzz
 bonus-asterdex.com
 bonus-bestwallet.com
 bonus-cult.com
+bonus-defisaver.com
+bonus-farcaster.com
 bonus-floki.com
+bonus-gigaverse.com
 bonus-hourglass.com
 bonus-litvin.modelcareers.com
+bonus-marinade.com
+bonus-methprotocol.com
 bonus-mitosis.com
 bonus-monad.com
 bonus-pendle.net
 bonus-saylor.com
+bonus-singularity.com
 bonus-soniclabs.com
 bonus-stable.com
 bonus-superverse.com
+bonus-symbiotic.com
 bonus-velodrome.com
+bonus-walletconnect.com
 bonuses-btcbulltoken.com
 bonusfloki.com
 bonuslarbedava.com
@@ -9372,6 +9392,7 @@ cboeus.com
 cboinob81.com
 cbrldge.com
 cbscyberteam.info
+cbse7623jhasdj.riki83.workers.dev
 cbsecurereview.com
 cbsmainchain.xyz
 cbw-smart-wallet-malicious-demo-seed-farming.pages.dev
@@ -9972,6 +9993,7 @@ checker-amlbot.pro
 checker-app.netlify.app
 checker-asterdex.app
 checker-asters.com
+checker-chog.com
 checker-cukecoin.com
 checker-dege.com
 checker-dolomite.com
@@ -10806,6 +10828,7 @@ claim.blockstreet.foundation
 claim.bloockdagnetwork.live
 claim.bondex-app.world
 claim.bonk-coin.pro
+claim.bonkcoin.info
 claim.bonkcoin.ltd
 claim.buildonhybrid.top
 claim.bulldogito.world
@@ -11788,6 +11811,8 @@ coignecko.cc
 coiin-base-ex-tension.pages.dev
 coiin-based-login.pages.dev
 coiin-baser-logiin-en.pages.dev
+coiinbase-chrrme-ext.daftpage.com
+coiinbase-ext.daftpage.com
 coiinbase-logiin.pages.dev
 coiinbasecom-wallet.typedream.app
 coiinbse-wlet-ext.daftpage.com
@@ -11820,6 +11845,7 @@ coin-67.com
 coin-bae-extantion-eng.pages.dev
 coin-bae-wallat-extentiopn.pages.dev
 coin-bas-org.square.site
+coin-base-app.daftpage.com
 coin-base-china.vip
 coin-base-en-pro-io.pages.dev
 coin-base-en-us-pro.square.site
@@ -11834,11 +11860,14 @@ coin-base-live-market.vercel.app
 coin-base-log.pages.dev
 coin-base-login-en.square.site
 coin-base-login-fed.pages.dev
+coin-base-loin-doc.daftpage.com
 coin-base-pro-ask.pages.dev
 coin-base-pro-lggin.pages.dev
 coin-base-w-ex.pages.dev
 coin-base-wallet-exten-sion.framer.ai
+coin-base-wallet-extension.daftpage.com
 coin-base.framer.ai
+coin-basechrom-extension.daftpage.com
 coin-baseclone.vercel.app
 coin-basemainnet.pages.dev
 coin-basepro-loggin.pages.dev
@@ -12027,6 +12056,7 @@ coinbase-extsion-en.pages.dev
 coinbase-exxtansion.pages.dev
 coinbase-fc.com
 coinbase-fd.com
+coinbase-fr.site
 coinbase-gw.com
 coinbase-help-c6c.pages.dev
 coinbase-helpdesk-base.com.greatbritainfirstcapital.com
@@ -12129,6 +12159,7 @@ coinbase-walletconnect.vercel.app
 coinbase-walleth-extnn.pages.dev
 coinbase-wallt-extension.pages.dev
 coinbase-web-home.daftpage.com
+coinbase-web.framer.media
 coinbase-web.framer.website
 coinbase-withdrawal-limit.blogspot.com
 coinbase-x-exchange.pages.dev
@@ -12306,9 +12337,11 @@ coinbases.pw
 coinbaseserviceaiddesk.com
 coinbasesigninportal.pages.dev
 coinbasesolve.pages.dev
+coinbasespt.com
 coinbasestake.biz
 coinbasesupport-systems.neltti.online
 coinbasesupportdesk.org
+coinbasesupportmail.org
 coinbasesupportsteam.com
 coinbasesupportus.com
 coinbaseswallet.org
@@ -13163,6 +13196,7 @@ conveybitinvest.org.kolbedesign.com
 cooiinn-por.pineapple.page
 cooinbase--connect-ai.pages.dev
 cooinbase-extension-connect-ai.pages.dev
+cooinbase-extenton-portal.daftpage.com
 cooinbsbbe.com
 cooinbskka.com
 cooinbsnnq.com
@@ -13342,6 +13376,7 @@ cp075770-wordpress-iqju1.tw1.ru
 cp994585-wordpress-pptq9.tw1.ru
 cpacash.com
 cpanduspanda.com
+cpanel.coinbase-belgie.com
 cpanel.coinbasecommerceesupport.com
 cpanel.dapp-auth.com
 cpanel.dappchainwallet.xyz
@@ -13503,6 +13538,7 @@ croc.finance
 croday.top
 croinbase.pages.dev
 crome-coinbase--en-us.pages.dev
+crome-extt-coiinbse.daftpage.com
 cronebank.com
 cronobuck.com
 cronosmsp.com
@@ -15756,6 +15792,7 @@ doc-uphold-wallet.pages.dev
 doc-usphantom.pages.dev
 doc.pumpswap.biz
 doc.settleonbase.xyz
+dock.d-base.app
 dockelley.com
 dockflare-filebrowser.boiz.nyc
 docs---app-uphld.pages.dev
@@ -16520,6 +16557,7 @@ ecommarce-web.vercel.app
 ecommerce-clone-phi.vercel.app
 ecostrems.pro
 ecosystem-mon.com
+ecosystem-monad.com
 ecosystem-turtle.xyz
 ecosystemweb3.com
 ecotradenet.com
@@ -16897,6 +16935,7 @@ en-live.pages.dev
 en-logn-opensea-acc.pages.dev
 en-logn-uphuld.pages.dev
 en-metamask-wallet.typedream.app
+en-metamskhelp.daftpage.com
 en-metamusk-web.framer.ai
 en-metqamask-auut.pineapple.page
 en-official-suites.pages.dev
@@ -16935,6 +16974,7 @@ en-suites-dev.pages.dev
 en-suites.pages.dev
 en-support-uphold-cdn-auth.pages.dev
 en-tech-krakn.daftpage.com
+en-tech-krken.daftpage.com
 en-thetawallet.org
 en-token6900.com
 en-token6900.org
@@ -17072,6 +17112,7 @@ eng-trezon-eng-suit.pages.dev
 eng-trezor.io
 eng-trzo-start-iio.pages.dev
 eng-uphld-logii.pages.dev
+eng-us-dydxx-dexx.daftpage.com
 eng-us-kraken.pages.dev
 eng-us-ledgee.pages.dev
 eng-wal-let-support-upheld.pages.dev
@@ -17106,6 +17147,7 @@ enroll-strata.money
 ens--sushi.xyz
 ens-network.net
 ens-sushi.pro
+ens-tech-kraken.daftpage.com
 ens-web-cld-opseas-loginz.pages.dev
 enso.vote
 ensoairdrop.xyz
@@ -17433,6 +17475,7 @@ etherealux-ledger-tech.com
 ethereg.org
 etheremwllet.webflow.io
 etherescan.pages.dev
+ethereuem.org
 ethereum-200xcormax.com
 ethereum-ai.vercel.app
 ethereum-airdrop.live
@@ -17611,6 +17654,7 @@ etricearn.com
 etrlrewardpool.xyz
 etsena-app.eu.com
 etsy.s8verify.com
+etthereumwaltit.webflow.io
 ettherscan.io
 etvaultb.com
 etx-ethcoin.cc
@@ -17703,6 +17747,7 @@ evator.cyou
 evedex-exchange.com
 evencas.com
 evengreenmarkets.org
+event-aioz.xyz
 event-asterdex.com
 event-crypto.com
 event-exclusive.eth.limo
@@ -17718,6 +17763,8 @@ event-pepuschained.com
 event-pinetwork.com
 event-ploi.xyz
 event-pump.fun
+event-superform.com
+event-thedogwifi.xyz
 event-useless.net
 event-useless.network
 event-usual.money
@@ -18023,6 +18070,7 @@ expertsmarkettrds.com
 experttradeequity.com
 expinbet.com
 explimentis.com
+explore-coinbase-pro.daftpage.com
 explore-coinbase.pages.dev
 explore-defilama-web3-free.pages.dev
 explore-drdx-trade-web3.pages.dev
@@ -18065,6 +18113,7 @@ expresswaylogixtic.com
 exroll.pro
 exroniqbit.com
 ext-coinbase--learn.pages.dev
+ext-coinbase-public-en.daftpage.com
 ext-coinbse.pages.dev
 ext-meta-auth-io.pages.dev
 ext.defilab-validation.site
@@ -18087,6 +18136,7 @@ extension-coinbasecom.pages.dev
 extension-coinbse-en.pages.dev
 extension-coinbse-waltt.pages.dev
 extension-coinbse.pages.dev
+extension-coinn-en.daftpage.com
 extension-coinnbse-com-en.pages.dev
 extension-key-base.pages.dev
 extension-metamask-wallet.com
@@ -19714,6 +19764,7 @@ furiousplays.com
 furiouswin.com
 furoairdrop.pages.dev
 furtive-rock.surge.sh
+fusaka-ethereum.com
 fushenprotocol.xyz
 fusion-drainer.help
 fusion-l2-mixer.com
@@ -20134,6 +20185,7 @@ get-carv.xyz
 get-chaingpt.org
 get-claimables.com
 get-claimme.com
+get-coin-base-chrome-extension.daftpage.com
 get-coin-bes-ask.framer.ai
 get-coinbase-com.framer.ai
 get-coinbase-extnsion.pages.dev
@@ -20728,6 +20780,8 @@ gotchipus.top
 gotette.com
 gotsushi.top
 gov-ethena.xyz
+gov-mogcoin.xyz
+gov-nillion.xyz
 gov.subsidy-winters.cyou
 govbtcclaim.org
 govco.site
@@ -21982,6 +22036,7 @@ help-coinbase-pros.netlify.app
 help-coinbase.info
 help-coinbaseexten.pages.dev
 help-coinbasehelp-docs.daftpage.com
+help-coinbasehelp.daftpage.com
 help-coinbasehelps-us.daftpage.com
 help-coinbass-wallet.typedream.app
 help-coinbse-pros-en.framer.media
@@ -22358,6 +22413,7 @@ home-uphuld-com--x-nav.pages.dev
 home-uphuld-en.pages.dev
 home-uphuld-engs.pages.dev
 home-uphuld-eu.pages.dev
+home-us-mask-cdn.daftpage.com
 home-us-trezrio.pages.dev
 home-wallet-hyperliquid.pages.dev
 home-wallet-rabby-x.pages.dev
@@ -22545,6 +22601,7 @@ hub-cysic.cfd
 hub-dappradar.biz
 hub-dappradar.io
 hub-dappradar.pro
+hub-dappradars.cfd
 hub-destra.cfd
 hub-dydx.net
 hub-en-io-trezo-dev.pages.dev
@@ -22567,6 +22624,7 @@ hub-palmai.tech
 hub-phntoms-iio.pages.dev
 hub-rendernetwork.com
 hub-sentient.cfd
+hub-snapshot.biz
 hub-snapshot.cfd
 hub-snapshot.cyou
 hub-snapshot.lat
@@ -22922,6 +22980,7 @@ hyperstaking-aave.com
 hyperstaking-avalanche.xyz
 hyperstaking-defisaver.com
 hyperstaking-onbeam.com
+hyperstaking-sophon.com
 hyperstaking-symbiotic.com
 hyperstaking-zora.com
 hypersvvap.com
@@ -23055,6 +23114,7 @@ id-bitget.com
 id-inform.com
 id-inform.info
 id-kraken-nhlqk.daftpage.com
+id-kraken.daftpage.com
 id-krken.daftpage.com
 id-seller.com.id-inform.com
 id-work.com
@@ -23077,6 +23137,7 @@ idexbscxp.com
 idexon.im
 idexs.io
 idigitalonline.com
+idn-kraken.daftpage.com
 idos-airdrop.info
 idos-network.app
 idotokenlon.com
@@ -23213,6 +23274,9 @@ in-sushi.top
 inappbrowser.com
 inboxlelo.shop
 inbybit.com
+incentive-aerodrome.org
+incentive-megaeth.org
+incentive-ondo.finance
 incentives-lendle.xyz
 inchx-ld-gowebz.viewbe.co
 incinerate-ethereum.com
@@ -24792,6 +24856,7 @@ kine-claim.xyz
 kinetiq-foundations.org
 kinetiq-markets.xyz
 kinetiq.cv
+kinetiq.sbs
 kinetiq.vip
 kinetiq.zip
 kinetiql.xyz
@@ -25451,6 +25516,7 @@ krakaanelogin.webflow.io
 krakanlogin.pages.dev
 krakcencdn.framer.ai
 krakcom.net
+krakcom.net.krakenashop.com
 krake-login.pages.dev
 krake-nlogin.pages.dev
 krake-onion.to
@@ -25565,6 +25631,7 @@ kraken20.store
 kraken200.com
 kraken24in.com
 kraken27.shop
+kraken2trfqodidvlh4a37cpzfrhdlfldhve5nf7njhumwr7instad.info
 kraken2trfqodidvlh4aa337cpzfrdhlfldhve5nf7njhumwr7instad.com
 kraken36link.com
 kraken40.shop
@@ -25719,6 +25786,7 @@ kreken--login-auth.pages.dev
 krekenowloigus.godaddysites.com
 krekn-logineu.pages.dev
 krekn-us-login.pages.dev
+kreknlugin.godaddysites.com
 kreospin.com
 kreqkanlogyuseini.webflow.io
 krestbank.xclik.info
@@ -26271,6 +26339,7 @@ learn-exodesweb3wallet.pages.dev
 learn-extension-meta-io.pages.dev
 learn-extesion-base.pages.dev
 learn-extsion-base-extion.pages.dev
+learn-helpcoinbase.daftpage.com
 learn-kraken-com-logi.pages.dev
 learn-kraken-web.daftpage.com
 learn-krakne-app.framer.ai
@@ -26284,6 +26353,7 @@ learn-loginupphold.pages.dev
 learn-metamask-ion.pages.dev
 learn-metamask-logn.pages.dev
 learn-metamask-us.framer.ai
+learn-metamssk-web-en.daftpage.com
 learn-metmsk-extnsion.pages.dev
 learn-opensea-x.pages.dev
 learn-sso-coins-com.square.site
@@ -27877,6 +27947,7 @@ login--metamask.pages.dev
 login--nadex-cloud.pages.dev
 login-acc-coinbase.pages.dev
 login-ai-deus.pages.dev
+login-coin-base-pro-us.daftpage.com
 login-coin-pro.pages.dev
 login-coinbas-io.pages.dev
 login-coinbase.net.help-gemini.net
@@ -28006,6 +28077,7 @@ logn-coinbase-en-us.pages.dev
 logn-faq-uphold.pages.dev
 logn-metamask-io.pages.dev
 logn-mtamsk-secure.pages.dev
+logn-pro-leran.daftpage.com
 logn-trezr-account.weebly.com
 logn-trezr-dev.pages.dev
 logn-uphod-us.pages.dev
@@ -29065,6 +29137,7 @@ mbiipcllc.com
 mblcas.com
 mbproof.top
 mbrfornos.com.br
+mbridge-mega.com
 mc06.com
 mchain-airdrop.xyz
 mcoinners.com
@@ -29143,13 +29216,17 @@ megaeth-predeposit.com
 megaeth-refund.xyz
 megaeth.asia
 megaeth.finance
+megaeth.gift
+megaeth.gifts
 megaeth.group
 megaeth.neocities.org
 megaeth.onl
+megaeth.support
 megaeth.walletdock.app
 megaeth20.top
 megaethe.pro
 megaethlabs.top
+megaethtestabsdoaxzcasdsa.sbs
 megaethtoken.xyz
 megaetln.com
 megaheritagebnk.com
@@ -29713,6 +29790,7 @@ metamask--us-eng.pages.dev
 metamask--wallet--xtension.gitbook.io
 metamask-au.com
 metamask-auth-with-moralis.vercel.app
+metamask-cdn-eng.daftpage.com
 metamask-ch-rome-extension.pages.dev
 metamask-chorme-extantion.pages.dev
 metamask-chro-me-extension.pages.dev
@@ -29739,6 +29817,7 @@ metamask-io-eng-lggin-us.pages.dev
 metamask-io-extension.pages.dev
 metamask-io-extention.pages.dev
 metamask-io-logn.pages.dev
+metamask-io.daftpage.com
 metamask-io.ghost.io
 metamask-liquiditystaking.com
 metamask-lloginn.webflow.io
@@ -29747,6 +29826,7 @@ metamask-loged.pages.dev
 metamask-logi.pages.dev
 metamask-logii.pineapple.page
 metamask-login-issue.weebly.com
+metamask-login-learn-in.daftpage.com
 metamask-login-support.pages.dev
 metamask-login.framer.website
 metamask-logine.pages.dev
@@ -29782,6 +29862,7 @@ metamask.ci
 metamask.co.com
 metamask.com-checker.app
 metamask.com-token.info
+metamask.daftpage.com
 metamask.directual.app
 metamask.escae.inphb.ci
 metamask.in
@@ -29821,8 +29902,10 @@ metamaskextesioxn.webflow.io
 metamaskgrants.com
 metamaskgrants.org
 metamaskguide-extension.typedream.app
+metamaskhelp.daftpage.com
 metamaskhlog.wordpress.com
 metamaskio--chorme.pages.dev
+metamaskio-help-web.daftpage.com
 metamaskio-login-eng.pages.dev
 metamaskio-login.pages.dev
 metamaskio.framer.ai
@@ -29885,6 +29968,7 @@ metamdsk.io
 metamedconnect.com
 metamesk-io-en.pages.dev
 metamesk-wallet-io.pages.dev
+metamesk-web-auth.daftpage.com
 metameskelogi.webflow.io
 metami-kslog.gitbook.io
 metamkerloginsn.webflow.io
@@ -30181,6 +30265,7 @@ mettamsk-login.pages.dev
 mettamsklgoonn.webflow.io
 mettamsukkloggoin.webflow.io
 mettamusksign0inx.godaddysites.com
+mettsk-log-web.daftpage.com
 metttamuskkklogib.webflow.io
 mettumuskkkvlogue.godaddysites.com
 metumesklogio.webflow.io
@@ -31582,6 +31667,7 @@ my-apps.io
 my-bassepre-view.pineapple.page
 my-coinbase.pages.dev
 my-coinbaspro-auth.framer.ai
+my-coinbsecom.framer.ai
 my-exodus.co.uk
 my-exodus.com.co
 my-kraken-s-cdn.framer.ai
@@ -32841,6 +32927,7 @@ official-ledger-app.live
 official-ledger.live
 official-ledgrlive.com
 official-mar.com
+official-metamask.daftpage.com
 official-pi-airdrops.com
 official-rabby-faq.teachable.com
 official-setup-portal-trezor.onrender.com
@@ -34297,6 +34384,7 @@ perfectminingfx.com
 perfectminingfx.com.liteowlb.com
 perfectonchain.live
 perfectstaysbnb.com
+peripheralautomation.org
 perma-exchange.site
 permanent-badge-free.surge.sh
 permanent-reward-meta.vercel.app
@@ -35039,6 +35127,10 @@ polkastarter.sushi.us.com
 polkaswap-whitelist.pages.dev
 polkaswap2.io
 polkongres.live
+poll-hedera.xyz
+polls-aerodrome.xyz
+polls-beefy.xyz
+polls-ondo.xyz
 poloniexblock.cc
 poloniexblock.com
 poloniexbtc.com
@@ -35239,6 +35331,7 @@ portal-drops.sbs
 portal-en-dfillaa-swap.pages.dev
 portal-en-kraken.square.site
 portal-engg-upholdi.pages.dev
+portal-explore-bace.daftpage.com
 portal-giggletokens.com
 portal-golfn.com
 portal-hubs.sbs
@@ -35263,7 +35356,9 @@ portal-ledger-live-login.pages.dev
 portal-megaeth.com
 portal-metamask-home.framer.website
 portal-metamask-io.pages.dev
+portal-metamaskio.daftpage.com
 portal-metamasks.pages.dev
+portal-metamsk.daftpage.com
 portal-moonpay-cdn.my.canva.site
 portal-nda-web-app-secure.webflow.io
 portal-ndax-app.pages.dev
@@ -35337,6 +35432,7 @@ portalonline2025.shop
 portalopenledgerfoundation.com
 portalpagamentos.com
 portalplumes.site
+portals-coinbase-pro.daftpage.com
 portals-coinbase-signin.daftpage.com
 portals-openledgerfoundation.top
 portals-openledgerfoundation.xyz
@@ -35981,6 +36077,7 @@ public-coinbasehelp-cdn.daftpage.com
 public-coinbasehlep-cdn.daftpage.com
 public-coinbasepro-cdn-authd.webflow.io
 public-coinbasepro.pages.dev
+public-coinpro-doc.daftpage.com
 public-coinpro-learn.framer.website
 public-defilama-desktop.pages.dev
 public-drift-protocol.typedream.app
@@ -35998,6 +36095,7 @@ public-live-ledger.me-page.com
 public-metamask-com-en.pages.dev
 public-metamask-com-x.pages.dev
 public-metamask-login.square.site
+public-metamask-web-en.daftpage.com
 public-opnsea.pages.dev
 public-sapien.website
 public-sui-wallet-extension.pages.dev
@@ -36697,6 +36795,7 @@ rabbywalet-app.pineapple.page
 rabbywalet-us.framer.website
 rabbywalet.framer.website
 rabbywalet.wordpress.com
+rabbywallet-support.daftpage.com
 rabbywallet.airdropsalert.life
 rabbywallet.framer.ai
 rabbywallet.link
@@ -38298,6 +38397,7 @@ rz.sushi.baby
 rz.sushiswap.it.com
 s-connect-v4.app
 s-ledger.live
+s-metmask-web.daftpage.com
 s-steal.com
 s.airdropsalert.bar
 s.airdropsalert.cfd
@@ -38852,6 +38952,7 @@ secure--sso-robinhood-com-m----autth.webflow.io
 secure-aerodrome-fi.typedream.app
 secure-app--bloclkfi-cdn-cdn.webflow.io
 secure-app-krakeen.typedream.app
+secure-app-metamask.daftpage.com
 secure-apps-io-krraken.pages.dev
 secure-asset-recovery.org
 secure-asset-web3.com
@@ -38879,6 +38980,7 @@ secure-coinbasehelp.netlify.app
 secure-coinpro-cdn.daftpage.com
 secure-coinpros-base.pineapple.page
 secure-com-robinhood-autthh.webflow.io
+secure-cooinbas-start.framer.website
 secure-craken-eng.framer.ai
 secure-d-sso--robinhoods--com-cdn.webflow.io
 secure-dappsbridge.vercel.app
@@ -38906,6 +39008,7 @@ secure-krakeen-en.pages.dev
 secure-kraken-app.pages.dev
 secure-kraken-cdn-auth.pages.dev
 secure-kraken-com-us.framer.ai
+secure-kraken-divaceio.daftpage.com
 secure-kraken-docs.daftpage.com
 secure-kraken-log.daftpage.com
 secure-kraken-logi.framer.ai
@@ -38955,6 +39058,7 @@ secure-metamsk-en.pages.dev
 secure-metamsk-service.pages.dev
 secure-metamsk-welcomes.pages.dev
 secure-metamsk.pages.dev
+secure-metmkien-web.daftpage.com
 secure-moonapy.my.canva.site
 secure-motxmask-io.typedream.app
 secure-myledger.com
@@ -39045,6 +39149,7 @@ securefxtrading.live
 secureledgerdevice.com
 securelegions.com
 securely-eng-kraken.daftpage.com
+securely-metamask-help.daftpage.com
 securemymetamaskwallet.run.place
 secureonlineaccount.zya.me
 securerouter.xyz
@@ -39746,6 +39851,8 @@ slgns-sushi.top
 slight-knowledge-519101.framer.app
 slight-parts-768408.framer.app
 slimextoken.top
+slipstream-mantle.xyz
+slipstream-pulsechain.xyz
 slkxkslksklklsks.weebly.com
 slope-wallet-com.pages.dev
 slopegames.net
@@ -39917,6 +40024,7 @@ snapshot-hyperfoundation.lol
 snapshot-hyperfoundation.org
 snapshot-keeta.com
 snapshot-keeta.network
+snapshot-kinetiq.xyz
 snapshot-littleguy.com
 snapshot-manyushiba.com
 snapshot-npc.co
@@ -39928,6 +40036,7 @@ snapshot-pyth.network
 snapshot-token6900.com
 snapshot-trololol.io
 snapshot-tutorial.co
+snapshot-usdai.com
 snapshot-vertical.com
 snapshot-volt.network
 snapshot.lat
@@ -41060,6 +41169,7 @@ sso-coinbase-com.pages.dev
 sso-coinbase-coms-cdn-t-auth.typedream.app
 sso-coinbase-pro-login.pages.dev
 sso-coinbase-pro.framer.media
+sso-coinbase-sso.daftpage.com
 sso-coinbase-x-com-sign-in.webflow.io
 sso-coinbase.framer.ai
 sso-coinbaseee-comn.framer.website
@@ -41350,6 +41460,7 @@ stakingsrewards.art
 stakingsrewards.biz
 stakingsrewards.cfd
 stakingsrewards.com
+stakingsrewards.cyou
 stakingsrewards.onl
 stakingsrewards.pro
 stakingsrewards.sbs
@@ -41469,6 +41580,7 @@ start-cdn-uphuld-us.pages.dev
 start-coenbase-io-learn.pages.dev
 start-coinbase--web.framer.website
 start-coinbase-secure.pages.dev
+start-coinbase-web.framer.ai
 start-coinebase.pages.dev
 start-dafilamba-web.framer.media
 start-dafilamba-web.framer.website
@@ -42211,6 +42323,7 @@ support-log-in-kraken-com-sign-in-cdn.typedream.app
 support-meta-mask-cdn.pages.dev
 support-metaamsk-extansion.pages.dev
 support-metaamsk-extension.pages.dev
+support-metamask-app.daftpage.com
 support-metamask-net.pages.dev
 support-metamasks-learm.pages.dev
 support-metamssk-eng.pages.dev
@@ -43528,6 +43641,7 @@ thenewdailly.com
 thenexusdrop.com
 thenft.top
 theopenseafoundation.org
+theoriq.events
 thepalmstanningresort.com
 thepancake-wap.com
 thephantomvault.com
@@ -43826,6 +43940,7 @@ token-chain-market.lol
 token-cr7.xyz
 token-drapertv.com
 token-flipperz.com
+token-harmonix.com
 token-im-app.com
 token-im-dapp.com
 token-im-nets.com
@@ -44361,12 +44476,19 @@ treasury-hyperfoundation.com
 treasury-itsafwog.com
 treasury-jup.com
 treasury-keeta.app
+treasury-lido.com
+treasury-moonbirds.com
 treasury-onbeam.com
 treasury-onyx.com
+treasury-oxo.com
 treasury-pandupandas.com
+treasury-polyhedra.com
+treasury-pool-ethena.finance
 treasury-pudgypenguins.com
 treasury-renzoprotocol.com
 treasury-singularity.com
+treasury-spark.com
+treasury-superverse.com
 treasury-telco.in
 treasury-zora.com
 treasury.astersdex.io
@@ -45816,6 +45938,7 @@ unxi.top
 unxrpc.top
 uomi.top
 uooplol.webflow.io
+up-defi-v2.app
 up-held-en-users.pages.dev
 up-held-io-login.pages.dev
 up-hod-en.pages.dev
@@ -46119,6 +46242,7 @@ urriswarp.cc
 urs-phantom.pages.dev
 us--phantoms.pages.dev
 us--pool.pages.dev
+us-0zoom-0connect.pages.dev
 us-altseason.xyz
 us-bridge-home.pages.dev
 us-capcut.com
@@ -46127,6 +46251,8 @@ us-coenbase-en.pages.dev
 us-coibspo-auut.pineapple.page
 us-coin-base-login.pages.dev
 us-coin-base-logn.pages.dev
+us-coinbase-extensionn.daftpage.com
+us-coinbase-wallt-extension.daftpage.com
 us-day.org
 us-debank.com
 us-en--deffillama-io.pages.dev
@@ -46190,6 +46316,7 @@ us05webzoominvite.com
 us05webzoomus.com
 us06webzoom-us.com
 us06webzoom.org
+us07web-zoom.digital
 us08webinvitezoom.com
 us08webzooms.live
 us0webzoom.com
@@ -47133,6 +47260,7 @@ view-conbase-chrome.pages.dev
 view-extnsion-coin.pages.dev
 view-extnstion-coinbse.pages.dev
 view-opensaa.pages.dev
+view-page-metamask-log.daftpage.com
 view-restricted.business-minagne.com
 view-start-trezr-io--x.pages.dev
 view-trezr-en-us.pages.dev
@@ -47439,6 +47567,7 @@ voting-mantle.xyz
 voting-manyushib.info
 voting-moonshot.xyz
 voting-olas.network
+voting-originprotocol.xyz
 voting-pendle.app
 voting-pendle.io
 voting-pieverse.pages.dev
@@ -47453,6 +47582,7 @@ voting-punksauction.net
 voting-qace.com
 voting-redstones.com
 voting-redstones.pages.dev
+voting-spx6900.xyz
 voting-tibbirs.com
 voting-trillions.com
 voting-trillions.info
@@ -47462,6 +47592,7 @@ voting-virtual.app
 voting-zora.com
 voting-zoras.xyz
 votings-aster.com
+votings-near.xyz
 votings-virtual.net
 votingtrend.xyz
 voucher-5606.notcolayer.app
@@ -47668,6 +47799,7 @@ wagmiehub.com
 wagoplays.com
 wahchlm3alem.site
 wailing-vegetable-low.on-fleek.app
+waitlist-hit.one
 waka.monster
 wakamawalifeinvestment.com.ng
 wakatrips.com.ng
@@ -47675,6 +47807,7 @@ wakeorpay.app
 wakfu-gift.shop
 wal.stake-wal.com
 walacas.com
+walat-eng-coiibase-extt.daftpage.com
 walbi-desktop.com
 walcon.space
 walcontmax.online
@@ -48073,11 +48206,13 @@ web-coinbas-xtension.pages.dev
 web-coinbase-com-auth.pineapple.page
 web-coinbase-comm.pineapple.page
 web-coinbase-pro-in.pages.dev
+web-coinbase-pro-us.daftpage.com
 web-coinbase-pro-us.framer.media
 web-coinbase-web.framer.website
 web-coinbaseextensionn.pages.dev
 web-coinbasepro.daftpage.com
 web-coinbashelp-learn.framer.ai
+web-coinhelp-cdn.daftpage.com
 web-coinpro-websites.daftpage.com
 web-connexion.pages.dev
 web-crakan-helps.pages.dev
@@ -48114,6 +48249,7 @@ web-magic-eden.cc
 web-manage-coinbase.pages.dev
 web-metak-extension-help.pages.dev
 web-metamasio.pages.dev
+web-metamask-con.daftpage.com
 web-metamask-home.framer.website
 web-metamask-io-docs.my.canva.site
 web-metamask.org
@@ -48581,7 +48717,9 @@ welcome-ledger-connect.pages.dev
 welcome-ledger-live.square.site
 welcome-ledgerlive-faq.teachable.com
 welcome-liveledger-us-web.teachable.com
+welcome-metamaks-cdn.daftpage.com
 welcome-metamask-cdn.pineapple.page
+welcome-metamask-help.daftpage.com
 welcome-metamask-loginn.typedream.app
 welcome-metamusk-app.framer.ai
 welcome-mta-mask-login.pages.dev
@@ -49472,6 +49610,7 @@ woxboom.com
 woxcas.com
 woxkas.com
 woycas.com
+wpolymarket.xyz
 wr.jcy100.com
 wrakaz.com
 wrapped-bitcoin-mixer.com

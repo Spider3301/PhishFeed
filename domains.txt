@@ -17939,6 +17939,7 @@ events-hyperliquid.xyz
 events-kaio.xyz
 events-krosmopack.info
 events-krosmopack.pro
+events-megaeth.co
 events-meteora.app
 events-meteora.com
 events-ondo.network

@@ -8918,6 +8918,7 @@ bullish.lat
 bullishdegen.org
 bullishdegen.pro
 bullishdegensol.net
+bullishdegensolana.com
 bullishsdegen.net
 bullmountains.com
 bullmountains.com.etvaultb.com
@@ -23567,6 +23568,7 @@ hyperspot.org
 hyperstaking-aave.com
 hyperstaking-avalanche.xyz
 hyperstaking-defisaver.com
+hyperstaking-megaeth.com
 hyperstaking-onbeam.com
 hyperstaking-symbiotic.com
 hyperstaking-zora.com
@@ -36415,6 +36417,7 @@ pravenix.com
 praxis-haven.pages.dev
 pre-hourglass.app
 pre-hourglass.com
+pre-megaeth.app
 pre-megaeth.com
 pre-stable.com
 pre-zama.org

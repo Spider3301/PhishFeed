@@ -11690,6 +11690,7 @@ claims-succincts.foundation
 claims-symbiotic.app
 claims-symbiotic.com
 claims-symbiotic.net
+claims-talus.org
 claims-telcoin.network
 claims-thentwrk.pages.dev
 claims-tiktok.xyz
@@ -17191,6 +17192,7 @@ eligibilitychecker.live
 eligibilitytowns.com
 eligible-allora.network
 eligible-asterdex.com
+eligible-bonk.icu
 eligible-honey.com
 eligible-hyperliquid.com
 eligible-hyperliquid.xyz
@@ -17200,6 +17202,7 @@ eligible-jupiter.lol
 eligible-jupiter.ltd
 eligible-jupiter.net
 eligible-jupiter.pro
+eligible-jupiter.pw
 eligible-jupiter.top
 eligible-ondo.finance
 eligible-plasma.com
@@ -46335,12 +46338,15 @@ trxbridge.org
 trxbuy.io
 trxcall.org
 trxcaz.com
+trxcc.org
 trxdrainer.pages.dev
 trxenergy.app
 trxev.org
+trxex.org
 trxexchanger.asia
 trxline.org
 trxln.org
+trxme.org
 trxnetwork.cfd
 trxnetwork.com
 trxone.net

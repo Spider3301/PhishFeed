@@ -1425,6 +1425,7 @@ admin.535787.top
 admin.amazontw.shop
 admin.bahusande.com
 admin.berachainbuild.xyz
+admin.bifrostlive.com
 admin.coinbasefinancedepartment.art
 admin.coinbasesabms.cc
 admin.connectwallet.xyz
@@ -3456,6 +3457,7 @@ amldef.pro
 amldefenderbot.com
 amldetect.org
 amldetective.ovh
+amldexsafe.com
 amldrive.com
 amle--amle-project.us-central1.hosted.app
 amle.us
@@ -17721,6 +17723,7 @@ endnow.top
 endwellprofits.com
 ene-exodus-ee.pages.dev
 energy.dex-list.xyz
+energy.tronsaver.org
 energy999.ru
 energypuc.xyz
 energytron.pro
@@ -25677,6 +25680,7 @@ kerakennlin.gitbook.io
 kerawkenlugn.gitbook.io
 kerjaonlineofficial.com
 kerjasamajobs.com
+kermitwifhat.world
 kernel-waveform-nexus.com
 kerneldao-launchpad.com
 kerneldao.claims
@@ -26478,6 +26482,7 @@ krab1-cc.atc-changan-s.ru
 krab1-cc.baikal-avtopodbor.ru
 krab1-cc.cafe-korona.ru
 krab1-cc.dacharest.ru
+krab1-cc.jeans-odejda.ru
 krab1-cc.kartina-m.ru
 krab1-cc.klinika4d.ru
 krab1-cc.mebel-prem.ru
@@ -26491,6 +26496,7 @@ krab1at.faberlic-love-me.ru
 krab1at.jeans-odejda.ru
 krab1at.mebel-prem.ru
 krab1at.stroy42.ru
+krab1cc.hcbluebird.ru
 kraccount.krakenus.cz
 kracen-support.framer.ai
 kracken--login.pages.dev
@@ -26556,6 +26562,7 @@ kraken-log-ing.pages.dev
 kraken-logd-in.pages.dev
 kraken-logen.godaddysites.com
 kraken-logged-in.pages.dev
+kraken-logi.framer.media
 kraken-login-auth-sso.typedream.app
 kraken-login-en-us.blogspot.com
 kraken-login-ledgr.pages.dev
@@ -32429,6 +32436,7 @@ moonpay.cc
 moonpay.co.uk
 moonpay.org
 moonpay.us.com
+moonpay247help.online
 moonpaylogiin.my.canva.site
 moonpaysupport.vercel.app
 moonpey-sso-eng.my.canva.site
@@ -34144,6 +34152,7 @@ odywj.com
 oen3hy3bf08nc6uj.gt-industries.com
 oeze5y57b26xn8zk.umso.co
 of.apriori.icu
+ofc.baudokraken.com
 ofertaflashparati.com
 off-coinbase-chrome-extension.daftpage.com
 offchain-wallet.com
@@ -35039,6 +35048,7 @@ page-ens-kraken.square.site
 page-gemini-places.pages.dev
 page-kraken-en.square.site
 page-metamasks-io.pages.dev
+page-metasklog-web.framer.ai
 page-opensee-io.pages.dev
 page-trezor-logi-cdn.typedream.app
 page-trzer.pages.dev
@@ -36560,6 +36570,7 @@ polymarketprivate.reserved.market
 polymarketpro.app
 polymarkets.at
 polymarkets.group
+polymarkets.lat
 polymarkets.reserved.market
 polymarketsniper.com
 polymarketstat.xyz
@@ -36629,6 +36640,7 @@ portal-app-ledger.com
 portal-app-ndax-io-cdn--now.webflow.io
 portal-apps-ndax-io-cdn-s--cdn.webflow.io
 portal-aster.com
+portal-asterdex.net
 portal-auth-io-ndx.typedream.app
 portal-campnetwork.firebaseapp.com
 portal-campnetwork.web.app
@@ -41607,6 +41619,7 @@ snupay.net
 snxcrypto.com
 snzent.com
 so-inv.com
+so-krakincom.framer.media
 so-promotion.com
 so-promotion.live
 so-promotion.org
@@ -43040,6 +43053,7 @@ star-play.cc
 starbase-7v8.pages.dev
 starcargoxpress.com
 starcheck.help
+starcheck.io
 starcheckcrypto.com
 starcoins1.com
 stard-cnbaseexten.pages.dev
@@ -45295,6 +45309,7 @@ thegeometrydash.net
 thegmairdrops.com
 thegrandmirage.online
 thegraph.basecamp.sh
+thegraph.blog
 thegraph.cloud
 thegraphcode.trackfinanceworld.com
 thehellplisuippostmanaga-ccemteraoutroompageidiae.sbs
@@ -46598,6 +46613,7 @@ tronrefund.icu
 tronrewards.xyz
 trons-energy.org
 trons.app
+tronsaver.org
 tronscan.co.com
 tronscan.cx
 tronscan.id
@@ -50694,6 +50710,7 @@ westrnuniuon.com
 wesxa.com
 wet.solhost.cc
 wetcas.com
+wetclaim.live
 weth-sushi.xyz
 wethh.com
 wetransf3r-547434367877797.pages.dev
@@ -51631,6 +51648,7 @@ ww25.web.coinbase-wallrktscorn.com
 ww25.ww25.ap.ibercaja-connexion.online
 ww25.ww25.ibercaja-connexion.online
 ww25.wwwsignin-accountcoinbasecom.in-cloud.space
+ww25.xchange-coinbase.attrockford.com
 ww25.xmrguide.info
 ww25.xttpn4xrek.phpmyadmin.confirmcoinbase.com
 ww25.yst.coinbasebit256.com

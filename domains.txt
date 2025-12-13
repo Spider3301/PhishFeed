@@ -16597,6 +16597,7 @@ download-wallett-home-zh-hk.webflow.io
 download-windows-trezor.netjet.pro
 download.artblocks.pro
 download.coinbasecnext.cc
+download.exodus.build
 download.meetingjoincenter.world
 download.ouyiokxapp.com
 download.web-solflare.to
@@ -46587,6 +46588,7 @@ troncas.com
 troncashout.com
 tronenergy.foo
 tronenergy.mov
+tronenergy.nexus
 tronenergy.top
 tronenergy.zip
 tronfronttest.trongotesting.com

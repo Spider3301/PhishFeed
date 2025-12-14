@@ -366,6 +366,7 @@
 1lnch.io-defi-vault.com
 1luckyquest.online
 1musk.co
+1nch.com
 1nmlkjihgfedcb2.am.coinbase.cm
 1ogin7.am.coinbase.com.ph
 1onewinbet.com
@@ -1140,6 +1141,7 @@ abstract.portal-drops.sbs
 abstract.rest
 abstractairdrop.xyz
 abstractairdrops.xyz
+abstractblockchain.com
 abstractsale.top
 abstractx1.lol
 abtrchain.xyz
@@ -4230,6 +4232,7 @@ app-kernel-dao-v1.com
 app-kgm-whatsappcc.com
 app-kiloex.icu
 app-kraaken-cdn.framer.ai
+app-kraken-help.framer.ai
 app-kraken.pages.dev
 app-krakenn-docs.framer.ai
 app-kyberswap.com
@@ -14799,6 +14802,7 @@ d378hs9n.at-the-lake.com
 d39ffe3f-d7e2-48d5-b125-3bd6be428a27.api-listing-opensea.com
 d3airdrop.xyz
 d5742af6-7ca9-4e61-ad3d-f3d35abce380.wwwwdebank.com
+d590230d.kjfdjfh.pages.dev
 d6882796673788322.akalagkit.com
 d7f86454cd02443a.raydiumpro-web.shop
 d952.com
@@ -15716,6 +15720,7 @@ defillama-wallet.blogspot.com
 defillama-wallet.pages.dev
 defillama.airdropsalert.life
 defillama.created.app
+defillama.eu
 defillama.framer.ai
 defillama.netlify.app
 defillama2.llamao.fi
@@ -22980,6 +22985,7 @@ help-hub-desktop---ledgar.mypixieset.com
 help-hub-dsck-ledgar-live.mypixieset.com
 help-io-trezor-strt--us.typedream.app
 help-kracen-en-web.framer.ai
+help-kracen-eng.framer.ai
 help-krakeen-log.daftpage.com
 help-kraken-auth.pages.dev
 help-kraken-com-cdn.typedream.app
@@ -27533,6 +27539,7 @@ learn-extension-meta-io.pages.dev
 learn-extesion-base.pages.dev
 learn-extsion-base-extion.pages.dev
 learn-kraken-com-logi.pages.dev
+learn-kraken-eng.framer.ai
 learn-kraken-web.daftpage.com
 learn-krakne-app.framer.ai
 learn-kreken.pages.dev
@@ -35252,6 +35259,7 @@ page-coin-en-signin.pages.dev
 page-coinabsepro-en-us.created.app
 page-coinbase-secure.pages.dev
 page-coinbse-extension.pages.dev
+page-com-cdn.pages.dev
 page-ens-kraken.square.site
 page-gemini-places.pages.dev
 page-kraken-en.square.site
@@ -36072,6 +36080,7 @@ phantomsol.xyz
 phantomssol.pages.dev
 phantomstakevault.com.prime-vaultaccess.com
 phantomstaking.com
+phantomtoken.com
 phantomtrademax.com
 phantomtradespro.com
 phantomus-es.pages.dev
@@ -36335,6 +36344,7 @@ pippin.love-reward.app
 pippin.money
 pippin.network
 pippin.plus
+pippincoin.trade
 pippinmeme.org
 pippinslove.com
 pippinslove.net
@@ -36909,6 +36919,7 @@ portal-kraken-connect.daftpage.com
 portal-kraken-eng.daftpage.com
 portal-kraken-eng.framer.ai
 portal-kraken-secure.pages.dev
+portal-kraken-start.framer.ai
 portal-kraken-web.pages.dev
 portal-krakenn-com.pages.dev
 portal-krakne-eng.daftpage.com
@@ -41744,6 +41755,7 @@ smsavming.com
 smtp.ak-uc.ru
 smtp.ceramic33.ru
 smtp.coinbaseregion.com
+smtp.conbase.tech
 smtp.kra-----36----cc.ru
 smtp.metamaskswiss.online
 smtp.tabakopt37.ru
@@ -46844,6 +46856,7 @@ tron-trx-mixer.top
 tron-wallet.top
 tron.trustscan.eu
 tron.trustscan.info
+tronapp.org
 troncas.com
 troncashout.com
 tronenergy.foo
@@ -51604,6 +51617,7 @@ wneteacloud.top
 wnkodc.com
 woeres.wiki
 wojakmemesol.com
+wojaks.finance
 wojaksolmeme.com
 wojakwhales.com
 wokpump.fun
@@ -52868,6 +52882,7 @@ xuanwuqidian.com
 xui.org-web3.com
 xumm-xaman.app
 xuorax.com
+xusdbridge.suihub.net
 xv7h0bw.duckdns.org
 xvbf.xyz
 xverion.com

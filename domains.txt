@@ -3941,7 +3941,6 @@ apello.pages.dev
 apellogating.io
 apelloweb3.gg
 apenbox.com
-apertum.io
 apeswap.ai
 apeswap.in.net
 apeverse.me
@@ -4657,6 +4656,7 @@ app.carvs-webs.com
 app.catalyst-trust.com
 app.cb-connect.net
 app.centric-portal.xyz
+app.cetuszones.ink
 app.chainbridgelayerxnexus.com
 app.chaingle.online
 app.cherokeeunion.com
@@ -9031,6 +9031,7 @@ bristolunion.online
 brit.builltt.com
 britglobal.upvial.com
 britishmincm.com
+brivalfin-invest.com
 brivexlabs.pro
 brix-group.com
 brixoplays.com
@@ -13131,6 +13132,7 @@ coinbases-io.pages.dev
 coinbases-login.pages.dev
 coinbases.one
 coinbases.pw
+coinbasesdesk.com
 coinbaseserviceaiddesk.com
 coinbasesigninportal.pages.dev
 coinbasesolve.pages.dev
@@ -20275,6 +20277,7 @@ first-clone-93tjo56w3-gianruta28.vercel.app
 first-clone-cpg29gww5-gianruta28.vercel.app
 first-clone.vercel.app
 first-defillama-eng-us.pages.dev
+first-horizon.co.com
 firstairdrop.top
 firstalliancespring.com
 firstbutton.icu
@@ -24844,6 +24847,7 @@ infocoinbase.co
 infodigitalemaintenance.web.app
 infoeeess1111.wpdevcloud.com
 infoinst.ru
+infora.info
 infostilscub.com
 infraray-airdrop.com
 infrared-finance.pro
@@ -27612,6 +27616,7 @@ krkn-portal-help-web.pages.dev
 krkn1.cc
 krkrdynj.godaddysites.com
 krn.is
+krn33.shop
 krn41.icu
 kroll-legal-cases.com
 krollra-portal.com
@@ -35010,6 +35015,7 @@ noxiumcasino.com
 noxplay.fun
 noxtrom.app
 nozcas.com
+np.aetbaseniorproducts.com
 npc--sushi.xyz
 npc-checker.xyz
 npc-snapshot.co
@@ -35759,6 +35765,7 @@ optima-fundex.com
 optimareclaim.com
 optimawiseinvest.xyz
 optimisation-ca-mabanque.surge.sh
+optimism-lab.network
 optimism-mintfrontend.vercel.app
 optimism-shib-white-paper.gitbook.io
 optimism.asia
@@ -39378,6 +39385,7 @@ radiant-vault-aeh.pages.dev
 radicle.sushi.baby
 radicle.sushiswap.best
 radicle.sushiswap.onl
+radieuxcorebit.com
 radioansiaes.pt
 radiocruzdemalta.com.br
 radiographers.org
@@ -39491,6 +39499,7 @@ rawox.pro
 raxcas.bet
 raxebet.com
 raxfort.com
+ray-dium.cyou
 ray-protocol.network
 ray.goldenoakuk.com
 rayapp.site

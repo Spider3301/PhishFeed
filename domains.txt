@@ -531,6 +531,7 @@
 30eth.org
 30ethe.com
 30eths.com
+30f1b22b.elvsoo.pages.dev
 30p.faf.mytemp.website
 31.214.157.225
 311316145.xyz
@@ -875,6 +876,7 @@
 89abaf02.smart-5jf.pages.dev
 89uv-casefb489572.vercel.app
 8a7u.sap25041c5.cc
+8b8d49a3.solvee.pages.dev
 8c948152-84d2-4624-83e2-984e82b32c85.mahealthconnextor.org
 8d3f4d59-kdrama-mood-based-re-frontend.pages.dev
 8eff59ce.raydium-perp-v2-inner.pages.dev
@@ -3912,6 +3914,7 @@ angelferno.pages.dev
 angelferno.top
 angelferno.xyz
 angelxferno.com
+angelxferno.wuaze.com
 anggota.foini.org
 angrydynomiteslab.app-sw.com
 ani-chat.fun
@@ -18341,6 +18344,7 @@ en-coinbssecom-auth.framer.ai
 en-coinhelp-learn.daftpage.com
 en-coins-base.pages.dev
 en-defillama-swaap.pages.dev
+en-desktop-ledge.framer.ai
 en-docs-ledger-com.teachable.com
 en-docs-ledger-live.me-page.com
 en-download-leger.pages.dev
@@ -34029,6 +34033,7 @@ moonshol.xyz
 moonshot-board.com
 moonshot-gem.money
 moonshot-it.com
+moonshot-lead.com
 moonshot-leaderboard.com
 moonshot-list.me
 moonshot-listing.app
@@ -35775,6 +35780,7 @@ o-coin.com
 o-connect-v3.app
 o-connect-v4.app
 o-dex-v4.app
+o-redirecting.com
 o-swap-v3.app
 o-swap-v4.app
 o-wallet-v3.app
@@ -54690,6 +54696,7 @@ www.orient.globalshippingservices.live
 www.ourlovablelabs.com
 www.parifrance.fun
 www.paxostrade.sbs
+www.pik303.com
 www.pledge.sqluteorigin.world
 www.pocketuniverseshield.com
 www.poll-moonshot.com
@@ -54798,6 +54805,7 @@ www.xschallengers.com
 www.yeiflnance.org
 www.yusjibtravel.ng.yusjibtravels.com
 www.zaizixc.com
+www.zama.org
 www.zeal.app
 www.zeegzy.com
 www.zenithpay.org.coinexpressprofittrading.xyz

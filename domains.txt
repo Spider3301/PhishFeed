@@ -18392,8 +18392,10 @@ eligibility.playysolana.com
 eligibility.townsnet.network
 eligibilitychecker.live
 eligibilitytowns.com
+eligible-aave.pro
 eligible-allora.network
 eligible-asterdex.com
+eligible-asterdex.pro
 eligible-bonk.fun
 eligible-bonk.icu
 eligible-bonk.live
@@ -42024,6 +42026,7 @@ ridowex.com
 riffbase.netlify.app
 riftax.com
 riftswaps.xyz
+right.snitop.com
 right2send.com
 rightclick-105641verifyid754356.square.site
 rihvox.com

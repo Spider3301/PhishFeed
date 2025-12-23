@@ -3020,6 +3020,7 @@ allocate-bnbchain.org
 allocate-bullishdegen.com
 allocate-degen.xyz
 allocate-hyperliquid.com
+allocate-jup.com
 allocate-maple.org
 allocate-meteora.app
 allocate-monad.xyz
@@ -15435,6 +15436,7 @@ cyber-2025.today
 cyber-connects.xyz
 cyber-ghosted.blogspot.com
 cyber-secure-2025.world
+cyber-tech-tips.com
 cyberchain.com.br
 cybercoclaim.pages.dev
 cyberdefensefunds.com
@@ -26615,6 +26617,7 @@ jupiter-airdrop-round-2.pages.dev
 jupiter-airdrops.pages.dev
 jupiter-allocate.pages.dev
 jupiter-allocation.com
+jupiter-allocations.com
 jupiter-app-v2.top
 jupiter-app.pages.dev
 jupiter-apps.pages.dev
@@ -26728,6 +26731,7 @@ juppromotion.com
 jupps.co.com
 jups-ag.xyz
 jups-allocation.com
+jups-allocations.com
 jups-mainnet.pages.dev
 jups.co.com
 jups.zone

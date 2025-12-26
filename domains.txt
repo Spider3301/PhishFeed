@@ -1938,6 +1938,7 @@ agencycentre-meta.com
 agent.coinbasepay.tech
 agent.deribitltd.cc
 agent.xjko.top
+agentcitysol.lat
 agentcitysol.xyz
 agentipy-fun.web.app
 agentlayer.world
@@ -32661,6 +32662,7 @@ mascor.info
 mascor.io
 mascor.org
 mascorlabs.com
+mascorswap.com
 masgrave.com
 mashclick.com
 mask-airdrop.giize.com
@@ -56476,6 +56478,7 @@ www.solanavolumebot.space
 www.solanavolumebot.world
 www.solsite.lol
 www.spaceexto.com
+www.spydoge.com
 www.stake.gamebank.fun
 www.stellarnetwork.io
 www.store-steampowereed.ru

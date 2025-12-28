@@ -8930,6 +8930,7 @@ bloomsniping.com
 bloomsocial.live
 bloomtrade.click
 bloomtradingbot.com
+blooprint-twitchdrops.pro
 blowcas.com
 blowfishverification.org
 bloxapoxa.netlify.app
@@ -19220,6 +19221,7 @@ en-us-uphold-login.blogspot.pe
 en-us-uphold-login.blogspot.sg
 en-us-uphold-login.blogspot.sn
 en-us-upholld--loghin.pages.dev
+en-vertex-clubgg.com
 en-vertexclubgg.com
 en-wallet-ldgr.pages.dev
 en-web-coinbass.pages.dev
@@ -19536,6 +19538,7 @@ eshopdatabiz.com
 esignaltrade.live
 esl.beneluxtourcs2.com
 esl.beneluxtours.com
+esl.cs2beneluxbattle.com
 eslbenelux.com
 eslmastercup.com
 eslmasters22.com
@@ -20642,6 +20645,7 @@ faceit.discordconnect-auth.com
 faceit.discordconnects.com
 faceit.discordseasons.com
 faceit.dsverification.com
+faceit.en-vertex-clubgg.com
 faceit.en-vertexclubgg.com
 faceit.gameaccept.pro
 faceit.ggturboarena-team.com
@@ -31358,6 +31362,7 @@ liquityv2.com
 lirplays.com
 lisawardmusic.com
 liskairdrop.live
+list-okx-season.com
 listacore.xyz
 listado.mercadolibre.cl
 listado.mercadolibre.com.uy
@@ -38777,6 +38782,7 @@ partyhiredestination.com.au
 pascaekeswrap.cc
 pass-asset.xyz
 pass-ledger.com
+pass-lighter.xyz
 passive-crypto-ch.net
 passiveincome-app-ca.org
 passkeysetup.com
@@ -43659,6 +43665,7 @@ russiamothertest.icu
 rust-bloo.com
 rustbastion.net
 rustbeacon.net
+rustblooprint.net
 rustcasino.com
 rustcommand.com
 rustcontain.com
@@ -48671,6 +48678,7 @@ swap-jupiter.net
 swap-juq.ac
 swap-jvp.ac
 swap-kai.com
+swap-lighter.xyz
 swap-ocicat-club.wweb.lol
 swap-ocicat.xyz
 swap-odos.finance
@@ -57617,8 +57625,10 @@ xmanslot.com
 xmaquina.us
 xmas-bonk.fun
 xmas-cult.net
+xmas-mlg.lol
 xmas-pippin.fun
 xmas-rewards.xyz
+xmas-whitewhale.xyz
 xmchainexplorer.com
 xme-kjcxlk-3.pages.dev
 xmev.io

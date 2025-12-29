@@ -9932,6 +9932,7 @@ bullishdegen.org
 bullishdegen.pro
 bullishdegensol.net
 bullishdegensolana.com
+bullishedegen.com
 bullishsdegen.net
 bullmountains.com
 bullmountains.com.etvaultb.com
@@ -11757,6 +11758,7 @@ claim-elon-airdropcoin.pages.dev
 claim-enron.com
 claim-enso.shop
 claim-epep.com
+claim-espresso.app
 claim-espressofoundation.org
 claim-etfswappresale.pages.dev
 claim-eth.github.io
@@ -12270,6 +12272,7 @@ claim.dorklord.cyou
 claim.doublezero.world
 claim.dupesolana.xyz
 claim.emulites.world
+claim.esqresso.foundation
 claim.etherexfi.xyz
 claim.etherieum.com
 claim.evisacam.cm
@@ -18936,6 +18939,7 @@ eligible-bonk.live
 eligible-bonk.ltd
 eligible-bonk.net
 eligible-bonk.top
+eligible-bonkcoin.pro
 eligible-honey.com
 eligible-hyperliquid.com
 eligible-hyperliquid.icu
@@ -19627,6 +19631,7 @@ espresso-admin.pages.dev
 espresso-extensions.pages.dev
 espresso-foundation.com
 espresso-foundation.xyz
+espresso-portal.app
 espresso-site.pages.dev
 espresso-v0-1.webflow.io
 espresso-web-app.pages.dev
@@ -35199,6 +35204,7 @@ moddirectoratecloud.com
 mode-eligibility.com
 mode-exchange.com
 modecchallenger.pro
+modechallenge.pro
 modechallengez.pro
 modeded.pages.dev
 modelguard.xyz
@@ -40400,6 +40406,7 @@ portal-en-dfillaa-swap.pages.dev
 portal-en-kraken.square.site
 portal-en-phantom.created.app
 portal-engg-upholdi.pages.dev
+portal-espresso.app
 portal-ext-walatconbse.created.app
 portal-faq-ldger.typedream.app
 portal-flaremainnet.com
@@ -48886,6 +48893,7 @@ swap.popcakeswap.com
 swap.punnp.fun
 swap.swissdlt.ch
 swap.trxgb.org
+swap.trxyz.org
 swap.v3sushi.cc
 swap.web-1inch.to
 swap.zicodao.io

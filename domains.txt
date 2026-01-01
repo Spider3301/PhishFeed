@@ -12406,6 +12406,7 @@ claim.bloockdagnetwork.live
 claim.bondex-app.world
 claim.bonk-coin.icu
 claim.bonk-coin.pro
+claim.bonk-coin.pw
 claim.bonkcoin.pw
 claim.buildonhybrid.top
 claim.bulldogito.world
@@ -42089,6 +42090,7 @@ pumpfun-allocation.com
 pumpfun-bonus.com
 pumpfun-bonus.net
 pumpfun-celebration.com
+pumpfun-celebration.org
 pumpfun-celebtation.com
 pumpfun-claim.com
 pumpfun-claimnow.web.app

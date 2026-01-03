@@ -5651,6 +5651,7 @@ appstarted.ghost.io
 appstartedtrezr.ghost.io
 appsu-whatsapp.com
 appsuite.free.site.pro
+appswallet.ghost.io
 appsyncdevconnect.com
 apptea-fi.com
 appthorswap.app
@@ -9860,6 +9861,7 @@ bridge.rellay.org
 bridge.tonchain.fi
 bridge.trustwallet-sundog.info
 bridge.usduc.io
+bridgeaccess.surge.sh
 bridgedapp.nl
 bridgedice-claims.lol
 bridgeexpertfinsupport.com
@@ -13615,6 +13617,7 @@ coiinbase-logiin.blogspot.co.at
 coiinbase-logiin.blogspot.co.uk
 coiinbase-logiin.blogspot.co.za
 coiinbase-logiin.blogspot.com.ar
+coiinbase-logiin.blogspot.com.au
 coiinbase-logiin.blogspot.com.br
 coiinbase-logiin.blogspot.com.tr
 coiinbase-logiin.blogspot.gr
@@ -16099,6 +16102,7 @@ cryptotrust.vip
 cryptousawallet.com
 cryptovaulttoken.com
 cryptoverif.com
+cryptovisaur.com
 cryptowagefarming.com
 cryptowall.app
 cryptowalletrecoveryexperts.com
@@ -22091,6 +22095,7 @@ fintech.sushiswap.best
 fintech.sushiswap.info
 fintechinvestment.org
 finteckgrantbk.xyz
+finteckzoom.com
 fintoniic.com
 fintopsignaltrades.com
 fintracee.com
@@ -23892,6 +23897,7 @@ globalqfsledgersystem.com
 globalqfssystemvault.com
 globalqfsvault.com
 globalroyalscourier.com
+globalsecuredmarkets.com
 globalsellerjob.com
 globalshippingservices.live
 globalshopping.co
@@ -24394,6 +24400,7 @@ grsuplementosonline.shop
 grt--sushi.xyz
 grt-sushi.cfd
 grt.airdropalerts.pro
+grt.autos
 grt.stakingsreward.life
 gruenbertpl.com
 grumpy-banana-8164.vercel.app
@@ -25892,6 +25899,7 @@ holddex.com
 holddex.icu
 holders-dapp-7aq.pages.dev
 holders-reward.pages.dev
+holdgabox.com
 holdings-sig-coinbase.framer.ai
 holdwlfi.com
 holexspin.com
@@ -26900,6 +26908,7 @@ ignitionbravis.com
 ignitionbravis.network
 ignitionbravis.org
 ihelperconnect.xyz
+ihubtrader.com
 ii1665.com
 iightchainai.com
 iighters.xyz
@@ -28219,6 +28228,7 @@ jup.eu.com
 jup.humidifi.network
 jup.la
 jup.site
+jup.sol-flow.com
 jup.sol-universe.cc
 jup.tfb9.pro
 jup.yt
@@ -28880,6 +28890,7 @@ kgworldwidelogistics.com
 kharekul.com
 khx-group.com
 ki-1.top
+ki-inv.com
 kibble-exchange.com
 kiberswap.com
 kibshi.sushis.dev
@@ -34883,6 +34894,7 @@ metadappmainnet.xyz
 metadashboard-auth.web.app
 metadonnes.wpenginepowered.com
 metaeth.cc
+metaexnt.info
 metaextn.info
 metaextnsion-hub.pages.dev
 metaexts.com
@@ -37504,6 +37516,8 @@ nelkas.com
 nelocas.com
 nelswallet.com
 neluren.com
+nelwork.cl
+nelworks.com
 nemexbet.top
 nemo-mega.pages.dev
 nemo-relate.webflow.io
@@ -38322,6 +38336,7 @@ nouvelle-reforme-info.surge.sh
 nova-fx-plus.xyz
 nova-ltd.life
 nova-token.info
+nova-vault.net
 nova-wallet.xyz
 nova.raindropss.xyz
 novabet.pro
@@ -38650,6 +38665,7 @@ og-web-airdrop-scc.pages.dev
 ogbadge.xyz
 ogboog.xyz
 ogen-coin.io
+ogikxyz.com
 oglifeai.projecteligiblity.space
 ogmonad.xyz
 ogomo.ru
@@ -38915,6 +38931,7 @@ onlinefinancesbank.xyz
 onlinehelp.ghost.io
 onlinemallo.fit
 onlineremotasks.cc
+onlineuserportal.ghost.io
 only.exchange
 onlydotas2.hop.ru
 onlyfans-airdrop.pages.dev
@@ -41149,6 +41166,7 @@ points.omnera.network
 points.zkverifys.xyz
 points.zkverity.xyz
 pois-cto.com
+poisedees-grass.surge.sh
 poiskbotyara222.live
 poisonsoftwares.com
 poiucakeswap.com
@@ -41360,6 +41378,7 @@ polymarketcom.com
 polymarketdev.com
 polymarketepl.xyz
 polymarkethub.com
+polymarketiq.com
 polymarketlearn.com
 polymarketoscars.top
 polymarketprivate.reserved.market
@@ -41442,6 +41461,7 @@ portal--coinbase-docs.pages.dev
 portal--ndax--io-apps.webflow.io
 portal--uphold-com--x.pages.dev
 portal-823892-login.com
+portal-aave.xyz
 portal-app-ledger.com
 portal-app-ndax-io-cdn--now.webflow.io
 portal-apps-ndax-io-cdn-s--cdn.webflow.io
@@ -42445,6 +42465,7 @@ pudgyweb.com
 pudgyzpenguins.com
 pudpenguins.asia
 puermama.com
+puffdex.com
 puffer-sushi.xyz
 puffer.express
 pufferfinance.xyz
@@ -46293,6 +46314,7 @@ shapebtc.my
 shapeshift.appconnectx.world
 shapetrex.com
 shardssoniclabs.online
+shardstrade.io
 share-myfreecams.com
 sharecoininvestment.org
 sharedstake-achieve.xyz
@@ -47667,6 +47689,7 @@ solsnip.com
 solsniper-tool.com
 solsniper.biz
 solsniper.dev
+solsniper.us.com
 solsnipers.netlify.app
 solsnipes.fun
 solsnipetool.xyz
@@ -49509,6 +49532,7 @@ suii-walet-io.pages.dev
 suii-wallet-extension.pages.dev
 suii-wallet-extension.typedream.app
 suii-waltt.pages.dev
+suiite-trezre.framer.ai
 suilande.org
 suilands.org
 suilendfinonce.org
@@ -51632,6 +51656,7 @@ todnado.cash
 todwex.com
 toenado.cash
 toesetaocioa.com
+toffee.tap-bonk.fun
 tofro.com
 togamb.com
 toggleairdrop.live
@@ -53473,6 +53498,7 @@ ufasexxygame.com
 ufcas.com
 ufo-sushi.top
 ufo.sushiswap.best
+ugarexgroup.com
 ugghjf.org
 ugly-money.site
 ugradient.network
@@ -55073,6 +55099,7 @@ v4-dex-av.app
 v4-dex-urni.top
 v4-interf.top
 v4-ledger.live
+v4-network.com
 v4-pendle.xyz
 v4-protocolaave.com
 v4-protokols.com
@@ -58176,6 +58203,7 @@ woofipro.com
 woofiswap.app
 woofsolana.com
 woonex.cc
+woosityapp.com
 wooteex.com
 wordlibertyfinancial.net
 wordlibertyfinancial.us
@@ -58599,6 +58627,8 @@ www-ghostware.network
 www-gigachad.org
 www-gor.xyz
 www-grass.io
+www-grok-allocation.xyz
+www-grok-allocations.xyz
 www-guarda.com
 www-gumtree-australia.top
 www-gunz.network
@@ -58764,6 +58794,7 @@ www.clickbawages.buzz
 www.coin8-login-exchange.com
 www.coincatch-login-exchange.com
 www.coincn22.com
+www.coinfloor.uk
 www.cookie.community
 www.crestdynasty.com
 www.cryptictools.com
@@ -58844,6 +58875,7 @@ www.hashsafepro.com
 www.hkbcrypto.com
 www.holddex.com
 www.holdstation-exchange.site
+www.hoopadtrade.com
 www.hotel-booking89.vip
 www.htx.com.kz
 www.htx.com.vc
@@ -60432,6 +60464,7 @@ zoomteammeeting.im
 zoomweb.cc
 zoomxgo.mailling4life.online
 zoomzomzoomzoomzoom.pages.dev
+zoomzoomtests.com
 zoornworkspace.com
 zora-airdrop.org
 zorabridge.app

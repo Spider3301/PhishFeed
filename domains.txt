@@ -14790,6 +14790,7 @@ cointrump.cfd
 coinupdex.com
 coinvesta.org
 coinvestcapitals.com
+coinvesus.com
 coinvs.online
 coinwalix.com
 coinwdfx.com
@@ -18204,6 +18205,7 @@ distributions-realio.com
 distributions-rekt.app
 distributions-rekt.com
 distributions-telco.in
+distributions-uni.com
 distributions-wlfi.org
 district.xyz
 disvipfjp.com
@@ -31983,6 +31985,7 @@ lighter-activity.xyz
 lighter-airdrop.com
 lighter-airdrop.xyz
 lighter-calculator.swishi.xyz
+lighter-checker.xyz
 lighter-lit.com
 lighter-lithub.com
 lighter-network.com
@@ -40251,6 +40254,7 @@ pengusclub.com
 pengusol-drop.fun
 penguvoucher.com
 penguxdrop.fun
+pengy-sol.org
 penlde.run
 penlde.top
 penniefoundation.com
@@ -55582,6 +55586,7 @@ vinsgcs.com
 vintagevista.xyz
 vinted.view-my-orders.icu
 vintoon.com
+vinudex.com
 vinufficial.website
 viocex.com
 vion.ink

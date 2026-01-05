@@ -524,6 +524,7 @@
 1lnch.fi-v2.to
 1lnch.io-defi-vault.com
 1luckyquest.online
+1memesol.cc
 1musk.co
 1nch.com
 1nchs.shop
@@ -4932,6 +4933,7 @@ app-pepeheimer.pages.dev
 app-phalanetwork.xyz
 app-phantom-wallet.framer.ai
 app-pippin.trade
+app-plasma.cfd
 app-plasma.fun
 app-plasma.xyz
 app-plazaflnance.xyz
@@ -26037,6 +26039,7 @@ hodl.place
 hodlddefi.com
 hodldsol.me
 hodlerinsights.app
+hodlmeme.cc
 hodlonsol.net
 hodlroulette.space
 hodting.shop
@@ -28697,6 +28700,7 @@ k901zx.webwave.dev
 k9cryptoagent.com
 kaancagirman.com
 kabuto.allocated.live
+kabuto.solgrid.trade
 kabutoking.digital
 kabutoonsol.com
 kad37.xyz
@@ -42853,6 +42857,7 @@ pumpfun-airdrop-checker.pages.dev
 pumpfun-airdrop.com
 pumpfun-allocation.com
 pumpfun-bonus.com
+pumpfun-bonus.info
 pumpfun-bonus.net
 pumpfun-celebration.com
 pumpfun-celebration.net
@@ -43569,6 +43574,7 @@ rainbow-wallet.pages.dev
 rainbowairdrops.xyz
 rainbowaz.com
 rainbowdefiai.net
+rainbowfish.cc
 rainbownex.net
 rainbows.bet
 rainbows.run

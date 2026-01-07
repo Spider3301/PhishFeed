@@ -213,6 +213,7 @@
 1126ea0c.bfhjbfhjfh.pages.dev
 114030coinbase.com
 1143zoom.com
+114514.exchange
 114514meme.cc
 115224-crypto.com
 11638.my
@@ -800,6 +801,7 @@
 425532coinbase.com
 4337196coinbase.com
 43iyfsbd.pages.dev
+44.193.228.101
 442648coinbase.com
 448620.com
 44daf2aa.purree.pages.dev
@@ -1203,6 +1205,7 @@
 999-884.weebly.com
 999claimbye.live
 99d04a7a-345a-48sc-8ea3-a9a626aa773e-00-3qpe7ieitscyb.live
+99e01fa7.wacon.pages.dev
 99rob.netlify.app
 99walletcrypto.kred
 9a-win.ph
@@ -5031,6 +5034,7 @@ app-new-lido.webflow.io
 app-nniswap.org
 app-nodepoint-web.pages.dev
 app-oai-whatshktw.com
+app-okx-voting-b345f.vercel.app
 app-onino.com
 app-onyxstake.org
 app-openledger.xyz
@@ -5822,6 +5826,7 @@ apps.gobob.network
 apps.rtl.hr
 apps.uniswap-assets.com
 apps.uniswqp.exchange
+appsdownload-suites.framer.media
 appsextension.live
 appsforzoom.com
 appsilo.finance
@@ -7670,6 +7675,7 @@ base-recovery.com
 base-recovery.online
 base-support.ltd
 base-tower.vercel.app
+base-upgrade.net
 base-upgrades.com
 base-vote.club
 base-voteg.rest
@@ -10439,14 +10445,17 @@ btc-live25.com
 btc-mixer.to
 btc-mixers.to
 btc-new.com
+btc-norevia.com
 btc-octela.com
 btc-qr.to
 btc-qrs.to
 btc-reunrex.com
+btc-strc.com
 btc-to-usdt.exchange
 btc-to-xmr.exchange
 btc-tumbler.to
 btc-us.gift
+btc-uss.top
 btc022.qc92.com
 btc16xlexipro.com
 btc2025-today.com
@@ -16785,6 +16794,7 @@ cs880817-wordpress-f5a04.tw1.ru
 csaomiao.org
 csatoritrade.pro
 csbgafrica.com
+cscade.xyz
 csdrip.shop
 cservicefastconsultancydotcom.pages.dev
 csesportsmasters.pro
@@ -18510,6 +18520,7 @@ dexpanel.app
 dexphantom.com
 dexpress.sa.com
 dexprotocol.net
+dexreaction.com
 dexresolvedapp.live
 dexresource.us
 dexresourced.com
@@ -20313,6 +20324,7 @@ eminentglobalinvest.com
 emiratecargoxpress.com
 emirateglobaldeliveryservices.com
 emiratescourier.com
+emiratespost.check0348.cfd
 emiratespost.check2185.sbs
 emiratespost.check6753.shop
 emiratespost.check7706.sbs
@@ -20509,6 +20521,7 @@ en-uphold-usa.pages.dev
 en-us-coimbse-extension-doc.pages.dev
 en-us-coinbase-pro.daftpage.com
 en-us-desktop-ledgre.pages.dev
+en-us-desktopledgre.framer.ai
 en-us-dydx-trade-web.pages.dev
 en-us-ectn-coinase.framer.ai
 en-us-guide-coinbase-com.pages.dev
@@ -22361,6 +22374,7 @@ fcn.weppb.icu
 fconverter.com
 fcsr.online
 fcsr.online.don-melcrencorp.site
+fd6d9f3e.wacon.pages.dev
 fdbit.com
 fdexshipping.com
 fdexshipping.com.muskfoundationofficialdelivery.com
@@ -25554,6 +25568,7 @@ gumlree.check5481.icu
 gumlree.form0287.icu
 gumlree.form1189.live
 gumlree.form6890.icu
+gumlree.form7164.sbs
 gummy.pages.dev
 gummy.v2-cryptolist.org
 gunadex.com
@@ -33927,6 +33942,7 @@ liveclaim-lucky06.vercel.app
 liveclaim-lucky07.vercel.app
 liveclaim-lucky08.vercel.app
 liveclaim-lucky09.vercel.app
+liveconnect.ghost.io
 livedappsyncnode.co
 livedesk.framer.ai
 liveevolution.pro
@@ -34693,6 +34709,7 @@ lunavestia-max.com
 lunax-start.com
 lunbet.cc
 luncas.com
+lund.ungapped.io
 lunefinwex.com
 lunentra-flux.com
 lunero.shop
@@ -37555,6 +37572,7 @@ mm.irocket.pro
 mmadelineandrew.pages.dev
 mmasksupport.com
 mmasmskloggun.webflow.io
+mmdrza.com
 mmetamascologinn.wordpress.com
 mmex-robuux2025.netlify.app
 mmiatseetxin.gitbook.io
@@ -40024,6 +40042,7 @@ ns6.luvbeinghost.com
 nsddb.cc
 nseclub.my
 nstexf.com
+nt-35.fun
 nt34.fun
 ntcoins.created.app
 nte6.shop
@@ -40736,6 +40755,7 @@ openopenbox306.vercel.app
 openopenbox307.vercel.app
 openopenbox308.vercel.app
 openopenbox309.vercel.app
+openrpc.online
 opensaea-logn.pages.dev
 opense-login.pages.dev
 opense-x-logn-get.pages.dev
@@ -43010,6 +43030,7 @@ polkaswap-whitelist.pages.dev
 polkaswap2.io
 polkongres.live
 poll-moonshot.xyz
+polling-okx.vercel.app
 polls-okx.com
 poloniexblock.cc
 poloniexblock.com
@@ -45726,6 +45747,7 @@ register-bullishdegen.fun
 register-bunnie-sol.com
 register-campnetwork.com
 register-canton.network
+register-chain.link
 register-chog.app
 register-coinbse-web.framer.media
 register-coredao.com
@@ -47450,6 +47472,7 @@ satlayeairdrop.pages.dev
 satlayer.claims
 satori-rewards.finance
 satoritrade.pro
+satoshi-savers.com
 satoshiairdrops.com
 satoshidex-net.web.app
 satoshidexv2.live
@@ -56026,6 +56049,7 @@ uneyswarp.cc
 ungleder.no
 unhiswap.co.com
 uni-2026.com
+uni-checker.net
 uni-claim.xyz
 uni-dapps.pages.dev
 uni-dex.net
@@ -57918,6 +57942,7 @@ verify.deagent-ai.app
 verify.faceitaccounts.com
 verify.faceitxrush.top
 verify.form2047.cfd
+verify.form5612.sbs
 verify.form6590.cfd
 verify.form7428.icu
 verify.form7604.world
@@ -59519,6 +59544,7 @@ web3-trusstt-wallet.com
 web3-vaultland.com
 web3-walletdapp-remote-protocol.pages.dev
 web3-zenbot.life
+web3.0ledger.live
 web3.bitgetpro.site
 web3.coin-airdrops.com
 web3.digitalbot.app
@@ -60579,6 +60605,8 @@ wlfi-hub.xyz
 wlfi-live.xyz
 wlfi-lockbox.com
 wlfi-mall.cc
+wlfi-proposal.vercel.app
+wlfi-proposale.vercel.app
 wlfi-reward.top
 wlfi-sol.com
 wlfi-sushi.top
@@ -61457,6 +61485,7 @@ www.connexion-ascendex.com
 www.cookie.community
 www.cornerstonegains.netw.live
 www.crestdynasty.com
+www.criptoherencia.io
 www.cryptictools.com
 www.crypto-web3-us.com
 www.cryptocscxx.com
@@ -61481,6 +61510,7 @@ www.dhl-paketzentral.de
 www.dhl-paketzusteller.de
 www.digifinex-login.com
 www.distribution-plasma.com
+www.dizette.com
 www.dlcex.com
 www.dofus-actualites.com
 www.dofuspoulesnoobs.com
@@ -61665,6 +61695,7 @@ www.shorttradingpol.com
 www.skillfulswiftrecovery.com
 www.skladchinabz.com
 www.skybet138.net
+www.snipe-astrobot.com
 www.solanaholderbot.com
 www.solanasynth.com
 www.solanavolumebot.app

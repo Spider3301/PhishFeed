@@ -4942,6 +4942,7 @@ app-jumperexchange.net
 app-jup.ag
 app-jupiter-swap.org
 app-jupiter-vs8.com
+app-jupuary.xyz
 app-karaknetwork.top
 app-katana-network.xyz
 app-keeta.net
@@ -6795,6 +6796,7 @@ auth-learn-coinbseproo.pages.dev
 auth-ledger-com-secure.square.site
 auth-ledger.com
 auth-lido.webflow.io
+auth-liveledger-live.com
 auth-login-uphold-eng.pages.dev
 auth-mask-x-auth.pineapple.page
 auth-matrica.xyz
@@ -7124,7 +7126,6 @@ axiom-airdrop.pro
 axiom-trade-platform.com
 axiom-trade.de
 axiom.sol-shelter.cc
-axiom.trade
 axiomai.lol
 axiombolt.fun
 axiomdrop.app
@@ -19184,6 +19185,7 @@ download-ledger-live.info
 download-ledger.app
 download-ledger.co.com
 download-ledger.io
+download-ledger.us
 download-live-ledger-3rn.pages.dev
 download-metamask-wallet.typedream.app
 download-phantamwat.pages.dev
@@ -21717,8 +21719,11 @@ exodus-io.io
 exodus-manage.com
 exodus-recovery.app
 exodus-start.com
+exodus-start.io
+exodus-start.us.com
 exodus-task.com
 exodus-v2.com
+exodus-walet.co.com
 exodus-wallet-connect.framer.ai
 exodus-wallet.co.com
 exodus-wallet.org
@@ -32292,6 +32297,7 @@ ledgeer-com-start-eng.pages.dev
 ledgeer-live-en.pages.dev
 ledgeer-live.com
 ledgelive-io.created.app
+ledgelive.io
 ledgelvedownload.created.app
 ledger----live.pages.dev
 ledger--co--start.pages.dev
@@ -32387,6 +32393,7 @@ ledger-desktop.pages.dev
 ledger-devicehelp.com
 ledger-devicerecover.com
 ledger-diagnosticsecure.support
+ledger-download.co.com
 ledger-download.pages.dev
 ledger-dxdlive.pages.dev
 ledger-en-desktop.pages.dev
@@ -32910,6 +32917,7 @@ ledgersnow.com
 ledgersso.created.app
 ledgerstak.dev
 ledgerstaking.io
+ledgerstart.co.com
 ledgerstart.ghost.io
 ledgerstartcom.pages.dev
 ledgerstarts.ghost.io
@@ -32944,6 +32952,7 @@ ledgerworld.cc
 ledgerworld.world
 ledgerxpert.in
 ledgestartio.created.app
+ledgewalet.co.com
 ledggdr.gd
 ledghifur.cc
 ledgifiur.gl
@@ -37001,6 +37010,7 @@ mhsp.mov
 mhsp.zip
 mhvuuj.org
 mi-etta-mask-logjin.godaddysites.com
+mia-ko.xyz
 miaofaka.top
 micarroya.com
 micdrop-market.com
@@ -54695,6 +54705,7 @@ trezor-suite-web-dyz.pages.dev
 trezor-suite.cc
 trezor-suite.co
 trezor-suite.co.com
+trezor-suite.us.com
 trezor-suiteee.pages.dev
 trezor-suites.biz
 trezor-suites.io
@@ -54749,6 +54760,7 @@ trezorio-start-wallet.pages.dev
 trezorio-strt.pages.dev
 trezorio.b12sites.com
 trezorio.ghost.io
+trezoriostat.com
 trezorioweb.github.io
 trezorlgin.pages.dev
 trezorload.io
@@ -57308,6 +57320,7 @@ v-auth-v2.app
 v-auth-v3.app
 v-collab-land-asset.com
 v-recept.ru
+v-tronscan.co.com
 v-vpass-jp.casting-sand.com
 v-vpass-jp.dongqingcaiwu.com
 v-vpass-jp.foryongroup.com

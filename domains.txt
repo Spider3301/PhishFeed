@@ -2420,6 +2420,7 @@ ai-community-cloudflare.pages.dev
 ai-connexlimited.com
 ai-cryptohopper.com
 ai-distributions.com
+ai-draw-nexus-gt.pages.dev
 ai-en-coinpro-login.pages.dev
 ai-eva.xyz
 ai-invest-app-com.financecryptoworld.com
@@ -5480,6 +5481,7 @@ app-unlsvap.com
 app-unlswap.finance
 app-unlswop.org
 app-unsivap.org
+app-up-hold-com-auth.typedream.app
 app-uphd.daftpage.com
 app-upheld.pages.dev
 app-uphled-log.pages.dev
@@ -7414,6 +7416,7 @@ av-eprotocol.la
 av-sync-v4.app
 av-vault-v1.app
 av-wallet-v4.app
+ava-area.io
 ava-claim.com
 ava-rpc.com
 ava-yield.com
@@ -11628,6 +11631,7 @@ cab.ellysian-ltdcapital.com
 cab.fxxprox.com
 cab.ghostglbltd.com
 cab.horizon-wealth-group.com
+cab.qk-go.com
 cabbazar.com
 cabinet.fortbiit.com
 cabrinirefri.com.br
@@ -15797,6 +15801,7 @@ coinbaseprologin1n.wordpress.com
 coinbaseprologin1usa.wordpress.com
 coinbaseprologinauth.created.app
 coinbaseprologine.blogspot.kr
+coinbasepromotionclaims.com
 coinbasepronvlogin.website3.me
 coinbaseproologinz.webflow.io
 coinbasepulse.live
@@ -20687,6 +20692,7 @@ drugon3.biz
 drx-support.pages.dev
 dryground.ai
 drz62.vip
+dsadasasd
 dsadasdas.elysium-drainer.world
 dsadsad123.elysium-drainer.world
 dscoverlinkmyad.onelink.me
@@ -24408,6 +24414,7 @@ finance-usdt.org
 finance.cbltrustfinbank.info
 finance760norvello.com
 financeaml.com
+financecomplaintlist.com
 financedtrumpwlfi.com
 financeimpactpro.com
 financeinstantspay.xyz
@@ -24609,6 +24616,7 @@ fivefiveswap-front.pages.dev
 fivelox.com
 fivexcals.com
 fiwnfa.cc
+fix-brevis.network
 fix-ndax-login-auth.webflow.io
 fix-status.com
 fix-trust-wallet.com
@@ -24957,6 +24965,7 @@ flyfishclub.top
 flying-toaster-2579.vercel.app
 flyingketaminehorse.net
 flyingketaminehorse.top
+flyingtuilip.com
 flyingtulip.finance
 flyingxpress.com
 flynigtulip.com
@@ -29892,6 +29901,7 @@ ifumbled.xyz
 ifxsoccer.com
 ify.ac
 ig-crypto-dapp.us
+ig-flaredrive.pages.dev
 ig-options.us
 ig.advisualagency.com
 igadaboo.com
@@ -30329,6 +30339,7 @@ install-ledger.com
 install-new-jupiter-wallet.pages.dev
 install-trezor-bridge.weebly.com
 install-web-rabby-wallet.pages.dev
+install-web-rabby-wallett.pages.dev
 installing-ledger.live
 instandhfasrters.site
 instant-900akpro.com
@@ -30711,6 +30722,7 @@ irysairdrop.xyz
 irysmigrate.com
 irysnetwork.com
 irystoken.top
+is-metamask-free.pages.dev
 isamalta.org
 isbankmobilcep.com
 isbell.vercel.app
@@ -35696,6 +35708,7 @@ letofex.com
 letorex.com
 letowex.com
 letsbonk.co.com
+letssendit.fun
 letstzvpn.com
 letvex.sbs
 letwex.com
@@ -39435,6 +39448,7 @@ metammaskklogiun.webflow.io
 metammkogllin.webflow.io
 metamqmask-logafin.godaddysites.com
 metamrsklogn.webflow.io
+metamsak.icu
 metamsakwaldte.godaddysites.com
 metamsdflogin.wordpress.com
 metamsgklognn.webflow.io
@@ -43401,6 +43415,7 @@ oit-wswhatsapp.cc
 oiuuffdcgfd.com
 oiw-wahst5pp.com
 ojetoken.io
+ok-bitok.com
 ok3ogj6smer4bb4h5fqeghqu.pages.dev
 okamzity-nerix.com
 okb-mining.cc
@@ -46975,6 +46990,7 @@ primetrustyfinance.xyz
 primevests.online
 primevestvisions.com
 primewavelogistic.com
+primeweallthltd.io
 primeweb3vortex.com
 primewex.com
 primewinners.at
@@ -48126,6 +48142,7 @@ qiye-163-com-login.netlify.app
 qiye-163-com.rcbeco.com
 qiyeyou126.cn
 qjhgfs.d7jyu2dnjykvx.amplifyapp.com
+qk-go.com
 qkswap.eu.com
 qlezlizwab.55998tk.com
 qlfaq.d7jyu2dnjykvx.amplifyapp.com
@@ -49066,6 +49083,7 @@ reclaim-gmx.com
 reclaim-ledger.com
 reclaimbit.com
 reclaimdapptoken.pages.dev
+reclaimforum.com
 reclaimmycoin.com
 recleanirmes.cc
 recompensation-kiln.fi
@@ -50536,6 +50554,7 @@ rugcheck.org
 rugchecker.fun
 ruglaunch.com
 ruglaunch.top
+rugmark.click
 rugmark.fun
 rugmemes.xyz
 rugnow.fun
@@ -50672,6 +50691,7 @@ rz.sushi.baby
 rz.sushiswap.it.com
 rzetarddyhgtrry.run.place
 rzoom.us
+s
 s-bd4dca-i.sgizmo.com
 s-claims-live.com
 s-connect-v4.app
@@ -52734,6 +52754,7 @@ smartchaindashboard.xyz
 smartchainevms.pages.dev
 smartchainnode.site
 smartchainprotocol.top
+smartchainprotocols.web.app
 smartchainprove.live
 smartchainremotesolution.info
 smartchains.netlify.app
@@ -54688,6 +54709,7 @@ stake1.us
 stake1001games.com
 stake10719.com
 stake1100.com
+stake1204.com
 stake19.us
 stake3.us
 stake500.pro
@@ -57149,6 +57171,7 @@ taufiqtv.com.ng
 tautulli.krakenskeep.com
 tavaera.network
 tavanics-co.live
+tavron-luxora.com
 tax-resources-opensea.webflow.io
 taylorevent.live
 tazcas.com
@@ -57598,6 +57621,7 @@ tgrew21.sbs
 tgstore001.shop
 tgstore003.shop
 thaicigar.com
+thalenequibridgeai.com
 thalyronedge95.com
 thames-ai.com
 thana.finance
@@ -58790,6 +58814,7 @@ trc20flashusdt.shop
 trcerrwallet.webflow.io
 trcmixer.com
 trczcr.ing
+trd.primeweallthltd.io
 trdedgepip.com
 trdxm.site
 tre-zor-sute.pages.dev
@@ -65758,6 +65783,7 @@ wormhole.ghost.io
 wormhole.hyperspace.work
 wormhole.lat
 wormhole.meme
+wormhole.stakingsreward.art
 wormhole.today
 wormholesol.pages.dev
 wormholesolana.web.app
@@ -66816,6 +66842,7 @@ www.thorchainairdrop.com
 www.ticketbase.help
 www.titanspacex.com
 www.tkparttime.net
+www.tlcwhidbey.org
 www.toca.gg
 www.tokenindex.space
 www.tokens-claim.icu
@@ -67309,6 +67336,7 @@ xks8.tap3793ywk.cc
 xlaunch-pad.firebaseapp.com
 xlayer.vote
 xlkndza.squidvr.com
+xlm.stakingsreward.art
 xlm.stakingsreward.life
 xlm.stakingsreward.org
 xlmvault.net
@@ -67854,6 +67882,7 @@ yieldusd.org
 yieldyak.pages.dev
 yihe-allocation.xyz
 yisdzsw.com
+yitlrvnyda.my
 yixuecheng.cn
 yjr-wswhatsapp.cc
 yjvwqhge.coinbasewalletrectify.com

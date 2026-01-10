@@ -7565,6 +7565,7 @@ avre.ad
 avronabit.com
 avrpcs.com
 avrygen.com
+avt.stakingsrewards.club
 avtocredit.info
 avtrust.pro
 avukat-dosyam.com
@@ -8390,17 +8391,39 @@ bcexus.com
 bcgame-airdrop.com
 bcgame-app-ru.com
 bcgame-apuestas.com
+bcgame-betwin.com
+bcgame-coinbet.com
+bcgame-freebet.com
 bcgame-freespin.com
 bcgame-grand.com
+bcgame-morocco.com
+bcgame-philippines.com
+bcgame.camp
 bcgame.gold
 bcgame.onl
 bcgame.org.ng
 bcgame.ws
 bcgame1.online
+bcgame2.com
+bcgame31.com
+bcgame32.com
+bcgame33.com
+bcgame39.com
+bcgame41.com
+bcgame42.com
+bcgame43.com
+bcgame44.com
+bcgame51.com
+bcgame53.com
+bcgame8.vip
 bcgamecanada.com
 bcgamecasino.es
 bcgameindian.com
+bcgamepwa3.com
 bcgamer-app.com
+bcgameru1.com
+bcgametr.com
+bcgamevn1.com
 bchainet.icu
 bck.streamlinewarpnetwork.top
 bckrmemeonsol.com
@@ -9145,6 +9168,7 @@ bifrostrecovery.online
 bifrostwallss.pages.dev
 big-stake.com
 bigbeautifulairdrop.com
+bigbro24.store
 bigbroremo.com
 bigbrotip.com
 bigcoinstech.com
@@ -17565,6 +17589,7 @@ crv.portal-drops.club
 crv.portal-drops.dev
 crv.stakingsreward.org
 crv.stakingsreward.pro
+crv.stakingsrewards.club
 crv.sushi-com.one
 crv.sushiswap.buzz
 crv.sushiswap.lol
@@ -18890,6 +18915,7 @@ dbr.beefyhubs.sbs
 dbr.portal-hubs.lat
 dbr.portal-hubs.sbs
 dbr.stakingsreward.pro
+dbr.stakingsrewards.club
 dbs-vi.com
 dbs-vietnam.com
 dbs.thedigiservice.com
@@ -20495,6 +20521,7 @@ dot.beefyhubs.lol
 dot.beefyhubs.sbs
 dot.stakingreward.dev
 dot.stakingsreward.art
+dot.stakingsrewards.club
 dot.sushi-com.bond
 dot.sushi-com.cyou
 dot.sushi-com.surf
@@ -25566,6 +25593,7 @@ fuel.beefyhubs.lol
 fuel.beefyhubs.monster
 fuel.hub-airdropalert.click
 fuel.portal-hubs.sbs
+fuel.stakingsrewards.club
 fuelconnects.net
 fuelnetwork.pw
 fuelweb.xyz
@@ -37092,6 +37120,7 @@ login.workshopcomingmod.com
 login.workshopcomingskin.com
 login.workshopcommunityrare.com
 login.workshopcommunityworks.com
+login.workshopcontenthub.com
 login.workshopcontentvote.com
 login.workshopcreatedmods.com
 login.workshopcreatorsdesign.com
@@ -43740,6 +43769,7 @@ omni.beefyapps.cfd
 omni.beefyapps.lol
 omnifoundation.co
 omnihubs.network
+omniscient-app.vercel.app
 omnispin.cc
 omniwealthfinance.com
 omnixdrop.com
@@ -53543,6 +53573,7 @@ solana-tool.com
 solana-tracker.pages.dev
 solana-trading.biz
 solana-up.life
+solana-usdc.solabast.top
 solana-vault.borrelly-betta.ts.net
 solana-vm.pages.dev
 solana-vms.pages.dev
@@ -55671,6 +55702,7 @@ store.communityonlinedev.com
 store.communitysectionsitem.com
 store.communityshopitem.com
 store.communityshopitems.com
+store.communityshopsitem.com
 store.communityuserdev.com
 store.communityworkshopowered.com
 store.communityworkshopstore.com
@@ -55711,6 +55743,7 @@ store.workshopcomingmod.com
 store.workshopcomingskin.com
 store.workshopcommunityrare.com
 store.workshopcommunityworks.com
+store.workshopcontenthub.com
 store.workshopcontentvote.com
 store.workshopcreatedmods.com
 store.workshopcreatormod.com
@@ -60807,6 +60840,7 @@ uniswap-global.limited
 uniswap-interface-five.vercel.app
 uniswap-interface-uniswap.vercel.app
 uniswap-investor.org
+uniswap-joy.vercel.app
 uniswap-pool.com
 uniswap-register.limited
 uniswap-reviewers.web.app
@@ -62365,6 +62399,7 @@ valpox.com
 valtrionex.ink
 vampire.dj
 van-exchange.com
+vana.stakingsrewards.club
 vanareward.live
 vanarreward.live
 vancehorizonbk.online
@@ -63594,6 +63629,7 @@ vvv.beefyhubs.xyz
 vvv.hub-airdropalert.cfd
 vvv.portal-hubs.lat
 vvv.portal-hubs.sbs
+vvv.stakingsrewards.club
 vvvv5677.weebly.com
 vvwvv---roblox.com
 vwa-co.in
@@ -67552,6 +67588,7 @@ xcoin-chain.io
 xcoin-crypto.com
 xcoin-crypto.io
 xcoin-crypto.org
+xcoin-tech.com
 xcoin-tech.io
 xcoin-web3.io
 xcoinflow.com

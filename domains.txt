@@ -115,6 +115,7 @@
 0ff45719-2e69-4ef0-91bd-4c01bce3f5ab-00-325o1z1mbm1cf.spock.replit.dev
 0fflclalremittixx.com
 0g-foundiation-claim.netlify.app
+0g.stakingrewards.biz
 0g.stakingsreward.org
 0gfoundation.icu
 0gfoundation.world
@@ -3463,8 +3464,10 @@ akt.beefyhubs.xyz
 akt.hub-airdropalert.cfd
 akt.portal-drops.cfd
 akt.stakingreward.app
+akt.stakingrewards.biz
 akt.stakingsreward.life
 akt.stakingsreward.one
+akt.stakingsrewards.club
 aktifkaan-paylatersx4.resmi-cxh3.art
 aktifkaanpaylatters.dfg.my.id
 aktifkaanpaylatters.utrf.my.id
@@ -3664,6 +3667,7 @@ allnodesynce.com
 allo-xyz.com
 allo.airdropsalert.life
 allo.quest
+allo.stakingrewards.biz
 allo.stakingsreward.org
 allo.stakingsrewards.club
 alloca.art
@@ -7003,6 +7007,7 @@ astr.beefyhubs.sbs
 astr.beefyhubs.xyz
 astr.portal-drops.club
 astr.portal-hubs.sbs
+astr.stakingrewards.biz
 astr.stakingsreward.org
 astra-nucleus.pages.dev
 astra-range.pages.dev
@@ -11971,6 +11976,7 @@ camp-network.com
 camp-network.xyz
 camp.airdropsalert.life
 camp.stakingreward.dev
+camp.stakingrewards.biz
 campaign-2.biz.id
 campaign-ledger.com
 campaign-stable.com
@@ -16913,6 +16919,7 @@ communityworkshopstore.com
 comnicate.com
 comp-sushi.xyz
 comp.stakingsreward.life
+comp.stakingsrewards.club
 companycloud.lol
 comparssfreightlogistics.com
 compasshomeproperties.com.mizankanz.online
@@ -20781,6 +20788,7 @@ dot.beefyhubs.click
 dot.beefyhubs.lol
 dot.beefyhubs.sbs
 dot.stakingreward.dev
+dot.stakingrewards.biz
 dot.stakingsreward.art
 dot.stakingsrewards.club
 dot.sushi-com.bond
@@ -22924,6 +22932,7 @@ ether444.pages.dev
 etheral.com
 etherax.finance
 etherbank.cloud
+etherbutts.wtf
 etherc20.cc
 ethercama.com
 etherchain.world
@@ -22986,6 +22995,7 @@ ethereum360.app
 ethereum70olux.com
 ethereumairdrop.com
 ethereumairdrop.sbs
+ethereumasd.com
 ethereumblender.to
 ethereumboo.top
 ethereumbot-app.com
@@ -22996,6 +23006,7 @@ ethereumcoo.top
 ethereumeprexxp-com-gen1.trackfinanceworld.com
 ethereumevexaipro-com.trackfinanceworld.com
 ethereumfund.top
+ethereumiop.com
 ethereumixer.to
 ethereumledger.cloud
 ethereummergesystem-com.cryptofinancetrack.com
@@ -24814,6 +24825,7 @@ fil.beefyhubs.xyz
 fil.hub-airdropalert.cfd
 fil.portal-hubs.sbs
 fil.stakingreward.dev
+fil.stakingrewards.biz
 fil.stakingsrewards.club
 filarbitrevo.com
 filatov-copytradingpro-invite.com.bybit-invite-copytrading.app
@@ -28667,6 +28679,7 @@ haedal.airdropsalert.us
 haedal.airdrpalert.click
 haedal.airdrpsalerts.click
 haedal.airdrpsalerts.lat
+haedal.stakingrewards.biz
 haedal.sushi.us.com
 hahahle1998.fnos.net
 haicommunityai.com
@@ -36539,6 +36552,7 @@ lidofinanceeee.webflow.io
 lidofinancespace.webflow.io
 lidofincee.gitbook.io
 lidomatire-mohammadi.com
+lidoo.xyz
 lidoofinancee.gitbook.io
 lidopinodoro.com
 lidopoints-award.com
@@ -46906,6 +46920,7 @@ plume.hub-airdropalert.cfd
 plume.portal-hubs.lat
 plume.portal-hubs.sbs
 plume.stakingreward.dev
+plume.stakingrewards.biz
 plume.stakingsreward.art
 plume.stakingsreward.life
 plume.stakingsreward.org
@@ -47062,6 +47077,7 @@ polkadot.hub-airdropalert.cfd
 polkadot.icu
 polkadot.lol
 polkadot.portal-hubs.lat
+polkadot.stakingrewards.biz
 polkadotapp.space
 polkadotbulk.pages.dev
 polkadotcoklat.pages.dev
@@ -47156,6 +47172,7 @@ polymarket-docs.acceso.dev
 polymarket-elon-tracker.com
 polymarket-gym.com
 polymarket-us.live
+polymarket-us.pages.dev
 polymarket-verification.com
 polymarket.academy
 polymarket.airdropalert.us
@@ -52145,6 +52162,7 @@ sca.beefyhubs.sbs
 sca.beefyhubs.xyz
 sca.hub-airdropalert.cfd
 sca.portal-hubs.lat
+sca.stakingrewards.biz
 sca.stakingsreward.art
 sca.stakingsreward.org
 sca.sushiswap.lol
@@ -58043,6 +58061,7 @@ tabichain.org
 tabitoken.xyz
 tablelog.n-e.kr
 tac.org.airdropsalert.life
+tac.stakingrewards.biz
 tac.stakingsreward.org
 tac.stakingsrewards.club
 tacgbr.pro
@@ -59652,6 +59671,7 @@ trade-58zemro.com
 trade-9brexa.com
 trade-coinbse-io-logii.pages.dev
 trade-dex.net
+trade-dinexio.com
 trade-dydx-en-us.pages.dev
 trade-dydx.app
 trade-exodus.com
@@ -61091,6 +61111,7 @@ turstbitwage.digital
 turtle-app.xyz
 turtle-liquidity.xyz
 turtle-livechecker.xyz
+turtle.stakingrewards.biz
 turtle.stakingsrewards.club
 turtlechain.xyz
 turtleclaimpad.uno
@@ -63188,6 +63209,7 @@ valpox.com
 valtrionex.ink
 vampire.dj
 van-exchange.com
+vana.stakingrewards.biz
 vana.stakingsrewards.club
 vanareward.live
 vanarreward.live
@@ -63388,6 +63410,7 @@ velin.network-resource-zone.com
 velitaut.cfd
 velitratione.cfd
 velixo.one
+vellius.com
 velmo-coin-ai.com
 velnekirpro.com
 veloce-finvexo.net
@@ -64506,6 +64529,7 @@ w.mintiab.pro
 w.portal-hubs.lat
 w.portal-hubs.sbs
 w.stakingreward.dev
+w.stakingrewards.biz
 w.stakingsreward.org
 w.stakingsrewards.club
 w.unieswap.financial
@@ -68541,6 +68565,7 @@ xks8.tap3793ywk.cc
 xlaunch-pad.firebaseapp.com
 xlayer.vote
 xlkndza.squidvr.com
+xlm.stakingrewards.biz
 xlm.stakingsreward.art
 xlm.stakingsreward.life
 xlm.stakingsreward.org
@@ -69283,6 +69308,7 @@ zama-public.com
 zama.auction
 zama.finance
 zama.sale
+zama.stakingrewards.biz
 zama.stakingsreward.art
 zama.stakingsreward.org
 zama.web3-testnet.com

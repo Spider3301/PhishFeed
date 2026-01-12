@@ -3577,6 +3577,7 @@ alive1-kittens.surge.sh
 alizebot.co
 alkimi.pro
 alkimi.stakingsreward.one
+alkimi.stakingsrewards.club
 alkjglkr.cc
 alkjglkr.top
 alkjglkr.xin
@@ -3664,6 +3665,7 @@ allo-xyz.com
 allo.airdropsalert.life
 allo.quest
 allo.stakingsreward.org
+allo.stakingsrewards.club
 alloca.art
 alloca.org
 allocate-balancer.xyz
@@ -7067,6 +7069,7 @@ atesada.shop
 ath.airdropalerts.pro
 ath.fail
 ath.rip
+ath.stakingrewards.biz
 ath.stakingsreward.life
 athcheck.com
 athcheck.xyz
@@ -8333,6 +8336,7 @@ baselpo.sbs
 basely.org
 basemail.fun
 basementselfsolve.com
+basemigration.netlify.app
 baseminingprotocol.com
 basenextfocus.sbs
 baseoai.com
@@ -11898,6 +11902,7 @@ cainbaseprologin.onepage.website
 caishenedges.com
 caishenedges.com.royallinkresource.com
 caissregionsagrico.istmein.de
+caivax.com
 caixabankeur.com
 caixadirecta-particular.com
 caixageralrelatar.com
@@ -13442,6 +13447,7 @@ churchill-claims.net
 chusko.com
 chz.airdropsalert.us
 chz.stakingreward.app
+chz.stakingsreward.art
 chz.stakingsreward.org
 chz.stakingsrewards.club
 chzelada.pages.dev
@@ -17474,6 +17480,7 @@ cow.portal-hubs.lol
 cow.portal-hubs.sbs
 cow.stakingreward.app
 cow.stakingreward.dev
+cow.stakingrewards.biz
 cow.stakingsrewards.club
 cow.sushi-cn.xyz
 cow.sushi-com.surf
@@ -19317,6 +19324,7 @@ decentralizednode.net
 decentralizedonchain.com
 decentralizedpanelfix.com
 decentralizedpanelfixs.com
+decentralizedraydiummarket.online
 decentralizenets.pages.dev
 decentralnodehub.com
 decentrastake.com
@@ -22451,6 +22459,7 @@ eniswin.com
 enjin-airdrop.com
 enjoyrestaurante.com
 enkrypt-com.pages.dev
+enlargees.shop
 enlconsortium.com
 enledgerlivelogin.blogspot.be
 enlist-monad.app
@@ -23229,6 +23238,7 @@ euler.hub-airdropalert.click
 euler.portal-drops.sbs
 euler.portal-hubs.lat
 euler.portal-hubs.sbs
+euler.stakingrewards.biz
 eulerai.app
 eulerfenance.org
 eulerfinance.live
@@ -27033,6 +27043,7 @@ glistening-lollipop-b6abb4.netlify.app
 glitchesbykayn.com
 gliterovex.net
 glm.stakingsreward.one
+glm.stakingsrewards.club
 glmr.airsdropsalerts.cfd
 gloaxuat.ip-ddns.com
 global-assets.site
@@ -32905,6 +32916,7 @@ kinolartta.com
 kintsu.events
 kiolax.com
 kiomg.com
+kiovex.com
 kirakenuslog.webflow.io
 kirekenlogi.wordpress.com
 kirenunlciun.webflow.io
@@ -36725,6 +36737,7 @@ linea.corefoundation.xyz
 linea.hub-airdropalert.click
 linea.ignitionbravis.com
 linea.portal-hubs.cfd
+linea.stakingrewards.biz
 lineaaecosystem.com
 lineaairdrop.pages.dev
 lineaairdrops.info
@@ -39251,6 +39264,7 @@ meitmsklgvn.webflow.io
 meitmsklgxn.webflow.io
 meitmsklgzn.webflow.io
 meivex.com
+meiwax.com
 meixmetalogiin.gitbook.io
 melaga-rewards.com
 melanask.org
@@ -40382,6 +40396,7 @@ metis.hub-airdropalert.cfd
 metis.hub-airdropalert.click
 metis.portal-drops.icu
 metis.portal-drops.sbs
+metis.stakingsreward.art
 metis.stakingsreward.org
 metis.stakingsrewards.club
 metisai.ai
@@ -41167,6 +41182,7 @@ mmt.flinance.zone
 mmt.flnance.zone
 mmt.portal-hubs.sbs
 mmt.stakingsreward.life
+mmt.stakingsrewards.club
 mmtcommunity.xyz
 mmtemssk-loggm.gitbook.io
 mmtfi.com
@@ -42699,6 +42715,7 @@ naviq.top
 navisajewellery.com
 naviso.pages.dev
 navuphold.created.app
+navx.stakingsrewards.club
 navyfedbank.com
 nawasenadigilab.com
 nazaa.ng
@@ -43477,6 +43494,7 @@ niggaliquid.lol
 niggaliquid.net
 nighixw.vip
 night-vote.org
+night.stakingsreward.art
 nightapp-delta.vercel.app
 nightder.vip
 nighttoken.online
@@ -47155,6 +47173,7 @@ polymarket.airdrpsalerts.life
 polymarket.airdrpsalerts.xyz
 polymarket.airsdropalert.click
 polymarket.airsdropsalert.lol
+polymarket.altsportsleagues.ai
 polymarket.app-airdropalert.lat
 polymarket.be
 polymarket.beefy-hub.lol
@@ -49862,6 +49881,7 @@ recall.beefyhubs.lol
 recall.beefyhubs.monster
 recall.portal-drops.icu
 recall.portal-hubs.cfd
+recall.stakingsrewards.club
 recallevm.network
 recallnetwork.net
 recalls-foundation.com
@@ -50946,6 +50966,7 @@ rls.beefyhubs.cfd
 rls.beefyhubs.monster
 rls.stakingrewards.biz
 rls.stakingsreward.org
+rls.stakingsrewards.club
 rmhfd.com
 rmtz.it
 rnailerrlite.com
@@ -52132,6 +52153,7 @@ scaledwithnexus.com
 scalewithsbedigital.com
 scaling-waffle-sigma.vercel.app
 scallop.airdropsalert.life
+scallopportal.pages.dev
 scam-assist.co.uk
 scam.moscow
 scam.uxento.io
@@ -52661,6 +52683,7 @@ seegax.cc
 seehlprotokol.top
 seekcas.com
 seeker-solana.com
+seeker.solanamobile.life
 seekerassetsrecovery.com
 seekervault-mobile.vercel.app
 seeksledger.com
@@ -54786,6 +54809,7 @@ soph.portal-drops.icu
 soph.portal-hubs.sbs
 soph.stakingreward.dev
 soph.stakingsreward.life
+soph.stakingsrewards.club
 soph.sushi-com.top
 sophon.airdropalert.us
 sophon.airdropalerts.icu
@@ -58215,6 +58239,7 @@ techhubslimited.com
 techintegrationapp.com
 techinvero.com
 techlayer3.com
+technicalsupportdesk.cfd
 technicalweb3tools.xyz
 technicrefund.com
 techoptimusgs.com
@@ -60265,6 +60290,7 @@ tron-check.com
 tron-claim.info
 tron-claim.xyz
 tron-convert.homes
+tron-convert.sbs
 tron-drop.com
 tron-ekovirta-app.com
 tron-energy.us
@@ -61406,6 +61432,7 @@ umbra-login.com
 umbra-whitelist.com
 umbra.events
 umbra.onsol.sbs
+umbra.stakingsreward.art
 umbra.stakingsreward.org
 umbra.stakingsrewards.club
 umbracex.com
@@ -62046,6 +62073,7 @@ uphold-logins.blogspot.com
 uphold-logins.blogspot.fi
 uphold-logins.blogspot.hu
 uphold-logins.blogspot.it
+uphold-logins.blogspot.lt
 uphold-lohgin.pages.dev
 uphold-loogin.blogspot.co.uk
 uphold-loogin.blogspot.com
@@ -62452,6 +62480,7 @@ usdart.top
 usdaudit.net
 usdaudit.org
 usdc-app.gabriel-galati.com
+usdc-defi-lm.top
 usdc-drops.com
 usdc-eth.co
 usdc-eth.pro
@@ -64527,6 +64556,7 @@ wakfu-gift.shop
 wal.airdropalerts.pro
 wal.airdropalerts.vip
 wal.stake-wal.com
+wal.stakingsreward.art
 wal.stakingsrewards.club
 walacas.com
 walat-eng-coiibase-extt.daftpage.com
@@ -67435,6 +67465,7 @@ www.bywsz.com
 www.campnetwork.site
 www.capexrecovery.com
 www.capital-trade.pro
+www.capitaltrace.net
 www.cargoworld.us.lancelotgroupllc.com
 www.casinomeerkat.com
 www.catcoin-drop.xyz
@@ -68720,6 +68751,7 @@ xpl-drop.xyz
 xpl-fdn.xyz
 xpl.airdropalerts.pro
 xpl.icn-global.org
+xpl.stakingsreward.art
 xpl.stakingsreward.org
 xpl.stakingsrewards.club
 xplay.casino
@@ -69274,6 +69306,7 @@ zapperjp.com
 zapperjp.pro
 zapycas.com
 zardeltrading.net
+zarixcoin.com
 zarnovo.buzz
 zarobet.cc
 zartalk.click

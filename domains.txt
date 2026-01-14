@@ -1709,6 +1709,7 @@ absolute-fairness.org
 abstra-v3.vercel.app
 abstract-9fmrav.testnet.nfts2.me
 abstract-eg.com
+abstract-source-factory.pages.dev
 abstract.airdopalert.icu
 abstract.airdropalert.onl
 abstract.airdropalert.us
@@ -5962,6 +5963,7 @@ app.mortunityfin.com
 app.movequests.com
 app.msnrenewmicro.com
 app.mysubwallet.ng
+app.nadodex.com
 app.neoforumpro.com
 app.network3.click
 app.netxworld.xyz
@@ -6514,6 +6516,7 @@ arc.credits-center.com
 arcadafinance.xyz
 arcadia-golds.org
 arcan.eu.com
+arcas.bet
 arcflow.projecteligibility.xyz
 arcflow.web.app
 arcflowfinance.xyz
@@ -8814,6 +8817,7 @@ begomex.com
 begspace.com
 being-coiis-app-en.pineapple.page
 being-opensea.pages.dev
+beivax.com
 beklemebasvur.sbs
 bekou.lol
 belastingdienst.website
@@ -12134,6 +12138,7 @@ candyspinss.com
 canglly.cc
 cannabisinlinea.net
 cannarinvest.pro
+canopynetwork.app
 canton-community.cfd
 canton-tge.com
 canton.plus
@@ -13141,6 +13146,7 @@ challengegg.pro
 challengegg.world
 challengehub.world
 challengehubs.pro
+challengem.pro
 challengemode.pro
 challengemodes.pro
 challengereasy.pro
@@ -13551,6 +13557,7 @@ christmas.cysic-community.xyz
 christmass-pump.fun
 chrom-coinbse-extenson-us.square.site
 chrom-com-coin.pages.dev
+chrome
 chrome--coinbase-extension.pages.dev
 chrome-coinbase-extension.typedream.app
 chrome-coinbase-extensionn.created.app
@@ -14424,6 +14431,7 @@ claim.dupesolana.xyz
 claim.emulites.world
 claim.espresso-foundation.com
 claim.esqresso.foundation
+claim.esrpesso.com
 claim.etherexfi.xyz
 claim.etherieum.com
 claim.evisacam.cm
@@ -18378,6 +18386,7 @@ csaomiao.org
 csatoritrade.pro
 csbgafrica.com
 cscade.xyz
+cschallenger.net
 csdrip.shop
 cservicefastconsultancydotcom.pages.dev
 csesportsmasters.pro
@@ -20043,6 +20052,7 @@ derivetivaex.cc
 derivetivaex.top
 derivetivas.cc
 derofex.com
+derotex.com
 derowin.com
 derribitx.com
 dertvyn.com
@@ -20408,6 +20418,7 @@ diamondassetmagts.com
 diamondcash.art
 diamondcash.club
 diamondcash.live
+diamondeth.com
 diamondhandbeta.net
 diamondhandsbeta.net
 diamondorpaper.com
@@ -24082,6 +24093,7 @@ eyovip.shop
 ez-spin.com
 ezcasino.su
 ezchallenger.net
+ezchallengerz.pro
 ezchallenges.net
 ezchallenges.pro
 ezcoinsol.com
@@ -25956,6 +25968,7 @@ foxy.claims
 foxyclaims.com
 foxydex.com
 foxygroups.com
+fozerex.com
 fozewex.com
 fpagesafety.net
 fpakb0y3zb5ah8nt5553ypdk.pages.dev
@@ -27731,6 +27744,7 @@ gov-nillion.xyz
 gov.subsidy-winters.cyou
 govbtcclaim.org
 govco.site
+govercasino.com
 govern-aave.com
 govern-hyperfoundation.xyz
 govern.credits-center.com
@@ -30084,6 +30098,7 @@ hubchallenge.net
 hubchallenge.pro
 hubchallenger.net
 hubchallenger.pro
+hubchallengerz.net
 hubdates.icu
 hublearndesktop-login.webflow.io
 hubpalmai.com
@@ -30125,6 +30140,7 @@ humidifi-jup.live
 humidify-jup.xyz
 hunbit.com
 hundestation.ch
+hunegex.com
 hungry-clarke.217-160-41-212.plesk.page
 hunkas.com
 hunt-sushi.xyz
@@ -34833,6 +34849,7 @@ krakengift-com.pages.dev
 krakengoldrush.com
 krakenhelpdesks.com
 krakenhelpnow.readthedocs.io
+krakenhelpslogin.pages.dev
 krakeninfowebsite.site
 krakeninterestbinaries.icu
 krakeninvitecode.carrd.co
@@ -48360,6 +48377,7 @@ privixclaim.website
 privnote.co
 privnote.online
 privnotell.com
+privnoto.com
 privy-verification.is
 privyairdrop.xyz
 priwnotes.com
@@ -51489,6 +51507,7 @@ rixy.bet
 rizmas.xyz
 rizodex.com
 rizowex.com
+rizwex.com
 rizzmas-bonus.lol
 rizzmas-drop.fun
 rizzmas-events.xyz
@@ -54991,6 +55010,7 @@ solbitget.click
 solblast.com
 solblockchainsupport.com
 solbond.cc
+solbplug.xyz
 solbullishdegen.com
 solcard-cc.netlify.app
 solcard-en.xyz
@@ -63951,6 +63971,7 @@ valox.shop
 valoxspin.com
 valpox.com
 valtrionex.ink
+valuebridgecapitals.com
 vampire.dj
 van-exchange.com
 vana.stakingrewards.biz
@@ -65723,6 +65744,7 @@ waterneutral.foundation
 watersealuae.top
 watersoftenersandfilters-ggvb.pages.dev
 wathapp.shop
+watomy.com
 watoxe.bet
 watoxebet.com
 wattprotocol.com
@@ -67090,6 +67112,7 @@ wink.casino
 winkaza.com
 winking.me
 winkometa.com
+winlabx.com
 winlaxy.com
 winlaxy.online
 winlaxy.top
@@ -70597,6 +70620,7 @@ zonabet303-a1.shop
 zonacas.com
 zonawallet.com
 zonbet.bet
+zonegex.com
 zonemaxs.vip
 zonewebmaster.eu
 zoo.pnckswp.financial

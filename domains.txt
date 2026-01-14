@@ -23322,6 +23322,7 @@ ethfi--sushi.xyz
 ethfi-sushi.network
 ethfl.pages.dev
 ethflowio.com
+ethfortnite.com
 ethfree.org
 ethgas.art
 ethgas.cc
@@ -24226,6 +24227,7 @@ facebooksuporteolaine.blogspot.com
 facebookzaman.blogspot.com
 faceit-confirms.com
 faceit-events.com
+faceit-verify-clubs.com
 faceit.5v5room.com
 faceit.auth-connectdiscord.com
 faceit.auth-gglegendscup.com
@@ -37282,6 +37284,7 @@ linktron84.worker-6ffadacf.workers.dev
 linktron88.worker-344b4f4e.workers.dev
 linktron9.worker-31a58e30.workers.dev
 linkyield.org
+linucoin.com
 liobax.com
 liobet.cc
 liobets.com
@@ -38013,6 +38016,7 @@ login.workshoprated.com
 login.workshopratedmods.com
 login.workshopratemods.com
 login.workshopratesmods.com
+login.workshoprewardvote.com
 login.workshopsavemods.com
 login.workshopsharedmods.com
 login.workshopskindev.com
@@ -57103,6 +57107,7 @@ store.workshoprated.com
 store.workshopratedmods.com
 store.workshopratemod.com
 store.workshopratesmods.com
+store.workshoprewardvote.com
 store.workshops-design.com
 store.workshopsavemods.com
 store.workshopskindeveloper.com

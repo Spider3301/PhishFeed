@@ -318,6 +318,7 @@
 1565wwwww.com
 1565xx.com
 1565yyyyy.com
+157.90.151.47
 158.94.209.154
 158940-coinbase.com
 16.162.109.204
@@ -2808,10 +2809,12 @@ airdrop-hyperdrive.live
 airdrop-hyperiiquid.xyz
 airdrop-hyperion.com
 airdrop-hyperlane.live
+airdrop-hyperliquid.claims
 airdrop-hyperliquid.finance
 airdrop-hyperliquid.fun
 airdrop-hyperliquid.live
 airdrop-hyperliquid.org
+airdrop-hyperliquid.trade
 airdrop-hyperliquids.xyz
 airdrop-ibvm.live
 airdrop-iinea.build
@@ -3275,6 +3278,7 @@ airdrops-blackhole.xyz
 airdrops-goat.network
 airdrops-hub.com
 airdrops-humafinance.xyz
+airdrops-hyperiiquid.xyz
 airdrops-hyperliquid.com
 airdrops-mmtfinance.app
 airdrops-mmtfinance.xyz
@@ -5364,6 +5368,7 @@ app-hyperliquid.exchange
 app-hyperliquid.site
 app-hyperliquidl.cam
 app-hyperliquidl.eu.com
+app-hyperliquiid.xyz
 app-hyperliquild.vip
 app-hyperliquild.xyz
 app-hyperliquild.zip
@@ -5898,6 +5903,7 @@ app.hyperlelend.finance
 app.hyperliqdex.xyz
 app.hyperliqliud.xyz
 app.hyperliquid.denismandarino.com
+app.hyperliquid.xyz
 app.hyperliquid.xyz.patrosec.ro
 app.hyperliquidex.net
 app.hyperliqulb.xyz
@@ -6789,6 +6795,7 @@ asset-auth.xyz
 asset-collab.land
 asset-dashlboard.it.com
 asset-hash.ltd
+asset-hyperliquid.app
 asset-permit.xyz
 asset-pro-conbase.pages.dev
 asset-savings.com
@@ -8474,6 +8481,7 @@ basestockai.com
 basesupport.click
 basesupport.live
 basesupport.site
+basesushiswap.org
 basetoken.bitget-infomation.com
 basetoken.sale
 basetoken.top
@@ -13021,6 +13029,7 @@ chaindappsintegration.com
 chaindesks.com
 chaindiggerretrievers.com
 chainflip-mainnet.xyz
+chainflip.icu
 chaingedesktopv2.com
 chaingewebsystem.pro
 chaingpt-0x0000.fun
@@ -13228,6 +13237,7 @@ chamrai829927-prog.github.io
 chanbay.xyz
 chancecore.com
 chanced.bet
+chanflip.xyz
 chang-nowe.at
 change-now1.odoo.com
 change-web3.space
@@ -14330,6 +14340,7 @@ claim-wallitiq.com
 claim-wallstreetpepe.app
 claim-walrus.app
 claim-wet.org
+claim-whitewhale.live
 claim-wienerdog.pages.dev
 claim-wilderworld.website
 claim-windheaven.lol
@@ -14869,6 +14880,7 @@ claimfi-dapp.netlify.app
 claimfidapp.netlify.app
 claimfiesta.pages.dev
 claimfinder.top
+claimflarex.live
 claimflarexrp.com
 claimflockerz.pages.dev
 claimfloki.pages.dev
@@ -15031,6 +15043,7 @@ claims-gfoxtoken.pages.dev
 claims-grass.app
 claims-grass.com
 claims-hyperliquid.foundation
+claims-hyperliquid.org
 claims-hyperwavefi.xyz
 claims-injective.com
 claims-irys.org
@@ -23992,6 +24005,7 @@ exoduspayweb3.com
 exodusproof.net
 exodusrpc.pages.dev
 exoduss-lgn-web3-en-doc.pages.dev
+exodussecure.wordpress.com
 exodustrading-ai.com
 exodusts.com
 exodusue.com
@@ -24171,6 +24185,7 @@ extsy-token.live
 extyhub.org
 exudas-walletx.godaddysites.com
 exupx.com
+exusdwb3-wallets.gitbook.io
 exvolv.org
 exwun.com
 exxo-web3.framer.media
@@ -25441,6 +25456,7 @@ fix-trust-wallet.com
 fix-trustwallet.com
 fix.nodedapp.pro
 fixall-phantomissue.web.app
+fixbotpage.com
 fixccappexperts.pages.dev
 fixdapp.icu
 fixdfloat.com
@@ -28283,6 +28299,7 @@ guorax.com
 gurnax.com
 gurodex.com
 gurofex.com
+gurusconnect.biz
 guscas.com
 gusdex.com
 gusdt-merkl.xyz
@@ -30369,6 +30386,7 @@ hyper-liqiud.com
 hyper-liqiud.net
 hyper-liquid.co.com
 hyper-liquid.com
+hyper-liquid.finance
 hyper-liquid.network
 hyper-liquid.pages.dev
 hyper-liquid.to
@@ -30499,9 +30517,11 @@ hyperliquid-dash.org
 hyperliquid-decentralized-layer-1-blockchain.com
 hyperliquid-deposit.pages.dev
 hyperliquid-dex.org
+hyperliquid-event.org
 hyperliquid-ex--change.pages.dev
 hyperliquid-exchange.github.io
 hyperliquid-exchangee-en-us.pages.dev
+hyperliquid-filter.xyz
 hyperliquid-filtering.xyz
 hyperliquid-home.github.io
 hyperliquid-hub.cc
@@ -30516,6 +30536,7 @@ hyperliquid-traces.web.app
 hyperliquid-traces.xyz
 hyperliquid-tracing.web.app
 hyperliquid-tracking.xyz
+hyperliquid-trade.xyz
 hyperliquid-us.at
 hyperliquid-usdc.pages.dev
 hyperliquid-usdh.com
@@ -30558,18 +30579,26 @@ hyperliquid.mba
 hyperliquid.review
 hyperliquid.sex
 hyperliquid.sh
+hyperliquid.sk
 hyperliquid.st
 hyperliquid.stakevip-bonus.com
 hyperliquid.tbits.io
+hyperliquid.trade
 hyperliquid.us.org
 hyperliquid.w3-app.com
 hyperliquid.web-sys.digital
+hyperliquid.win
+hyperliquid.wtf
+hyperliquid.xyz
 hyperliquid.xyz-app-v5-wallet-connect.com
 hyperliquid.xyz-check-walelt-v3.com
 hyperliquid.xyz-wallet-v2-api-connect.com
+hyperliquida.xyz
+hyperliquidai.xyz
 hyperliquidairdrop.dev
 hyperliquidairdrop.net
 hyperliquidairdrops.sbs
+hyperliquidated.xyz
 hyperliquidbridge.com
 hyperliquidbuy.org
 hyperliquidcapital.limited
@@ -30602,6 +30631,7 @@ hyperliquids.live
 hyperliquids.lol
 hyperliquids.org
 hyperliquids.trade
+hyperliquids.world
 hyperliquidstaking.limited
 hyperliquidtools.xyz
 hyperliquidtrade.link
@@ -39677,6 +39707,7 @@ mdex.m-dex.org
 mdfundsrecovery.com
 mdsoft-crypt.firebaseapp.com
 mdsoft-crypt.web.app
+me---sso-itrustcapital-com-cdn--y.webflow.io
 me-erc20.cc
 me-fnd.com
 me-foundation.top
@@ -42151,6 +42182,7 @@ monero-chan.info
 monero-chan.network
 monero-exchange-swap.com
 monero-front.vercel.app
+monero-gui.com
 monero-mixer.com
 monero-mixer.top
 monero-mixers.com
@@ -44287,6 +44319,7 @@ nodewalletsync.com
 nodeweg.com
 nodexcoin.com
 nodexjuv-es.com
+nodezvia.com
 nodnagakyc.cc
 nodplays.com
 nofbets.com
@@ -49741,6 +49774,7 @@ quantumfsldger.com
 quantumhivehub.com
 quantuminsight-ai.com
 quantumledgersecv.com
+quantumledgerweb3vaults.com
 quantumliberty-inv.com
 quantumlibertyfin.com
 quantummarketaccess.com
@@ -51308,6 +51342,7 @@ reward-infinits.com
 reward-keeta.org
 reward-lidoxp.org
 reward-manyushiba.com
+reward-meta.com
 reward-moonday.com
 reward-night.org
 reward-ofc.org
@@ -52912,6 +52947,9 @@ scanaml.info
 scanbsc.io
 scanby-bankless.live
 scandclanka.info
+scandefi.info
+scandefi.org
+scandefi.pro
 scanether-l.ink
 scanledgerapi.com
 scanledgerwallet.com
@@ -53988,6 +54026,7 @@ signup-billions.network
 signup-bnbchain.com
 signup-bullishdegen.com
 signup-hyena.trade
+signup-hyperliquid.xyz
 signup-ledger.com
 signup-lineabuild.org
 signup-mantra.net
@@ -58224,6 +58263,7 @@ sushiswap.click
 sushiswap.mom
 sushiswap.to
 sushiswap.trade
+sushiswapfix.com
 sushiswaprectifier.pro
 sushiswaps.app
 sushiswaptrade.pages.dev
@@ -60603,6 +60643,7 @@ trade-dydx-en-us.pages.dev
 trade-dydx.app
 trade-exodus.com
 trade-gpt-invest.com
+trade-hyperliquid.org
 trade-ledger.live
 trade-lido.app
 trade-markets.org
@@ -61350,6 +61391,7 @@ tronmixer.top
 tronmixers.com
 tronmonitor.org
 tronmultisignature.com
+tronnetwork.world
 tronrecover.com
 tronrefund.icu
 tronrefund.xyz
@@ -61568,6 +61610,7 @@ trustalabs-drop.world
 trustalabs.digital
 trustalabs.pro
 trustalabs.run
+trustallwallet.com
 trustamlbot.net
 trustaprotocol.icu
 trustaprotocol.org
@@ -62623,6 +62666,7 @@ uniswap.defl.guru
 uniswap.ethdrop.app
 uniswap.fi
 uniswap.gr.com
+uniswap.icu
 uniswap.org-api-v2-connect.com
 uniswap.org-api-v4-wallet.com
 uniswap.org-app-v2-connect-wailets.com
@@ -62689,6 +62733,7 @@ uniswaplabz.limited
 uniswaplaunch.limited
 uniswaplayer.limited
 uniswapmarket.limited
+uniswapmining.com
 uniswapng.com
 uniswapp.at
 uniswapp.net
@@ -62696,6 +62741,8 @@ uniswapprotocol.limited
 uniswapregister.limited
 uniswaps.bet
 uniswaps.digital
+uniswaps.live
+uniswaps.site
 uniswapsales.pages.dev
 uniswapsonline.com
 uniswapswiftclaims.app
@@ -62704,6 +62751,7 @@ uniswapteam.limited
 uniswaptexsechange.webflow.io
 uniswapuni.com
 uniswapuniswapusa.com
+uniswapv.com
 uniswapv2.co.com
 uniswapv3.limited
 uniswapv3protocol.org
@@ -62714,6 +62762,7 @@ uniswapyield.limited
 uniswcacp.vercel.app
 uniswcp.co
 uniswcp.co.com
+uniswcp.com
 uniswcp.finance
 uniswcp.xyz
 uniswdp.co.com
@@ -62737,6 +62786,7 @@ unitracker.onweb3.network
 unitrade-dcx.com
 unitrade.limited
 unitradefirm.com
+unitswap.pro
 unituswap.com
 unity-nowel.com
 unity-quest.info
@@ -62876,6 +62926,7 @@ update-api.live
 update-aster.com
 update-concrete.com
 update-hourglass.app
+update-hyperliquid.com
 update-ledger-login.vercel.app
 update-lido.net
 update-megaeth.com
@@ -66365,6 +66416,7 @@ web3-solscan.online
 web3-suiscan.site
 web3-swaps.com
 web3-trusstt-wallet.com
+web3-uniswapmax.com
 web3-vaultland.com
 web3-vulcan.xyz
 web3-walletdapp-remote-protocol.pages.dev
@@ -70739,6 +70791,7 @@ zk-polyhedra.com
 zk.stakingsreward.life
 zk44.net
 zkats-brewis.network
+zkats.network
 zkats.org
 zkcboundless.network
 zkcodex.vercel.app

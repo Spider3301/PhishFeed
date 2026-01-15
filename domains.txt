@@ -1219,6 +1219,7 @@
 7spinlabs.com
 7spins.win
 7spiny.com
+7spurcore.com
 7suh3-jqaaa-aaaak-afdpa-cai.icp0.io
 7wai.ae
 7wingo.us
@@ -5294,6 +5295,7 @@ app-ethena.eu.com
 app-ethena.github.io
 app-ethenafi-b2.com
 app-etherxfinanca.com
+app-ethgas.com
 app-eulerlabs.com
 app-exclusiivo.dynv6.net
 app-exclusivo-04.v6.rocks
@@ -31394,6 +31396,7 @@ introduce-us-dydx-exchange.daftpage.com
 introduce-us-slush-wallet.pages.dev
 introductionweb.ghost.io
 intrual.com
+intuition-systems.info
 intuition-systems.org
 intuition-systems.world
 intuitiontoken.sale
@@ -48930,6 +48933,7 @@ psychic-umbrella-lac.vercel.app
 psyop.cloud
 psyop.dege-token.fun
 psyop.dev
+psyopanime.cc
 psyopanime.lol
 psyopanime.memelabs.top
 psyopanime.xyz
@@ -49285,6 +49289,7 @@ pumpfun.icu
 pumpfun.kim
 pumpfun.link
 pumpfun.money
+pumpfun.nikiw.org
 pumpfun.pink
 pumpfun.pro
 pumpfun.pump-airdrop.cfd
@@ -50845,6 +50850,7 @@ register-strata.money
 register-succinct.com
 register-summer.app
 register-taker.xyz
+register-testicle.fun
 register-tradecat.live
 register-umbra.com
 register-uniswap.xyz
@@ -52624,6 +52630,7 @@ salviax-invest.com
 salzburgweltreisen.de
 samanthadrop.top
 samara-sol.xyz
+samaracoin.lol
 same-clone-httpsphantom-com-0ov51pijrj2-latest.netlify.app
 samecoin.fun
 samecoin.org
@@ -57057,6 +57064,7 @@ sterlingmeritcryptomining.bond
 sterlingswipe.com
 sterlingtrustfinancialpartners.com
 sterlingtrustfinancialpartners.org.sterlingtrustfinancialpartners.com
+sterlitecyber.com
 sterlrationale.com
 sterlviewltd.com.wstrustcap.com
 sterra-fundex.com
@@ -63394,6 +63402,7 @@ uscrcoin.network
 uscrdot.xyz
 uscreserve.cc
 uscreserve.io
+uscrgov.cc
 uscrgov.com
 uscrgov.finance
 uscrgov.io

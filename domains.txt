@@ -13236,6 +13236,7 @@ challengesgo.net
 challengeshub.net
 challengeshub.pro
 challengeshub.world
+challengesm.net
 challengesm.pro
 challengeszone.net
 challengeszone.pro
@@ -14192,6 +14193,7 @@ claim-proc.pages.dev
 claim-provex.info
 claim-public.xyz
 claim-pudgeypenguins.com
+claim-pudgy.xyz
 claim-pullixtoken.pages.dev
 claim-pulsex.com
 claim-pump.click
@@ -23176,6 +23178,7 @@ ethce.com
 ethcheck.click
 ethclaims.net
 ethcnb.com
+ethcrates.com
 ethctrx.gitbook.io
 ethday.fun
 ethdi.ltd
@@ -23466,6 +23469,7 @@ ethscan-erc20.github.io
 ethse.com
 ethsmart.com
 ethsmm.one
+ethsupreme.com
 ethtkki.com
 ethusdt.cyou
 ethwallet.pro
@@ -30534,6 +30538,7 @@ hyperliqui.tech
 hyperliquib.co.com
 hyperliquid-airdrop-guide.pages.dev
 hyperliquid-airdrop.org
+hyperliquid-airdrop.trade
 hyperliquid-airdrop.xyz
 hyperliquid-airdropp.com
 hyperliquid-airdrops.xyz
@@ -42744,6 +42749,7 @@ mstblockchain.com
 msteamsbookings.com
 mstoolsnetshop.com
 mstr-live.us
+mstr.gifts
 mstrategy-x2.org
 mstrategyexchange.com
 mstrbtc.us
@@ -44285,6 +44291,7 @@ node.airdropsalert.life
 node.authfxconnector.com
 node.rcabe.network
 node.rcad.network
+node1.irys.xyz
 nodeaccessfix.pages.dev
 nodeactivate.com
 nodeaffix.io
@@ -67945,6 +67952,7 @@ woofipro.com
 woofiswap.app
 woofsolana.com
 woonex.cc
+woopty.info
 woosityapp.com
 wooteex.com
 wordlibertyfinancial.net

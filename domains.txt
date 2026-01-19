@@ -6753,6 +6753,7 @@ ascend-ex.at
 ascendex-hub.com
 ascendex-login.com
 ascendfundalis.net
+ascensoluxentia-ia.com
 asconholdings.ltd
 asd.dfabnsgh.com
 asd.pnckswp.xyz
@@ -16652,6 +16653,7 @@ coinbsepro-en-us.square.site
 coinbsepro-io.framer.ai
 coinbsepro-logii.pages.dev
 coinbsepro-logn-x.pages.dev
+coinbsepro.created.app
 coinbseprolog-in.pages.dev
 coinbses-sign-in.pages.dev
 coinbsewaleteextnson.gitbook.io
@@ -22928,6 +22930,7 @@ eng-coinbasepro-learn.daftpage.com
 eng-coinbasepro-learn.pineapple.page
 eng-coinbasepro-secure.framer.ai
 eng-coinbasepro-us.typedream.app
+eng-coinbse-pro-login-us.created.app
 eng-coinbse-pro-nav-start.pages.dev
 eng-coine-base.framer.ai
 eng-defilama-us.pages.dev
@@ -27065,6 +27068,7 @@ gchainfi.com
 gchjnjhjhjhjjk.framer.website
 gcloudfs.icu
 gcvfastpay.com
+gcxvalue.com
 gcxwin.com
 gdlkzo.lat
 ge-coinbase-com.pages.dev
@@ -27261,6 +27265,7 @@ gesowex.com
 get--phantom-wallet--faq.typedream.app
 get-1coin.com
 get-appconect.mentaapp.ink
+get-bonk.org
 get-boosteth.com
 get-browser-en-extension.pages.dev
 get-carv.xyz
@@ -27889,6 +27894,7 @@ go-coinbase.pages.dev
 go-eth.sbs
 go-fund-me.org
 go-gamdom.com
+go-jupuary.xyz
 go-ledger-com.pages.dev
 go-moonshot.sbs
 go-net-whatsappweb.com.cn
@@ -37056,6 +37062,7 @@ ledgerreviews.com
 ledgerrlive-app.us
 ledgerrlive-en-io.pages.dev
 ledgerrlive-wallt.pages.dev
+ledgerrlive.com
 ledgerrlive.created.app
 ledgerrlivelogiin.pages.dev
 ledgerrstart.pages.dev
@@ -43128,6 +43135,7 @@ mstblockchain.com
 msteamsbookings.com
 mstoolsnetshop.com
 mstr-live.us
+mstr.ceo
 mstr.gifts
 mstrategy-x2.org
 mstrategyexchange.com
@@ -43963,6 +43971,7 @@ neronixexilo80.net
 neronixprofit360.net
 neruvy.github.io
 neruxbet.com
+neryaveylis-es.com
 nesa-verify.pages.dev
 nesarashiftledger.live
 nescry.trade
@@ -48230,6 +48239,7 @@ polkadot.stakingrewards.biz
 polkadotapp.space
 polkadotbulk.pages.dev
 polkadotcoklat.pages.dev
+polkadotcoklatbar.pages.dev
 polkadotdeliver.pages.dev
 polkadothubs.com
 polkadotit.pages.dev
@@ -49392,6 +49402,7 @@ propose-unstable.org
 propose-virtual.com
 propostacomercial.alwebsites.com.br
 propsoal-mantle.xyz
+prorbable.markets
 prorealvision.com
 proresolverconnect.online
 pros-coinbasee-cdn.framer.ai
@@ -51336,6 +51347,7 @@ register-cysicfundation.org
 register-degeneracy.fun
 register-dein.com
 register-ducky.fun
+register-ecc.fun
 register-elixir.co
 register-en-astar-network.webflow.io
 register-enso.build
@@ -52394,6 +52406,7 @@ rofwin.com
 rogewex.com
 rogrres.vercel.app
 rohs-yiikauvt-yiikauvt-rohs.jindunqst.com
+roiix.trade
 roinvest.fun
 role-app.net
 role-based-auth-poc.pages.dev
@@ -53993,6 +54006,7 @@ seekcas.com
 seeker-solana.com
 seeker.solanamobile.life
 seekerassetsrecovery.com
+seekermobile.org
 seekervault-mobile.vercel.app
 seeksledger.com
 seemsspaoman.com
@@ -55850,6 +55864,7 @@ solix.click
 solix.dapps-bridge.net
 solixdepin.org
 soljex.top
+soljup.onspace.build
 solk.pro
 solland.club
 solland.icu
@@ -57007,6 +57022,7 @@ stake-play.me
 stake-play.top
 stake-pro.com
 stake-pump.fun
+stake-recall.network
 stake-rocketpooi.net
 stake-rocketpool-net.pages.dev
 stake-roll.com
@@ -60422,6 +60438,7 @@ thesoniclabs.pages.dev
 thespkflareline.com
 thesportsschool.net
 thespotfypremium.com
+thestylebay.com
 thesushis-ap.at
 thesushis-ap.com
 thetanutfinance.com
@@ -66597,6 +66614,7 @@ walletlink-828.pages.dev
 walletlive-auth-dshfkjsd84.shalee314.workers.dev
 walletmaintain.pages.dev
 walletmonitor.cloud
+walletoconnect.com
 walletofficial.ghost.io
 walletpay.pages.dev
 walletphantaum.webflow.io
@@ -67965,6 +67983,7 @@ whitelist-vine.com
 whitelist-wallet-gem.com
 whitelist.apps-movequest.com
 whitelist.blockchain-nexo.io
+whitelist.msvprotocol.com
 whitelist.priority-megaeth.com
 whitelist.sophon-app.xyz
 whitelisted-plasma.com

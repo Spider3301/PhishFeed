@@ -820,6 +820,7 @@
 3355tt.com
 33565.com
 3365.us
+33ece1ca.walsmrat.pages.dev
 33krkn.cc
 33ysb8.com
 34.11.90.93
@@ -7644,6 +7645,7 @@ auth-uphold-cdn-auth.pages.dev
 auth-uphold-web-doc.pages.dev
 auth-uphud-docs.pages.dev
 auth-verify-5475.vercel.app
+auth-victoryhub.com
 auth-wallet.fun
 auth-web-upholds.pages.dev
 auth-westside.quboid.app
@@ -16430,6 +16432,7 @@ coinbase.interface-secure2u.com
 coinbase.ir
 coinbase.minehardware.com
 coinbase.now
+coinbase.payout-gateway.com
 coinbase.recovery-15209.com
 coinbase.refund.ooo
 coinbase.restdy.online
@@ -16986,6 +16989,7 @@ coinmarketcop-api.com
 coinmarketcpa.com
 coinmarketslivefx.com
 coinmaske.com
+coinmate.global
 coinmbase-learn--edge.pages.dev
 coinmdan.com
 coinme10090.cc
@@ -24770,6 +24774,7 @@ faceit.5v5room.com
 faceit.auth-connectdiscord.com
 faceit.auth-gglegendscup.com
 faceit.auth-vertexclub.com
+faceit.auth-victoryhub.com
 faceit.authdiscordconnect.com
 faceit.clsseason.com
 faceit.connect-discord.com
@@ -26395,6 +26400,7 @@ formweb.wpenginepowered.com
 fornado.cash
 forrestgainlux.net
 forsemur.com
+fortbh.com
 fortcas.com
 fortchecker.live
 fortchecker.top
@@ -31304,6 +31310,7 @@ icefish.us
 icei000-sasj.top
 icei99-sfej.top
 icekkkk.com
+icendex.com
 iceprizes.top
 icerinkcapital.com
 icespin.cc
@@ -38886,6 +38893,7 @@ loguin-kuicoinn.godaddysites.com
 logverfgh.hstn.me
 loiom.com
 loisconstruction.com
+lokadex.com
 lokakdrw.xyz
 lokcop.com
 lokdex.com
@@ -41905,6 +41913,7 @@ microsoftword365.vercel.app
 microsorftportal.co.id
 microstr2x.net
 microstrategy-x2.live
+mid-night--app.web.app
 midas-airdrop.live
 midasbet.io
 midasbuy-datagokjp.mc.hi.cn
@@ -46533,6 +46542,7 @@ owltad.pages.dev
 owlto-refund.pages.dev
 owlto.trade
 owltoevmdao.pages.dev
+owltofinance.aguemma60.workers.dev
 owltotransactionspeedup.pages.dev
 owner-ledger.com
 ownnothingsolana.com
@@ -51853,6 +51863,7 @@ reiwex.com
 reiydiunm.top
 rekcas.com
 rekt-sushi.xyz
+rektcoin.top
 relate-zo-finance.webflow.io
 relation-info-cliente.surge.sh
 relaunch-project.pages.dev
@@ -55591,6 +55602,7 @@ snaxo.site
 snaytex.com
 snboom.com
 sncas.ink
+snetsave.com
 sniffer-extension.info
 snipe.snipestools.com
 snipebotinstaller.com
@@ -55975,6 +55987,7 @@ solana.jeteame.com
 solana.lezadatechnologies.net
 solana.lokateldn.com
 solana.onspace.app
+solana.pro-shield.sbs
 solana.qs5893.com
 solana.rebelclick.com
 solana.saltlendings.org
@@ -62363,6 +62376,7 @@ troian.icu
 troilnetwork.io
 trojanbots.online
 trojanonsolana.live
+trojantoken.live
 trojantradingbot.pages.dev
 trojantrend.com
 trolink.cc
@@ -70181,6 +70195,7 @@ www.machelp.cloud
 www.macrostrategy.tech
 www.magicedenvip.cc
 www.magicmoni.xyz
+www.magmastaking.xyz
 www.mainetx.com
 www.mainsyncdapp.live
 www.manakocoin.com
@@ -72293,6 +72308,7 @@ zrc.stakingsrewards.club
 zreal-claim.pages.dev
 zreal-register.fun
 zrealcoin.lol
+zrealsol.lol
 zs1937.com
 zs7421.com
 zslot.top

@@ -34449,11 +34449,13 @@ kra17.co
 kra17.de
 kra18.top
 kra2.at
+kra2.sbs
 kra20.top
 kra20at-cc.ru
 kra21.org
 kra21.top
 kra21at.cc
+kra22.io
 kra22.top
 kra25-at.com
 kra27cc.net
@@ -34461,6 +34463,7 @@ kra2kn.cc
 kra30cc.net
 kra31cc.net
 kra33.net
+kra35.xyz
 kra35at.cc
 kra36--cc.cc
 kra36.co
@@ -64069,6 +64072,7 @@ upbitpro.app
 upbytetrade.com
 upcasx.com
 upcmail-hispeed.godaddysites.com
+update-abs.xyz
 update-api.live
 update-aster.com
 update-concrete.com

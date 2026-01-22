@@ -191,6 +191,7 @@
 1-dex.xyz
 1-easybank-landing-page-master.vercel.app
 1-in.apac2.coinbase.com.ph
+1-inch.eu.com
 1-kra46-at.ru
 1-kra46cc.ru
 1-krab1-cc.ru
@@ -12645,6 +12646,7 @@ captcha--krab3--cc.ru
 captcha-gbqdrnwj.vercel.app
 captcha-krab3-at.ru
 captcha-load.netlify.app
+captcha-metasuites.com
 captcha.kraken-krab1.cc
 captcha.vercel.app
 captcha3.top
@@ -24576,6 +24578,7 @@ exobus.co.com
 exobus.io
 exocdn.buzz
 exod1us.godaddysites.com
+exodas-web3.zapier.app
 exodiswalot.godaddysites.com
 exodium.live
 exodot.com
@@ -27235,6 +27238,7 @@ gainfinancialsfreedoms.com
 gainixwot.com
 gains.sushiswap.best
 gainsreserve.com
+gainz.saakuru.com
 gaivex.com
 gal-0x000.xyz
 gal-profile.com
@@ -27716,6 +27720,7 @@ get-defilama-wallet.pages.dev
 get-deflama-io-walts.framer.ai
 get-doodles.xyz
 get-ens.org
+get-exduas.zapier.app
 get-extension-rabby-wallet.pages.dev
 get-extention-coinbse.pages.dev
 get-extnsion-base.pages.dev
@@ -28487,6 +28492,7 @@ gomarketsled.com
 gomdori-airdrop.xyz
 gomezdelgado.com.ar
 gominingapp.site
+gominingrectification.pages.dev
 gominingtalk.site
 gominingtoken.web.app
 gomonad.site
@@ -29744,6 +29750,7 @@ gxmble.icu
 gxpvid1xwp3v4x2g2z3y27zg.pages.dev
 gxrxntibvxvi.duckdns.org
 gxrxntifirxsxtlxrri.duckdns.org
+gxu4vr8kwtirlk9.s3-website-us-east-1.amazonaws.com
 gyatcas.com
 gyfart.com
 gygoff.com
@@ -34682,6 +34689,7 @@ kra--51.cc
 kra--ken-login.pages.dev
 kra--ken-logo.framer.ai
 kra-23.cc
+kra-30.at
 kra-31at.cc
 kra-33-cc.cc
 kra-34-at.com
@@ -40325,6 +40333,7 @@ manttamssk.gitbook.io
 mantupiz.xyz
 manual-dapp.xyz
 manual-dapps.org
+manualresolve.vercel.app
 manualwebpage-fix.org
 manxvip271.com
 many-plans-307752.framer.app
@@ -42444,6 +42453,7 @@ minebestminingco.net
 minedofpepe.com
 minedrop-au.com
 minemao2.top
+minemeta.pro
 minepayqfs.com
 minepi-info.com
 minepi-net.com
@@ -52166,6 +52176,7 @@ register-psyopanime.fun
 register-pumpbank.fun
 register-pupcollection.com
 register-purk.live
+register-reescoin.fun
 register-renzoprotocol.pages.dev
 register-renzoprotocol.xyz
 register-rheafinance.com
@@ -55948,6 +55959,7 @@ smileybins.co.ke
 smirzo.top
 smithcoinc.biz
 smksrosma.sch.id
+smmeasysell.com
 smn223.com
 smog-distribute.com
 smog-distribution.com
@@ -58682,6 +58694,7 @@ store.poweredstylechart.com
 store.powereduseronline.shop
 store.poweredworkart.com
 store.poweredworkshopitem.com
+store.ray-dium.sale
 store.steamchina.com
 store.steamchina.queniuam.com
 store.steampowered.app1624974.com
@@ -58839,6 +58852,7 @@ streamyard-invite.com
 streamyard.chat
 streamyard.is
 streamyard.space
+streamyard.us
 stredfinoria.com
 streijl.eu
 strenvera.com
@@ -64572,6 +64586,7 @@ unwiswap.org
 unxdex.top
 unxi.top
 unxrpc.top
+uo02webzoom.us
 uomi.top
 uooplol.webflow.io
 up-dex-v1.app
@@ -71868,6 +71883,7 @@ xrp-celebration.org
 xrp-core.io
 xrp-drop-com.pages.dev
 xrp-era.net
+xrp-gifts.com
 xrp-give.asia
 xrp-give.cc
 xrp-interactive.live

@@ -7737,6 +7737,8 @@ auth-web-upholds.pages.dev
 auth-westside.quboid.app
 auth-wetransfer-com-4c95d-5d82f-6f882c.vercel.app
 auth-x-coinbase.framer.ai
+auth-xserver.cloud
+auth-xserver.online
 auth.com-trusted.org
 auth.com-web.net
 auth.d4s.online
@@ -12243,6 +12245,7 @@ buytx.org
 buyusdt.online
 buywithbit.com
 buyxhub.com
+buyxtoken.com
 bvcfdr.powersellerusa.com
 bvitpie.com
 bvox-login.su
@@ -13044,6 +13047,7 @@ ccetus.com
 ccfff.cyou
 ccfgint.com
 cchallenger.world
+cchallengers.pro
 cchallenges.pro
 ccip-fbg5qxicj-chainlinklabs.vercel.app
 ccip-feat-front-4741-ccip-success-s-chainlinklabs.vercel.app
@@ -13580,12 +13584,15 @@ challengegg.pro
 challengegg.world
 challengehub.world
 challengehubs.pro
+challengem.net
 challengem.pro
 challengemode.pro
 challengemodes.pro
+challengereasy.net
 challengereasy.pro
 challengerez.world
 challengergg.pro
+challengerm.pro
 challengermode-auth.com
 challengermodes.net
 challengersclub.net
@@ -14146,6 +14153,7 @@ claim-0gfoundation.live
 claim-0gfoundation.org
 claim-0gfoundatlons.xyz
 claim-114514coin.pages.dev
+claim-5usd-bonus.online
 claim-7tj.pages.dev
 claim-812.pages.dev
 claim-aave.co
@@ -17450,10 +17458,12 @@ colsols.com
 colybet.com
 colztrade.net
 com--en-ledg--io.pages.dev
+com-0916368.site
 com-181626.help
 com-306421.help
 com-321382.help
 com-522161.help
+com-852321.help
 com-alpha.app
 com-appwinonewin-partnerapp.en.uptodown.com
 com-assistance.help
@@ -17521,6 +17531,7 @@ com-wr.life
 com-wr.run
 com-ws.click
 com-ws.life
+com-x2rewards.cc
 com-x4.net
 com.auaulive.sspl.com.au
 com.auaumx2.sspl.com.aucom.auaumx2.sspl.com.aucom.auaumx2.sspl.com.auaumx2.sspl.com.auaumx2.sspl.com.au
@@ -18612,6 +18623,7 @@ crypto-payd.com
 crypto-phantom.framer.media
 crypto-point.it.com
 crypto-polis.org
+crypto-portfolio-tracker.app
 crypto-punk-beta.vercel.app
 crypto-rating-2024.top
 crypto-recovery-hub.b12sites.com
@@ -21829,6 +21841,7 @@ drnr.fiznen.com
 drnymtpfidelity.qpon
 droneacctivemicro.weebly.com
 dronxbet.com
+drop-asterdex.com
 drop-brevis.network
 drop-chain.link
 drop-chainlink.com
@@ -24029,6 +24042,7 @@ ethgas.top
 ethgasfoundation.app
 ethgasfoundation.net
 ethgasfoundation.org
+ethgasfoundationreward.org
 ethgasfoundatoin.xyz
 ethgasfourdation.org
 ethgasrefund.app
@@ -28183,6 +28197,7 @@ glmr.stakingsrewards.club
 gloaxuat.ip-ddns.com
 global-assets.site
 global-capitalfx.com
+global-coinmarketcap.com
 global-crypt.org
 global-crypt.org.excellentsignaloptions.org
 global-expertfx.com
@@ -31000,6 +31015,7 @@ hubchallenge.pro
 hubchallenger.net
 hubchallenger.pro
 hubchallengerz.net
+hubchallengerz.pro
 hubdates.icu
 hublearndesktop-login.webflow.io
 hubpalmai.com
@@ -34648,6 +34664,7 @@ kquzkoinlogin.webflow.io
 kr-ken-log-in.pages.dev
 kr-ken-login.pages.dev
 kr-partners.asia
+kr-yahoofinance.com
 kr41cc.ru
 kr44at.store
 kr44at.storephishing
@@ -35892,6 +35909,7 @@ krakenexchange.site
 krakenexpert.cc
 krakenfa.com
 krakenfiles.org
+krakenfinance.com
 krakenfishing.cl
 krakenflogin.wordpress.com
 krakenfn.com
@@ -35958,6 +35976,7 @@ krakenm.vip
 krakenmagazin-cc.pages.dev
 krakenmainnets.pages.dev
 krakenmainnnet.pages.dev
+krakenmirror-to.pages.dev
 krakenmp.com
 krakenn-en-web.pages.dev
 krakenn-login.framer.ai
@@ -36104,6 +36123,7 @@ krgrakenlognss.webflow.io
 krgraknlogin.webflow.io
 krieakeinlogaen.webflow.io
 kriekeinlogin.webflow.io
+krinance.com
 krirninologon.webflow.io
 krisbowofficial.online
 kristalvoid.xyz
@@ -44336,6 +44356,7 @@ na1-upgradewallet.com
 naarisprotocol.com
 nabetex.com
 nabicous.com
+nachricht-voice-tonline.kontakt-registration-update.locker
 nadexfxmastery.com
 nadexmktprime.buzz
 nadexvault.org
@@ -50645,6 +50666,7 @@ pumpfunstreamer.live
 pumpfunvolumebot.net
 pumpfunvote.live
 pumpfxn.xyz
+pumpg.fun
 pumpgal.events
 pumpgame.icu
 pumpgame.lol
@@ -51176,6 +51198,7 @@ quld.xyz
 qulitex.com
 qulotex.com
 qumq.lol
+qunp.fun
 quodtempore.cfd
 quonticleading.live
 quora.com
@@ -51934,6 +51957,7 @@ receivers-informal-unions-partners.trycloudflare.com
 receiving.vip
 recent-coinbase.com
 rechallenger.pro
+rechallengerz.pro
 recipeonocean.com
 reclaim-capital.com
 reclaim-gmx.com
@@ -52036,6 +52060,7 @@ reeelvision.com
 reels-support.business-minagne.com
 reelxion.com
 reeplay.app
+reescoin-event.fun
 reesmidanaaidn.blencou.biz.id
 reespins.com
 ref643388-cryptopayments.org
@@ -54409,6 +54434,7 @@ script-money.cc
 scroll-bridge.cfd
 scrolldao.io
 scrollfund.vercel.app
+scrollrewards.com
 scrolls-app.pages.dev
 scrollz.in
 scsalud.closer.website
@@ -59231,6 +59257,7 @@ sunswap.zip
 sunswapcom-exchange.pages.dev
 sunswappump.pages.dev
 sunswaps.cyou
+sunswaps.it.com
 sunswup.com
 suntrust-kansai.com
 sunupgo.com
@@ -61474,6 +61501,7 @@ thistle-closet-933522.framer.app
 thkrchain.org
 thmpcs.com
 thochain.org
+thocrhain.org
 thodchain.org
 thoechain.org
 thofchain.org
@@ -61494,12 +61522,14 @@ thorchaim.org
 thorchain-dapps.live
 thorchain-wallet-faq.typedream.app
 thorchain.pro
+thorchain.vip
 thorchainairdrop.com
 thorchainapp.live
 thorchainapp.pages.dev
 thorchainwebs.com
 thorchakn.org
 thorchalnapp.com
+thorchani.org
 thorchaon.org
 thorchaun.org
 thorchhain.org
@@ -63131,6 +63161,7 @@ tronlinkus.com
 tronlinkweb3.com
 tronliq.io
 tronmarket.pro
+tronmax.io
 tronmixer.top
 tronmixers.com
 tronmonitor.org
@@ -71186,7 +71217,9 @@ www.thefreshreads.com
 www.therealjewcoin.fun
 www.thewinecoolerclub.com
 www.thezks-nc.com
+www.thorchai.org
 www.thorchainairdrop.com
+www.thorhain.org
 www.ticketbase.help
 www.titanspacex.com
 www.tkparttime.net
@@ -71579,6 +71612,7 @@ xcelate.io
 xchallenger.world
 xchallengers.pro
 xchallengers.world
+xchallengerz.net
 xchallengez.pro
 xchange--dydx-visit.pages.dev
 xchat.to
@@ -71943,6 +71977,7 @@ xpoalswwkjddsljsy.com
 xpolymarket.com
 xposedspin.com
 xpptoken.com
+xpre-sale.shop
 xpresscapitalmarket.io
 xpressprotrade.com
 xpround.com

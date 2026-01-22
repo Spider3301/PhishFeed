@@ -24311,6 +24311,7 @@ event-pepuschained.com
 event-pinetwork.com
 event-ploi.xyz
 event-pump.fun
+event-sanddune.fun
 event-superform.com
 event-talus.xyz
 event-thedogwifi.xyz
@@ -37471,6 +37472,7 @@ ledger-us-nanox-cdn.vercel.app
 ledger-us.pages.dev
 ledger-v3.live
 ledger-verification-check.com
+ledger-waliet.net
 ledger-wallet--ask.pages.dev
 ledger-wallet--io.pages.dev
 ledger-wallet-cdn.vercel.app

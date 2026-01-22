@@ -2044,6 +2044,7 @@ accumarkets.xyz
 accuno-amex.koken-ishin.com
 accunt-amex.hakubavall.com
 accuont-preseach.icu
+accuszone.com
 accutrader360.net
 ace-coins-bse-xtension-web.pages.dev
 acebeast.com
@@ -2057,6 +2058,7 @@ acedigitalhub.online
 aceeyl.com
 acegam.com
 aceholdinginc.ltd
+aceleradofinlux.com
 acelogger.icu
 acelogger.live
 acemarketplus.com
@@ -11908,6 +11910,7 @@ btc-mixer.to
 btc-mixers.to
 btc-new.com
 btc-news.ltd
+btc-news.pw
 btc-norevia.com
 btc-octela.com
 btc-qr.to
@@ -19015,6 +19018,7 @@ cupseytools.com
 cuq833.it
 cur-fi.app
 cur.ve-lite.sbs
+curbe.finance
 curentlydirectories.duckdns.org
 curious-trifle-58c102.netlify.app
 curly-spoon-sigma.vercel.app
@@ -19039,6 +19043,7 @@ curve-flnance.com
 curve-lp-analyzer-45y.pages.dev
 curve-sswap.typedream.app
 curve-v2.pro
+curve.en-int.com
 curve.fan
 curve.fi-personal-wallet-connectv3.com
 curve.fi-pools.live
@@ -24610,6 +24615,7 @@ exodus-tools.at
 exodus-update.net
 exodus-v2.com
 exodus-walet.co.com
+exodus-wallet-aap.framer.media
 exodus-wallet-connect.framer.ai
 exodus-wallet.co.com
 exodus-wallet.org
@@ -24662,6 +24668,7 @@ exoduswallet.versoly.page
 exodusweb3.net
 exoduswhales.co.uk
 exoduswixe.cfd
+exoduswlleit.webflow.io
 exoduswweb.created.app
 exodusxperts.com
 exodusyr.com
@@ -38071,6 +38078,7 @@ lighterairdrop.xyz
 lighterdex.net
 lighterdex.pro
 lighterlit.com
+lighterr-account.com
 lighters.app
 lightersale.com
 lighterup.xyz
@@ -43770,6 +43778,7 @@ mst-monex.zshy008.com
 mstblockchain.com
 msteamsbookings.com
 mstoolsnetshop.com
+mstr-25.org
 mstr-live.us
 mstr.ceo
 mstr.gifts
@@ -54797,6 +54806,7 @@ seedworld-toys.xyz
 seegax.cc
 seehlprotokol.top
 seekcas.com
+seeker-drop.top
 seeker-solana.com
 seeker.solanamobile.life
 seekerassetsrecovery.com
@@ -56412,6 +56422,7 @@ solana-wallets.pages.dev
 solana-webdex.com
 solana-website.pages.dev
 solana-x402-gpt.vercel.app
+solana.appscan.pro
 solana.changecolab.com
 solana.elcozmo.com
 solana.gift

@@ -33717,6 +33717,7 @@ jsoop.sbs
 jsophielombard.pages.dev
 jsqueryapis.com
 jsr-4tf.pages.dev
+jsvarp7q-wildberries.mode-3bq7h.cfd
 jt2x.com
 jtcxy.com
 jtdxco.com
@@ -40455,6 +40456,7 @@ magiccraft-migrate.pages.dev
 magicedem.com
 magiceden-bozo.app
 magiceden-io.github.io
+magiceden-ntf.com
 magiceden.buyer-offer.com
 magiceden.com.bids-offer.com
 magiceden.com.offer-proposal.com
@@ -48378,6 +48380,7 @@ penguin-reward.live
 penguin.coincap.cc
 penguinbase-spacecoin.com
 penguine-org.org
+penguinonsol-event.fun
 penguins-btcoin.live
 penguinu.com
 pengujak-event.fun
@@ -51396,6 +51399,7 @@ pvptrade.xyz
 pvufarmland.com
 pwdstar.com
 pwffood.com
+pwmp.fun
 pwn-rathore.github.io
 pws24.cc
 pxcas.com
@@ -73008,6 +73012,7 @@ xrp-sushi.xyz
 xrp-update.io
 xrp-youtube.com
 xrp.emmn.io
+xrp.gives
 xrp2025.com
 xrp2x.world
 xrpalpha.net

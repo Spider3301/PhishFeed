@@ -167,6 +167,7 @@
 0xbscpad.com
 0xcaldera.xyz
 0xchain.top
+0xdac17f958d2ee523a2206206994597c13d831ec7.top
 0xdapp-shifteasetokenlifymgt.sbs
 0xdegen.xyz
 0xdeployer.xyz
@@ -716,6 +717,7 @@
 20401.academy
 209494.com
 20e6.com
+20pump.fun
 212-227-48-175.cprapid.com
 212311.netlify.app
 2131kobushide.allocated.live
@@ -793,6 +795,7 @@
 2km.to
 2krn.at
 2krn.us
+2ly2ut.com
 2pigger.soldex.trade
 2rhlubiwm4.46464tk.com
 2slots.top
@@ -1115,6 +1118,7 @@
 673920-coinbase.com
 67coin-sol.com
 67coinsol.com
+67evav55.com
 67to67billion.org
 67to67billions.com
 682597.win
@@ -2668,6 +2672,8 @@ ai-wine-ten.vercel.app
 ai-write.pages.dev
 ai-x-protocol.netlify.app
 ai.quantumkledger.online
+ai0210.com
+ai1115.com
 ai16z.allocated.live
 ai16zsol.xyz
 ai20-invest.com
@@ -3844,6 +3850,7 @@ alli-create.xyz
 alli-edit.xyz
 alli-vision.xyz
 alli.vision
+alliai.org
 alliancegames.digital
 allianceintlcooperativeb.com
 allianceinvest.ltd
@@ -5512,6 +5519,7 @@ app-ethena.github.io
 app-ethenafi-b2.com
 app-etherxfinanca.com
 app-ethgas.com
+app-ethgasfoundation.org
 app-eulerlabs.com
 app-exclusiivo.dynv6.net
 app-exclusivo-04.v6.rocks
@@ -8720,6 +8728,7 @@ bankom.cc
 bankomot.cc
 bankor.network.l6-11web.top
 bankor.network.l6-1web.top
+bankozon.com
 bankplus.co.com
 bankr-bot.com
 bankrbot.xyz
@@ -8899,6 +8908,7 @@ basepaint.xyz
 basepay.services
 baseperp.org
 baseplan.app
+basepoker.com
 baseprint.vercel.app
 baseprosignin.pages.dev
 basequest.live
@@ -11766,7 +11776,11 @@ boundlesslive.xyz
 boundlessproofs.com
 bounnce-register.xyz
 bounty-boosteth.com
+bounty-internal.xyz
+bountyair.com
+bountyaistake.com
 bountybase.space
+bountycoinmine.com
 boushaq.lol
 boushaq150cm.tithelysetup.com
 bovidaventures.com
@@ -14805,6 +14819,7 @@ claim-peipei.pages.dev
 claim-pendle.app
 claim-pendle.co
 claim-pengu-en.pages.dev
+claim-pengu.exchange
 claim-pengu.xyz
 claim-pepe-unchained.com
 claim-pepenode.io
@@ -19150,6 +19165,7 @@ cryptoswap.website
 cryptoswaping.netlify.app
 cryptoswapnokyc.com
 cryptoswapnokyc.su
+cryptoswapo.com
 cryptosweb3network.com
 cryptosweb3networks.com
 cryptotab.farm
@@ -23872,7 +23888,9 @@ enter-nftstrategy.fun
 enter-okx-listing-voting-security-2.vercel.app
 enter-okx-listing.vercel.app
 enter-okx-listings.vercel.app
+enter-ondo.finance
 enter-onxy.app
+enter-onyx.org
 enter-plasma.com
 enter-rekt.com
 enter-server.com
@@ -24448,6 +24466,7 @@ etherfichecker.xyz
 etherfidrop.xyz
 etherfn.icu
 ethergainsflow.live
+etherholders.com
 etherlineabuild.com
 ethermail.ch
 ethermails.org
@@ -24504,6 +24523,7 @@ ethh.web3nfts.cc
 ethhero.pro
 ethhero.rpo
 ethhy.com
+ethi.top
 ethiax.wjnhx.com
 ethincinerator.com
 ethionex.io
@@ -33390,6 +33410,7 @@ jackzcoin.com
 jackzox.com
 jacobrhubbard.github.io
 jadestake.com
+jadrofinspirex.net
 jadstatusprodutos.com
 jafcas.com
 jafgkbyd.com
@@ -39936,6 +39957,7 @@ londonnnmgk.uk
 longbrokeragewallet.com
 longinus-origindefi.org
 lonqrewards.live
+loobet.bet
 loocasino.com
 look-airdrop.info
 look.soldex.trade
@@ -41497,6 +41519,7 @@ megadefi.top
 megaeht.click
 megaeht.icu
 megaeht.mom
+megaehth.com
 megaeth-allocation.net
 megaeth-allocation.org
 megaeth-bridges.com
@@ -49402,6 +49425,7 @@ plasma.allocation-invest.com
 plasma.credit
 plasma.forum
 plasma.mom
+plasma.to-claims.app
 plasma.to-rewards.app
 plasma.vote
 plasmachainlive.com
@@ -55917,6 +55941,7 @@ senryudb.com
 sensormalaysia.pages.dev
 sentelnt.xyz
 senthorix.com
+sentieint.xyz
 sentient-agi.app
 sentient-allocation.com
 sentient-allocation.xyz
@@ -57917,6 +57942,7 @@ solvexpulse-53ai.com
 solvfinances.com
 solvfoundation.run
 solvision.click
+solvision.help
 solvix.cc
 solvprotocol.top
 solvrientexpro-invest.com
@@ -59991,6 +60017,7 @@ successtrades247.com
 successwithralph.com
 succinct-foundation.network
 succinctfoundation.finance
+succinict.foundation
 sucda.cc
 sucuralvitualbanlombia.pro
 sucursalbogta.vercel.app
@@ -62065,6 +62092,7 @@ template-landing.com
 templeofexla.com
 templuz.digital
 tempo-rewards.com
+tempoinvion.net
 ten-airdrop.xyz
 ten-c9u.pages.dev
 ten-claim.xyz
@@ -62333,6 +62361,7 @@ tge-bitcoino.com
 tge-blockstranding.com
 tge-capmoneys.com
 tge-edge.com
+tge-hyperlend.finance
 tge-klinkfinances.com
 tge-lab.com
 tge-linea.app
@@ -63729,6 +63758,7 @@ treasury-singularity.com
 treasury-spark.com
 treasury-superverse.com
 treasury-telco.in
+treasury-telcoin.network
 treasury-zora.com
 treasury.astersdex.io
 treasury.checker-asterdex.app
@@ -66068,6 +66098,7 @@ uphold-wallet-en.pages.dev
 uphold-wallet-faqs.pages.dev
 uphold-wallet-io.blogspot.al
 uphold-wallet-io.blogspot.ch
+uphold-wallet-io.blogspot.co.uk
 uphold-wallet-io.blogspot.in
 uphold-wallet-io.blogspot.lt
 uphold-wallet-io.blogspot.mx
@@ -66079,6 +66110,7 @@ uphold-wallet-start.pages.dev
 uphold-wallet-usa.pages.dev
 uphold-wallettt.blogspot.co.il
 uphold-wallettt.blogspot.cz
+uphold-wallettt.blogspot.it
 uphold-wallettt.blogspot.li
 uphold-wn-log.pages.dev
 upholdaccount.pages.dev
@@ -68423,6 +68455,7 @@ votes-blackhole.xyz
 votes-blockstreet.xyz
 votes-cypher.com
 votes-cypher.votings.workers.dev
+votes-ethena.finance
 votes-ethereal.trade
 votes-ethereal.xyz
 votes-facy.com
@@ -72788,6 +72821,7 @@ x-rollcas.com
 x-rubby-wallet.pages.dev
 x-slots.world
 x-solana.fun
+x-vision.xyz
 x.com-pump.fun
 x.fu7997.com
 x.pzfdyx.com

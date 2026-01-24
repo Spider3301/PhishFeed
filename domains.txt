@@ -25575,6 +25575,7 @@ faceit.en-vertex-club.com
 faceit.en-vertex-clubgg.com
 faceit.en-vertexclub.com
 faceit.en-vertexclubgg.com
+faceit.en-victory-hub.com
 faceit.en-victoryhub.com
 faceit.eng-vertex-club.com
 faceit.eng-vertex-clubgg.com
@@ -33023,6 +33024,7 @@ investtrump.io
 investtrump.org
 invexrynex.net
 invictuspes.pro
+invictusplay.com
 inviiiiitee.live
 invinixpips.com
 invisibledefi.com
@@ -39902,6 +39904,7 @@ login.workshopcommunityexhibition.com
 login.workshopcommunityrare.com
 login.workshopcommunitystudio.com
 login.workshopcommunityworks.com
+login.workshopconceptdesign.com
 login.workshopcontenthub.com
 login.workshopcontentvote.com
 login.workshopcreatedmods.com
@@ -54676,6 +54679,7 @@ rustcrate.net
 rustdataflow.com
 rustdelta.com
 rustecho.net
+rustendpoint.com
 rusteventide.com
 rustfirewall.com
 rustflow.net
@@ -59887,6 +59891,7 @@ store.communityuserdev.com
 store.communityworkshopowered.com
 store.communityworkshopstore.com
 store.cosmeticdetail.com
+store.gerald-main.shop
 store.glock18-workshop.com
 store.itemsdetail.com
 store.poweredartitem.com
@@ -59915,6 +59920,7 @@ store.steamproxy.me
 store.wallpaperenginepreview.app
 store.workpoweredshopitem.com
 store.workshop-glock.com
+store.workshop-glock18.cc
 store.workshop-glock18.com
 store.workshop-glocks.com
 store.workshop-pistol.com
@@ -59934,6 +59940,7 @@ store.workshopcommunityexhibition.com
 store.workshopcommunityrare.com
 store.workshopcommunitystudio.com
 store.workshopcommunityworks.com
+store.workshopconceptdesign.com
 store.workshopcontenthub.com
 store.workshopcontentvote.com
 store.workshopcreatedmods.com

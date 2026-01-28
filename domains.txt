@@ -23646,6 +23646,7 @@ eligible-pudgy.com
 eligible-pudgy.xyz
 eligible-pumpfun.com
 eligible-usor.fun
+eligible-usor.icu
 eligible-usor.pro
 eligible-usor.xin
 eligiblity-block.com
@@ -26027,8 +26028,10 @@ faceit.streamer-cs.com
 faceit.teams-gglegendscup.com
 faceit.teams-ggturboarena.com
 faceit.teams-vertexclubgg.com
+faceit.teams-victory-hub.com
 faceit.teams-victoryhub.com
 faceit.tm-vertexclub.com
+faceit.tm-victoryhub.com
 faceit.tw-gglegendscup.com
 faceit.tw-steam-auth.com
 faceit.tw-vertex-club.com
@@ -46076,6 +46079,7 @@ nbveist9.at-the-lake.com
 nbzayapp.berachains.tech
 nc.airdropsalert.life
 ncafe-readarticles.com
+ncdomen.com
 ncrm-casefb588197.vercel.app
 ncsrecruit.name.ng
 ncsreplacement.org.ng
@@ -68261,6 +68265,7 @@ usorofficial.top
 usorofsolana.com
 usorofsolana.net
 usoronsolana.com
+usoronsolana.net
 usorproject.lol
 usors-allocations.xyz
 usors.tech

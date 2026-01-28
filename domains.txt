@@ -1281,6 +1281,7 @@
 77-blt.com
 77.90.185.109
 77.91.76.209
+773918coinbase.com
 7765yy.com
 777-betspin.com
 777.lat
@@ -2295,6 +2296,7 @@ ad-eth-usdc1.top
 ad-eth-vip10.top
 ad-observe-hub.pages.dev
 ad.bitskya.com
+ad.coinbasecn.xyz
 ad.exodus.build
 ada-brunet.pages.dev
 ada-now.io
@@ -3300,6 +3302,7 @@ airdrop.mmts.network
 airdrop.mnnt.finance
 airdrop.moolahnad.xyz
 airdrop.moombirds.xyz
+airdrop.moonbirbs.network
 airdrop.moonbirdes.xyz
 airdrop.moonveil.click
 airdrop.mrnt.finance
@@ -4926,6 +4929,7 @@ amlpro.business
 amlpro.center
 amlpro.io
 amlpro.life
+amlpro.link
 amlpro.one
 amlprocess.org
 amlprotect.app
@@ -5310,6 +5314,7 @@ apexassetfx.com
 apexbetsdemo1.xyz
 apexbrokage.com
 apexcapitalbnk.com
+apexcapitaledge.com
 apexcapitalhawk.com
 apexcapitalinvest.com
 apexcapitalvault.com
@@ -6554,6 +6559,7 @@ appbeefyconnect.sbs
 appbifrost.com
 appbitgetweb.cam
 appbridgers.pages.dev
+appcentrifugedapp.pages.dev
 appchainresolverr.xyz
 appcheck-eligibility.cb90092.com
 appclonex.com
@@ -11182,6 +11188,7 @@ blockbits-chainspro.cc
 blockblend.io
 blockbook-direct.zcash.swapkit.dev
 blockbridgeassets.com
+blockbridges.net
 blockbtcrecover.com
 blockchaenlogen.gitbook.io
 blockchaiinlogio.gitbook.io
@@ -13051,6 +13058,7 @@ capital-trade.pro
 capital-union.com
 capital-uphold-ko-ginn.pages.dev
 capital1trading.com
+capitalaccessreturns.com
 capitalassetexchangeag.com
 capitalassetflow.com
 capitalassetprograms.com
@@ -17579,6 +17587,7 @@ coinconnected.help
 coinconnected.site
 coincoverv3.com
 coincraddles.org
+coincraftsdigitalnetwork.com
 coincx.co
 coind-pro-support.created.app
 coindapps.xyz
@@ -19437,6 +19446,7 @@ cryptogewinn-tech-com.the-finance-world.com
 cryptogewinn-tech.com
 cryptogiveaways.netlify.app
 cryptogoes.com
+cryptogold.exchange
 cryptograb-fuck.mom
 cryptoguard.finance
 cryptohaborltd.com
@@ -19489,6 +19499,7 @@ cryptopankes.xyz
 cryptopayaccelerator.com
 cryptopayd.com
 cryptophunksv4.pages.dev
+cryptoplatformguide.com
 cryptopolitian.com
 cryptopp.cc
 cryptoprice.pw
@@ -19609,6 +19620,7 @@ crystalrun.top
 crystalspin.io
 crystaltrust-capital.com
 crystaltrustwallet.com
+crystalwealthinvestltd.com
 crystalweb3ledger.com
 crystalweb3vault.com
 crystalwin.top
@@ -23649,6 +23661,7 @@ eligible-plume.org
 eligible-pudgy.com
 eligible-pudgy.xyz
 eligible-pumpfun.com
+eligible-sullend.live
 eligible-usor.fun
 eligible-usor.icu
 eligible-usor.pro
@@ -25197,6 +25210,7 @@ event-almanak.xyz
 event-alone.fun
 event-asterdex.com
 event-bornin19.fun
+event-bp.fun
 event-bpengu.fun
 event-bullfirex.fun
 event-chicken.fun
@@ -26273,6 +26287,7 @@ fassets-au.cc
 fassets-claim.com
 fassets-flare.com
 fassets-oracle-daemon.com
+fassets-oraclehosts-daemon.com
 fassetslimited.com
 fastairo.com
 fastairtrack.com
@@ -32875,6 +32890,7 @@ id846.sum-switch.com
 id849.trustpay.ac
 id919.trustpay.energy
 idaruba.shop
+idawduictctrbtxx.pages.dev
 idcaso29393.com
 idcmu.com
 ideadocks.top
@@ -34200,6 +34216,7 @@ jetowex.com
 jetpayout.com
 jetplay.cc
 jetpox.com
+jetprofund.net
 jetrix.space
 jetrixy.com
 jetspin.biz
@@ -42125,6 +42142,7 @@ maxbullhandel.online
 maxcashwin.com
 maxcoin.bet
 maxfin-cez.com
+maxglobal.pro
 maxi-luck.com
 maxibotpump.fun
 maxidoge-claims.com
@@ -42607,6 +42625,7 @@ meta-encode.pages.dev
 meta-encrypt.pages.dev
 meta-energy-91i.pages.dev
 meta-engine-83x.pages.dev
+meta-exoduso.pages.dev
 meta-expantra.pages.dev
 meta-farlon-xevik-kryra.pages.dev
 meta-fathomx.pages.dev
@@ -42990,6 +43009,7 @@ metamask-chrome-exten-sion-6pj.pages.dev
 metamask-chrome-extensi-on.pages.dev
 metamask-clone-six.vercel.app
 metamask-co.pages.dev
+metamask-crom-extnsn.framer.ai
 metamask-dapps.com
 metamask-dev-dashboard-feat-remove-prora-consensys-ddffed67.vercel.app
 metamask-divaces.framer.ai
@@ -43028,6 +43048,7 @@ metamask-login-colour.framer.media
 metamask-login-com.framer.ai
 metamask-login-issue.weebly.com
 metamask-login-learn-in.daftpage.com
+metamask-login-learn-us-sso.typedream.app
 metamask-login-site.framer.ai
 metamask-login-support.pages.dev
 metamask-login-us.framer.ai
@@ -43060,9 +43081,11 @@ metamask-us.pages.dev
 metamask-usdt-flash.pages.dev
 metamask-usdt.pages.dev
 metamask-verification.link
+metamask-wallet-en.framer.ai
 metamask-wallet-io-us.pages.dev
 metamask-wallet-learn.pages.dev
 metamask-wallet-live.typedream.app
+metamask-wallet.framer.ai
 metamask-wallet.to
 metamask-wallets.webflow.io
 metamask-wb-home.framer.website
@@ -44768,6 +44791,7 @@ monclaim.com
 monclaim.pages.dev
 mondex.cc
 mondq.xyz
+mondroitaide.net
 mondrop.xyz
 mone-dox.org
 monegex.com
@@ -50742,6 +50766,7 @@ polkadotjs-book.gitbook.io
 polkadotjs.org
 polkadotnews.pages.dev
 polkadotreview.pages.dev
+polkadotsbykeoni.com
 polkadotsync.com
 polkadotupdate.com
 polkadotupdate.pages.dev
@@ -51625,6 +51650,7 @@ pro-coinbase.typedream.app
 pro-coinbases-io.pages.dev
 pro-coinbes-help.framer.media
 pro-coinbse.grapedrop.net
+pro-coins-secure-cdns.created.app
 pro-coinvase-cdn.created.app
 pro-en-coin-logn.daftpage.com
 pro-en-us-coinbase.framer.ai
@@ -51707,6 +51733,7 @@ proexpertnetwork.xyz
 professionalcryptorecovery.com
 professionaltutors.net
 professionandontainsthespecific.weebly.com
+proficientcapitaltrades.com
 profile-asterdex.com
 profile.27836.click
 profit-insiders.org
@@ -58403,6 +58430,7 @@ solairsdrop.com
 solamacoin.org
 solan-claim.com
 solan-drop.com
+solan-take.live
 solana-2025.fun
 solana-2025.today
 solana-advent.sbs
@@ -63369,6 +63397,7 @@ tesla-giv.com
 teslacoininc.net
 teslagiveaway.xyz
 teslaslidex.xyz
+teslasmore.com
 teslasolana.com
 teslastocks-inc.net
 teslatsax.com
@@ -65374,6 +65403,7 @@ trizor--io-suites.pages.dev
 trizor-suites.pages.dev
 trizr-en-login.square.site
 trizr-io--suites.pages.dev
+trk.moonpaymentbtc.com
 trk.promised-forward-silk-pile.run
 trmlabs.online
 trmlabscoin.com
@@ -65849,6 +65879,7 @@ trustfinbnk.com
 trustfundscapital.xyz
 trustfundscapital.xyz.nicoil.xyz
 trustguide.ghost.io
+trustheritage.live
 trusthorizon.online
 trustlayersfix.netlify.app
 trustleadshippingservice.com
@@ -66600,6 +66631,7 @@ uhggf.buzz
 uhhxhixxh.weebly.com
 uhpvi.xyz
 ui-phntom-oi.pages.dev
+ui01webzoom.us
 uidchainconnect.com
 uikolasm.top
 uilqi.sbs
@@ -68263,6 +68295,7 @@ usor.lat
 usor.pro
 usor.pw
 usor.solplanet.cc
+usor.trade
 usor.world
 usor.xin
 usorchecker.lol
@@ -71774,6 +71807,7 @@ whalequeen.lol
 whales.network
 whantsapp.us.cc
 whaotapp.us.cc
+what-can-be-done-if-the-metamask-login-doesnt-work.typedream.app
 what5app.top
 whatappbagya.blogspot.com
 whatcapp.us.cc

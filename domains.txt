@@ -26045,6 +26045,7 @@ faceit.5v5room.com
 faceit.auth-connectdiscord.com
 faceit.auth-gglegendscup.com
 faceit.auth-vertexclub.com
+faceit.auth-vexarena.com
 faceit.auth-victory-hub.com
 faceit.auth-victoryhub.com
 faceit.authdiscordconnect.com

@@ -10431,6 +10431,7 @@ birb-claim.com
 birb-moonbird.com
 birbcheck.xyz
 birbchecker.lol
+birbdrop.xyz
 birbevent.lol
 birbmeme.lol
 birbsol.lol
@@ -27671,6 +27672,7 @@ flodwex.com
 floki--sushi.xyz
 floki-airdrop.org
 floki-claim.pages.dev
+floki-inu.app
 floki.army
 floki.com-claim.app
 floki.sushistakes.info
@@ -30225,6 +30227,7 @@ greengamb.com
 greenland-harvest.com
 greenlight-pt.ru
 greenprox.cc
+greenrabbit.site
 greens-bitcoins.web.app
 greenshieldfine.com
 greenstreak.fun
@@ -33280,6 +33283,7 @@ igniterush.world
 ignitionbravis.com
 ignitionbravis.network
 ignitionbravis.org
+igobit.com
 ihelperconnect.xyz
 ihubtrader.com
 ii1665.com
@@ -52686,6 +52690,7 @@ pudgypenguins.top
 pudgypeuguins.com
 pudgypienguins.com
 pudgyrewards.com
+pudgys.claims
 pudgyweb.com
 pudgyzpenguins.com
 pudpenguins.asia

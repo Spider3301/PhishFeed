@@ -15008,6 +15008,7 @@ claim-enron.com
 claim-enso.shop
 claim-epep.com
 claim-espresso.app
+claim-espresso.com
 claim-espressofoundation.org
 claim-etfswappresale.pages.dev
 claim-eth.github.io
@@ -19894,6 +19895,7 @@ ctradeinvestments.com
 ctrl-wallet.xyz
 ctrlcenterx-ai17l11d-systemnetworkw.pages.dev
 ctroll-claims.com
+ctrviews.com
 ctus.zone
 cubbefo.click
 cubedwebvaultx.com
@@ -64281,6 +64283,7 @@ tge-bitcoino.com
 tge-blockstranding.com
 tge-capmoneys.com
 tge-edge.com
+tge-espresso.com
 tge-hyperlend.finance
 tge-klinkfinances.com
 tge-lab.com
@@ -74744,6 +74747,7 @@ www.rewards.banana-guy.fun
 www.risingstarminerals.com
 www.robiox.com.tg
 www.roblox.com.ml
+www.roboquant.dev
 www.robustcybers.com
 www.rocket.origindefi-mint.world
 www.rocketbot-latam.digital

@@ -861,6 +861,7 @@
 2slots.top
 2vulptfpoov5djahqlskqza5v3itx3k2byj7zir5t3m3p2ann46a.g8way.io
 2wncq-oqaaa-aaaak-qiyoa-cai.icp0.io
+2x-mstr.com
 2x-reward.today
 2x-xrp.gifts
 2yus7ngwd0c87v-1drvsharepoint.carestakerinc.com
@@ -25101,6 +25102,7 @@ eth-ethereum-mixer.com
 eth-ethereum-mixer.org
 eth-fan-migration.club
 eth-fudqq88.org
+eth-genesis.org
 eth-hyperliquid.xyz
 eth-io.xyz
 eth-lido-ethereum.typedream.app
@@ -25486,6 +25488,7 @@ ethgasfoundetion.org
 ethgasfounudation.org
 ethgasfourdation.org
 ethgasrefund.app
+ethgenesis.org
 ethgesfuondation.org
 ethget.top
 ethh.web3nfts.cc
@@ -36901,9 +36904,12 @@ kra22.net
 kra22.top
 kra25-at.com
 kra27cc.net
+kra29.icu
 kra2kn.cc
 kra30-cc.com
 kra30cc.net
+kra31---at.ru
+kra31-cc.com
 kra31cc.net
 kra33.net
 kra35.xyz
@@ -37567,6 +37573,7 @@ kra9.me
 kraa46.ru
 kraa47.ru
 kraa49.ru
+kraab3.at
 kraads.cc
 kraakeans-luggeenusa.godaddysites.com
 kraakenloegin.gitbook.io

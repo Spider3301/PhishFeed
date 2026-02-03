@@ -26063,6 +26063,7 @@ event-copperinu.fun
 event-cpeng.fun
 event-creditcoin.xyz
 event-crypto.com
+event-dent.fun
 event-donald.fun
 event-dont.fun
 event-eagle.fun
@@ -47417,8 +47418,6 @@ mytransactcheck-ledger.com
 mytrendyshopping.com
 mytrustvalidator.com
 myttamuskklognn.webflow.io
-myvmware-stg.workspaceair.com
-myvmwarestg.workspaceair.com
 myvoicemailmessage-101548.weeblysite.com
 mywallet-help.com
 mywallet-ledger.com
@@ -66275,6 +66274,7 @@ tibkas.com
 tic-tac-toe-2zf.pages.dev
 tick-badge-approval.surge.sh
 tick-trust-verify.surge.sh
+ticker-master-online.com
 ticket-escrow.com
 ticket.848152.com
 ticketsupport-apps.com
@@ -75998,7 +75998,6 @@ www.blasgroup.site
 www.blockchaincheck.us
 www.blockchainlegacy.io
 www.blockchainteam.cloud
-www.blockgainer.io
 www.blockmm.ai
 www.blockshieldsupport.online.emergencyleaveun.online
 www.blocksystemschain.com

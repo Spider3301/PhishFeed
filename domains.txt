@@ -4632,6 +4632,7 @@ aml-checkup.net
 aml-coin.com
 aml-crypto.app
 aml-cryptobot.top
+aml-cryptocheck.info
 aml-cryptocurrency.rest
 aml-dashboard.com
 aml-defi.com
@@ -4778,6 +4779,7 @@ amlalert.co
 amlamlaml.ru
 amlanalytics.cfd
 amlanews.com
+amlaping.sbs
 amlappofficial.com
 amlaudit.info
 amlaudit.pro
@@ -4978,6 +4980,7 @@ amldefy.report
 amldetect.org
 amldetective.ovh
 amldexsafe.com
+amldpoiw.com
 amldrive.com
 amle--amle-project.us-central1.hosted.app
 amle.us
@@ -13345,6 +13348,7 @@ caoinjbaseroplogi.godaddysites.com
 caonax.com
 caorax.com
 caovax.com
+caowax.com
 caowex.com
 cap-claim.live
 capassets-fin.com
@@ -21915,6 +21919,7 @@ deobas.com
 deobax.com
 deomqvc9jyu3.trickle.host
 deonax.com
+deonux.com
 deorax.com
 deosax.com
 deote.top
@@ -25845,6 +25850,7 @@ evedex-exchange.com
 evelen.click
 evencas.com
 evengreenmarkets.org
+event-1ly.fun
 event-accelerando.fun
 event-afk.fun
 event-aiden.fun
@@ -25899,6 +25905,7 @@ event-pinetwork.com
 event-ploi.xyz
 event-png.fun
 event-pump.fun
+event-pyra.fun
 event-redemptionarc.fun
 event-sanddune.fun
 event-shellraiser.fun
@@ -34845,6 +34852,7 @@ iscan.fun
 iscans.fun
 iscans.info
 iscans.life
+iscans.link
 iscans.live
 iscans.lol
 iscans.org
@@ -37777,6 +37785,7 @@ kra48.net
 kra48.xyz
 kra48a.at
 kra49.net
+kra49.shop
 kra50.icu
 kra50.shop
 kra50at.com
@@ -37784,6 +37793,7 @@ kra50cc.icu
 kra50i.ru
 kra50r.ru
 kra52.at
+kra57.com
 kra58.com
 kra58.ltd
 kra58.net
@@ -37799,6 +37809,7 @@ kra8.org
 kra8.top
 kra9.me
 kraa46.ru
+kraa47.at
 kraa47.ru
 kraa49.ru
 kraab3.at
@@ -37908,6 +37919,7 @@ krab2cc.ltd
 krab2cc.net
 krab2cc.zagatovkin.ru
 krab2cc.znay-vse.ru
+krab2cce.ru
 krab2rc.com
 krab3------cc.com
 krab3-----cc.com
@@ -37917,8 +37929,10 @@ krab3-zerkalo.online
 krab3.ru
 krab3k.at
 krab4-kraken-tor.ru
+krab4.biz
 krab4.run
 krab5-kraken.ru
+krab5.biz
 krab5.live
 krab5at-cc.ru
 krab5l.cc
@@ -37926,6 +37940,7 @@ krab7at.top
 krabcc1.top
 krabk1.ru
 krabken-zerkalo.online
+krabo3.cc
 krabs3cc.ru
 krac1.cc
 kraccount.krakenus.cz
@@ -53730,6 +53745,7 @@ pump.raydlum.lol
 pump.solspin.me
 pump.swvap.fun
 pump.web-hub.cc
+pump02.fun
 pump5.fun
 pump6.fun
 pump7.fun
@@ -59956,6 +59972,7 @@ sol-utils.com
 sol-vault.info
 sol-vision.click
 sol-vision.live
+sol-vision.top
 sol-world-award.xyz
 sol-xoxo.site
 sol-xoxoo.site
@@ -60611,6 +60628,7 @@ solvephantomissue.web.app
 solverectification.org
 solverefix.xyz
 solverify.app
+solversebook.com
 solveultimateuniefiedverses.pages.dev
 solvexprime94.com
 solvexprime94.net
@@ -61951,6 +61969,7 @@ starknet.portal-drops.icu
 starknet.portal-hubs.cfd
 starknetex-network.com
 starknetprovisions.com
+starknetstaking.com
 starkware.work
 starladderl.com
 starlineaccess.com
@@ -65348,6 +65367,7 @@ tetherflashservice.com
 tetherflashsoftware.com
 tethergold.asia
 tethermatchsystem.com
+tethermax.site
 tethernetworkflashtool.com
 tetherops.com
 tetherqrgenerator.com
@@ -67457,6 +67477,7 @@ trontrxwallet.com
 tronunion.binecrypto.com
 tronvvallet.com
 tronwallet.one
+tronweb.one
 tronwex.com
 tronxdam.pages.dev
 tronxdigital.com
@@ -67688,6 +67709,7 @@ trustalabs.pro
 trustalabs.run
 trustallwallet.com
 trustaml.net
+trustaml.report
 trustamlbot.net
 trustapp.at
 trustaprotocol.icu
@@ -73975,6 +73997,7 @@ whir.at
 whir.ch
 whir.guru
 whir.live
+whir.ltd
 whir1.com
 whirmix.com
 whirmix.net
@@ -74322,6 +74345,7 @@ winzer.casino
 winzo.casino
 winzone.bet
 winzy.pro
+winzzo.space
 winzzo.vip
 wird6hq2e4knc.mocha.app
 wiremanse.hair
@@ -75478,6 +75502,7 @@ www.btc-bar.com
 www.btc661.com
 www.btckampus.com
 www.btctools.net
+www.btdconsultingservices.com
 www.bulkpi.freeclaim-net.com
 www.bull-market.click
 www.bulwarswap.com
@@ -78249,6 +78274,7 @@ zunowex.com
 zuorax.com
 zurowex.com
 zusewin.cc
+zusewin.com
 zuuu.io
 zuwomex.com
 zuwqrlfb.coinbase-assists.com

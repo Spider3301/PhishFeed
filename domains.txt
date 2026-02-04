@@ -26081,6 +26081,7 @@ event-marge.fun
 event-memecoin.fun
 event-meteora.app
 event-molty.fun
+event-mooner.fun
 event-mountain.fun
 event-nanoeth.com
 event-nekomata.fun
@@ -66540,6 +66541,7 @@ token-night.org
 token-pocket.pages.dev
 token-publicai.uno
 token-publicai.website
+token-pulse.fun
 token-pump.fun
 token-pump.live
 token-riceai.xyz

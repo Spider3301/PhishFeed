@@ -14107,6 +14107,7 @@ cdn-trezor-help-io.pages.dev
 cdn-trezor-login.pages.dev
 cdn.ai-cryptex.net
 cdn.bustascript.com
+cdn.giveaway-pepe.net
 cdn.kra----36----cc.ru
 cdn.mclive24.com
 cdn.pwffood.com
@@ -24271,6 +24272,7 @@ ecotradenet.com
 ectus.zone
 ecuador-btc-mixers.com
 ecudecode.mx
+ecxodus.com
 ed501046.starwall.pages.dev
 edavatr.org
 edbtpro.com
@@ -28363,6 +28365,7 @@ flair-live.online
 flairlondon.com
 flamenexis.pro
 flamigofinance.info
+flamingoapp.top
 flamingodefi.com
 flamingofinance.xyz
 flamita.click
@@ -46270,6 +46273,7 @@ momentum-carta-akb.store
 momentum-codex.netlify.app
 momentum-finance.github.io
 momentum-glow-ai-com.cryptofinancetrack.com
+momentum-pre.pages.dev
 momentum-recovery.ca
 momentum-sphere-ai.com
 momentum-technology.net
@@ -48427,6 +48431,7 @@ nexitifypularhub.pro
 nexivolt-al94.com
 nexkas.com
 nexloop.cc
+nexo-365valerza.net
 nexo-pending.com
 nexo-sushi.xyz
 nexo.abc.br
@@ -52896,6 +52901,7 @@ polymarket.com-intern.co
 polymarket.com-intern.live
 polymarket.com-us.live
 polymarket.com-usa.market
+polymarket.com.en-us.eu
 polymarket.com.internal.trading
 polymarket.confirmations.center
 polymarket.de
@@ -56428,6 +56434,7 @@ remote.login-coinbase-secured.com
 remote.spacepe.in
 remotecall-coretechrobe.com
 remotecontrol.props.app
+remove-metamask-extension.pages.dev
 remowex.com
 remstroyka.booksvala.in
 remuwex.com
@@ -58418,6 +58425,7 @@ saylor67.com
 sayloraiservices.com
 saylorbtc.io
 saylorcreates.art
+saylorevent.net
 saylorgift.sx
 saylorinvest.io
 saylorinvest.net
@@ -59272,6 +59280,7 @@ serv13292.connexionmonespace25.eu
 servactlvity.nice-try-firs.info
 servasco.de
 servcorng.framer.website
+serve.giveaway-pepe.net
 server-7.top
 server-list1.com
 server-shield-verify.xyz
@@ -60639,6 +60648,7 @@ sol-place.com
 sol-point.lol
 sol-pool.top
 sol-pot.com
+sol-predict.click
 sol-prodapp.com
 sol-promotion.org
 sol-pump.live
@@ -64798,6 +64808,7 @@ synfutures.harbitrage.com
 synfuturis.xyz
 synq.observer
 syntcidevpgres.xyz
+syntechinvesting.com
 syntekai-invest.com
 syntekai.es
 synthelite.com
@@ -69376,6 +69387,7 @@ ucbukavu.ac.cd
 ucen.booksvala.in
 ucfreecodashop.xyz
 uclitetrd.com
+uco5webzoom.us
 ucrenprm.com
 udena-viro.net
 udhay22r.github.io
@@ -71069,6 +71081,7 @@ usdwon.com
 usdwon.eu
 usdxproof.com
 use-base-extension-wallet.pages.dev
+use05webzoom.us
 useamplify-financial-capital.com
 usecashe.xyz
 usecorn-claim.com

@@ -1842,6 +1842,7 @@ aave.com-chain-web3-app.com
 aave.com-connect-apps-wallets-v2.com
 aave.com-connect-dappv3.com
 aave.com-connect-v3-api-app.com
+aave.com-connect-wallet.pro
 aave.com-dapp-swap.com
 aave.com-dapp-v2-fast.com
 aave.com-dappv2-connect.com
@@ -3047,6 +3048,7 @@ airclaim.presidentxi.live
 airconditionerwithheatpump.com
 aircourierdelivery.info
 aircrypto.info
+airdao-steam.top
 airdapp.click
 airdexnexus.site
 airdop-hypeliquid.com
@@ -10652,6 +10654,7 @@ binancedrainer.pages.dev
 binanceflashusdt.info
 binancefxpro.com
 binancegamesglobal.pro
+binanceglobal.pro
 binanceguidance.com
 binanceido.com
 binanceii.com
@@ -21684,6 +21687,7 @@ ddyx.trade-v3-web-connect.com
 ddyx.trade-web-v3.com
 ddyx.trade-webv3-connect.com
 de-bank.run
+de-bankapp.com
 de-feth.vip
 de-filaunchpad.com
 de-gen.vercel.app
@@ -36867,6 +36871,7 @@ karakueiuionloghin.gitbook.io
 karan.webscrollit.com
 karatdao.top
 karate-wkf.ru
+karb3.at
 kardcas.com
 kardibed.com
 kargola.me
@@ -37844,6 +37849,7 @@ kra39web.cc
 kra4-4-cc.ru
 kra4-4cc.ru
 kra4-5-at.ru
+kra4.art
 kra4.com
 kra4.org
 kra4.pro
@@ -37861,6 +37867,7 @@ kra40at.net
 kra41-at.com
 kra41.sbs
 kra41at.cc
+kra41at.com
 kra42-at-web.ru
 kra42-cc-web.ru
 kra42.net
@@ -38455,6 +38462,7 @@ kra47cc.uv-5r.ru
 kra47cc.voprosy-migranta.ru
 kra47cc.wb-academys.ru
 kra47cc.yarbush.ru
+kra47ccb.ru
 kra47z.at
 kra48.cc
 kra48.cz
@@ -38481,6 +38489,7 @@ kra59.comphishing
 kra59.net
 kra6.net
 kra61.com
+kra67.com
 kra7.info
 kra7.pro
 kra74.at
@@ -38509,6 +38518,7 @@ kraaqianlugi.webflow.io
 krab---------2at.ru
 krab----5-cc.ru
 krab---1---cc.ru
+krab---1--cc.ru
 krab---3---cc.ru
 krab--1---cc.ru
 krab--5----cc.ru
@@ -39290,6 +39300,7 @@ krownautosales.ca
 krpywebnetworks.com
 krq46.ru
 krra39at.ru
+krrab3.at
 krraken-home.pages.dev
 krraken-login-ecu.pages.dev
 krraken-wallet-login.typedream.app
@@ -44198,6 +44209,7 @@ megaeth.onl
 megaeth.support
 megaeth.walletdock.app
 megaeth20.top
+megaethdefi.xyz
 megaethe.pro
 megaethlabs.top
 megaethnet.com
@@ -50247,6 +50259,7 @@ opensea-activity001.pages.dev
 opensea-airdrop-checker.vercel.app
 opensea-cap.vercel.app
 opensea-case.vercel.app
+opensea-claims.top
 opensea-click28-two.vercel.app
 opensea-dez.pages.dev
 opensea-eng.pages.dev
@@ -57673,6 +57686,7 @@ ronexreich-platform.com
 rongyaozhanchang.com
 roninchain.alert.claims
 roninchain.co.com
+roninchains.com
 ronindrops.com
 ronixbet.com
 roobet-canada.ca
@@ -62533,6 +62547,7 @@ ssv-sushi.top
 ssvnct.top
 ssvnet.top
 ssylka-kraken.com
+ssylka-na-kraken.cc
 st0rage.zapto.org
 stabble.exchange
 stabile-fundex.com
@@ -66985,6 +67000,7 @@ ticocoin.com
 tidedrop.live
 tidyzen.vercel.app
 tiecontinentallogistics.com.ng
+tiffany-collectibles.com
 tiffany-nft.com
 tiffany-ntfiff.com
 tiffany.exclusive-airdrop.com

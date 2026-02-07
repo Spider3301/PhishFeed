@@ -2807,6 +2807,7 @@ affixati.xyz
 affixcargotransit.live
 affixpro.live
 affixrevsexplore.run
+affluenceaura.com
 affluentprimemastersuper.xyz
 affmegawealthworld.com
 affpipe.click
@@ -22639,6 +22640,7 @@ dev.register.org.im
 dev.servicebase.net
 dev.solanatokenlist.com
 dev.stake-rocketpooi.net
+dev.syncfinancedapp.com
 dev.upholdf.com
 dev.www.wordpress.alpha-metabase.cheatrise.com
 devblogsstage2.wpengine.com
@@ -26690,6 +26692,7 @@ evergreenvault.online
 everibeiro.com
 everlodge-claimv2.pages.dev
 everlyntoken.top
+everrextrade.com
 evershorex.com
 everstake.eu.com
 everstakebot.com
@@ -49498,6 +49501,7 @@ noderectifierhub.com
 noderesetrefix.xyz
 noderesolveassets.pages.dev
 noderesolvedex.pages.dev
+noderesolvefix.com
 noderesolvelive.pages.dev
 noderesolver-3ea.pages.dev
 noderesolverdex.pages.dev
@@ -51166,6 +51170,7 @@ oxproeliptic-server.web.app
 oxswap.org.tr
 oxvabet.com
 oxwot.com
+oxycapitalsltd.com
 oxycas.com
 oxygenprotocol.space
 oyhv35.top

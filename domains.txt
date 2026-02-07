@@ -27258,6 +27258,7 @@ exchange-trademarket.com
 exchange-upgrade.com
 exchange-wallet-dydx.pages.dev
 exchange.evedex.com
+exchange.swap-trx.workers.dev
 exchangeblock.org
 exchangecore.za.com
 exchanged.my
@@ -66211,6 +66212,7 @@ swap-raydium-exchange.typedream.app
 swap-raydium-io.pages.dev
 swap-raydiumio.pages.dev
 swap-rewards.org
+swap-trx.workers.dev
 swap-uniswap.at
 swap-v3chain.cc
 swap-v4.com
@@ -70894,6 +70896,7 @@ trxloot.top
 trxme.org
 trxminego.live
 trxmining.pro
+trxms.org
 trxne.org
 trxnetwork.cfd
 trxnetwork.com

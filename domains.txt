@@ -221,6 +221,7 @@
 1-slots.world
 1-trump.com
 1-win.rest
+1-win.uk
 1-win.vin
 1-xbet.icu
 1-xbet.net
@@ -760,6 +761,7 @@
 1win.fyi
 1win.ng
 1win.nyc
+1win.uk
 1winbday.today
 1winbonus.icu
 1winex.cfd
@@ -2249,6 +2251,7 @@ access-opensee-login-en.pages.dev
 access-phantom-wallet.framer.ai
 access-phntomwallet.framer.ai
 access-plasma.to
+access-portal.top
 access-portals.top
 access-pro-coinbselog.pages.dev
 access-rabby-wallet-en-us.pages.dev
@@ -5272,6 +5275,7 @@ amll-ttml-tool.stevexmh.net
 amllbot.io
 amllbot.pro
 amllbott.com
+amllegal.com
 amllex.site
 amllix.com
 amlllbot.com
@@ -6808,6 +6812,7 @@ app.papara.icu
 app.pednldle.finance
 app.pendlel.finance
 app.pendlme.finance
+app.pendnel.finance
 app.penldlne.finance
 app.phinancetech.info
 app.piasmafoundation.xyz
@@ -8498,6 +8503,7 @@ aurumindustries.com
 aurumtrans.com
 aurumtrustglobal.com
 aurumvanguard.digital
+aurusgame.cc
 auruswin.com
 auruswin.top
 auryxelle.shop
@@ -9084,6 +9090,7 @@ azuki-dao.top
 azuki-elementals-waitlist.pages.dev
 azukielementalnfts.pages.dev
 azukielementalscollection.pages.dev
+azukiupdate.live
 azuredocs-ext-coinbasehelp.webflow.io
 azurerush.quest
 azurionspin.com
@@ -13802,6 +13809,7 @@ calvinswaps.com
 calyravellin.net
 calyraveylis-fr.com
 calyxenblockeur.net
+camarketpro.com
 cambria-lobby.xyz
 cambridgeinvestmentbank.online
 camelot-dex-arbitrum-native-decentralized-exchange.cc
@@ -14232,7 +14240,9 @@ casinocash.us
 casinocashbonuse777.network
 casinocasinosonline.com
 casinocentr.com
+casinocoin.me
 casinodaddywin.sbs
+casinodrops.click
 casinoflux.org
 casinofortuna.pro
 casinofun.top
@@ -14641,6 +14651,7 @@ cenyra-volen.com
 ceofx247luxurypips.com
 ceoglobalearnings.xyz
 ceolarryfink.com
+ceolax.com
 ceolix.com
 ceoocvezznbbeeeevvee.flazio.com
 ceovax.com
@@ -15750,6 +15761,7 @@ claim-bullish.live
 claim-bullish.pages.dev
 claim-bullishdegen.xyz
 claim-burger.xyz
+claim-buttcoin.live
 claim-bux.com
 claim-caesar.com
 claim-cai.pro
@@ -16969,6 +16981,7 @@ claimlayerbtc.world
 claimlayerbtc.xyz
 claimlightchainai.online
 claimlinea.xyz
+claimlulo.xyz
 claimmantasrewardsnets.xyz
 claimmantrarewards.xyz
 claimmaskairdrop.com
@@ -20415,6 +20428,7 @@ crownlessgame.com
 crownspin.casino
 crownspin.cc
 crownsspins.com
+crownstake.com
 crowntr.builltt.com
 crowntrust-union.com
 crowylogistics.com
@@ -20716,6 +20730,7 @@ cryptohoppers.xyz
 cryptoifex1000.com
 cryptoinvostock.xyz
 cryptoipo.net
+cryptojackpot.app
 cryptokeeperllc.com
 cryptokeeperpro.com
 cryptoleaders.app
@@ -20814,6 +20829,7 @@ cryptosolution.site
 cryptospace-explorer.blogspot.com
 cryptostakebg.com
 cryptostocksx.com
+cryptostudio.org
 cryptosty.cc
 cryptosupportwebs.space
 cryptoswap.digital
@@ -21007,6 +21023,7 @@ cubbefo.click/tlscSYLgSLt
 cubedwebvaultx.com
 cuberex.com
 cubertraderai.vip
+cubes-capital.com
 cubes-ventures.com
 cubextrade.com
 cucoin-logi.godaddysites.com
@@ -22989,6 +23006,7 @@ dev.stake-rocketpooi.net
 dev.syncfinancedapp.com
 dev.upholdf.com
 dev.www.wordpress.alpha-metabase.cheatrise.com
+dev.wwwdubaijialedejihuabiao.cracked.sh
 devblogsstage2.wpengine.com
 devchain-vercel.site
 devchain.cloud
@@ -23864,6 +23882,7 @@ domain-kraken-web.created.app
 domain-meta-website.square.site
 domain-metamaskio-web.framer.website
 domain-oinbase-home.framer.website
+domain-service.live
 domainparcelservices.com
 domainprime.sa.com
 domains-ledger.com
@@ -23932,6 +23951,7 @@ doodles-x-coinspot.site
 doodles.dood-claim.app
 doodles.wales
 doodless.world
+doodlesupdate.live
 doodleverse.claims
 doodleverse.claims/check
 doodtoken.xyz
@@ -27951,6 +27971,7 @@ faceit.zeropoint-cs.com
 faceit.zeropointcs.com
 faceitauditv2.com
 faceitauditv2.com/Skin'Club.Voting
+faceithome.auth-vex-arena.com
 faceitie.com
 faceitt.verification2fa.com
 faceitt.verificationds.com
@@ -29117,6 +29138,7 @@ firstmandinceoffshore.top
 firstmerchants.at
 firstmerchantsbank.at
 firstnatibn.online
+firstone.world
 firstonlineroyalbank.xyz
 firstrustcargoxpress.com
 firstsofibk.com
@@ -30190,6 +30212,7 @@ furiouswin.com
 furoairdrop.pages.dev
 furowex.com
 furtive-rock.surge.sh
+furymex.com
 furywins.com
 fusaka-ethereum.com
 fusaka.app
@@ -31187,6 +31210,7 @@ gg-bet.icu
 gg-bet.rest
 gg-payment.store
 ggb.llopwhsfag.dns-dynamic.net
+ggbet.icu
 ggcash.vip
 ggcasino.online
 ggdorex.com
@@ -31624,6 +31648,7 @@ goalglide.ru.com
 goaltrail.ru.com
 goamplify-financial-capital.com
 goanex.com
+goarex.com
 goaskclaim.xyz
 goat-drop.top
 goat-network.icu
@@ -31768,6 +31793,7 @@ golucker.com
 gom2c.com
 gomarketsled.com
 gomdori-airdrop.xyz
+gomepex.com
 gomezdelgado.com.ar
 gominingapp.site
 gominingrectification.pages.dev
@@ -36701,6 +36727,7 @@ jetbluecargoexpress.com.mewefitech.com
 jetcash.bet
 jetcasx.com
 jetdicey.com
+jetdrop.cc
 jetindigologistics.com
 jetluck.bet
 jetmyx.com
@@ -36982,6 +37009,7 @@ joinusdockhealth.com
 joker-games.top
 jokercards.org
 jokergames.live
+jokergames.top
 jokergreen.com
 jolievictory.cc
 jollbet.com
@@ -38222,6 +38250,7 @@ kirakenuslog.webflow.io
 kiranexusreward.pro
 kirekenlogi.wordpress.com
 kirenunlciun.webflow.io
+kirofex.com
 kirowex.com
 kirukenlogui.webflow.io
 kishvandnews.ir
@@ -38588,6 +38617,7 @@ kpoom-coinbase.com
 kppe.pl
 kpsservices.fr
 kqmyi.qd88.pro
+kqsaq2c80153c-d377-42ed-9424-e122d3b5e914.btcxorvel92.com
 kquzkoinlogin.webflow.io
 kr-ken-log-in.pages.dev
 kr-ken-login.pages.dev
@@ -40819,6 +40849,7 @@ lavantamall.com
 law.sbrbot.trading
 lawacas.com
 lawhati3lanet.top
+lawino.bet
 lawsonlee.com
 lawwabet.com
 laxa.top
@@ -42060,6 +42091,7 @@ lewwk.xyz
 lexado-mavil.net
 lexano.bet
 lexbeto.com
+lexbit.cc
 lexboom.com
 lexboom.com/w
 lexboom.top
@@ -43822,6 +43854,7 @@ luckygrands.com
 luckyhall.bet
 luckyjet.casino
 luckylab2.bet
+luckylizard.com
 luckyman88.club
 luckyman88.club/slotwin138
 luckymint9268.vercel.app
@@ -49160,6 +49193,7 @@ najafootwear.com.ng
 najafootwear.com.ng.abokidevelopers.com
 nakamigos-c4d.pages.dev
 nakamigos.art
+nakamigosupdate.live
 nakedjim-migrate.fun
 nakeds.ai
 nakhon-bitnova.net
@@ -51553,6 +51587,7 @@ opensea.ie
 opensea.io.available-nft.com
 opensea.io.com.offer-with.com
 opensea.io.marketplace-art.com
+opensea.io.nft-year.com
 opensea.io.nfts-new.org
 opensea.io.offervnft.com
 opensea.love
@@ -51875,6 +51910,7 @@ origin-world.vercel.app
 origina-predictor.vercel.app
 original-conference-726613.framer.app
 originalusedcarparts.com
+origindeffi.site
 origindefi-mint.world
 origindefi-mint.xyz
 origindefi.community
@@ -52573,6 +52609,7 @@ paraquedasbrasil.paraquedasbrasil.com.br
 parasailnetwork.xyz
 paraspace-migration.xyz
 parastaking.app
+paraswap-api.github.io
 paraswap-app.pages.dev
 paraswap.us.com
 parcel-worldwide.com
@@ -53031,6 +53068,7 @@ pepe6.top
 pepeagent.world
 pepeagent.world.affiliatemarketinglitepro.com
 pepeagent.world.affiliatemarketingslitepro.live
+pepeairdrop01.com
 pepeasccension.com
 pepeascension.com
 pepeascension.info
@@ -54525,6 +54563,7 @@ polysniper.fun
 polyspinx.com
 polyusmarkets.com
 pombntru.click
+pomedex.com
 pond0x-allocation.xyz
 pondox-drops.xyz
 ponegex.com
@@ -57449,6 +57488,7 @@ rbxclaim.net
 rbxgame.top
 rbxgive.com
 rbxhelper.top
+rbxlab.net
 rbxlab.top
 rbxlabs.cc
 rbxlabs.tech
@@ -63194,6 +63234,7 @@ somnia.registers.ink
 somnia.sbs
 somniahub.network
 somnialaunchxz.pages.dev
+somnianetwork.app
 somnianetwork.net
 somnias.net
 somnla-network.me
@@ -64128,6 +64169,7 @@ stacksevm.xyz
 stadelrabs.icu
 stadelrabs.sbs
 stader-app.net
+staderlabs.digital
 staderlabs.icu
 stadifi.org
 stadifi.pro
@@ -67907,6 +67949,7 @@ telesmartsolutions.com
 teletalk-105274.weeblysite.com
 teletran.teiegtm.top
 telexcourier.com
+telexpumpfun.sbs
 telia-network.tempurl.host
 telkom-logiin-page.weebly.com
 telkompass.weebly.com
@@ -73359,6 +73402,7 @@ usorchecker.lol
 usorchecker.xyz
 usorcoin.lol
 usorcoin.lol/claim
+usorcoin.net
 usorcoin.org
 usorcoin.top
 usorcoin.world
@@ -77036,6 +77080,7 @@ wer.solvault.ws
 weracas.com
 werendex.com
 werlytdety.cloudaccess.host
+werofex.com
 werowex.com
 werowin.com
 wertalmpro-invest.com
@@ -77368,6 +77413,7 @@ whitewhalememe.app
 whitewhalermeme.live
 whitewhales-allocation.xyz
 whitewhalesmeme.com
+whitewhalesolmeme.com
 whitewhalev2.live
 whitewhalev3.live
 whm.raydium.mom
@@ -79381,6 +79427,7 @@ www.novationwire.com
 www.novawalletdesktop.com
 www.nowriskledger.com
 www.npc.hosicocatsolclaim.xyz
+www.nuclearbeam.xyz
 www.odeonmovies.shop
 www.odinbot.io
 www.officialdapps.cc
@@ -79528,6 +79575,7 @@ www.snipersol.com
 www.snowairdrop.com
 www.socialsols.com
 www.sol-galaxy.cc
+www.sol-scope.com
 www.solanaholderbot.com
 www.solanamobile-seeker.xyz
 www.solanasynth.com
@@ -81032,6 +81080,7 @@ yth-108845.weeblysite.com
 yuaohoosmainl.sbs
 yuckyducks.xyz
 yuenandabaotksyy.top
+yugaupdate.live
 yukbit.space
 yukistat.com
 yukit.co
@@ -81135,6 +81184,7 @@ zama.stakingsreward.art
 zama.stakingsreward.org
 zama.today
 zama.web3-testnet.com
+zama.website
 zamansenindir.org
 zamaplay.com
 zamaupdate.live

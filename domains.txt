@@ -27086,6 +27086,7 @@ event-redemptionarc.fun
 event-rektober.fun
 event-sanddune.fun
 event-shellraiser.fun
+event-shizukuai.fun
 event-shrimpcoin.fun
 event-skillstack.fun
 event-smithers.fun

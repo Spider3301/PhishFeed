@@ -5306,6 +5306,7 @@ amlltrx.com
 amlmiks.com
 amlmikser.com
 amlmonetory.com
+amlmonetory.org
 amlnetwork.info
 amlnex.com
 amlnode.live
@@ -5365,6 +5366,7 @@ amlsavebotru.com
 amlsavecheck.com
 amlscan-crypto.online
 amlscan.org
+amlscan.zip
 amlscanbot.icu
 amlscanify.info
 amlscanner.org
@@ -13580,6 +13582,7 @@ buytron.online
 buytron.org
 buytrx.cc
 buytrx.cx
+buytrx.dev
 buytrx.mov
 buytrx.one
 buytrx.org
@@ -21484,6 +21487,7 @@ dale.coincap.click
 dalilee.order28554.world
 dalilee.quick-scan.icu
 dalyandog.net
+damancoindcx.my
 damangames.co.com
 damanworld1.com
 dambetx.com
@@ -23308,6 +23312,8 @@ dexwalletshub.pages.dev
 dexwe.top
 dexweb-defi.org
 dexweb-defi.vip
+dexweb3-defi.one
+dexweb3-defi.top
 dexwin.cc
 dexwin.top
 dexwip.top
@@ -31570,6 +31576,7 @@ glatryx.com
 glavortotrade.com
 glazesolana.lol
 glazyspin.com
+glbalstckmrkt.pro
 glbchnmin.com
 gleaming-froyo-440fc8.netlify.app
 gleamrush.world
@@ -36554,6 +36561,7 @@ isamalta.org
 isbankmobilcep.com
 isbell.vercel.app
 iscan.fun
+iscans-ai.club
 iscans.biz
 iscans.fun
 iscans.info
@@ -46168,6 +46176,7 @@ meta-wollat-portal.pages.dev
 meta-workx.pages.dev
 meta-world-3cs.pages.dev
 meta-worndivar.pages.dev
+meta-wwormhole.com
 meta-wylen-zelor.pages.dev
 meta-wylyn-marex.pages.dev
 meta-wyra-denox.pages.dev
@@ -50882,6 +50891,7 @@ ns6.luvbeinghost.com
 nsaew.carrd.co
 nsddb.cc
 nseclub.my
+nseyes.my
 nslcasino.bet
 nstexf.com
 nstutqucbooks.weebly.com
@@ -55614,6 +55624,7 @@ process.27836.click
 processing-aave.com
 processing-app.netlify.app
 processing-ledger.com
+processing-sol-finder.vercel.app
 processnext.pages.dev
 processor-digitalcase.com
 prochainmarketoption.com
@@ -62288,6 +62299,7 @@ sltcrypto.com
 slunisvwap.info
 slunisvwap.org
 slunisvwap.top
+slush-app.net
 slush-sui.app
 slush-wallet-app-get.typedream.app
 slush-wallet-en-eng.pages.dev
@@ -69925,6 +69937,7 @@ trade-thinkorswim-v3-auth-app.pro
 trade-tools.pro
 trade-with-orca-easily.pages.dev
 trade-wlfi.world
+trade-zemro.com
 trade.atcfx.com.bz
 trade.avaswaps.xyz
 trade.club-luxanpros.com
@@ -71447,6 +71460,7 @@ trxfinance.com.br
 trxgas.me
 trxgb.org
 trxhub.it.com
+trxind.com
 trxle.org
 trxli.org
 trxline.org
@@ -72412,6 +72426,7 @@ uniswpl.cc
 uniswqp.exchange
 uniswrp.top
 uniswzp.com
+unisxap-un-changes.gitbook.io
 unitas.icu
 unitbonad.com
 unitcarriageways.com
@@ -73159,6 +73174,7 @@ us08webzooms.live
 us09-zoom.us
 us09web.com
 us0bwebzoom.us
+us0lwebzoom.us
 us0webzoom.com
 us0webzoom.store
 us12web-zoom-us-j-9043562891.pages.dev
@@ -78159,6 +78175,7 @@ wishwin.life
 wist.bet
 wistbet.com
 withcoin.biz
+withdraw-blockchain.cfd
 withdrawal-blockchaln.cfd
 withdrawal-lido.finance
 withdrawalmap.com
@@ -79190,6 +79207,7 @@ www.amiblocks.au
 www.amiblocks.com
 www.aml-finances.com
 www.aml-finances.com/home
+www.aml-secure.help
 www.aml-tools.digital
 www.amladvisers.com.au
 www.amlbot-audit.app
@@ -80778,6 +80796,7 @@ xn--defllama-41a.com
 xn--dexscreenr-zmb.com
 xn--dofus-retro-actualits-74b.com
 xn--dscordapp-vpb.com
+xn--dxscreener-rmb.net
 xn--elvasdajooks-bjba0g.ee
 xn--ethr-dpa.fr
 xn--ewk-zva.com

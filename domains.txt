@@ -11281,6 +11281,7 @@ bitclarn.com
 bitcloak.me
 bitcmart.com
 bitcobase.com
+bitcodenexora.com
 bitcogain.com
 bitcoin-100maxair.com
 bitcoin-2-usdt.com
@@ -11787,6 +11788,7 @@ bitrevo-circle.net
 bitrevocircle-invest.com
 bitrin.builltt.com
 bitrobot.web.app
+bitrofa.com
 bitroll.cc
 bitronox.com
 bitrouse.com
@@ -18026,15 +18028,20 @@ coiinbase-ext.daftpage.com
 coiinbase-exten.created.app
 coiinbase-extenson-web3.created.app
 coiinbase-logiin.blogspot.ch
+coiinbase-logiin.blogspot.cl
 coiinbase-logiin.blogspot.co.at
 coiinbase-logiin.blogspot.co.uk
 coiinbase-logiin.blogspot.co.za
 coiinbase-logiin.blogspot.com.ar
 coiinbase-logiin.blogspot.com.au
 coiinbase-logiin.blogspot.com.br
+coiinbase-logiin.blogspot.com.co
 coiinbase-logiin.blogspot.com.ee
 coiinbase-logiin.blogspot.com.tr
+coiinbase-logiin.blogspot.cz
 coiinbase-logiin.blogspot.gr
+coiinbase-logiin.blogspot.hk
+coiinbase-logiin.blogspot.hu
 coiinbase-logiin.blogspot.in
 coiinbase-logiin.blogspot.kr
 coiinbase-logiin.blogspot.mx
@@ -22182,6 +22189,7 @@ dappsmainnetasset.pages.dev
 dappsmultinode.pages.dev
 dappsnode.info
 dappsnows.com
+dappsoccer.com
 dappsol.live
 dappsolanaprotocol.com
 dappsolchain.com
@@ -25546,6 +25554,7 @@ egl1.sushiswap.lol
 egl1.website
 egld.sushiswap.one
 egoldfx.com
+egonswap.io
 egowex.com
 egox.cc
 egppb2bportalten.ciamlogin.com
@@ -35605,6 +35614,7 @@ hyperliquidty.xyz
 hyperliquidtyclaim.cfd
 hyperliquidview.xyz
 hyperliquidwallet.org
+hyperliquidx.app
 hyperliquidx.co.com
 hyperliquidx.xyz
 hyperliquiid.co.com
@@ -38881,6 +38891,7 @@ kjat.d7jyu2dnjykvx.amplifyapp.com
 kjmqihbw.login-coinbase-secured.com
 kjs78.jkhij456.luhuijklma.yoga
 kk-1.sgrew.club
+kkarakinlogin-in.godaddysites.com
 kkdshsdk.top
 kkhh001.top
 kkmdsw.com
@@ -40542,6 +40553,7 @@ krakenchiropracticmov.com
 krakencleanpro-com.pages.dev
 krakencleanpro.com
 krakenclearssylka.cc
+krakenclickwyskd.com
 krakenclogin.wordpress.com
 krakencoin.fun
 krakencollectibles.ca
@@ -61031,6 +61043,7 @@ savexfin.com
 savileno.com
 savingpro.top
 savingsusdc.com
+savonatrade91.it
 savonix.top
 savrynpulseai-es.net
 savvyspins.com
@@ -63819,6 +63832,8 @@ solfareapp.com
 solfarming.com
 solfart.io
 solfi.bet
+solfinder-redirector.vercel.app
+solfinder.cc
 solflaras.com
 solflare-app.live
 solflare-check.com
@@ -74562,6 +74577,7 @@ uspsvco.com
 usr-sushi.cfd
 usr.hypelaunchhub.xyz
 usrabbeywalt.gitbook.io
+usro-reserve.com
 uss--phantom.pages.dev
 uss-ledger-live.pages.dev
 uss-trzer-bryge.wasmer.app
@@ -75901,6 +75917,7 @@ visionairdrop.com
 visionary-pegasus-e8a9c8.netlify.app
 visionfundsfindept.com
 visionkeflexfin.net
+visionprofitlink.org
 visiontrade-invest.com
 visiontrade-pl.com
 visit--exodusweb.pages.dev

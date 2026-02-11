@@ -8266,6 +8266,7 @@ atomicwallet.co.com
 atomicwallet.fun
 atomicwallet.si
 atomicwallet.to
+atomicwalletapp.com
 atomicwallete.com
 atomicwalletreviews.com
 atomicwallets.org
@@ -11144,6 +11145,7 @@ bingxhome.com
 bingxtech.com
 bingxzone.com
 bingybet.com
+binnacewall.com
 binopax.com
 binorex.com
 binotra.com
@@ -11410,6 +11412,7 @@ bitfinexprofit.com.avkresearch.com
 bitfinexsg.com
 bitfinexsg.vip
 bitfinexw.asia
+bitfinxext.com
 bitfirefx.com
 bitfiyer-2465-cd697.bitfiyer-akwqm.com
 bitfiyer-34a3-5a09a.bitfiyer-smzk.com
@@ -11633,6 +11636,7 @@ bitgetz.biz
 bitgetz.com
 bitgevix.com
 bitgexen.com
+bitgext.com
 bitgo-6013.hxtxh.com
 bitgold.world
 bitgoldminers.net
@@ -11789,6 +11793,7 @@ bitsgapinvest.com
 bitshiftexchange.com
 bitshinecaplt.com
 bitsipaywallet.com
+bitskeps.info
 bitsler.fun
 bitslot.world
 bitsofv.info
@@ -11840,7 +11845,9 @@ bittradeonline.net.fairlypaycapital.com
 bittraderltd.com
 bittradersinc.com
 bittradesmax.com
+bittrexten.com
 bittrustcard.com
+bittsap.info
 bituniswap.com
 bitunix-login.org
 bitupchange.io
@@ -15405,7 +15412,6 @@ changenow.cyou
 changenow.id
 changenow.ing
 changenow.ink
-changeum.io
 changeupmixer.space
 changewallet.pages.dev
 changg-nnow.com
@@ -20834,6 +20840,7 @@ cryodex.io
 cryopt-onboarding.com
 crypacas.com
 crypewa.com
+cryplog.info
 cryplowalletlogin.com
 crypluxo.com
 crypt-ex.pro
@@ -27041,6 +27048,7 @@ ethereumeprexxp-com-gen1.trackfinanceworld.com
 ethereumevexaipro-com.trackfinanceworld.com
 ethereumfund.top
 ethereumhiprex.co
+ethereumhub002.com
 ethereumhub01.net
 ethereumhub02.com
 ethereumhubdefi.net
@@ -30154,6 +30162,7 @@ forexexperttrades.com
 forexmining.uk
 forexra.cc
 forextimeoption.com
+forexvault.live
 forfunarcade.com
 forge-university.com
 forge.bittensor-en.app
@@ -33892,6 +33901,7 @@ hashpackfirmware.app.apexfix.xyz
 hashpackupdate.pages.dev
 hashpackwallet.net
 hashpck-en-us.pages.dev
+hashpwall.info
 hashup.cc
 hashusdc.com
 hashwinz.com
@@ -50225,6 +50235,7 @@ netcoinloginx.webflow.io
 netcoins.shop
 netcoinsapp-sso-auth.webflow.io
 netcoinslogin-setup.webflow.io
+netcois.info
 netf-green.vercel.app
 netfilix-kappa.vercel.app
 netfimarketing.com
@@ -54221,6 +54232,7 @@ phantuwallett.webflow.io
 phantwl.info
 phantwll.info
 phantxm.com
+phanwaex.info
 pharaoh.exdhange.com
 pharaoh.finance
 pharaohecxhenge.org
@@ -58374,6 +58386,7 @@ recovermycryptowallet.com
 recovermywallet.online
 recovermywallet.org
 recoverscammedcrypto.com
+recoverseed.backupsetings.online
 recoverwallet.online
 recovery-agency.it.com
 recovery-legderlive.run.place
@@ -59067,6 +59080,7 @@ resync-continuumvault.live
 resync-nodemodule.com
 retard.acafdxiaharbor.com
 retardretirement.com
+retconllc.top
 reth-sushi.cfd
 reth-sushi.top
 retikclaim.web.app
@@ -60672,6 +60686,7 @@ sail.beefyapps.sbs
 saintdashboard.com
 saisiedevotreidentifiant-ldent.godaddysites.com
 sait-kontrol.ru
+saitap.info
 saiwax.com
 saiwex.com
 sajacoin.com
@@ -70717,6 +70732,7 @@ trezer-io--start.pages.dev
 trezer-iostartpages.weebly.com
 trezer-login-usa.pages.dev
 trezersuiteapp.weebly.com
+trezext.live
 trezio.created.app
 trezior-hardware-live.vercel.app
 treziostart.ghost.io
@@ -71915,6 +71931,7 @@ trxline.org
 trxlk.com
 trxln.org
 trxloot.top
+trxmarket.click
 trxme.org
 trxminego.live
 trxmining.pro
@@ -82197,6 +82214,7 @@ zachxbt.info
 zacix.com
 zackonbags.fun
 zadepositslot.com
+zadrotik.com
 zaduix.com
 zaeb.tryhardcup.pro
 zaebas.wins-game.com

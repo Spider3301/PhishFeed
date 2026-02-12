@@ -6337,6 +6337,7 @@ app-nanoeth.org
 app-new-lido.webflow.io
 app-nniswap.org
 app-nodepoint-web.pages.dev
+app-npc.com
 app-oai-whatshktw.com
 app-ods-c1.top
 app-okx-voting-b345f.vercel.app
@@ -17731,6 +17732,7 @@ cleanwallet.info
 cleanyoursol.com
 clear-chat.ai
 clear-randike-benchod.vercel.app
+clear-randike-c24808j.vercel.app
 clear-signing-ledger.com
 clear-vault.online
 clearcoinfx.com
@@ -21313,6 +21315,7 @@ cryptoworlldspace.space
 cryptox.exchange
 cryptoxrp.org
 cryptoyard.tech
+cryptoz.su
 cryptozak.com
 cryptozep.com
 cryptozug-app-ca.net
@@ -31650,6 +31653,7 @@ get-yieldusd.net
 get-your-wallet.created.app
 get-zet.org
 get-zigchain.com
+get.grass.cx
 get.grass.lc
 get.kra----36----cc.ru
 get.kra37ccs.ru
@@ -35433,6 +35437,7 @@ hyper-liquid.pages.dev
 hyper-liquid.to
 hyper-liquidapp.xyz
 hyper-metrics.xyz
+hyper-portfolios.xyz
 hyper-sushi.lat
 hyper-trade.xyz
 hyper-unit.eu
@@ -48313,6 +48318,7 @@ mlclever.com
 mldasbuyallregion.shop
 mleox.com
 mlgratepumpfun.xyz
+mlnwin.com
 mlrgroup.site
 mlv.retaileth.com
 mm-toys.xyz
@@ -63600,6 +63606,7 @@ sol-rewards.digital
 sol-rewards.life
 sol-rewards.org
 sol-rewards.xyz
+sol-scope.click
 sol-screen.xyz
 sol-slug.com
 sol-snip.icu
@@ -71455,6 +71462,7 @@ trololocoin.lol
 trololol-airdropclaim.pages.dev
 trololol.sbs
 trololol.site
+trolololo.app
 trolololo.io
 trolololocoin.lol
 trolololol.io
@@ -82908,6 +82916,7 @@ zerobasezk.xyz
 zerodeficitccrnprep.com
 zerodeficitpulse.com
 zeroexch.io
+zerofees.fun
 zerofex.com
 zerofoudationclaim.pages.dev
 zerolupdate.live

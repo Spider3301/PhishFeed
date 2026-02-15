@@ -6658,6 +6658,7 @@ app-pancakeswap.to
 app-pendle-v7.com
 app-pendle.cc
 app-pepeheimer.pages.dev
+app-perlelabs.xyz
 app-phalanetwork.xyz
 app-phantom-ou.pages.dev
 app-phantom-wallet.framer.ai
@@ -9710,6 +9711,7 @@ aztec.fund
 aztec.saie.network
 aztec.stakingsreward.org
 aztecnetwork-voting.com
+aztecnetwork.live
 aztex.network
 azuki-dao.top
 azuki-elementals-waitlist.pages.dev
@@ -10602,9 +10604,11 @@ bdag-distribution.xyz
 bdag.io
 bdagclaim.pages.dev
 bdagclaims.network
+bdagmainnets.live
 bdagnetwork.info
 bdagopenchek.com
 bdagupdate.live
+bdagupdates.live
 bdenwifhatsolana-xyz.pages.dev
 bdgdhsgj.duckdns.org
 bdjwv.cfd
@@ -10691,6 +10695,7 @@ beautiful-khapse-e59784.netlify.app
 beauty.aetbaseniorproducts.com
 beautydata.ai
 beautyworkid.com
+beaver-presale.xyz
 bebift.com
 beboldstanduptobullying.com
 bebroplay.com
@@ -11491,6 +11496,7 @@ bic-w.com
 bicoinhyper.live
 biconomyexchange.live
 bicw.com
+bidbrasil.net
 biddscom.icu
 biddscom.live
 bids-sea.io
@@ -11550,6 +11556,7 @@ bigtrout-alication.xyz
 bigtrout-alications.xyz
 bigtrout.lol
 bigtroutcoin.com
+bigtrouts-alication.xyz
 bigtroutsolana.com
 bigwinner.click
 bigxpro.com
@@ -11918,6 +11925,7 @@ bitcoinbn.io
 bitcoincas.com
 bitcoinchaser.com
 bitcoincn.io
+bitcoincollective.club
 bitcoincore-wallet.org
 bitcoincoreapp.store
 bitcoindady.com
@@ -15110,6 +15118,7 @@ cardingcashout.com
 cardingcashout.ru
 cardmetawithcl.com
 cardonarewards.live
+cardpix.icu
 cardprotections.com
 cards-staker.xyz
 cardsledger.com
@@ -18154,6 +18163,7 @@ claimbetainfinterewards.sbs
 claimbillionsnetworkrewards.xyz
 claimbitbonus.com
 claimbitcoinhyper.xyz
+claimblockdag-presale.xyz
 claimblockdag.site
 claimblumairdrp.com
 claimboard.org
@@ -18328,6 +18338,7 @@ claimpinetworkairdrop.com
 claimponke.pages.dev
 claimportal.live
 claimportalhub.site.claimportal.live
+claimpresale-blockdag.xyz
 claimpresale1.artyfact.game
 claimprove.cyou
 claimpudgypenguins.xyz
@@ -18351,6 +18362,7 @@ claimritualsaward.info
 claimritualsprized.info
 claimritualsprizes.info
 claimrobuxtoday.pages.dev
+claimrocafi.xyz
 claimrush.pages.dev
 claims-0glabs.finance
 claims-5thscape.com
@@ -18686,6 +18698,7 @@ claudesamara.cc
 clavonbit.com
 clawaudio.fun
 clawd-allocation.xyz
+clawd-cloudx.xyz
 clawdbot.club
 clawdsbosatg.com
 clawedcodes.com
@@ -20515,6 +20528,7 @@ coinslist.co
 coinsluxe.vip
 coinsmarketcap.fun
 coinsmarketcap.pro
+coinsmarlketcap.fun
 coinsmart-ca.framer.ai
 coinsmemesol.org
 coinsmintsol.com
@@ -21934,6 +21948,7 @@ crossllama.pages.dev
 crossminttoken.xyz
 crostw.net
 croswex.com
+croute.xyz
 crowdcreateytr.cc
 crowdwalrus.pages.dev
 crown-hub.com
@@ -22147,6 +22162,7 @@ crypto-yield-ch.org
 crypto.cryptts.com
 crypto.jobs
 crypto.trustedweb.pro
+crypto1on1.org
 crypto2gift.com
 crypto4.live
 crypto4exchanges.com
@@ -23616,6 +23632,7 @@ dashboard-pep5nvgl-sahir01-metamask.4everland.app
 dashboard-plasma.app
 dashboard-plasma.to
 dashboard-plus.xyz
+dashboard-presales.xyz
 dashboard-qpi9hyb7-sahir01-metamask.4everland.app
 dashboard-qubetics.xyz
 dashboard-render.com
@@ -23642,6 +23659,7 @@ dashboard.raydium.ae
 dashboard.woodforestbnk.com
 dashboard0x0.com
 dashboardconnects.pages.dev
+dashboards-blockdag.network
 dashdegentips.pro
 dashing-stardust-312e25.netlify.app
 dashlboard.it.com
@@ -31025,6 +31043,7 @@ fight.votepump.fun
 fight2ma-ga.co
 fightfoundationrewards.site
 fightid.fun
+fightidfoundation.xyz
 figmetn.com
 figowex.com
 figurepool.xyz
@@ -34949,7 +34968,9 @@ guapzenith.com
 guarantystablewall.pro
 guarantyunitytrustbnk.com
 guard-wallet.org
+guarda-desktophub.net
 guarda-wallet.io
+guarda.broker
 guarda.ltd
 guarda.uk.com
 guardadesktopapp.com
@@ -38545,6 +38566,8 @@ info-aster.live
 info-asterdex.com
 info-baseswap-docs.typedream.app
 info-blog.to
+info-campaign.quest
+info-campaigns.quest
 info-change.to
 info-changel.to
 info-changenow.com
@@ -42756,6 +42779,7 @@ krab5.ru
 krab5at-cc.ru
 krab5at.at
 krab5cc-ru.com
+krab5cc.xyz
 krab5l.cc
 krab6.ink
 krab6.life
@@ -43919,6 +43943,7 @@ lace-io.com
 lace-io.live
 lacedesktop.com
 lackywin777.com
+lacoursconstruction.group
 lad21.top
 lad27.top
 lad35.top
@@ -50714,6 +50739,7 @@ migrate-trustwallet.com
 migrate-uxlink.com
 migrate-vectorspacebio-science.xyz
 migrate-whiterock.co
+migrate-wojakcto.live
 migrate-yield.com
 migrate-yieldbasic.com
 migrate-yieldbasis.world
@@ -53932,6 +53958,7 @@ nexswap.limited
 next-ab-clone-apetta.vercel.app
 next-chain.net
 next-ethereum-nine.vercel.app
+next-moon.fun
 next-netflix-19th-nu.vercel.app
 next-netflix-22nd-modelly.vercel.app
 next-netflix-22nd-pekp-d5r1q7sce-seonghun-jungs-projects.vercel.app
@@ -57458,6 +57485,7 @@ pepu-bridge.online
 pepu.allocate-live.site
 pepu.sushiswap.best
 pepubridgeapps.net
+pepubridges.live
 pepuclaim.live
 pepumainnet.live
 pepumigrate.pages.dev
@@ -59076,6 +59104,7 @@ poorderspecificationstoacces.vercel.app
 poorlymarket.xyz
 pop-drop.sergo.space
 pop-exo.pages.dev
+pop-proofofpotato.fun
 pop-upheld.pages.dev
 pop.coinbaseminingfarm.com
 pop.coinbaseregion.com
@@ -59241,6 +59270,7 @@ portal-quant.network
 portal-rayduim.live
 portal-restructure-ra-blockfi.com
 portal-seguro.bond
+portal-shido.live
 portal-signer-ledger.com
 portal-smartpocket.com
 portal-snsid.com
@@ -62112,6 +62142,7 @@ rayls.airdropalert.us
 rayls.pages.dev
 rayls.presalelab.top
 raylsairdrop.xyz
+raylsholders.live
 raylshub.pages.dev
 raylslab.live
 raylsrewards.com
@@ -62140,6 +62171,7 @@ rb88u.com
 rb88v.com
 rbbitx.framer.ai
 rbcauth-express.com
+rbcexpress.support
 rbf-cu.com
 rbfcu-star.azurewebsites.net
 rbfcu.onlineportalnow.com
@@ -62909,6 +62941,7 @@ remittixs.pages.dev
 remittixs.vercel.app
 remittixtoken.firebaseapp.com
 remittixtoken.info
+remittixtoken.live
 remittixx.vercel.app
 remittlix.pages.dev
 remittx.io
@@ -63409,6 +63442,7 @@ rewards-phiprotocol.xyz
 rewards-plasma.app
 rewards-pnut.xyz
 rewards-pogai.com
+rewards-prismfi.xyz
 rewards-program-okx.com
 rewards-program.app
 rewards-pulsex.app
@@ -64931,6 +64965,7 @@ saleaztec.network
 salebrowsers.com
 saleinto.space
 salemegaeth.com
+sales-aztec.network
 sales-batch.coinbase.com.lc
 sales.highsierrapools.us
 salesflash.online
@@ -67613,6 +67648,7 @@ sol-incinirator.xyz
 sol-incinrator.com
 sol-incinreator.net
 sol-inclnerator.net
+sol-inclnerator.xyz
 sol-incnierator.com
 sol-inicnerator.com
 sol-join.info
@@ -67663,6 +67699,7 @@ sol-rewards.xyz
 sol-scope.click
 sol-scope.help
 sol-scope.live
+sol-scope.lol
 sol-scope.top
 sol-screen.xyz
 sol-slug.com
@@ -69170,6 +69207,7 @@ spurdoeth.com
 spvscwqgzc.eu-west-3.awsapprunner.com
 spx--sushi.xyz
 spx24.biz
+spx6900-allocations.xyz
 spx6900-rewards.com
 spx6900-token.com
 spx6900app.com
@@ -71126,6 +71164,7 @@ suncoast-dev-git-scups-131-suncoast-credit-union.vercel.app
 suncoust.click
 sundaeswap.org
 sundaeswapfi.com
+sundogmeme.info
 sunflower-land.cfd
 sunfordbitline-invest.com
 sunio.mov
@@ -76514,6 +76553,7 @@ trustguide.ghost.io/suite-app
 trustheritage.live
 trusthorizon.online
 trusticrypt.com
+trusticrypt.org
 trusticrypto.com
 trusting-checking.vip
 trustlayersfix.netlify.app
@@ -77386,6 +77426,7 @@ uat.upholdf.com
 uat.zro.app
 uayazambe.ydns.eu
 ubbet.casino
+ubemigration.xyz
 ubi.weppb.icu
 ubiquitous-gumption-2d0403.netlify.app
 ublack.me
@@ -83808,6 +83849,7 @@ whitewhale-aliocation.xyz
 whitewhale-allocation.xyz
 whitewhale-info.xyz
 whitewhale-meme.com
+whitewhale-rewards.xyz
 whitewhale.live
 whitewhale.xyz-referal-808771.lol
 whitewhale.xyz-referal-808771.lol/claim
@@ -83815,6 +83857,7 @@ whitewhaleclaim.live
 whitewhalememe.app
 whitewhalermeme.live
 whitewhales-allocation.xyz
+whitewhales-rewards.xyz
 whitewhalesmeme.com
 whitewhalesolmeme.com
 whitewhalev2.live
@@ -85264,6 +85307,7 @@ www.app.netxworld.xyz
 www.app.serturnglob.com
 www.app.stake-stone.com
 www.app.trias0ne.xyz
+www.appcrfix.xyz
 www.appen-job.com
 www.apple-authenticator.com
 www.aquafxt.com
@@ -85704,6 +85748,7 @@ www.growaveonline.com
 www.gsr333.com
 www.gsr333.com/index/user/login
 www.gt-protocol.io
+www.guarda.cash
 www.guarda.ltd
 www.guardadesktopapp.com
 www.guardaian.cc
@@ -87451,6 +87496,7 @@ xn--pmp-hoa.dev/coin/4t7xuugzhmtqxy8f7fmyabgqyd6d7kdnjr7mvzvvpump
 xn--pmp-hoa.fun
 xn--pnckswp-2fgcd6c.xn--finnchbrthbnb-y1kccb8fg0pub07afa432bha34ee079cjaed.merch.co.com
 xn--pnckswp-2fgcd6c.xn--finnchbrthbnb-y1kccb8fg0pub07afa432bha34ee079cjaed.search-10m.co.com
+xn--pnp-hoa.fun
 xn--quiksw-8nf2ke.xn--hng-6cdxe3f5a.xn--a-5tba957z.xn--sw-8kc8dw20r.xn--trde-63d9714b.xn--nnteddshbrd-3ije4duhm1be7617kja.xn--unchind-5fg1c2532c.oushedwallet.eu.com
 xn--r-7sbo6bq.xn--flrvult-5fg5bc1hwa8d4mc4535ihag.vault-s1.eu.com
 xn--rab2-f0a.cc

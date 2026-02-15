@@ -8953,6 +8953,7 @@ attverriifiiicaaatiooonnnn.webflow.io
 attyahoomail-servicescomms.weeblysite.com
 atvbz.app
 atvercel.com
+atzec.network
 au.answers.quantarchive.com
 aubblimited.org
 aubreycas.com
@@ -9688,6 +9689,7 @@ azmicounselinghousesa.icu.s-italiano.store
 azonorganicseeds.com
 azorilix-invest.com
 azstec.shop
+aztc.network
 aztcec.network
 azte.network
 aztec-docs-dev.netlify.app
@@ -11837,6 +11839,7 @@ bitawax.com
 bitb0t.live
 bitbalmy.com
 bitbama.pages.dev
+bitbao.exchange
 bitbase-es.com
 bitbase-miners.com
 bitbasedex.com
@@ -21372,6 +21375,7 @@ copyconnection.top
 copygo.app
 copygo.trade
 copyoptionmarket.live
+copytrading-bot.com
 copytradingbroker.com
 copytradingfun.com
 copytradinglab.pro
@@ -24503,6 +24507,7 @@ depinesim.xyz
 depinsim.xyz
 deploy-preview-1349--morpho-hub.netlify.app
 deploy-preview-1431--morpho-aave-v3.netlify.app
+deploy-sol.com
 deploy-uphold.pages.dev
 deployontron.com
 depo.corvola.com
@@ -26168,6 +26173,7 @@ duewallet.net
 dukecas.com
 dukungjobsumkmmitra.com
 dullbet.com
+dum4.fun
 dumainvexus.com
 dumbo.to
 dumibet.com
@@ -29422,6 +29428,7 @@ exhubj.net
 exiboom.com
 exiled-bot.app
 exiodouswab3wiallet.gitbook.io
+exioglo.com
 exiplerkas.com
 exiplerkas.com.cassurefirm.com
 exito-doribax.de
@@ -40087,6 +40094,7 @@ junoswap.me
 junovia.top
 jup-1dn.pages.dev
 jup-ac.app
+jup-activity.xyz
 jup-ag-exchange.org
 jup-ag-jupiter.cc
 jup-ag.co.in
@@ -40264,6 +40272,7 @@ jupbox.world
 jupclaim.help
 jupclaim.pages.dev
 jupcoin-x.org
+jupcore.net
 jupdappchain.click
 jupdecem.com
 jupdefi.live
@@ -43130,6 +43139,7 @@ krakenlogine.square.site
 krakenloginer.pages.dev
 krakenlogings.pages.dev
 krakenloginii.webflow.io
+krakenloginjl.webflow.io
 krakenloginn46.godaddysites.com
 krakenloginne.wordpress.com
 krakenloginss.wordpress.com
@@ -43231,6 +43241,7 @@ krakienenlogi.godaddysites.com
 krakienlgoinin.godaddysites.com
 krakine.com
 krakinnloggin.webflow.io
+krakinuuloggen.webflow.io
 krakkein-loggi1.godaddysites.com
 krakkein-loggion.godaddysites.com
 krakkeinlgin.godaddysites.com
@@ -46958,6 +46969,7 @@ loolksrare.net
 loolsgames.com
 loomcraft.live
 loomlay.net
+loonalaunchsolpad.com
 loopbitnest.site
 loophype.site
 loopingcollect.org
@@ -47323,6 +47335,7 @@ lumstarmgmt.click
 lumwax.com
 luna-gate.io
 luna-launch.fun
+luna-launch.net
 luna-launch.site
 luna-memes.com
 luna-memex.com
@@ -47348,6 +47361,8 @@ lunaclassic-migration.pages.dev
 lunacreate.net
 lunacreator.world
 lunadax.com
+lunadefi.fun
+lunadeploy.com
 lunakai.net
 lunalaunch.com
 lunalaunch.live
@@ -49014,6 +49029,7 @@ memecoinsupport.org
 memecointradingterminals.com
 memecoinwebsite-generator.click
 memecores.xyz
+memecreator.info
 memecreator.run
 memecro.com
 memedex.life
@@ -57176,6 +57192,7 @@ penguinonsol-partners.fun
 penguinonsol.pro
 penguinonsolana.app
 penguinonsolana.com
+penguins-activity.com
 penguins-allocation.xyz
 penguins-btcoin.live
 penguinsgive.com
@@ -57190,6 +57207,7 @@ pengusclub.com
 pengusol-drop.fun
 penguvoucher.com
 penguxdrop.fun
+pengy-pudgypenguin.com
 pengy-sol.org
 penlde.run
 penlde.top
@@ -57606,6 +57624,7 @@ phantomeextensionn.blogspot.co.ke
 phantomeextensionn.blogspot.com
 phantomeextensionn.blogspot.com.mt
 phantomeextensionn.blogspot.cz
+phantomeextensionn.blogspot.fi
 phantomeextensionn.blogspot.mx
 phantomeextensionn.blogspot.pe
 phantomeextensionn.blogspot.si
@@ -58896,6 +58915,7 @@ poolcas.pro
 pooleth.pro
 pooleth.top
 poolkai.vip
+pools.meteora.boats
 pools.meteora.camp
 pools.meteora.com.de
 pools.meteora.dog
@@ -67352,6 +67372,7 @@ sol-collect.info
 sol-collect.net
 sol-collect.online
 sol-collector.com
+sol-core.net
 sol-core.pro
 sol-cyberlaw.com
 sol-dapp.com
@@ -67361,6 +67382,7 @@ sol-degenerates.netlify.app
 sol-deploy.com
 sol-devnet1.magiceden.dev
 sol-devs.xyz
+sol-distribution.xyz
 sol-dns.com
 sol-dopamine.fun
 sol-dreidel.fun
@@ -68098,6 +68120,7 @@ solscna.github.io
 solscope.click
 solscope.help
 solscope.org
+solscore-bot.com
 solsdapps.pages.dev
 solsday.cc
 solsea.fun
@@ -68116,6 +68139,7 @@ solsniper-bot.fun
 solsniper-tool.com
 solsniper.app
 solsniper.biz
+solsniper.cn.com
 solsniper.dev
 solsniper.fun
 solsniper.us.com
@@ -86884,6 +86908,7 @@ xn--app-aav-g9aa.com
 xn--astrdex-v8a.com
 xn--av-6kcw.xn--cmaahbrgh-5yh2mfeta15aw4hha3153kdaj.liquidity.eu.com
 xn--avanisfi-syb.com
+xn--ave-ila.com
 xn--bitconcore-d8a.app
 xn--bswap-zsa.com
 xn--bttrx-esay.com

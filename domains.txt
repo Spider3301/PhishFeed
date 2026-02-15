@@ -8677,6 +8677,7 @@ atomic.co.com
 atomic.web3apps.cc
 atomicdesktopwallet.com
 atomicdesktopwallet.live
+atomicsweb.com
 atomicwallet-app.com
 atomicwallet.at
 atomicwallet.co.com
@@ -22554,6 +22555,7 @@ cto68.com
 ctradeinvestments.com
 ctrl-wallet.xyz
 ctrlcenterx-ai17l11d-systemnetworkw.pages.dev
+ctrldesktop.xyz
 ctroll-claims.com
 ctrviews.com
 ctus.zone
@@ -23905,6 +23907,7 @@ debridge.top
 debridgereward.finance
 debringe-finance.sas1.pro
 debrldge.co.com
+debug-dcentwallet.com
 debuglinkapp.xyz
 decapitalmarket.com
 decartmirage.com
@@ -61444,6 +61447,7 @@ rabby-wallet-es-en.typedream.app
 rabby-wallet-extension-en.pages.dev
 rabby-wallet-extensionn.pages.dev
 rabby-wallet-home-dzj.pages.dev
+rabby-wallet-io.com
 rabby-wallet-io.pages.dev
 rabby-wallet-support-us.pages.dev
 rabby-wallet-uk.pages.dev
@@ -61470,6 +61474,7 @@ rabby-wllet.pages.dev
 rabby.at
 rabby.fi-v2.to
 rabby.framer.ai
+rabby.net-sys.at
 rabby.net-sys.digital
 rabby.pw
 rabby.typedream.app
@@ -82756,6 +82761,7 @@ web3fix.live
 web3fixprotocol.xyz
 web3fox.top
 web3geteasy.com
+web3glen.com
 web3globalsync.com
 web3guardedbackup.com
 web3guildguard.digital
@@ -82832,6 +82838,7 @@ web3rating.tech
 web3ready.org
 web3repositoryserver.pages.dev
 web3resolutionfix.com
+web3safe-pal.com
 web3safeledgers.com
 web3safesecure.com
 web3safetyvault.com

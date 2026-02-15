@@ -1207,6 +1207,7 @@
 4a537f8276704fe3b6b61761570858560.2141976.meusitehostgator.com.br
 4ba67ccf.vivewss.pages.dev
 4bsctoken.com
+4burn.netlify.app
 4chananon.finance
 4dbzg-3yaaa-aaaad-qet4a-cai.icp0.io
 4dedc728.restwalt.pages.dev
@@ -1761,6 +1762,7 @@
 90844.xyz
 9085.tanaragerlach.com
 90aa014152804aa1.raydiumpro-web.shop
+90biem.org
 91.92.240.23
 91.92.242.111
 91.92.242.111/admin
@@ -5436,6 +5438,7 @@ amlcheck.pics
 amlcheck.tech
 amlcheck.tv
 amlcheckapp.com
+amlcheckbest.com
 amlcheckcrypto.org
 amlchecked.pro
 amlchecker-bot.com
@@ -7674,6 +7677,7 @@ apps.rtl.hr
 apps.uniswap-assets.com
 apps.uniswqp.exchange
 apps.userverifylogin.com
+appsdebugresolve.pages.dev
 appsdownload-suites.framer.media
 appsextension.live
 appsforzoom.com
@@ -15435,6 +15439,7 @@ catherinegauthier.info
 catizen-rewards.pages.dev
 catizenairdrop.live
 catlicksbals.com
+catmigration.world
 catownkimono.onsolx.io
 catpcha-bots.site
 catpcha.vercel.app
@@ -22259,9 +22264,11 @@ cryptomus-pay.cc
 cryptomus-payment.com
 cryptomus-scan.com
 cryptomus-tokenfree.com
+cryptomus-wallet.com
 cryptomus.link
 cryptomus.live
 cryptomus.ltd
+cryptomus.my
 cryptomus.one
 cryptomus.pw
 cryptomus.site
@@ -23667,6 +23674,7 @@ daxodis.com
 daxonis.com
 daxopen-app.com
 daxrox.com
+day-checkwallet.digital
 daybreakcup.com
 daycarecoin.fun
 dayhub.io
@@ -27140,6 +27148,7 @@ eligible-jupiter.org
 eligible-jupiter.pro
 eligible-jupiter.pw
 eligible-jupiter.top
+eligible-jupsol.live
 eligible-ondo.finance
 eligible-ore.pro
 eligible-plasma.com
@@ -28916,6 +28925,7 @@ eulertestresolve.pages.dev
 eumetamask-login.pages.dev
 eunitedcryptofx.com
 eupholllogusi.godaddysites.com
+euphonious-dodol-fff95a.netlify.app
 euphorai-labs.com
 euphorai.finance
 euphoria-finance.com
@@ -30937,8 +30947,10 @@ fight.orbitsol.cc
 fight.orbitsol.cc/login
 fight.solplanet.cc
 fight.solplanet.cc/login
+fight.votepump.fun
 fight2ma-ga.co
 fightfoundationrewards.site
+fightid.fun
 figmetn.com
 figowex.com
 figurepool.xyz
@@ -39418,6 +39430,7 @@ jackpotszone.pro
 jackpotzone.casino
 jackpout.com
 jackpout.top
+jackpout.world
 jackrox.com
 jackrox.net
 jackrox.org
@@ -39905,6 +39918,7 @@ joinpay-math.com
 joinrevalue.com
 joinseeker.org
 joinstakehouse.pro
+jointera.cc
 jointflowx.com
 jointherealworldapps.live
 jointherealworldportals.live
@@ -41395,6 +41409,7 @@ klondaika.casino
 klosterhof-cronschwitz.de
 klprosperitywalk.com
 klte.foundation
+kltratvos.blogspot.com
 kltratvus.blogspot.com
 klx.airdropsalert.life
 klyndoraqerith.info
@@ -48395,6 +48410,7 @@ marketminit.com
 marketoriya-group.com
 marketplace-activation.com
 marketplace-nft.trade
+marketplace.dexscreener.exchange
 marketplace.opensea-team.help
 marketplace.us.cc
 marketpllacetf.com
@@ -48851,6 +48867,7 @@ megaeth.gifts
 megaeth.group
 megaeth.live
 megaeth.onl
+megaeth.rabblthole.com
 megaeth.support
 megaeth.walletdock.app
 megaeth20.top
@@ -60126,6 +60143,7 @@ psyopanime.lol
 psyopanime.memelabs.top
 psyopanime.pro
 psyopanime.xyz
+psyopanimecoin.run
 psyopanimesol.fun
 psyopanimesol.lol
 psyopanimesol.lol/claim
@@ -62225,6 +62243,7 @@ rectifyissues-now.vercel.app
 rectifymultichain.site
 rectifyv2.pages.dev
 rectifyvalidation.pages.dev
+rectifywallet.click
 rectifywallet.page.gd
 rectifyweb3chain.xyz
 rectifywebnodechain.xyz
@@ -63464,6 +63483,7 @@ risk-managed-transaction-check.com
 riskbros.com
 riskcheck.info
 risumonepeh.com
+ritayariosol.pages.dev
 ritewin.com
 ritikpandey007.github.io
 ritmo-fintex.com
@@ -66709,6 +66729,7 @@ skoda-volkswagen.ru
 skogcasino.com
 skok-bitrow.org
 skoolany.com
+skr.mintpad.cc
 skr.solanamobiie.xyz
 skr.solplanet.cc
 skr.solplanet.cc/early
@@ -67446,6 +67467,7 @@ sol-rewards.life
 sol-rewards.org
 sol-rewards.xyz
 sol-scope.click
+sol-scope.help
 sol-scope.live
 sol-scope.top
 sol-screen.xyz
@@ -73319,6 +73341,7 @@ tenofex.com
 tenogex.com
 tenovexy.com
 tenowex.com
+tenozex.com
 tenpsig.xyz
 tensortrade.org
 tensorusd.com
@@ -78845,6 +78868,7 @@ usdt-qr-code-generators.com
 usdt-qr-code.com
 usdt-qr.to
 usdt-qrcode-generator.com
+usdt-secure.net
 usdt-secure.org
 usdt-solana-mixers.com
 usdt-staking.ltd
@@ -78874,6 +78898,8 @@ usdt.earn68.com
 usdt.earnm.sbs
 usdt.hubboxx.com
 usdt.legit-mining.top
+usdt.lustpay.link
+usdt.metabridge.online
 usdt.minefreee.cc
 usdt.niuzi.app
 usdt.okxyouyiapp.com
@@ -78923,6 +78949,7 @@ usdtaudit.app
 usdtaudit.com
 usdtbanlist.com
 usdtbb.pro
+usdtbep-mining.click
 usdtbet-ufa.com
 usdtbiz.net
 usdtbooster.org
@@ -78968,8 +78995,10 @@ usdtflashersoftwares.com
 usdtflashertool.vip
 usdtflashseller.shop
 usdtflashsoftware.com
+usdtflashsoftware.shop
 usdtflashstore.com
 usdtflashsupplier.shop
+usdtflashtokens.club
 usdtflashtokens.shop
 usdtflashx.in
 usdtflow.fun
@@ -78987,6 +79016,7 @@ usdtlevel.com
 usdtlux.shop
 usdtmind.top
 usdtminer.click
+usdtminingwebsite-cryptomining-628f081a-2667.app.omni-coder.com
 usdtmixer.app
 usdtmixer.com
 usdtmixer.digital
@@ -79003,6 +79033,7 @@ usdtpix.xyz
 usdtpool.pro
 usdtquicknode.shop
 usdtrace.com
+usdtrains.techminds.info
 usdtransfer24.com
 usdtrapid.shop
 usdtree.net
@@ -79025,6 +79056,7 @@ usdtt-bep20.netlify.app
 usdttbs.dev
 usdttest.app
 usdttest.net
+usdttest.site
 usdttocash.xyz
 usdttormb.com
 usdttradeexchange.live
@@ -79804,6 +79836,7 @@ vaultafi.xyz
 vaultbackups.com
 vaultbenefits.net
 vaultblockchain.ink
+vaultbtcwallet.com
 vaultcasino.club
 vaultclaim.xyz
 vaultclickly.0xmgrt-tokelifysyncrebportal.sbs
@@ -85124,6 +85157,7 @@ www.chain-expertise.com
 www.chaindapp.net
 www.chainlist.one
 www.chainlydapptoolkit.sbs
+www.chainovawallet.org.greenwichsignaturebk.org
 www.chains-nodex.com
 www.chainshieldhub.pro
 www.charlesschwabbrokers.com.fxprimeinvest.com
@@ -86689,6 +86723,7 @@ xempires.top
 xenablend.live
 xeneadesktopwallet.app
 xenfylor.live
+xengwalletpro.com
 xenitchain.com
 xenlivor.online
 xenluck.com
@@ -86750,6 +86785,7 @@ xgram.bond
 xgram.cfd
 xgram.cyou
 xgram.my
+xgrokwallet.io
 xgrowl.app
 xgurunetwork.co
 xhope.finance
@@ -87500,6 +87536,7 @@ xyo.sushiswap.buzz
 xyuvrot.net
 xyz-app-v4-wallet-connect.com
 xyz-hyperliquid-support.pages.dev
+xyz-wallet-connect-app.com
 xyzverse-claim.io
 xyzverse-claim.web.app
 xyzverse-in.web.app

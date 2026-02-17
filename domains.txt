@@ -4609,6 +4609,7 @@ allocate-pfpepe.fun
 allocate-pippin.finance
 allocate-pudgypenguins.com
 allocate-pump.fun
+allocate-punch.com
 allocate-rainbow.com
 allocate-sachicoin.com
 allocate-uni.com
@@ -5515,6 +5516,7 @@ amlckeckbots.com
 amlclear.com
 amlcloud.help
 amlcoin.cash
+amlconnect.site
 amlconnects.com
 amlcontrol.io
 amlcontrol.net
@@ -7489,6 +7491,7 @@ appjuicefinance.pages.dev
 appkabuto.xyz
 appkaminio.com
 appkamino.com
+appkaminofinance-earn-lend.pages.dev
 appkraakencdn.framer.ai
 appkrakeens.framer.ai
 applaunchpool.pages.dev
@@ -29836,6 +29839,7 @@ exoduswallet.cc
 exoduswallet.exo.co.com
 exoduswallet.versoly.page
 exodusweb--io.pages.dev
+exodusweb-enn.pages.dev
 exodusweb3-en-usa.pages.dev
 exodusweb3-es.pages.dev
 exodusweb3-io.pages.dev
@@ -30631,6 +30635,7 @@ favorite-moments-282477.framer.app
 favorite-popover-749094.framer.app
 favoritsport.ro
 fawko.com
+faxuve.info
 fazaanewestbenefits.com
 fazzacards.com
 fb-helpline.fashionglaze.info
@@ -39277,6 +39282,7 @@ io-exodus-w3-wllt-en.pages.dev
 io-exodus-web.pages.dev
 io-exoduss-download-en.pages.dev
 io-exodust.pages.dev
+io-exodusweb-us.pages.dev
 io-exoduswebb.pages.dev
 io-exosdeusweb.pages.dev
 io-famex-exchange.pages.dev
@@ -39345,6 +39351,7 @@ io-phntomus-wallet.pages.dev
 io-phomls-walet.pages.dev
 io-phomstqs-wallet.pages.dev
 io-phomt-iqs-wallet.pages.dev
+io-phomts-waleta.pages.dev
 io-phomts-wallets.pages.dev
 io-portfolio-metuamsk.weebly.com
 io-rabby-wallet.framer.media
@@ -41752,6 +41759,7 @@ klyperion-gpt.com
 kmallalliancen3.top
 kme-wswhatsapp.cc
 kmeanz.com
+kmno-lend.com
 kmp3.cc
 kmqu.cn
 kms-full.com
@@ -48390,6 +48398,7 @@ mail.trustwallet-turkiye.com
 mail.trustwalletconnect.net
 mail.truterabk.com
 mail.uniswap-trade.net
+mail.updates-coinbase.org
 mail.upriskledger.com
 mail.user-coinbase.support
 mail.ussdtboost.xyz
@@ -49086,6 +49095,7 @@ maxxcoinsol.net
 maxxgmk.myshopify.com
 maya-protocol.net
 maya.bitpump.fun
+mayadog.bitpump.fun
 mayan-6me.pages.dev
 mayan3.com
 mayannetwork.com
@@ -49399,6 +49409,7 @@ memberteamoutlookservr.weebly.com
 memberverifier.github.io
 memcoinstarter.com
 meme-bag.fun
+meme-box.live
 meme-event.fun
 meme-flow.fun
 meme-index.co
@@ -56817,6 +56828,7 @@ p5115p.com
 p54x.xyz
 p551006.cc
 p67o.xyz
+p6mp.fun
 p7-netflic-clone.netlify.app
 p711.aiusdc.cc
 p71f.xyz
@@ -57986,6 +57998,7 @@ phantom-auth-app--com.webflow.io
 phantom-backup.com
 phantom-bit.com
 phantom-coin.xyz
+phantom-dev.fucked-your.mom
 phantom-en-extension.framer.media
 phantom-en-us.created.app
 phantom-en.at
@@ -58588,6 +58601,7 @@ pippincoin.com
 pippincoin.net
 pippincoin.org
 pippincoin.trade
+pippincoinsol.com
 pippindrops.live
 pippinlove.live
 pippinlove.top
@@ -59293,6 +59307,7 @@ polymarket-us.pages.dev
 polymarket-verification.com
 polymarket-verify.com
 polymarket-web.pages.dev
+polymarket-whale-tracker.pages.dev
 polymarket-wl.com
 polymarket.academy
 polymarket.airdropalert.us
@@ -63672,6 +63687,7 @@ revolve-pro.top
 revolving-games-airdrop.online
 revox.pro
 revoxchain.com
+revshare.live
 revspark.us
 revtokenchaindapp.pages.dev
 rew-pool.xyz
@@ -64277,6 +64293,7 @@ robloxtrenches.com
 robloxtutorial.com
 robloxv.cam
 robloxv.com.es
+robloxvirtualitemcodegenerator.pages.dev
 robloxw.com.es
 robloxx.cam
 robloxx.com.es
@@ -75181,6 +75198,7 @@ tokenclaimxairdrop.pages.dev
 tokencommunitynewzealand.com
 tokencycle.info
 tokendrop.top
+tokendrops.fun
 tokeneu.lat
 tokenfidiamondhand.com
 tokenflux.cc
@@ -75463,6 +75481,7 @@ toornado.cash
 tooxwin.com
 top-10-escorts.com
 top-exchnage.com
+top-meme.fun
 top-moskva.ru
 top.artiagri.com
 top.nationalsdeliverysolutions.com

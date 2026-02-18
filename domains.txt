@@ -13946,6 +13946,7 @@ boundlessdao.network
 boundlesslive.xyz
 boundlessproofs.com
 bounnce-register.xyz
+bounty-blaze.net
 bounty-boosteth.com
 bounty-etc.com
 bounty-internal.xyz
@@ -37201,6 +37202,7 @@ help.steampoweredip.com
 help.steampoweredl.com
 help.steampowereip.com
 help.steampowerid.com
+help.valveconfirmip.com
 help0desk1.gs
 helpallfix.site
 helpcenter-exodus.vercel.app
@@ -58702,6 +58704,7 @@ pengudrop.today
 pengufordevelopers.run
 pengui-memes.com
 penguin-claim.com
+penguin-community.fun
 penguin-event.fun
 penguin-events.com
 penguin-reward.com
@@ -58932,6 +58935,7 @@ peth.world
 pethewali.com
 petraaptoswallet.webflow.io
 peudlle.finance
+peump.fun
 peuromax.com
 pev3x.com
 pevasusswap.com
@@ -87740,6 +87744,7 @@ www.kuberaapp.com
 www.kyberswap-com.exchange
 www.kycrosso.eu
 www.l1xapp-foundation.world
+www.labs.supportplus.app
 www.lafalladelsistema.com
 www.lafalladelsistema.com/optin-organic
 www.lagofastbooster.ru

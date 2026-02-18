@@ -26362,6 +26362,7 @@ drop-defichain.live
 drop-degen.tips
 drop-ensobuild.xyz
 drop-finder-c6378h.vercel.app
+drop-finder-c6427a.vercel.app
 drop-https.live
 drop-jlp.org
 drop-jup.org
@@ -81426,6 +81427,7 @@ verify-cmc.app
 verify-cs2.net
 verify-dapps.netlify.app
 verify-discord.net
+verify-drop-finder.vercel.app
 verify-dyno.gg
 verify-flash.online
 verify-four.meme

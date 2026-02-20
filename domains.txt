@@ -28904,6 +28904,7 @@ era-claim.icu
 era-claim.live
 era-claim.top
 erajmore.digital
+erbaionsolana.com
 erboardauth.pages.dev
 erc102.com
 erc103.com
@@ -50518,6 +50519,7 @@ megaethtestabsdoaxzcasdsa.sbs
 megaethtoken.xyz
 megaetln.com
 megaheritagebnk.com
+megalabs-eco.com
 megaphone.xyz
 megapot.bet
 megaprofitshub.com
@@ -66424,6 +66426,7 @@ rugmark.xyz
 rugmarks.com
 rugmemes.xyz
 rugnow.fun
+rugpull-pump.fun
 rugpullbot.pro
 rugs-scanner.fun
 rugsafe.eu.cc
@@ -90853,6 +90856,7 @@ yfc55.net
 yfc888.com
 yffii.finance
 yfive.finance
+yftether.io
 yg.naws.pp.ua
 ygarbet.net
 ygmi.webflow.io
@@ -90911,6 +90915,7 @@ yieldscan.fun
 yieldscan.live
 yieldswap.xyz
 yieldusd-app.com
+yieldusd-dashboard.net
 yieldusd.net
 yieldusd.org
 yieldyak.pages.dev

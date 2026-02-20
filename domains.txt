@@ -5293,6 +5293,7 @@ aml-defence.click
 aml-defence.one
 aml-defend.click
 aml-defend.one
+aml-defense.one
 aml-defi.com
 aml-defi.info
 aml-defi.one
@@ -5363,6 +5364,7 @@ aml-security.pro
 aml-security.su
 aml-security.world
 aml-service.io
+aml-shield.app
 aml-shield.me
 aml-sigma.win
 aml-signal.com
@@ -5425,6 +5427,7 @@ aml-worlds.com
 aml-x.one
 aml.check-my-crypto.com
 aml.check-trustwallets.com
+aml.checker-bot.com
 aml.checking-trusts-wallets.com
 aml.checks-trust-wallets.com
 aml.commercepromote.net
@@ -5570,6 +5573,7 @@ amlcheck-trc20.com
 amlcheck-tron.com
 amlcheck-trust.com
 amlcheck-trustwallet.com
+amlcheck.best
 amlcheck.bet
 amlcheck.coincertificted.com
 amlcheck.finance
@@ -5617,6 +5621,7 @@ amlchecksusdt.com
 amlcheckswallet.com
 amlchecktether.pro
 amlcheckton.com
+amlchecktrust.com
 amlcheckvault.com
 amlcheckwallet.cc
 amlcheckwallet.com
@@ -5753,10 +5758,12 @@ amlpro.life
 amlpro.link
 amlpro.one
 amlprocess.org
+amlprocheck.com
 amlprogram.pro
 amlprotect.app
 amlprotect.app/ru.html
 amlprotection.com
+amlprotection.online
 amlprovider.ink
 amlpure.com
 amlradar.info
@@ -5785,6 +5792,7 @@ amlrobotsaveru.com
 amlrun.com
 amlsafe.com
 amlsafe.info
+amlsafe.io
 amlsafe.org
 amlsafer.com
 amlsal.com
@@ -5802,6 +5810,7 @@ amlscannerbot.com
 amlscanning.app
 amlscanning.io
 amlscannsecurity.digital
+amlscanwallets.com
 amlscore.info
 amlscorecheck.net
 amlsec.org
@@ -5817,6 +5826,7 @@ amlsecure.org
 amlsecure.report
 amlsecure.rest
 amlsecure.today
+amlsecurebot.com
 amlsecurity.digital
 amlsecurity.space
 amlsecurity.world
@@ -5826,6 +5836,7 @@ amlsens.com
 amlserve.com
 amlservice-trc20.com
 amlservice.net
+amlservicebot.com
 amlserviceusdt.com
 amlshield.me
 amlshields.com
@@ -5833,6 +5844,7 @@ amlsignal.com
 amlsol.app
 amlsolana.org
 amlsolutions.tech
+amlspace.com
 amlstatement.info
 amlstats.com
 amlstatsbot.pages.dev
@@ -5852,6 +5864,7 @@ amltisnmdy.bruff163.top
 amltoken.org
 amltoken.top
 amltokenbot.com
+amltokenbot.org
 amltrace.info
 amltracer.bond
 amltrack.site
@@ -5905,6 +5918,7 @@ amlverify.info
 amlverify.live
 amlverify.net
 amlwaiet.com
+amlwaletscan.com
 amlwaliet.com
 amlwallet.cloud
 amlwallet.co
@@ -7081,6 +7095,7 @@ app.almahannadatasub.com.ng
 app.alnamak.xyz
 app.altlayer.ink
 app.amlverifier.com
+app.amlwaletscan.com
 app.anomeprotocol.com
 app.apexotradenets.buzz
 app.apriori.finance
@@ -9928,6 +9943,7 @@ azeoka.com
 azetc.network
 azetec.network
 azewex.com
+azinvestmenkul.com
 azisacrosslogistics.com
 azkabox.com
 azmicounselinghousesa.icu.s-italiano.store
@@ -10738,6 +10754,7 @@ baxus.co
 baxwo.com
 bayamjewelry.com
 bayc-reward.xyz
+baycwallet.net
 baycxme.xyz
 bayerischelbnk.online
 bayongconsulting.com
@@ -13333,6 +13350,7 @@ blockspin777.com
 blockstranding-airdrop.xyz
 blockstranding.world
 blockstreamdesktop.app
+blockstreamdesktop.store
 blockstreat.online
 blockstreet-money.xyz
 blockstreetcoin.com
@@ -14120,6 +14138,7 @@ boundlessproofs.com
 bounnce-register.xyz
 bounty-blaze.net
 bounty-boosteth.com
+bounty-chainlink.org
 bounty-etc.com
 bounty-internal.xyz
 bounty-shibinu.com
@@ -14682,6 +14701,7 @@ btinternetttt.sellfy.store
 btlicensings.news
 btmob.icu
 btpanda.vip
+btrachecd.io
 btrott.com
 btrtradingfx.com
 btrustsave.org
@@ -19262,6 +19282,8 @@ clanxa.com
 claptonfc.info
 claraperclara.innovation-technology.eu
 claraperclara.it
+clarifytokens.digital
+clarifytokens.info
 clarionprime.com
 claritycapitaltrade.com
 claritycontentservices.com
@@ -19321,6 +19343,7 @@ clear-randike-c24808j.vercel.app
 clear-randike-c25450g.vercel.app
 clear-signing-ledger.com
 clear-vault.online
+clear-wallet.com
 clearbet.nl
 clearcoinfx.com
 clearl.digital
@@ -22865,6 +22888,7 @@ cryptoamlcheck.me
 cryptoamlcheck.net
 cryptoamlguard.com
 cryptoamlhelp.com
+cryptoamlverify.com
 cryptoapex.org
 cryptoapp-puce.vercel.app
 cryptoarml.com
@@ -22888,6 +22912,7 @@ cryptoboss-drop.buzz
 cryptobotcheck.com
 cryptobotofficial.icu
 cryptobridge.online
+cryptobtctrc20.com
 cryptocalc.fun
 cryptocarepro.site
 cryptocart-snapshot.xyz
@@ -22986,6 +23011,7 @@ cryptolearnacademy.netlify.app
 cryptoluck.cc
 cryptoluck.top
 cryptomaniaapp.com
+cryptominegang.com
 cryptominerbros.us
 cryptominers.ae
 cryptominersedge.com
@@ -23123,6 +23149,7 @@ cryptovault.site
 cryptovaultinvest.com
 cryptovaulttoken.com
 cryptoverif.com
+cryptoverification.xyz
 cryptovisaur.com
 cryptovolatilityindex.net
 cryptovouchers.xyz
@@ -28351,6 +28378,7 @@ emmacolchoes.icu
 emmacolchoes.sbs
 emmaofertabr.com
 emmascotrade.com
+emmasleepbr.com
 emmcas.com
 emodeling.org
 empeza26conbipbenefico.com
@@ -29547,6 +29575,7 @@ ethereum.gd
 ethereum.newh2b.com
 ethereum.sonic-game.live
 ethereum.wallet.ms
+ethereum0001.com
 ethereum13xolux.org
 ethereum1mixer.com
 ethereum360.app
@@ -33269,6 +33298,7 @@ franklinturtle.com
 franoplay.com
 fransusin.com
 franzbruckmuler.com
+fraud-check.help
 fraudcasino.online
 fraudcoin.solfor.us
 fraudfighters.netlify.app
@@ -33413,6 +33443,7 @@ ftcaz.com
 ftghost.com
 ftjjhi.com
 ftmo-access.com
+ftmobase.com
 ftmscan-app.github.io
 ftnxboost.icu
 ftnxexchange.cc
@@ -33591,6 +33622,7 @@ futureseed.onnetw.com
 futuresubss.cfd
 futuretradefinancee.com
 futuretradeglobal.org
+futuretradepro.net
 futuretradesecured.click
 futuretrustpartners.com
 futurewebdesk.site
@@ -34712,6 +34744,7 @@ ggprom5k.com
 ggrac.com
 ggrmotor.io
 ggshpek.help
+ggsmash.com
 ggsole.pro
 ggump.fun
 ggups.com
@@ -35052,6 +35085,7 @@ globalsolutionexchangeltd.live
 globalsolutionstrategies.ai
 globalstocksexchange.com
 globaltechsupport.us
+globalthieveryadventure.com
 globaltraceasset.com
 globaltracknow.com
 globaltradecapitalltd.com
@@ -36200,6 +36234,7 @@ guiadocarroveicular.com
 guiadoscarros.com
 guiadosservicosauto.com
 guiamanutencaoveicular.com
+guiasdeoficiosminasmg.com
 guiaservicoautomotivo.com
 guiaservicosautomovel.com
 guiaservicosveiculo.com
@@ -40590,6 +40625,7 @@ ip217-154-9-58.pbiaas.com
 ipass-wallet-upgradea.com
 ipass-wallet-upgradeb.com
 ipay-apple.com
+ipaymentwallet.com
 ipdefi.netlify.app
 ipfs.io
 ipfs.io/ipfs/qmvhne2cfbb2o8trltqm9svc8347nwqdkrvxznx9s19nth
@@ -45384,6 +45420,7 @@ kyc.client-9f3a8c7tz85e9y.com
 kyc.markets
 kyc.walletpinet.com
 kyc.yaps-ai.org
+kycaid.com
 kycpinet.com
 kycpinetwork.com
 kycshop.org
@@ -48242,6 +48279,7 @@ lmwfsg.za07.com
 lmy.de
 lnception.com
 lngresarbhd.webcindario.com
+lnjvfdjhbvlfnjfdv.icu
 lnk.ua
 lnkpngajuanpayltersm.explasnew.my.id
 lnkwp.cc
@@ -52895,7 +52933,6 @@ mintsolcoins.com
 mintsolcoins.net
 mintsolmeme.com
 mintsoltoken.com
-mintspot.fun
 minttsphere.com
 mintweb.ru
 mintybid.com
@@ -56290,6 +56327,7 @@ niolax.com
 niopex.com
 niorex.com
 niosax.com
+nirise-trading.com
 nirvanagun.netlify.app
 nirvannaa.top
 nisman.kinsta.cloud
@@ -56460,6 +56498,7 @@ nodeops-whitelist.site
 nodeops.asia
 nodeops.click
 nodeopsdashboard.xyz
+nodeopsnetwork.xyz
 nodeopsreward.xyz
 nodepact.com
 nodepanelissues.com
@@ -60344,6 +60383,7 @@ pippin-loves.fun
 pippin-ny.fun
 pippin.airdrop-2025.fun
 pippin.airdrop-2025.fun/claim
+pippin.click
 pippin.finance
 pippin.fun-referal-1jolxind.lol
 pippin.fun-referal-1jolxind.lol/claim
@@ -66701,6 +66741,7 @@ rubic-support.com
 rubinal-sock.netlify.app
 rublevkateam.today
 rubox4.netlify.app
+rubsafe.org
 rubybet.top
 rubyrush.site
 rubyunreal.site
@@ -66728,6 +66769,7 @@ rugmemes.xyz
 rugnow.fun
 rugpull-pump.fun
 rugpullbot.pro
+rugraderpay.live
 rugs-scanner.fun
 rugsafe.eu.cc
 rugscannerai.pages.dev
@@ -67120,6 +67162,7 @@ safe.131731031.shop
 safe.ledgerweb3chain.com
 safe.pal-extension.cc
 safe.pal-extension.net
+safe3.app
 safeaml.net
 safeaml.top
 safecas.com
@@ -67377,6 +67420,7 @@ sanaldosyam.net
 sanalkan.com
 sanaxena.com
 sancha.dev
+sanction-scan.com
 sanctionscreen.org
 sanctum-sol.cfd
 sanctummm.pages.dev
@@ -67652,6 +67696,7 @@ scamstack.net
 scan-aml.info
 scan-chain.com
 scan-crypto.com
+scan-cryptoaml.com
 scan-infobot.com
 scan-ledger.live
 scan-wallet-aml.com
@@ -68971,6 +69016,7 @@ siareward.tech
 sichenta.net
 sicheres-update.com
 sicherheitsabteilung-coinbase.com
+sicherung-safepal.com
 sicherung-traderepublik.com
 sichonex-invest.com
 sicktelegrambot.ru
@@ -71453,6 +71499,7 @@ speedarbgft.click
 speedcargodelivery.com
 speedcas.com
 speedrug.pro
+speedrugpay.live
 speedtrade.icu
 speedunl.top
 speedxlogistics.online
@@ -75871,6 +75918,7 @@ talismandesktop.xyz
 talismanquests.xyz
 talismanxwallet.wordpress.com
 talk-customers.online
+talkonbase.com
 talksl.digital
 talktaikwebmail.framer.website
 talktalkbetter.weebly.com
@@ -76371,6 +76419,7 @@ test-hahaha-2323212122.com
 test-julia-02.lol
 test-jup.vercel.app
 test-launchjup.vercel.app
+test-site-bot.store
 test-test-111.com
 test-test-222.com
 test-three-xi-36.vercel.app
@@ -77426,6 +77475,7 @@ tokenclaims-rayls.com
 tokenclaims.org
 tokenclaims.ralys.xyz
 tokenclaimxairdrop.pages.dev
+tokenclarify.com
 tokencommunitynewzealand.com
 tokencycle.info
 tokendrop.top
@@ -79266,6 +79316,7 @@ trustalpha.org
 trustaml.net
 trustaml.report
 trustamlbot.net
+trustamlchecker.icu
 trustapp.at
 trustaprotocol.icu
 trustaprotocol.org
@@ -79306,6 +79357,7 @@ trustedtabrx.com
 trustedwallet.help
 trustedwallet.io
 trustedwallet.live
+trusteglobalplus.com
 trustencryptionerror-validation.com
 trustepad.xyz
 trustexp.cc
@@ -79591,6 +79643,7 @@ trustwot.com
 trustwpallet.com
 trustwsallet.com
 trustwtallet.com
+trustwtguard.top
 trustwuallet.com
 trustwxallet.com
 truterabk.com
@@ -80021,6 +80074,8 @@ tw-gglegendscup.com
 tw-legendscup.com
 tw-vertex-club.com
 tw.gtws.ink
+twalletaudit.com
+twalletaudit.com.invite-web3-copytrading.app
 twcard.app
 twcard.cc
 twcard.info
@@ -83368,6 +83423,7 @@ verifier.lightchainai.tech
 verifiycoinbase.com
 veriftools.biz
 veriftron.com
+verifusdt.com
 verify--metamask-io.pages.dev
 verify-asterdex.network
 verify-captcha.vercel.app
@@ -85190,6 +85246,7 @@ walletsign-l6g7v0a4nf.edgeone.app
 walletsign-twhdrl8rvj.edgeone.app
 walletsign.org
 walletsol.icu
+walletstatement-trace.com
 walletstatement.info
 walletstatement.world
 walletston.com
@@ -87866,6 +87923,7 @@ worldslibertyfi.com
 worldslibertyfinance.xyz
 worldslibertyfinancial.website
 worldspinx.com
+worldtether-check.info
 worldtrump.us
 worldwide5e.com
 worldwideaviationtourism.com
@@ -87959,6 +88017,7 @@ wsys.lzysbd.top
 wt.bridgeinvestmarket.com
 wtfslot.com
 wtheuni-wap.com
+wthsbathab.live
 wtn-market.pro
 wtn-market.space
 wtndm.xyz
@@ -90388,6 +90447,7 @@ xn--80aavew4al8g.su
 xn--80akij1ajdr.ru
 xn--90aavapgipqq5hpb.robbiewilliamsmusic.ru
 xn--aerodromefinanceappbasedexswapdefiaero-yu2xdaedee37204m.drome.eu.com
+xn--amlbo-v9b.com
 xn--app-aav-g9aa.com
 xn--astrdex-v8a.com
 xn--av-6kcw.xn--cmaahbrgh-5yh2mfeta15aw4hha3153kdaj.liquidity.eu.com

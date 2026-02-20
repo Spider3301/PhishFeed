@@ -2697,6 +2697,7 @@ acrosstobrldge.org
 acrosstozora.com
 acrylicinvestment.com
 acs-ch.info
+acssusdc.com
 action-coinbase-exten.created.app
 action-coinbasext.created.app
 action-kash-upzold-web-legiz-auth.pages.dev
@@ -2769,6 +2770,7 @@ adabull.net
 adacharles2x.com
 adadao-staking.firebaseapp.com
 adaimbangbray.pages.dev
+adamixer.io
 adanow.io
 adapt-transaction-check.com
 adapter3d.app
@@ -6355,6 +6357,7 @@ api.npoint.io/8fdf67f273c5c9ae24b3
 api.pende.finance
 api.powerups.club
 api.promik5k.com
+api.raydlium.xyz
 api.trxms.org
 api.umbratest.sbs
 api.upholdf.com
@@ -8115,6 +8118,7 @@ arcane-solana.com
 arcanecrypto.io
 arcarex.net
 arcas.bet
+arccryptorace.xyz
 arcflow.projecteligibility.xyz
 arcflow.web.app
 arcflowfinance.xyz
@@ -13511,6 +13515,7 @@ bluelinerecovery.online
 bluemintedgecapital.com
 bluemove.live
 blueoceancopymetrics.info
+bluepeak-quorex.com
 bluepointfinancialholdings.pro
 blueridgeunion.com
 bluerockasset.com
@@ -15757,6 +15762,7 @@ cashback.tradepadre.xyz
 cashbackonsol.cyou
 cashbackpadre.app
 cashbackpadre.fun
+cashbackterminal.app
 cashbella.com
 cashbet-x.com
 cashbet-x.xyz
@@ -16475,6 +16481,7 @@ ceza-davalarim.xyz
 cezaisorgu.org
 cezfinpro.com
 cezthronex.net
+cezxprime.cfd
 cezxprime.net
 cf-4.nxnrllbe.eu.org
 cf-6.nxnrllbe.eu.org
@@ -30596,6 +30603,8 @@ exodus.pay-start.com
 exodus.riverrootriseforest.de
 exodus.walletv3.com
 exodus.web3srv.com
+exodus1.shop
+exodus11.qpon
 exodus11.vip
 exodus3tewaliiolet.gitbook.io
 exodus44.vip
@@ -30724,6 +30733,7 @@ explore-kra-keen--cds.pineapple.page
 explore-portal-krakeen.pages.dev
 explore-pro-guite.square.site
 explore-rabby-wallet-app.pages.dev
+explore-rabby-wallet-download.pages.dev
 explore-rabby-wallet-web3.pages.dev
 explore-raydium-dex-new.pages.dev
 explore-sui-wallet-in.pages.dev
@@ -32232,6 +32242,7 @@ findorex-ai.de
 findorex-invest.com
 findorex-ivest.com
 findorex-ivest.de
+findorexai.com
 findstats.xyz
 findthekeys.io
 findtheteacher.com
@@ -33021,6 +33032,7 @@ foreasy.me
 fored.or.kr
 foreigntbc.org
 foren-studio.pages.dev
+forensiblock.com
 forepex.com
 foresightstrade.com
 forestinc-claiming.site
@@ -33129,6 +33141,7 @@ fortuneo-mon-compte.com
 fortunephantom-es.com
 fortunextinfosec.in
 fortunezeus.com
+fortunezza.cfd
 fortunica.icu
 fortunoz.com
 fortuquest.com
@@ -34498,6 +34511,7 @@ get-trump-memes.xyz
 get-trustwallet.claims
 get-trze-bridg-auth.pages.dev
 get-updated-defilama.pages.dev
+get-updated-rabby-wallet-6y3.pages.dev
 get-upheeld-us.pages.dev
 get-upheld-doc.pages.dev
 get-upheld-nav.pages.dev
@@ -40667,6 +40681,7 @@ iriys.xyz
 ironbridgebuilds.com
 ironcrestinv.com
 ironluck.casino
+ironpeakedgeai.com
 iroxivor-invest.com
 iroxivorinvest.com
 irrel.25u.com
@@ -43090,6 +43105,7 @@ koinpro.net
 koiqeenloginz.webflow.io
 koix.xyz
 kojibuve.cc
+kokiseo.cfd
 kokiseo.net
 kokkaisecurity.ro
 kokomo.world
@@ -47086,6 +47102,8 @@ leveredge-claim.pages.dev
 leverfi-migration.com
 levier-yieldex.com
 levnox.com
+levonaprex.cfd
+levonaprex.com
 levonaprex.org
 levrbets.net
 levva-fi.xyz
@@ -53781,6 +53799,7 @@ monshool.xyz
 monshots.com
 monslead-invest.cfd
 monsprotocol.io
+monstead.cfd
 monstersfun.xyz
 monstersmint.fun
 monstragames.com
@@ -58064,6 +58083,7 @@ optique-leclercq.be
 optisnipe.xyz
 optisniper.fan
 optiumledger.com
+optivara.cfd
 optnexus-pc.nexiorwa.com
 optominer.com
 optsbuildblock.pages.dev
@@ -58268,6 +58288,7 @@ orionlogistics.org
 orionphantom.online
 oriontrust.online
 orivo.bet
+orlando-associes.legal
 orlenix-tr.com
 orliadex.com
 ormdartkttk3.cfd
@@ -60070,6 +60091,7 @@ phantomwallett--secures.framer.ai
 phantomwalletturkey.com
 phantomweb-wallet-supportteam.webflow.io
 phantomwnallet.webflow.io
+phantomworld242.top
 phantomx-563.pages.dev
 phanton-wallet.fi-v2.to
 phanton.pages.dev
@@ -63293,6 +63315,7 @@ pythop.com
 pythsnetwork.org
 pythstaking.sbs
 pyump.fun
+pyusd-mixer.com
 pyxmus.vercel.app
 pzgrenbtl24.de
 pzump.fun
@@ -66041,6 +66064,7 @@ ripple-wallet.info
 ripple.giving
 ripplecoin.in
 ripplecoinswallet.com
+rippleqrcode.com
 ripplereal.com
 ripplexrp.info
 ripplflare.com
@@ -70518,6 +70542,7 @@ solanamemedeployer.net
 solanamemer.com
 solanamin.cpclike.com
 solanamixer-bbcqrjnv.4everland.app
+solanamixer.app
 solanamixer.net
 solanamixer.vip
 solanamobile-seeker.xyz
@@ -70871,6 +70896,7 @@ solpull.net
 solpulse.dev
 solpulse.info
 solpulse.life
+solpulse.link
 solpump.app
 solpump.com
 solpump.live
@@ -73595,6 +73621,7 @@ succinct-foundation.network
 succinctfoundation.finance
 succinict.foundation
 sucda.cc
+sucfinoryx.cfd
 sucuralvitualbanlombia.pro
 sucursalbogta.vercel.app
 sucurtalvirlualbanmlonbia.store
@@ -75068,6 +75095,8 @@ systemweb.ghost.io
 systemweb.ghost.io/ledger-desktop
 syxcas.com
 szczyt-evocorex-pl.net
+szlak-fintrix.com
+szlak-polorex.com
 sznstream.com
 szybki-paydex.com
 szzzdpatyyban7aancrrfss.pages.dev
@@ -81830,6 +81859,7 @@ usdc-eth.co
 usdc-eth.pro
 usdc-eth26.top
 usdc-eth59.top
+usdc-mixer.com
 usdc-xnt-faucet-web.vercel.app
 usdc.at
 usdc.bz
@@ -88572,6 +88602,7 @@ www.campnetwork.site
 www.capexrecovery.com
 www.capital-trade.pro
 www.capitaltrace.net
+www.cardanomixer.com
 www.cards-trustwallet.com
 www.cargoworld.us.lancelotgroupllc.com
 www.cascade-points.com

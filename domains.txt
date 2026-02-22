@@ -3982,6 +3982,7 @@ airdrop.slabs.run
 airdrop.solanamobile.cv
 airdrop.solgraph.app
 airdrop.solmatch.io
+airdrop.solwarcoin.digital
 airdrop.sonicnft.info
 airdrop.sonicnft.link
 airdrop.sonicslabs.network
@@ -18377,6 +18378,7 @@ claim.aibotiyi.cfd
 claim.aignus.xyz
 claim.aimanak.co
 claim.airdropfamilyidn.com
+claim.alienjakcoin.fun
 claim.allocation-monad.xyz
 claim.altlayer.la
 claim.anoma.app
@@ -18488,12 +18490,14 @@ claim.foiks.finance
 claim.forestprotocol.xyz
 claim.fragmentric.network
 claim.fragmetricl.xyz
+claim.fronkecoin.fun
 claim.fundcheck.us
 claim.galanet.network
 claim.gasfeegoose.space
 claim.getblum.today
 claim.gettrumppmemes.us
 claim.giggletoken.app
+claim.gmcoin.life
 claim.gobob.network
 claim.goneural.cfd
 claim.goosesfarm.xyz
@@ -23702,6 +23706,7 @@ cypruscoin.club
 cypto-upholdld.pages.dev
 cyraai.app
 cyraxa.com
+cyrex.cc
 cyrptane-bitinvest.com
 cyrtoprimefx.live
 cyrtoprimefx.site
@@ -25408,6 +25413,7 @@ deloreanlabs.world
 delsaml.com
 delsaml.pro
 delta-loop.pages.dev
+deltaexecut.net
 deltainstaller.app
 deltaprime-app.xyz
 deltastellar-finance.forum
@@ -25609,6 +25615,7 @@ detrexfinanceinc.com
 detrixalerce.org
 detskiisadik.bet
 deuinvest.com
+deusxeno.ws
 deutacct.surge.sh
 deutcommplc.net
 deutsbhome.org
@@ -29389,6 +29396,7 @@ esprinaso.co.com
 esqresso.foundation
 esrpesso.com
 essabit.com
+esselunga.lat
 essential-dinero.live
 essential-ledger.com
 essentialsupportedliving.com
@@ -30608,6 +30616,7 @@ execuite-trazor.framer.ai
 execute-coinbase.pages.dev
 execute-coinbasepro.pages.dev
 execution-intel.com
+executorslab.com
 exedus.co.com
 exemplumlimited.com
 exempt-surface-compounds-accommodations.trycloudflare.com
@@ -48070,6 +48079,7 @@ listed-livegrabs48.vercel.app
 listed-livegrabs49.vercel.app
 listed-livegrabs50.vercel.app
 listed-livegrabs51.vercel.app
+listed-moonshot.net
 listed-moonshot.xyz
 listia.privatesol.shop
 listingcollective.com
@@ -48563,6 +48573,8 @@ loarex.com
 loavax.com
 loawax.com
 lobby-cambria.xyz
+lobstar.official-rewards.live
+lobstar.votecoin-pump.fun
 lobstarclaim.pages.dev
 lobstarcoin.digital
 lobstarcoin.lat
@@ -54226,6 +54238,7 @@ moonshot-lead.com
 moonshot-leaderboard.com
 moonshot-list.me
 moonshot-list.org
+moonshot-listed.org
 moonshot-listing.app
 moonshot-listing.help
 moonshot-listing.pro
@@ -65496,6 +65509,7 @@ register.succint.digital
 register.sucnicnt.foundation
 registered-succinct.foundation
 registeredserver.org
+registerpoly.com
 registers-cysic.org
 registers-cysicfoundation.org
 registers-humanity.xyz
@@ -71260,6 +71274,7 @@ solpulse.dev
 solpulse.info
 solpulse.life
 solpulse.link
+solpulse.ltd
 solpump.app
 solpump.com
 solpump.live
@@ -81500,6 +81515,7 @@ updates-krollra.com
 updateterms.com
 updatethink.live
 updatev3pool.live
+updev.cc
 upen-sea.pages.dev
 upersonalnra.com
 uperuperbell.com
@@ -83708,6 +83724,7 @@ velnekirpro.com
 veloce-finvexo.net
 velocefinvexo-invest.com
 velocidadluxten.online
+velocity-executor.com
 velocityexecutor.app
 velodomefi.win
 velodrome.help
@@ -84539,6 +84556,7 @@ volacasino.xyz
 volasvo.click
 volcano888.com
 volcanoexecutor.app
+volcanoexecutor.com
 volecex.com
 volexbit.com
 volexs.com
@@ -90906,7 +90924,9 @@ xmkkrqjp.click
 xmliveasset.live
 xmlyanan-foormxdna.blackopium.biz.id
 xmmrwallet.com
+xmncoin.digital
 xmnofficial.top
+xmntoken.lat
 xmodegate.net
 xmoonk.com
 xmprb.bid
@@ -91208,6 +91228,7 @@ xn--moonsht-bmb.net
 xn--moonsht-f1a.com
 xn--moonsht-f1a.xyz
 xn--moonsht-i0a.net
+xn--moonsht-nvc.net
 xn--moonsht-q0a.com
 xn--moonshts-03a.com
 xn--moonshts-03a.net

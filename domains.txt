@@ -214,6 +214,7 @@
 0xp27.top
 0xp29.top
 0xpoolstaked.xyz
+0xpr.top
 0xpromo.top
 0xrewpool.xyz
 0xscanpool.xyz
@@ -8825,6 +8826,7 @@ astfinag-shop.com
 astherus.org
 astirnag-de.com
 astirnag-maut.com
+astolls.icu
 astonholdings.pro
 astr-netwrk.pages.dev
 astr.airdropalert.us
@@ -10207,6 +10209,7 @@ backbag.xyz
 backchar.com
 backdropcyberrecovery.com
 backed-pump.fun
+backend-banctoken.pages.dev
 backlinkbase.com
 backoack.exchange
 backpacj.exchange
@@ -12008,6 +12011,7 @@ bigtraff.pro
 bigtrout-alication.xyz
 bigtrout-alications.xyz
 bigtrout.lol
+bigtrout300.lol
 bigtroutcoin.com
 bigtroutcoin.run
 bigtrouts-alication.xyz
@@ -12067,6 +12071,7 @@ binance--us.com
 binance-accountsecure.com
 binance-airdrop.cloud
 binance-api.app
+binance-bitcoin.xyz
 binance-blog.vercel.app
 binance-c.com
 binance-cloudserver.online
@@ -26831,6 +26836,7 @@ doodles-nft.pages.dev
 doodles-x-coinspot.site
 doodles.dood-claim.app
 doodles.wales
+doodlesolana.com
 doodless.world
 doodlesupdate.live
 doodleverse.claims
@@ -29416,6 +29422,7 @@ eros-ai.at
 eroseglobalservice.com.ng
 erp.ed-intra.com
 errenase.com
+errorblockdag.network
 errorfix.app
 ersolar.com.br
 ersportal-test.btreeboatest.com
@@ -38337,6 +38344,7 @@ hitler.votepump.fun
 hitorg.com
 hiudiniswap.com
 hivcas.com
+hiweu.com
 hiypenlirqvid.cc
 hizlibsvrlrnztokl.info
 hizlierisimler.com
@@ -51002,6 +51010,7 @@ matteosafe.com
 matthys-api.conversietools.be
 matthys-api.conversietools.be/phpmyadmin/ssl/my-dashboard/index.html
 mattlefun-checker.app
+mautroades.pro
 mava.live
 maverick-protocolo.github.io
 maverickcorner.com
@@ -51449,6 +51458,7 @@ memecores.xyz
 memecreator.info
 memecreator.run
 memecro.com
+memedex.club
 memedex.life
 memedex.world
 memedrophub.live
@@ -58868,6 +58878,7 @@ origindefireward.world
 originlgns.sushistakes.sbs
 originndefi.io
 originndefi.org
+originslgns.live
 originslgnsdefi.live
 originswap.org
 originsworld.site
@@ -62449,8 +62460,10 @@ predicles.xyz
 predict-fun.pro
 predict.autos
 predict.christmas
+predict.courses
 predict.garden
 predict.singles
+predict.skin
 predictlab.app
 predictmytoken.com
 predictpump.com
@@ -62922,6 +62935,8 @@ projectfile.ghost.io
 projectguardian.cc
 projectguardian.top
 projectiokurorobranch.netlify.app
+projectlicks-box09.vercel.app
+projectlicks-live07.vercel.app
 projectmagma.netlify.app
 projectmain-net.com
 projectmainnetdapp-portal.com
@@ -65878,6 +65893,7 @@ registration-stable.xyz
 registration-umbra.com
 registration-usor.com
 registration-usro.com
+registration-xionburntcom.pages.dev
 registration.iriys.xyz
 registration.irys.zone
 registration.plume-network.live
@@ -66214,6 +66230,7 @@ restless-grass-33ac.support-coinbase.workers.dev
 restore-dapp-rpc.com
 restore-dapps-rpc.xyz
 restore-json.com
+restore-propy.pages.dev
 restore-wallet.com
 restoredappnode.com
 restoredappsmodal.com
@@ -68499,6 +68516,7 @@ scope-scan.top
 scope.rocketlauncher.gg
 scopescan.io
 scopescan.net
+scopescan.pro
 scopescan.site
 scopesolana.com
 scor.fun
@@ -73144,6 +73162,7 @@ stakeparadise.vip
 stakepaxos.com
 stakeplay.me
 stakepro.com
+staker.digital
 stakeref.com
 stakers-lido.com
 stakes-bounty.com
@@ -73883,6 +73902,7 @@ step-phanttm-un.pages.dev
 step-phanttom.pages.dev
 step-rabby-wallet.pages.dev
 stepapp-challenge.com
+stephanetaugourdeau.fr
 stephanielekeu.shop
 stepnconnectdapp.pages.dev
 steps-ledger.com
@@ -74334,6 +74354,8 @@ stusdt.xyz
 stxkun.com
 stxrduxt.com
 su-no-kyc-swap.com
+su-shi.dog
+su-shi.lat
 su.onchinbank.com
 su04web.us
 suaiu.firerounds.com
@@ -81077,6 +81099,7 @@ u-bridge-v1.app
 u-bridge-v2.app
 u-passport.com
 u-sso-coinbase-auth-m-auth.webflow.io
+u-tech.world
 u-tronscan.com
 u.to
 u006.bond
@@ -81339,6 +81362,7 @@ umbraprotect.xyz
 umbrareward.live
 umeisvvap.cc
 umeysvvrap.cc
+umgamb.com
 umhfwsxx.click
 umisavnp.cc
 umiscwarp.cc
@@ -84091,6 +84115,7 @@ vectorspacevxvswap.org
 vedablabs.com
 vedowex.com
 vefodex.com
+vegamb.com
 vegaroll.com
 vegarovx.online
 vegas-casino.sbs
@@ -84959,6 +84984,7 @@ vmi2991553.contaboserver.net
 vmware-vip.com
 vmxj0258.top
 vn-bitget.com
+vndflow.com
 vngazuic.digital
 vnhs.xyz
 vnnef.com
@@ -86874,6 +86900,7 @@ web3chain.net
 web3chainbackup.com
 web3chainconnect.com
 web3chains.online
+web3chatbot.com
 web3cloud.online
 web3codednetwork.com
 web3conn.com
@@ -92213,6 +92240,7 @@ ya-browser.ru
 yabby-casino.co.com
 yabepex.com
 yacab.ru
+yactmovement.org
 yadgirandeh.ir
 yaesprimaveraelcorte.com
 yafin.top

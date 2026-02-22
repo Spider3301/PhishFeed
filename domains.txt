@@ -5851,6 +5851,7 @@ amlscannsecurity.digital
 amlscanwallets.com
 amlscore.info
 amlscorecheck.net
+amlsec.cloud
 amlsec.org
 amlsec.systems
 amlsec.uk
@@ -63208,6 +63209,7 @@ pump-solana.com
 pump-swap.cc
 pump-swep.xyz
 pump-token.com
+pump-vault.fun
 pump-whitelist.fun
 pump-xlaunch.com
 pump.7drop.top
@@ -66441,6 +66443,7 @@ riversidecorp.org
 riversidecorp.top
 riversides-cb.com
 riverviewassetsrecoverygroup.com
+riviera-exchange.com
 rivogame.com
 rivolexio-ia.net
 rivonexispro.net
@@ -78177,6 +78180,7 @@ top-10-escorts.com
 top-exchnage.com
 top-meme.fun
 top-moskva.ru
+top-spot.fun
 top.artiagri.com
 top.nationalsdeliverysolutions.com
 top1cas.xyz
@@ -79717,6 +79721,7 @@ trust27.top
 trust28.top
 trust29.top
 trusta.network
+trustableconnection.pro
 trustakkredetiv.cc
 trustakkredetiv.net
 trustakkredetiv.org
@@ -79752,6 +79757,7 @@ trustcheck-security.com
 trustcheck.ink
 trustchecker.app
 trustchecks.info
+trustconnect.me
 trustconnect.vercel.app
 trustconnectsoftware.com
 trustcsx.pro
@@ -85830,6 +85836,7 @@ wastersupply.pages.dev
 wastintrust.com
 watch2buy.commetamask.io
 watchdoors.network
+watcheraml.pro
 watcherguru.xyz
 watchoor.icu
 watchoor.zone
@@ -91166,7 +91173,10 @@ xn--monshts-cx4ce.com
 xn--moonhot-gpb.com
 xn--moonhots-7vb.com
 xn--moonhots-7vb.net
+xn--moonhots-8wb.com
 xn--moonhots-pvb.com
+xn--moonhots-qwb.app
+xn--moonhots-qwb.com
 xn--moonsho-trb.com
 xn--moonsho-trb.xyz
 xn--moonshoo-eyb.net
@@ -91192,6 +91202,7 @@ xn--moonsht-60a.app
 xn--moonsht-60a.com
 xn--moonsht-60a.net
 xn--moonsht-60a.xyz
+xn--moonsht-7mb.xyz
 xn--moonsht-bmb.com
 xn--moonsht-bmb.net
 xn--moonsht-f1a.com

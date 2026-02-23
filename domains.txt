@@ -966,6 +966,7 @@
 274432coinbase.com
 2828825-ledger.com
 284248-ledger.com
+284793coinbase.com
 2848244-ledger.com
 284c4106.ajkevmslay.pages.dev
 288940.dy25b29.cyou
@@ -14395,6 +14396,7 @@ brannan01.com
 brantcountysingers.com
 brasilinspectiongroup.com
 brasilpgs.com
+brave-join.com
 brave-message-765752.framer.app
 brave-pentagon-994978-85bda422a.framer.app
 brave-wallet.me
@@ -20503,6 +20505,7 @@ coinbase-prox-logi.created.app
 coinbase-pt.vip
 coinbase-pt.xyz
 coinbase-react.vercel.app
+coinbase-rec.com
 coinbase-recovery.org
 coinbase-redirect-page.vercel.app
 coinbase-refunds.com
@@ -20768,6 +20771,7 @@ coinbasehelp-support.netlifi.app
 coinbasehelp.top
 coinbasehelpcenter.online
 coinbasehelpcentr.com
+coinbasehelpmgt.com
 coinbasehosting.com
 coinbasein2026.network
 coinbaseinfo.online
@@ -22470,6 +22474,7 @@ cosmice.cc
 cosmicnet.world
 cosmicsolana.com
 cosmicvpn.net
+cosmo-launch.com
 cosmochanger.club
 cosmochanger.com
 cosmochanger.xyz
@@ -24659,6 +24664,7 @@ dashboard-hyperliquid.com
 dashboard-hyperliquid.trade
 dashboard-hypurrfi.com
 dashboard-jup.net
+dashboard-jupuary.xyz
 dashboard-keeta.com
 dashboard-layeredge.eth.limo
 dashboard-lidopoints.com
@@ -30118,6 +30124,7 @@ ethgasfourdation.org/gas-report
 ethgashub.xyz
 ethgasrefund.app
 ethgenesis.org
+ethgesfondation.com
 ethgesfondation.org
 ethgesfuondation.org
 ethgesfuondation.org/token
@@ -34881,6 +34888,7 @@ get-free-followers.com
 get-freeusd.org
 get-gemine-login.pages.dev
 get-gems.github.io
+get-goldfishgold.com
 get-grass.io
 get-holo.com
 get-hyperfoundation.org
@@ -40826,6 +40834,7 @@ introductionweb.ghost.io
 introductionweb.ghost.io/suite-en
 intrual.com
 intuit-prev.vercel.app
+intuition-protocol.xyz
 intuition-systems.info
 intuition-systems.org
 intuition-systems.world
@@ -42664,6 +42673,7 @@ jxp-ag.us.com
 jxsrkokfidelity.shop
 jxswtc.com
 jydobit.com
+jynvaxai94.com
 jyrcas.com
 jys.binancexx.com
 jys.neonx-exchange.vip
@@ -46613,6 +46623,7 @@ learn-metmskio-eng.framer.ai
 learn-motamsk-en-us.typedream.app
 learn-opensea-x.pages.dev
 learn-opnse.pages.dev
+learn-pro-coins.zapier.app
 learn-rabby-io.wstd.io
 learn-rabby-x.framer.ai
 learn-rn-web3exo.pages.dev
@@ -49810,11 +49821,13 @@ lunabet-cbr.xyz
 lunacaz.biz
 lunacheats.net
 lunaclassic-migration.pages.dev
+lunacoinscreator.com
 lunacreate.net
 lunacreator.world
 lunadax.com
 lunadefi.fun
 lunadeploy.com
+lunadeploy.net
 lunakai.net
 lunalaunch.com
 lunalaunch.live
@@ -49844,6 +49857,7 @@ lunarspin.net
 lunarwin.top
 lunastake.com
 lunastartx.com
+lunatoken.live
 lunatokencreators.com
 lunavestia-max.com
 lunax-start.com
@@ -59523,6 +59537,7 @@ pakepex.com
 pakinternship.com
 paksprecastpvtltd.com
 palacexbet.com
+palant1r.net
 palco.it
 palewo.com
 paliv2.com
@@ -61666,6 +61681,7 @@ point.linea.cx
 point.mon-l1.com
 point.mon.lc
 pointless.evmfluence.xyz
+pointmeme.com
 points-e-cashbaicks.dynv6.net
 points-omnera.app
 points-river.app
@@ -65808,6 +65824,7 @@ refundyoursol.io
 refundyoursol.network
 refundyoursol.top
 refundyoursol.world
+refundyoursolana.fun
 refundyoursolana.io
 refundyoursolana.xyz
 refundyuorsol.com
@@ -71122,6 +71139,7 @@ sol-incinerator.claims
 sol-incinerator.club
 sol-incinerator.co.com
 sol-incinerator.fi
+sol-incinerator.help
 sol-incinerator.icu
 sol-incinerator.one
 sol-incinerator.pw
@@ -71666,6 +71684,7 @@ solcommando.top
 solcool.fun
 solcore.cc
 solcreator.trade
+solcreatorweb.site
 solcsiste.finance
 solctise.finance
 solcult.live
@@ -90563,8 +90582,10 @@ www.solflarer.vip
 www.solming.com
 www.solona-mining.com
 www.solsite.lol
+www.solsmint.com
 www.spaceexto.com
 www.spacexstockassets.com
+www.splix.fun
 www.sprakdex.com
 www.spydoge.com
 www.stabl-eth.com
@@ -90636,6 +90657,7 @@ www.titanspacex.com
 www.tkparttime.net
 www.tlcwhidbey.org
 www.toca.gg
+www.tokenclub.fun
 www.tokenindex.space
 www.tokens-claim.icu
 www.tokensfixer.com

@@ -6233,6 +6233,7 @@ antecasino.sbs
 anti-bot.org
 anticybercrime.net
 antihunter.app
+antiphishing.io
 antiquewhite-woodcock-764696.hostingersite.com
 antiscam-coinbase.com
 antiswap.io
@@ -44238,6 +44239,7 @@ kra31---at.ru
 kra31-cc.com
 kra31cc.net
 kra33--at.at
+kra33.cc
 kra33.net
 kra33at.net
 kra35.xyz
@@ -45009,7 +45011,9 @@ krab1.org
 krab1.shop
 krab1.us
 krab10-at.com
+krab10-at.net
 krab11.app
+krab17.shop
 krab1at-a.ru
 krab1at-t.ru
 krab1at.avtoreal29ru.ru
@@ -45053,6 +45057,7 @@ krab2.us
 krab20at.com
 krab22.app
 krab22.shop
+krab27.top
 krab2at.com
 krab2atttttttt-a.ru
 krab2cc--c.ru
@@ -45086,6 +45091,7 @@ krab47.art
 krab4at.at
 krab4c-c.ru
 krab4cc.cc
+krab4x.cc
 krab5-kraken.ru
 krab5.app
 krab5.autos
@@ -45096,11 +45102,13 @@ krab5.ru
 krab5a.cc
 krab5at-cc.ru
 krab5at.at
+krab5b.cc
 krab5cc-ru.com
 krab5cc-ru.net
 krab5cc.xyz
 krab5i.cc
 krab5l.cc
+krab5v.cc
 krab6.art
 krab6.cfd
 krab6.ink
@@ -45119,6 +45127,7 @@ krabcc1.top
 krabk1.ru
 krabken-zerkalo.online
 krabl12.com
+krabl18.com
 krabo3.cc
 krabs3cc.ru
 krac1.cc
@@ -45470,6 +45479,7 @@ kraken54.com
 kraken56.net
 kraken58.com
 kraken5af44k24fwzohe6fvqfgxfsee4lgydb3ayzkfhlzqhuwlo33ad-onion.ru
+kraken6-at.com
 kraken6.us
 kraken664.net
 kraken7.us
@@ -71605,6 +71615,7 @@ sol-predict.icu
 sol-predict.lol
 sol-prodapp.com
 sol-promotion.org
+sol-pulse.info
 sol-pump.club
 sol-pump.live
 sol-receiving.com

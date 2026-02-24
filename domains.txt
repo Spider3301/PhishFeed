@@ -4048,6 +4048,7 @@ airdrop.vineco.xyz
 airdrop.vooooi.xyz
 airdrop.wales
 airdrop.walletpinet.com
+airdrop.warcoin.world
 airdrop.wardenprotocoll.network
 airdrop.web.id
 airdrop.wikicatcoln.com
@@ -28534,6 +28535,7 @@ elfwallet.app
 elgen.layar.financial
 elherefi.eu.com
 elicpse.xyz
+eligibe-suiiend.bond
 eligibility-alloca.org
 eligibility-app.ripple-exrp.com
 eligibility-aster.com
@@ -28661,6 +28663,7 @@ eligible-usor.top
 eligible-usor.xin
 eligible-usor.xyz
 eligible.fabricfoundation.info
+eligible.fabricfoundation.live
 eligible.fabrics.lat
 eligible.fabrics.run
 eligiblity-block.com
@@ -30286,6 +30289,7 @@ ethgas.cc
 ethgas.cc/community/onboarding
 ethgas.ngrok.app
 ethgas.top
+ethgasfondetion.net
 ethgasfoundation.app
 ethgasfoundation.info
 ethgasfoundation.net
@@ -39358,6 +39362,7 @@ hub-exodus.pages.dev
 hub-folksfinance.cfd
 hub-gokite.cfd
 hub-illuvium.org
+hub-jupuary.com
 hub-koinbase-eng.pages.dev
 hub-lido-finances.typedream.app
 hub-linea.app
@@ -41122,6 +41127,7 @@ investpro.guru
 investpro2.com
 investrixaiinvest.com
 investronex-app-ai.com
+investsaylor.com
 investspheretrading.com
 investstrategy.org
 investtrump.io
@@ -90827,6 +90833,7 @@ www.miracleexchange.net
 www.mixero.net
 www.mlm.wpbuddyflowex.com
 www.moneroaut.chainxpro.xyz
+www.moneroswap.ai
 www.money-flash.com
 www.monkeyairdrop.online
 www.monster.bet

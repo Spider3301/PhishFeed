@@ -29340,6 +29340,7 @@ eng-kraken-sso.framer.ai
 eng-krakn-cdm.daftpage.com
 eng-krekan-s-cdn.daftpage.com
 eng-krekun-doc.created.app
+eng-ldgrlive.zapier.app
 eng-ledgeir.pages.dev
 eng-ledger-com.pages.dev
 eng-ledger-io-web.typedream.app
@@ -34605,6 +34606,7 @@ gamdom.nz
 gamdom1.fr
 gamdomcasino.co.uk
 gamdompg.com
+game-course.ru
 game-event.appleinc.cn
 game-official.midasbuy-page.com
 game-trade-platform.vercel.app
@@ -55242,6 +55244,7 @@ moonshots.today
 moonshotse.com
 moonshotsolana.com
 moonshotsvotes.com
+moonshotsvoting.fun
 moonshott.app
 moonshott.io
 moonshott.net
@@ -69289,6 +69292,7 @@ scanmywallet.network
 scanner-sol.com
 scanneraml.com
 scannerfund.com
+scans.icu
 scansolanaspin.com
 scantrustwallet.com
 scanusdt.org
@@ -79044,6 +79048,7 @@ tmall770.cyou
 tmall880.cyou
 tmall990.cyou
 tmalldesf.top
+tme-grm.com
 tmillersportal.com
 tmn.royal-change.ru
 tmuske.com
@@ -86288,12 +86293,14 @@ vote4tokens.xyz
 votealgo.app
 voteapp-aave.com
 votebase.club
+votebymoonshots.fun
 votedapp.org
 votedex.org
 votedexscreener.app
 votelist.cc
 votelist.live
 votemarket.trustwgf.com
+votenow-dexscreener.com
 votepage.bybit.vote
 voter-portal.app
 voter-portal.xyz

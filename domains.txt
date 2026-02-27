@@ -6920,6 +6920,7 @@ app-openledger.xyz
 app-openseas.pages.dev
 app-origintrail.com
 app-osmosis-launch-v1.com
+app-ostium.xyz
 app-paal-ai.pages.dev
 app-paal.co
 app-pancake-launch-v4.com
@@ -18887,6 +18888,7 @@ claim.evisacam.cm
 claim.evm-monad.xyz
 claim.exchanges-rubic.xyz
 claim.exsol.rest
+claim.fabricffoundation.xyz
 claim.falconfinances.xyz
 claim.falconsfinance.app
 claim.fartdev.app
@@ -30644,6 +30646,7 @@ ethgashub.xyz
 ethgasrefund.app
 ethgenesis.org
 ethgesfondation.com
+ethgesfondation.net
 ethgesfondation.org
 ethgesfuondation.org
 ethgesfuondation.org/token
@@ -41594,6 +41597,7 @@ introductionweb.ghost.io
 introductionweb.ghost.io/suite-en
 intrual.com
 intuit-prev.vercel.app
+intuition-protocol.net
 intuition-protocol.xyz
 intuition-systems.info
 intuition-systems.org
@@ -48543,6 +48547,7 @@ lenofex.com
 lenovonexus.com
 lenowex.com
 lenoxcoin.com
+lenoxwd.online
 lensprotocol-airdrop.net
 lenta24.biz
 lenvopro.com
@@ -52446,6 +52451,7 @@ megaethtoken.xyz
 megaetln.com
 megafoweb.com
 megaheritagebnk.com
+megainu.lol
 megalabs-eco.com
 megaphone.xyz
 megapot.bet
@@ -55109,6 +55115,7 @@ mole.portal-hubs.lat
 moleswap.io
 molexgo.com
 mollbet.com
+molt-ai.xyz
 molt-chat.xyz
 moltbook-event.fun
 moltbookcoin.lol
@@ -55882,6 +55889,7 @@ moonsshott.xyz
 moonstarter.com
 moontaurus.top
 moontool.org
+moontovote.fun
 moontrendings.com
 moonveii.com
 moonveil.click
@@ -64488,6 +64496,7 @@ proposal-ntfstrategy.com
 proposal-ondos.com
 proposal-onre.xyz
 proposal-orderlynetwork.com
+proposal-pendle.xyz
 proposal-plasma.com
 proposal-playmemoria.com
 proposal-punksauction.net
@@ -64964,6 +64973,7 @@ pump-help.fun
 pump-helpe.fun
 pump-helped.fun
 pump-helpse.fun
+pump-helpu.fun
 pump-hub.fun
 pump-hunt.com
 pump-memes.com
@@ -65286,6 +65296,7 @@ punchtoken.net
 punchtoken.org
 punchtoken.run
 punchtokensol.com
+punchtokensol.net
 punckakesweap.cc
 pundiai.icu
 punditsystems.com
@@ -71508,6 +71519,7 @@ signmeta-mask-in1.godaddysites.com
 signup-billions.network
 signup-bnbchain.com
 signup-bullishdegen.com
+signup-edel.xyz
 signup-hyena.trade
 signup-hyena.xyz
 signup-hyperliquid.xyz
@@ -72322,6 +72334,7 @@ snapshot-hachiko.xyz
 snapshot-hodl.fun
 snapshot-hyperfoundation.lol
 snapshot-hyperfoundation.org
+snapshot-jupuary.xyz
 snapshot-keeta.com
 snapshot-keeta.network
 snapshot-littleguy.com
@@ -73968,7 +73981,9 @@ sparkdex.exchange
 sparkdex.finance
 sparkdex.help
 sparkdex.io
+sparkdex.network
 sparkdex.org
+sparkdex.page
 sparkdex.xyz
 sparkdotrewardsfi.sbs
 sparkesfl.org
@@ -76298,6 +76313,7 @@ suiite-trezre.framer.ai/suite-apps
 suika3.vn
 suilande.org
 suilands.org
+suilend.rest
 suilend.ws
 suilendfinonce.org
 suilens.tech
@@ -80710,6 +80726,7 @@ trade-dinexio.com
 trade-dydx-en-us.pages.dev
 trade-dydx.app
 trade-exodus.com
+trade-goldfishgold.com
 trade-gpt-invest.com
 trade-hyperliquid.org
 trade-hyperliquid.xyz
@@ -91710,6 +91727,7 @@ www.copump.fun
 www.cordexchange.xyz
 www.cornerstonegains.netw.live
 www.cowsepper.com
+www.cradton.net
 www.crazy-fox.io
 www.creatememe.io
 www.credifyonlinebnk.com.capitaltrusts-inc.com
@@ -93134,6 +93152,7 @@ xaiflux-cointelegraph.com
 xaiflux.com
 xaifox-cointelegraph.com
 xaifox-fxempire.com
+xaifox.com
 xaifox.icu
 xaifusion-cointelegraph.com
 xaifusion-fxempire.com
@@ -93156,6 +93175,7 @@ xaionchain.com
 xaipondam.com
 xaiquest-cointelegraph.com
 xaiquest-fxempire.com
+xaiquest.com
 xaiquest.icu
 xaivault.com
 xaivort-cointelegraph.com
@@ -94026,6 +94046,7 @@ xplecosystem.xyz
 xplore-coinbase-exten.framer.media
 xpmainnet-vault.online
 xpmarket.app
+xpmarket.it.com
 xpmarket.one
 xpmarket.pro
 xpmarket.us

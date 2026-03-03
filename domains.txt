@@ -7171,6 +7171,7 @@ app-rhea.network
 app-rht-whatshktw.com
 app-rirpio-authr.sbs
 app-river.fun
+app-river.xyz
 app-rocksolid.live
 app-rosafest.ru
 app-routernitro-com.pages.dev
@@ -7239,6 +7240,7 @@ app-tkasiashop.shop
 app-token.click
 app-tornado.com
 app-tornadocash.com
+app-trade.xyz
 app-treezor-io.pages.dev
 app-trendex.xyz
 app-tresor-suits.pages.dev
@@ -11842,6 +11844,7 @@ best-trade.app
 best-wallettoken.com
 best.topdefiwallet.com
 best500.top
+bestagrocrope.com
 bestandig-kapital.net
 bestappgamestomakemoney.mom
 bestbinarytradeltd.com
@@ -20487,6 +20490,7 @@ cloud.sushis.world
 cloud4now.com
 cloudapp-node.pages.dev
 cloudcapitalinvest.com
+cloudcrafthub.com
 clouddapp-syntax.pages.dev
 cloudflare-eth.com
 cloudflare-template-base.pages.dev
@@ -29964,6 +29968,7 @@ en-coinbasee-wallet.typedream.app
 en-coinbasehelp-learn.daftpage.com
 en-coinbasepro-sso.created.app
 en-coinbssecom-auth.framer.ai
+en-coinebase.pages.dev
 en-coinhelp-learn.daftpage.com
 en-coins-base.pages.dev
 en-defillama-swaap.pages.dev
@@ -31730,6 +31735,7 @@ events-gabriel.xyz
 events-gentlemen.fun
 events-goyim.fun
 events-graphlinqproto.xyz
+events-grvt.xyz
 events-hitler.fun
 events-hyena.com
 events-hyperliquid.org
@@ -31834,6 +31840,7 @@ evm.breachlist.top
 evm.fluxionx.com
 evm.onchainwalletcrypto.com
 evm.onchiainweb3.com
+evmapp.pages.dev
 evmbitnode.com
 evmbulksender.com
 evmconnect.info
@@ -32954,6 +32961,7 @@ familiar-hands-190493.framer.app
 family.banksonbase.com
 famous-peony-e0bb75.netlify.app
 famousfinance.net
+famousfinances.net
 famousfoxes.live
 famowaypro.net
 famrestaurantservices.com
@@ -60700,6 +60708,7 @@ onewins.top
 onexfer.xyz
 onextron.com
 onfachain.com
+ong39.com
 ongamb.cc
 ongoing-case-coinbase.com
 onhookhr.com
@@ -68549,6 +68558,7 @@ refunds-balancer.sbs
 refunds-balancer.xyz
 refunds-kiln.net
 refunds-kiln.org
+refunds-pumps.fun
 refundsrecoveryfinancials.com
 refundsyoursols.com
 refundtron.com
@@ -72659,6 +72669,7 @@ shadowsniper.lol
 shadowsniper.world
 shadowswap.fun
 shaggy-variation-568526.framer.app
+shahidsattar.ca
 shanglaw.com
 shannon-migration.xyz
 shaotrade.io
@@ -77886,6 +77897,7 @@ sui-official.claims
 sui-pay-hackathon.vercel.app
 sui-play.airdropsalert.live
 sui-redeem.top
+sui-scallop-dapp-dldpaij2u-scallop-team.vercel.app
 sui-scallop-dapp-r4sbizrhy-scallop-team.vercel.app
 sui-shell.vercel.app
 sui-sui-sui.net
@@ -81809,6 +81821,7 @@ token.share-pump.fun
 token.townsporotocol.network
 token.xpumps.fun
 token.zamasale.org
+token2025-site.vercel.app
 token2049-stellar.com
 token2049.airdropsalert.life
 token2049.promo
@@ -89180,6 +89193,7 @@ votes-dexscreener.com
 votes-dromos.xyz
 votes-edelfinance.xyz
 votes-ethena.finance
+votes-ethereal.app
 votes-ethereal.trade
 votes-ethereal.xyz
 votes-etherfi.xyz
@@ -93889,6 +93903,7 @@ www.help.exodus-gaming.com
 www.helpfundme.site
 www.helpsupport.blog
 www.hitbtc-login.com
+www.hitechprovider.com
 www.hitt-mixer.de
 www.hkbcrypto.com
 www.hltvorg.com
@@ -95401,6 +95416,7 @@ xj-instagram.vercel.app
 xjardwbh.click
 xjembet.com
 xjrkxugpfc.krakenpro.cfd
+xjup.pages.dev
 xk8v.vip
 xkcas.com
 xkcasino.top
@@ -96618,6 +96634,7 @@ youniacleaners.co.ke
 youpay.to
 your-aml.net
 your-blockfi.webflow.io
+your-zo0m.us
 yourboxspring.nl
 yourchanse.fun
 yourcwallet.com

@@ -9321,6 +9321,7 @@ atomiwalleit.webflow.io
 atomone-rpcdebugtool.pages.dev
 atonic-trades.com
 atonic-trades.com.admincgpb.info
+atorels.com
 atotaro.live
 atradelimited.ltd
 atraspberryripple.com
@@ -11283,6 +11284,7 @@ bazg-via2026.info
 bazi-neliz.net
 bazienfj5285328.xyz
 bb-audits.info
+bb641000.com
 bb68u.com
 bb777.to
 bb888.ton
@@ -37696,6 +37698,7 @@ governance-rocketpool.xyz
 governance-skyecosystem.xyz
 governance-sparkfi.app
 governance-uniswap.com
+governance-usefelix.trade
 governance-velo.finance
 governo.vip
 govmyclaimpro.info
@@ -43024,6 +43027,7 @@ iscans.live
 iscans.lol
 iscans.ltd
 iscans.org
+iscans.pro
 iscans.pw
 iscans.run
 iscans.space
@@ -59057,6 +59061,7 @@ newtonr.xyz
 newtradingapi.xyz
 newudu.lol
 newupdated.ghost.io
+newvote.fun
 newyear-bonk.fun
 newyear-pump.fun
 nex-bit.org
@@ -67851,6 +67856,7 @@ raiwax.com
 raiwex.com
 raiydum.cfd
 rajabodat138amp.xyz
+rajaluckprime.com
 rajghatbhagirathi.com
 rajlgun.org
 rajput-coinbase.netlify.app
@@ -84500,6 +84506,7 @@ trxtradezone.org
 trxuae.com
 trxuk.org
 trxus.org
+trxve.org
 trxvibe.vibecode.run
 trxwb.org
 try-pump.fun
@@ -85035,6 +85042,7 @@ udyleld.com
 ue03webzoom.us
 ue05webzoom.us
 ue09webzoom.us
+uedbet113.com
 uej.onh.mybluehost.me
 ueth.it.com
 ufa.royal-change.ru
@@ -86609,6 +86617,9 @@ usdart.live
 usdart.top
 usdaudit.net
 usdaudit.org
+usdbet0117.cc
+usdbet10.com
+usdbet11.com
 usdbet14.com
 usdbonusfi.xyz
 usdc-admin.pages.dev
@@ -91522,6 +91533,11 @@ weggaintra.net
 weght.weebly.com
 wegodex.com
 wegofex.com
+weide32.com
+weide40.com
+weide44.com
+weide73.com
+weide78.com
 weightswithwill.com
 weinerdog.pages.dev
 weinobet.com
@@ -96228,6 +96244,7 @@ xplecosystem.xyz
 xplore-coinbase-exten.framer.media
 xpm2.top
 xpm3.top
+xpm4.top
 xpmainnet-vault.online
 xpmarket.app
 xpmarket.it.com

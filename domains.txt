@@ -6442,6 +6442,7 @@ anti-cybercrime.net
 anticybercrime.net
 antihunter.app
 antihunter.org
+antihunterchecker.net
 antihunterevent.org
 antiphishing.io
 antiquewhite-woodcock-764696.hostingersite.com
@@ -9677,6 +9678,7 @@ auction-zama.net
 auction-zama.org
 auction-zama.sale
 auction-zamatoken.pages.dev
+auction.zama-org.lat
 auctiones.org
 audaceinviora.net
 auday.live
@@ -10924,6 +10926,7 @@ balancer-revoke.app
 balancer-revoke.com
 balancer-us-finance.pages.dev
 balancer-v2.net
+balancer-v3.org
 balancer.dashboard-signin.com
 balancer.defi-amm.cc
 balancerdefi.vip
@@ -10946,6 +10949,7 @@ ballsack.soldex.trade
 ballscoin.live
 balmyrewards.xyz
 balncer-dex.typedream.app
+baltimorecitysheriff.com
 baltrawnr.click
 baltrmlnr.click
 baltrrenr.click
@@ -14116,7 +14120,11 @@ blockstreamdesktop.store
 blockstreat.online
 blockstreet-money.xyz
 blockstreet.money
+blockstreet.run
 blockstreetcoin.com
+blockstreetmoney.co
+blockstreets.money
+blockstreets.network
 blockstreetupdate.live
 blockstrending.com
 blocksync.live
@@ -16671,6 +16679,7 @@ cash-ledger.com
 cash-pump.fun
 cash-update.xyz
 cash77.sbs
+cashapples.xyz
 cashappmakemoney.freegames.money
 cashappsupportdeskassit.com.coinbasesupportdeskchat.com
 cashback-npc.com
@@ -19694,6 +19703,7 @@ claim.openledgerfunds.xyz
 claim.orcasol.fun
 claim.oxyaorigin.com
 claim.palumeme.fun
+claim.paradex.world
 claim.pepenode.help
 claim.perpsdao.xyz
 claim.piasma.app
@@ -22246,6 +22256,7 @@ coinlottery.org
 coinluck.fun
 coinluckyroll.net
 coinlur.com
+coinmamaxs.com
 coinmarkeetcap.com
 coinmarketcap-all-cryptocurrencies.com
 coinmarketcap-v1.co.com
@@ -27239,6 +27250,7 @@ dexrpdapps.pages.dev
 dexrsceener.com
 dexrsceener.org
 dexscraener.com
+dexscreenen.com
 dexscreener-co.github.io
 dexscreener-dexscreener.github.io
 dexscreener-io.github.io
@@ -27272,6 +27284,7 @@ dexsport1.com
 dexsrcreener.xyz
 dexstatus.xyz
 dexstream.net
+dexstrendsvote.com
 dexswaper.top
 dexsyncsolution.xyz
 dext-tools.github.io
@@ -30602,6 +30615,7 @@ eng-defilama-wallet.pages.dev
 eng-desktop-ledger-home.pages.dev
 eng-dydix-exchange.pages.dev
 eng-htxx.created.app
+eng-io-metamasklgn.pages.dev
 eng-io-walletuphld.pages.dev
 eng-kraken-cdn-auth.daftpage.com
 eng-kraken-en.pages.dev
@@ -32535,6 +32549,7 @@ exodus-web-3s.pages.dev
 exodus-web-com.pages.dev
 exodus-web-en.pages.dev
 exodus-web-in.pages.dev
+exodus-web3-doc.pages.dev
 exodus-web3-en.pages.dev
 exodus-web3-us-io.pages.dev
 exodus-web3-w-allet.pages.dev
@@ -38285,6 +38300,7 @@ gro11k.net
 gro11k.org
 gro15k.icu
 gro24z.icu
+gro25b.com
 gro32k.com
 gro32k.icu
 gro34d-cointelegraph.com
@@ -57493,6 +57509,7 @@ moonshot-pump.com
 moonshot-pump.net
 moonshot-push.com
 moonshot-quest.com
+moonshot-rank.org
 moonshot-rank.xyz
 moonshot-rate.app
 moonshot-rate.xyz
@@ -61333,6 +61350,7 @@ oneloot.icu
 onenavid.github.io
 onencore.com
 onepark-appen.github.io
+onepiecetoken.xyz
 oneplacetocreate.org
 oneroll.bet
 onescackf.cc
@@ -65242,6 +65260,7 @@ polymarket.hub-airdropalert.click
 polymarket.initialize.markets
 polymarket.int-en.com
 polymarket.it.com
+polymarket.ngrok.app
 polymarket.parts
 polymarket.portal-drops.dev
 polymarket.portal-drops.icu
@@ -65977,6 +65996,7 @@ presale.littlespepe.com
 presale.megaseeth.mom
 presale.pudgy-pandas.xyz
 presale.pumpfuns.digital
+presale.shadenetwork.live
 presale.thevault.casa
 presale.token6900.dev
 presalefarm.xyz
@@ -67380,6 +67400,7 @@ punchonsolana.xyz
 punchsol.cc
 punchsol.xyz
 punchsonsol.com
+punchtoken.digital
 punchtoken.lat
 punchtoken.live
 punchtoken.net
@@ -69266,6 +69287,7 @@ refund-meta.surge.sh
 refund-nubbin.info
 refund-portal-blockfi.com
 refund-pump.fun
+refund-pumps.fun
 refund-sol.pages.dev
 refund-sol.xyz
 refund-solana.xyz
@@ -69302,6 +69324,7 @@ refundyoursolana.io
 refundyoursolana.xyz
 refundyuorsol.com
 reg-authorize.live
+reg-autismcoin.fun
 reg-gtprotocolio.pages.dev
 reg-plasma.com
 reg.plume-network.live
@@ -69450,6 +69473,7 @@ register-midnight.network
 register-mobpsycho.fun
 register-momentum.app
 register-monad.com
+register-moonshot.com
 register-moonshot.org
 register-morico.com
 register-nado.xyz
@@ -82411,6 +82435,7 @@ time-lighter.com
 time2win.live
 timefarmairdrop.live
 timeswap.org
+timetopump.fun
 timetouch.pro
 timsh.org
 timwarrencoin.io
@@ -84133,6 +84158,7 @@ trolololocoin.lol
 trolololol.io
 trolololol.lol
 trolololol.top
+trololololol.xyz
 tromscan.webflow.io
 tron-activate.pages.dev
 tron-aml-checker.xyz
@@ -91107,6 +91133,7 @@ warboardgame.com
 warboardgame.com/github-download.html
 warcoin.live
 warcoins.lat
+warcoinsol.digital
 warcoinsol.net
 wardenallocation.live
 wardenprotocol-community.cfd
@@ -95352,6 +95379,7 @@ www.sweepcoin.xyz
 www.syb.com
 www.symbolofpurpose.com
 www.szvon-ex.com
+www.taily.fun
 www.tangemx.com
 www.taobaoballs.vip
 www.taracafe.ae

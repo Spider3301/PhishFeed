@@ -5084,6 +5084,7 @@ allocatlon-suilend.org
 allocatlon-suilend.xyz
 allocatlon-suliend.pics
 allocatlon-suliend.sbs
+allocatlon-suliend.top
 allora-network.xyz
 allora-quiz.vercel.app
 allora-rewards.com
@@ -13972,6 +13973,7 @@ blazespark.world
 blazespin.top
 blazestake.io
 blazeswap.org
+blazeswap.pro
 blazeswap.trade
 blazeswaps.org
 blazexwin.com

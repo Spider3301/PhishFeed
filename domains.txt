@@ -5118,6 +5118,7 @@ allocation-tronares.com
 allocation-umbraprivacy.com
 allocation-uniswap.com
 allocation-uscr.com
+allocation-usdai.com
 allocation-usor.com
 allocation-usro.com
 allocation-valor.com
@@ -18538,6 +18539,7 @@ chat-gpt-orcin-six-27.vercel.app
 chat-phantom.xyz
 chat.deliverynexus.com.br
 chat.gradientnetwork.ai
+chat.indframkf.top
 chata2go.com.mx
 chatbot.page
 chatcas.com
@@ -30270,6 +30272,8 @@ economics-exchange.co
 economtrx.com
 ecorntrading.com
 ecos.login-app-secure.com
+ecoseed.ai
+ecoseed.online
 ecostrems.pro
 ecosystem-mon.com
 ecosystem-monad.com
@@ -92047,6 +92051,7 @@ votes-etherfi.xyz
 votes-ethgasfoundation.xyz
 votes-facy.com
 votes-falconfinance.com
+votes-hyperlend.com
 votes-hyperswaps.net
 votes-hypester.com
 votes-keeta.com

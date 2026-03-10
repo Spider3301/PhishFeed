@@ -1435,6 +1435,7 @@
 62366.xyz
 62371.xyz
 62494.xyz
+6251.ink
 6261122.com
 627web.whatsapwcox.com
 62988.one
@@ -2704,6 +2705,7 @@ accountcenter-reviewtask-fds101v0c.netlify.app
 accounting.aetbaseniorproducts.com
 accountrecover-google.com
 accountrestore-coinbase.com
+accounts-coinbase.com.komidi.id
 accounts.actual.oriole-94.lcl.dev
 accounts.bmwweb.ac
 accounts.bmwweb.biz
@@ -15077,6 +15079,7 @@ bonsiconize-ven.info
 bonsl.buzz
 bonspins.com
 bonus-asterdex.com
+bonus-basedfoundation.com
 bonus-bestwallet.com
 bonus-boosteth.com
 bonus-cult.com
@@ -30746,6 +30749,7 @@ eligible-suiiend.sbs
 eligible-suiiend.top
 eligible-suilend.cc
 eligible-suilend.ltd
+eligible-suilend.org
 eligible-sullend.fun
 eligible-sullend.live
 eligible-usor.fun
@@ -31676,6 +31680,7 @@ enter-stable.app
 enter-stable.dev
 enter-stable.net
 enter-tezor.pages.dev
+enter-usefelix.xyz
 enter-virtuals.io
 enter-virtucls.com
 enter.mobwatch.top
@@ -55277,6 +55282,7 @@ mchallenger.net
 mchallengers.pro
 mchallengerz.pro
 mchallenges.pro
+mcleaks.de
 mco.greens.skin
 mcoinners.com
 mcolno.org
@@ -56495,6 +56501,7 @@ metamaskextension-cloud.pages.dev
 metamaskextensione.blogspot.com
 metamaskextensionn.webflow.io
 metamaskextensions.wordpress.com
+metamaskextensuon.blogspot.li
 metamaskextesioxn.webflow.io
 metamaskgrants.com
 metamaskgrants.org
@@ -57242,6 +57249,7 @@ microsinfo.com
 microsinfos.com
 microskyinvestmentai.com
 microsofit.mktdigital.news
+microsofonedrive.com
 microsoft-109887.weeblysite.com
 microsoft-clone-five.vercel.app
 microsoft-clone.vercel.app
@@ -58549,6 +58557,7 @@ mone-dox.org
 monegex.com
 moneligibility.vercel.app
 monerai.app
+monerai.net
 monerai.org
 monero-chan.finance
 monero-chan.info
@@ -83854,6 +83863,7 @@ tge-soniclabs.com
 tge-stable.app
 tge-stable.com
 tge-stable.net
+tge-stbl.com
 tge-studioartery.com
 tge-studioarterys.com
 tge-tea.xyz
@@ -87897,6 +87907,7 @@ uk01web.us
 uk04web.us
 uk04webzoom.us
 uk05web.uk
+uk07.pro
 uk07web.uk
 uk099.im
 uk099.net
@@ -92287,6 +92298,7 @@ votes-etherfi.xyz
 votes-ethgasfoundation.xyz
 votes-facy.com
 votes-falconfinance.com
+votes-felix.xyz
 votes-gizatech.xyz
 votes-hyperbeat.com
 votes-hyperlend.com
@@ -93281,6 +93293,7 @@ wapp-corrector.rf.gd
 waquick.cc
 war-pulse.fun
 war-reward.xyz
+war-sol.com
 war-sol.fun
 war-sol.live
 war-sol.pro
@@ -94746,6 +94759,7 @@ wexplay.cc
 wexplays.com
 wexronix.net
 wexsax.com
+wextesresolve.pages.dev
 wexwy.com
 wexz.biz.id
 weyshare.com

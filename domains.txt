@@ -11471,6 +11471,7 @@ basedawgz.bio
 basedawgz.win
 basedblockchain.pages.dev
 basedbrett-b52.pages.dev
+basedfoundation.app
 basedistributions.com
 baseditaliano.pages.dev
 basedlogistic.org
@@ -38549,6 +38550,7 @@ gmgnsnipertools.life
 gmgnsnipertools.team
 gmgnsnipertools.world
 gmgntrack.app
+gmichi-rewards.xyz
 gminazlota.pl
 gminimilognix.gitbook.io
 gmler.com
@@ -76619,6 +76621,7 @@ snapshot-keeta.com
 snapshot-keeta.network
 snapshot-littleguy.com
 snapshot-manyushiba.com
+snapshot-megaeth.com
 snapshot-npc.co
 snapshot-pandupandas.com
 snapshot-pendle.app
@@ -85702,6 +85705,7 @@ treasuryauth.com
 treasurybnb.com
 treasurypool-ethena.fi
 treasurypool-keeta.com
+treasurypool-plasma.com
 treasurypool-quantnetwork.xyz
 treasurypool-stbl.com
 treasurypool-telcoin.com

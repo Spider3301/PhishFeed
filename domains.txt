@@ -33954,6 +33954,7 @@ faceit-events.com
 faceit-get-verify.com
 faceit-status-verify.com
 faceit-verify-clubs.com
+faceit-verify.rushx.top
 faceit-verifyclubs.com
 faceit-verifyclubs.xyz
 faceit.5v5room.com
@@ -91808,6 +91809,7 @@ vote-giza.xyz
 vote-hybrafinance.com
 vote-hyperfoundation.org
 vote-hyperlane.xyz
+vote-hyperlend.com
 vote-hyperliquid.com
 vote-hyperunit.xyz
 vote-hyperwavefi.xyz

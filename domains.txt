@@ -8496,6 +8496,7 @@ appsuitetrezor.created.app
 appswallet.ghost.io
 appswallet.ghost.io/trazxor-en-eng
 appsyncdevconnect.com
+apptail.io
 apptea-fi.com
 appthorswap.app
 appthorswap.app.apexfix.xyz
@@ -33626,6 +33627,7 @@ express-rocketcl.com
 express.energy
 express.rakutenglobal.com
 expressbooking.live
+expresscargopro.sbs
 expresscointicket.top
 expresscouriersevices.com
 expressdispatchdrop.com
@@ -35169,6 +35171,7 @@ financial-freedom.top
 financial-lpl.com
 financialassistance.onl.primemarketrade.pro
 financialassurancetrade.xyz
+financialexpertbnk.live
 financialglobsolutions.info
 financialholders.live
 financialmine-set.com
@@ -35291,6 +35294,8 @@ fintech.sushi.baby
 fintech.sushiswap.art
 fintech.sushiswap.best
 fintech.sushiswap.info
+fintechelitepro.sbs
+fintechgrantbank.sbs
 fintechinvestment.org
 fintechtrust.info
 finteckgrantbk.xyz
@@ -36816,6 +36821,7 @@ fyj852.it
 fynexabit-ki.de
 fynkas.com
 fynoki.com
+fynterasprime.com
 fyntraes.com
 fyntrasx.com
 fyodix.top
@@ -46728,6 +46734,7 @@ kkmdsw.com
 kkmusic163.cc
 kkmusic163.icu
 kkra44-cc.ru
+kkrab4.cc
 kkrab4.ru
 kkraken-helpp.webflow.io
 kkraken-login.webflow.io
@@ -47977,6 +47984,7 @@ kra8.top
 kra9.bond
 kra9.me
 kra98.at
+kra9b.at
 kraa46.ru
 kraa47.at
 kraa47.ru
@@ -48145,6 +48153,7 @@ krab4.io
 krab4.run
 krab47.app
 krab47.art
+krab47.biz
 krab4at.at
 krab4c-c.ru
 krab4c.cc
@@ -48412,6 +48421,7 @@ kraken-registratsiya4.online
 kraken-registratsiya4.ru
 kraken-review.com
 kraken-rp.ru
+kraken-russia.com
 kraken-sait1.online
 kraken-sait1.ru
 kraken-sayt.cc
@@ -58520,6 +58530,7 @@ moneysheet.online
 moneysocial.devisefm.top
 moneysocial.diferfer.top
 moneysocial.differcy.top
+moneyswift.munya.co.zw
 moneytreestaking.xyz
 monfcrpltd.com
 monicdex.xyz
@@ -72150,6 +72161,7 @@ riversidecorp.net
 riversidecorp.org
 riversidecorp.top
 riversides-cb.com
+riversides-cb.online
 riverviewassetsrecoverygroup.com
 riviera-exchange.com
 rivogame.com
@@ -88189,6 +88201,7 @@ univ4net.xyz
 univadix.t.mydomain.zone
 universal-picture.com
 universalbridge.net
+universalcb.org
 universaltradenet.com
 universalx.cc
 universarium.media

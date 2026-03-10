@@ -92325,6 +92325,7 @@ vote-ethereal.finance
 vote-ethereal.org
 vote-etherex.fi
 vote-etherex.xyz
+vote-etherfi.app
 vote-ethosnetwork.xyz
 vote-fabricfoundation.xyz
 vote-facy.com
@@ -92586,6 +92587,7 @@ votes-ethena.finance
 votes-ethereal.app
 votes-ethereal.trade
 votes-ethereal.xyz
+votes-etherfi.app
 votes-etherfi.xyz
 votes-ethgasfoundation.xyz
 votes-facy.com
@@ -99649,6 +99651,7 @@ xpm3.top
 xpm4.top
 xpm6.top
 xpm7.top
+xpm8.top
 xpmainnet-vault.online
 xpmarket.app
 xpmarket.it.com

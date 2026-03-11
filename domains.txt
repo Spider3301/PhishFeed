@@ -137,6 +137,7 @@
 098654coinbase.com
 09pump.fun
 09sync1n0-duckdns.org
+0a0zo7.uesbnb.cc
 0a560d49.ajkevmslay.pages.dev
 0aavvee.app
 0ab565e91b860448b7e019fa26494e9.paris-hotel-latin-quarter.com
@@ -3514,6 +3515,7 @@ ai-scans.lol
 ai-secure-hub.com
 ai-smart.academy
 ai-soldapp.pages.dev
+ai-teams10.com
 ai-titan.net
 ai-trade.live
 ai-trade.vault-edgex.com
@@ -8973,6 +8975,7 @@ artrarible.com
 artrecast.com
 artvantagemint.com
 aruba-conductor.uniswap.fi
+aruba.bellarinox.it
 arubaid.sviluppo.host
 aruloguein.com
 aruz-casefb937731.vercel.app
@@ -10302,6 +10305,7 @@ authg.rustbastion.net
 authg.rustlumen.net
 authg.rustomega.net
 authg.rustrelay.net
+authgapi.click
 authguild.app
 authh-kraken-login.square.site
 authhomepage.ghost.io
@@ -13804,6 +13808,7 @@ bitmartuyrlogin.webflow.io
 bitmartxloginj.webflow.io
 bitmartxlogink.webflow.io
 bitmasritlogin.webflow.io
+bitmax678.com
 bitmaxio.com
 bitmdarttlogin.webflow.io
 bitmefo.com
@@ -15333,6 +15338,7 @@ booz.win
 boozbet.cc
 boozbet.com
 bopela.ae
+bopx88.com
 bopydywy.com
 borabtc.com
 borad-kraken-en.pages.dev
@@ -15992,6 +15998,7 @@ btcsoul-ai-platform.com
 btcturknft.com
 btcturkvip.cc
 btcvelaryon.fr
+btcvellante75.it
 btcvellorix.fr
 btcveltroxis-94.com
 btcveltroxis94.com
@@ -19367,6 +19374,7 @@ claim-bae.xyz
 claim-baes.pages.dev
 claim-bankr.pages.dev
 claim-barky.com
+claim-basedfoundation.com
 claim-belong.site
 claim-bestwallettoken.live
 claim-bestwallettoken.xyz
@@ -28820,6 +28828,7 @@ distribution-chainiink.live
 distribution-destra.network
 distribution-etc.com
 distribution-ethena.fi
+distribution-gizatech.xyz
 distribution-hype.com
 distribution-hype.net
 distribution-ibizafinalboss.vip
@@ -32015,6 +32024,7 @@ enter-stable.dev
 enter-stable.net
 enter-tezor.pages.dev
 enter-usdai.com
+enter-usdai.xyz
 enter-usefelix.xyz
 enter-virtuals.io
 enter-virtucls.com
@@ -32289,6 +32299,7 @@ esports-elite.pro
 esports-sushi.cfd
 esports-sushi.top
 esportsplaymasters.com
+esportsvote.net
 espreesso.net
 espresso-admin.pages.dev
 espresso-extensions.pages.dev
@@ -33799,6 +33810,7 @@ exodus-tools.at
 exodus-trades.top
 exodus-transactions.com
 exodus-update.net
+exodus-us-web3.pages.dev
 exodus-us.pages.dev
 exodus-usaweb.pages.dev
 exodus-v2.com
@@ -34139,6 +34151,7 @@ extention-meta-msk-login.pages.dev
 external.centenlix.com
 extesun-secure.pages.dev
 extionn-get-coinbase.pages.dev
+extn-base-com-coin.pages.dev
 extn-en-coinb.pages.dev
 extn-walle-base.pages.dev
 extns-wallet-metmask.typedream.app
@@ -37681,6 +37694,7 @@ gapiauth.click
 gapiauth.net
 gapiconnect.com
 gapioath.com
+gapiupdate.click
 garagedoorrepairfallriver.com
 garagedoorrepairnorthkingstown.com
 garantex.cc
@@ -38536,7 +38550,6 @@ ghostflip.life
 ghostflip.world
 ghostrade.xyz
 ghostroom-rewards.xyz
-ghostswap.io
 ghostswap.org
 ghostswareos.com
 ghostware-os.com
@@ -60757,6 +60770,7 @@ nadexmktprime.buzz
 nadextradesoption.live
 nadexvault.org
 nadfi.xyz
+nado-bonus.xyz
 nadodep.com
 nadodex.com
 nadsa.lweb3.app
@@ -77011,7 +77025,9 @@ slon2.to
 slon2at.com
 slon2at.net
 slon2cc.net
+slon2cc.shop
 slon2cc.xyz
+slon2market.cc
 slon2to.com
 slon2web.xyz
 slon3--cc-kraken.ru
@@ -80781,6 +80797,7 @@ steelheadincs.com
 steemcommnnity.com
 steemcommunty.com
 steeriteautotech.com
+steinberixkapital.com
 stekcas.com
 stekecoredao.org
 steks.cc
@@ -90105,6 +90122,7 @@ us04www-zoom.us
 us04zoom.us
 us05-web.us
 us05-zoom.com
+us05.eu
 us055webbzoomsecureconnetionj689975pwdkkchi.com
 us05live.com
 us05portalwebzoom-live-invitation-iz.pages.dev
@@ -90929,6 +90947,7 @@ usiwex.com
 uskeakennlogin.wordpress.com
 usless.newseason.world
 uslibertynationalbank.com
+uslocalshop.com
 usmedsplus.com
 usmeta-maskloogn.godaddysites.com
 usmeteora.com
@@ -93202,6 +93221,7 @@ votes-falconfinance.com
 votes-felix.xyz
 votes-gizatech.xyz
 votes-hyperbeat.com
+votes-hyperbeat.xyz
 votes-hyperlend.com
 votes-hyperswaps.net
 votes-hypester.com
@@ -96947,6 +96967,7 @@ worldlibertyfinancial-app.com
 worldlibertyfinancial-claim.xyz
 worldlibertyfinancial-fbf.pages.dev
 worldlibertyfinancial-global.com
+worldlibertyfinancial-global.com.thetradingacadymyglobal.com
 worldlibertyfinancial-official.com
 worldlibertyfinancial-unclaimed.com
 worldlibertyfinancial-unlocks.com

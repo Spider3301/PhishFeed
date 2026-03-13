@@ -33242,6 +33242,7 @@ ethlibertywlfi.com
 ethlineabuild.com
 ethluxury.org
 ethmininghub.com
+ethmix.io
 ethmixer.lol
 ethmixer.pro
 ethmixer.to
@@ -39891,6 +39892,7 @@ govern-aave.com
 govern-hyperfoundation.xyz
 govern.credits-center.com
 governance-chilizchain.web.app
+governance-ethena.finance
 governance-gho.network
 governance-guideline-lab-1.pages.dev
 governance-hyena.trade

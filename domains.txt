@@ -1845,6 +1845,7 @@
 89028.xyz
 89031-test890.com
 890431coinbase.com
+893428coinbase.com
 89421.xyz
 89453-coinbase.com
 89454.xyz
@@ -3044,6 +3045,7 @@ admin.bifrostlive.com
 admin.bikacoin.top
 admin.coccin.vip
 admin.coinbace5.com
+admin.coinbase-defi-pro.com
 admin.coinbasefinancedepartment.art
 admin.coinbasesabms.cc
 admin.coinbasew.mobi
@@ -5721,6 +5723,7 @@ amiblocks.au
 amiblocks.com
 amigofeliz.top
 amildex.com
+aminalbertlunju-exchange.com
 amino-migrate.xyz
 aminogerm.com
 amirmasnavi.github.io
@@ -7496,6 +7499,7 @@ app-pendle.cc
 app-pepeheimer.pages.dev
 app-perlelabs.xyz
 app-phalanetwork.xyz
+app-phantom-oi.pages.dev
 app-phantom-ou.pages.dev
 app-phantom-wallet.framer.ai
 app-phantom.co.com
@@ -11731,6 +11735,7 @@ basetrader.org.finteckgrantbk.xyz
 basetraders.org
 basewallet.coinbase.com.392233.id
 basewallet.coinbase.com.775322.id
+basewallet.coinbase.com.cb671337.id
 basewallet.coinbase.com.coinbasereview.help
 basewallet.coinbase.com.https-base.app
 basewallet.walletverificationservice.online
@@ -21262,6 +21267,7 @@ claims-trololol.io
 claims-unibase.com
 claims-vision.xyz
 claims-wallstmeme.pages.dev
+claims-warsonusd1.com
 claims-wlfi.top
 claims-wlfl.com
 claims-wlfl.info
@@ -23747,6 +23753,7 @@ collectfoundation.com
 collectiblemarkethub.com
 collectibles-tiffany.co
 collectibles-tiffany.com
+collector-with.com
 collectorcrypt-assets-solana-ezgaxj8hfwlblej6xhkffuk2x.com
 collectorcrypt.app
 collectorcrypts.net
@@ -27928,6 +27935,7 @@ defirocket.ru
 defis-aave-v4.com
 defisaver.com.de
 defisaver.comtrackitpls.com
+defisavertools.cc
 defishills.com
 defismartprotocol.xyz
 defisshonor.com
@@ -34004,6 +34012,7 @@ exdus-web3-start.square.site
 exdus-web3.pages.dev
 exdusowaltio.webflow.io
 exduss-web.pages.dev
+exduste-walet.pages.dev
 exdusweb-3-eng.pages.dev
 exdusweb3.framer.ai
 exe.senx.biz.id
@@ -36999,6 +37008,7 @@ forexvault.live
 forfunarcade.com
 forge-eth.cloud
 forge-eth.io
+forge-eth.org
 forge-university.com
 forge.bittensor-en.app
 forgefinancecc.online
@@ -45149,6 +45159,7 @@ io-dao.app
 io-desktop-ledgeir.pages.dev
 io-dextools.github.io
 io-docs-ledgr.pages.dev
+io-docsphantom.pages.dev
 io-download-ledge.pages.dev
 io-edgex-exchange.pages.dev
 io-en-coinbase-pro.pages.dev
@@ -46718,6 +46729,7 @@ jupiter-app.pages.dev
 jupiter-apps.pages.dev
 jupiter-bot.lol
 jupiter-claim.org
+jupiter-connect.com
 jupiter-dapp-rho.vercel.app
 jupiter-dapp.help
 jupiter-dapp.pro
@@ -49660,6 +49672,7 @@ kraken128.pages.dev
 kraken128rockstar.pages.dev
 kraken12at.pages.dev
 kraken13.pages.dev
+kraken14.co.at
 kraken189.com
 kraken189.net
 kraken189.org
@@ -49815,6 +49828,7 @@ krakenkalogin.webflow.io
 krakenkrab1.net
 krakenkrmk.com
 krakenl0ginusa.webflow.io
+krakenl3.com
 krakenledger.com
 krakenleoagin.webflow.io
 krakenlgn-io.godaddysites.com
@@ -50615,6 +50629,7 @@ kvaden.com
 kvadorum.com
 kvadorum.icu
 kvadorum.live
+kvadorum.sbs
 kvadun.info
 kvantsupdate.live
 kvardin.info
@@ -53262,6 +53277,7 @@ lis-skhns.com
 lis-skians.com
 lis-skihs.com
 lis-skils.com
+lis-skims.com
 lis-skin.ru
 lis-skin.ru.com
 lis-skinas.com
@@ -53906,6 +53922,7 @@ lodgiqtraffic.com
 lodrox.com
 lodysbk.com
 lofip.cfd
+log--in-auth-uphold.webflow.io
 log-cd-coinbase.pages.dev
 log-coinbase-secure.pages.dev
 log-coinbsecom-enus.pages.dev
@@ -55527,6 +55544,7 @@ mail.etherchain.world
 mail.etsystockville.com
 mail.everstonefinancebank.com
 mail.exodus-recovery.app
+mail.facebookclone-metamaskpayments-4afd7b5f-3507.omnicoder.app
 mail.fairmazeventures.com
 mail.fam.rs
 mail.fast-shipping.it
@@ -61014,6 +61032,7 @@ my-sso-kraken-sso.pages.dev
 my-tangem.sbs
 my-trustwallet-io.created.app
 my-unique-test-2025.surge.sh
+my-uphold-walts.created.app
 my-uphuld-en.pages.dev
 my-ups.live
 my.aixoninvestment.com
@@ -62694,6 +62713,7 @@ nftrewardsclaim.onrender.com
 nftrewardsjupiter.com
 nfts-hyperliquld.xyz
 nfts-offer.com
+nfts-weth.com
 nfts1.top
 nftseahub.com
 nftsow.top
@@ -63642,6 +63662,7 @@ offer362.live
 offer3724.live
 offer383.icu
 offeranft.com
+offers-proposal.com
 offerte-vodafone.it
 offerup.1d2939488384.icu
 offerup.1d2939488384.icu/235702300
@@ -64980,6 +65001,7 @@ origindefi.finance
 origindefi.live
 origindefi.team
 origindefidesktop.io
+origindefii.xyz
 origindefireward.world
 origindefis.xyz
 originlgns.sushistakes.sbs
@@ -66676,6 +66698,7 @@ phantom-app.webflow.io
 phantom-auth-app--com.webflow.io
 phantom-backup.com
 phantom-bit.com
+phantom-cards.app
 phantom-coin.xyz
 phantom-dev.fucked-your.mom
 phantom-en-extension.framer.media
@@ -68263,6 +68286,7 @@ polymarketdev.com
 polymarketepl.xyz
 polymarkethub.com
 polymarketiq.com
+polymarketkenya.com
 polymarketl.us
 polymarketlearn.com
 polymarketlogin.us
@@ -72336,6 +72360,8 @@ redbet.click
 redconpyme.es
 redditinvest.ltd
 rede.contestacao-venda.com
+redeem-ethereal.app
+redeem-ethereal.com
 redeem-steer.finance
 redeem.origindefi-mint.world
 redeem.points-hyperliquid.com
@@ -72404,6 +72430,7 @@ reelhunter.icu
 reelhunter.shop
 reelhunter.top
 reels-support.business-minagne.com
+reels1005.xyz
 reelxion.com
 reental.xyz
 reeplay.app
@@ -81761,6 +81788,7 @@ stiand.digital
 stice.sol-today.com
 stickerdom.shop
 stickypk.shop
+stiksfood-com.pages.dev
 stilwellinvest.com
 stilwellinvest.com/pc_home
 stimulusupport.org
@@ -85776,6 +85804,7 @@ therfi.finance
 therfl.finance
 therin-tech.pages.dev
 therockuniverse.live
+thesandbox.network
 thesauthsolver.pages.dev
 thesecuredweb3connect.com
 thesharepointworks.com
@@ -87380,6 +87409,7 @@ treasury-aioz.com
 treasury-asterdex.com
 treasury-boost.com
 treasury-boosteth.com
+treasury-buttcoin.app
 treasury-compoundlabs.com
 treasury-defisaver.com
 treasury-eigencloud.com
@@ -88490,6 +88520,7 @@ trustcard.uno
 trustcards.space
 trustcardswallet.com
 trustcardvip.com
+trustcardvip.space
 trustcardwallet.com
 trustchain.help
 trustchainbit.com
@@ -89377,6 +89408,7 @@ twt-ap0dyg69.pages.dev
 twt-dkptfz5p.pages.dev
 twt-drop.top
 twt-pool.top
+twt-reward.com
 twt-reward.top
 twt-rewards.pages.dev
 twt-round.top
@@ -93890,6 +93922,7 @@ vote-kinetiq.com
 vote-kiwi.com
 vote-layerzero.com
 vote-lbrett.com
+vote-lidofinance.xyz
 vote-lighter.xyz
 vote-lighters-com.pages.dev
 vote-lightersxyz.com

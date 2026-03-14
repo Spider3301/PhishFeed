@@ -3095,6 +3095,7 @@ admin.xn--lautstrke-02a.de
 admin.yqbjdb.app
 admin0919.ethereumhub003.com
 admin2.ondoc.co.kr
+adminapi.coinbasepro.hk
 adminapi.jiuzhouw.net
 adminciwei.cc
 admincoinbase.org
@@ -6559,6 +6560,8 @@ amtik.pages.dev
 amtrixup-tyn.top
 amugbcdfv.pages.dev
 amusing-questions-125168.framer.app
+amv8.cc
+amv9.cc
 amxtoken.cz
 amxwallet.cz
 amz-500-survey.mega-umfragen.de
@@ -6849,6 +6852,7 @@ apexcrypbit.pro
 apexcryptocurrencytrading.com
 apexdefi.app
 apexdiamondtrust.com
+apexelitecryptomax.com
 apexexchange-claim.com
 apexexchange.xyz
 apexexchangesecurity.com
@@ -7721,6 +7725,7 @@ app-uniswvq.org
 app-uniswxp.org
 app-unlockstake.org
 app-unlsvap.com
+app-unlsvwap-v2.com
 app-unlswap.finance
 app-unlswop.org
 app-unpoolv4.com
@@ -7752,6 +7757,7 @@ app-vaiot.xyz
 app-valiant.xyz
 app-vault-v4.com
 app-venus.org
+app-verify-v-u4.app
 app-virtucls.com
 app-vision.xyz
 app-vooi.org
@@ -12555,6 +12561,7 @@ besttrondapps.com
 besttrustcapital.com
 bestukauctions.co.uk
 bestusdttoxmrexchange.com
+bestvid15.cfd
 bestwallet-airdrop.com
 bestwallet-airdropen.com
 bestwallet-airdrropen.com
@@ -15002,6 +15009,7 @@ bmartdrop.xyz
 bmbera.club
 bmbera.network
 bmbera.xyz
+bmcasio.com
 bmexmo.shop
 bmgssd.com
 bmibk.com
@@ -32554,6 +32562,7 @@ eoingfx.com
 eomf.deribitltd.cc
 eomox.com
 eon-vault.com
+eoninid.com
 eonmkm.com
 eonvault.com
 eos-give-away.com
@@ -38468,6 +38477,7 @@ gem-prince-zone.com
 gemaglobinchik.com
 gemb.top
 gemblery.cfd
+gembuloin.webflow.io
 gemenilogiinn.gitbook.io
 gemexchangeglobal.pro
 gemhunters.co
@@ -38496,6 +38506,7 @@ gemini.387523.com
 gemini.51chongzhi.org
 gemini.951520.xyz
 gemini.bili.club
+gemini.giakeng.online
 gemini.lotxy.xyz
 gemini.net.au
 gemini.sjft.com
@@ -41911,6 +41922,7 @@ hardcore24.biz
 hardcore24.biz/phishing
 hardcore25.biz
 hardfastsecure.com
+hardgg.pro
 hardrockwin.bet
 hardrockwin.top
 hardwallstore.co.com
@@ -55949,6 +55961,7 @@ mainajagacor3.xyz
 mainapi2.vip
 mainapi3.vip
 mainax.com
+mainblocksecured.pages.dev
 maind553e73efg879gfo43g85iu5h0r8pfirb.netlify.app
 maindapp.top
 maindeck.live
@@ -57167,6 +57180,7 @@ meorax.com
 meosax.com
 meotax.com
 meovax.com
+meow.xn--jp8h.de5.net
 meowmeow123.com
 meozax.com
 mepcas.com
@@ -66330,6 +66344,7 @@ paytm-wallet-user-app.vercel.app
 paytrace-app.co.com
 paytrustwallet.org
 paytrustwallet.org.riiskscan.org
+paytube.app
 payuaja.com
 payunlockpinet.com
 payunlockpinet.com.tradepiunlock.com
@@ -70878,6 +70893,7 @@ putty.ws
 puwau.com
 puwiriu.com
 puxxp.fun
+puzzlefarm.shareearn3.com
 pv-niedersachsen.de
 pvastoreit.com
 pvausaseller.com
@@ -85805,6 +85821,7 @@ tevaera-lab.com
 tevaera-labs.com
 tevaera.site
 tevert.finance
+tevnivier.space
 texabaycu.com
 texbiom.pro
 texbiom.vip
@@ -93797,6 +93814,7 @@ view-web-base.pages.dev
 view.allocation-asterdex.xyz
 view.asterdexx.world
 view.hotelsverifying.org
+view.news-tradersunion.com
 viewnewgroundsllc.com
 views-coinbase-en.pages.dev
 vignetteroad.world
@@ -98231,6 +98249,7 @@ worldfib.com
 worldfilibrerty.xyz
 worldfinancebank.world
 worldgaming-portal.com
+worldgoldcouncil.xn--mchten-wxa.org
 worldiibertfi.com
 worldiibertyfinancials.com
 worldilbertyfinacial.site
@@ -101605,6 +101624,7 @@ xn--shapeshif-j5b.com
 xn--solanambile-web.com
 xn--solicituddecancelacin-4cc.club
 xn--solscn-7za.org
+xn--son2-50a.cc
 xn--sumr-dpa.money
 xn--trzor-k0a.com
 xn--uarda-j1a.app
@@ -103056,6 +103076,7 @@ zkats-brewis.network
 zkats.network
 zkats.org
 zkcall.app
+zkcall.pro
 zkcboundless.network
 zkcodex.vercel.app
 zkfair-airdrop.org

@@ -24694,6 +24694,7 @@ cope.lat
 cope.web3sol.xyz
 copeonsolana.com
 copesolana.com
+copi-airdrop.pages.dev
 copi.airdropsalert.life
 copia-airbnb-six.vercel.app
 coplex.us
@@ -39030,6 +39031,7 @@ getkmspico.com
 getkwikid.com
 getlawscale.com
 getledegerlive.gitbook.io
+getledgr.zapier.app
 getlicked.xyz
 getlifetimefreebadge.surge.sh
 getlox.online
@@ -64058,6 +64060,7 @@ octplatform.com
 octra.run
 octra.web3-testnet.com
 ocutowaltz.com
+odds8.io
 odds805.net
 odesforex.live
 odin.tools

@@ -32001,6 +32001,7 @@ en-auth-sushiswap.pages.dev
 en-bitcoinhyper.org
 en-briddge.framer.ai
 en-bridge.zapier.app
+en-bridges.zapier.app
 en-browser-coinbase.pages.dev
 en-bybit.cfd
 en-coin-base-eng.pages.dev
@@ -40526,6 +40527,9 @@ gro11k.icu
 gro11k.net
 gro11k.org
 gro15k.icu
+gro22v.com
+gro22v.net
+gro22v.org
 gro24z.icu
 gro25b-cointelegraph.com
 gro25b-fxempire.com

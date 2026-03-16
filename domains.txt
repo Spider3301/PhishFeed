@@ -7914,6 +7914,7 @@ app.beeflms.com
 app.beracaine.io
 app.berachainbuild.xyz
 app.binance-hub.pro
+app.biomatrix.ai
 app.bitgase.com
 app.bitlay.pro
 app.bitlineoptionsignals.live
@@ -39405,6 +39406,7 @@ gho-v4.com.pendelfi.com
 ghocourse.it.com
 ghodefi.top
 ghorchain.org
+ghost-as.sitepulse.com.br
 ghost.allocationx.cc
 ghost32-bifrost.netlify.app
 ghostapi.io
@@ -75073,6 +75075,7 @@ rollzy.xyz
 rollzyx.com
 rolo.bet
 rolowin.com
+rolspace.top
 roltura.com
 rolvip.com
 romacas.com
@@ -89981,6 +89984,7 @@ trxop.org
 trxos.org
 trxpay.biz
 trxpt.org
+trxrc.org
 trxrent.me
 trxrent.net
 trxres.xyz
@@ -95128,6 +95132,7 @@ votes-blockstreet.xyz
 votes-cascade.xyz
 votes-cypher.com
 votes-cypher.votings.workers.dev
+votes-derive.xyz
 votes-dexscreener.com
 votes-dreamcash.com
 votes-dreamcash.xyz
@@ -95174,6 +95179,7 @@ votes-palu.xyz
 votes-pay.com
 votes-plasma.com
 votes-shibainu.com
+votes-spectra.xyz
 votes-standx.xyz
 votes-stbl.com
 votes-trovemarkets.pages.dev
@@ -103609,7 +103615,6 @@ zeushades-games.net
 zeushitbot.com
 zeusmix.biz
 zeusmix.io
-zeusmix.to
 zeusnetwork.zone
 zeustrade.io
 zeustrader.io
@@ -104159,6 +104164,7 @@ zunerox.com
 zunowex.com
 zuorax.com
 zupdate.vuponmlkjihgfedsummer-conference-2026.mario-s-event-organization.fullsailevents.com
+zuqfns.com
 zurofex.com
 zurowex.com
 zurprise.xyz

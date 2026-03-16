@@ -5154,6 +5154,8 @@ allocation-doublezero.live
 allocation-ethena.com
 allocation-fetch.com
 allocation-georgeplayclashroyale.com
+allocation-grvt.pro
+allocation-grvt.xyz
 allocation-hyperfoundation.live
 allocation-hyperliquid.org
 allocation-hyperswap.com
@@ -70202,6 +70204,7 @@ proposal-nfstrategy.com
 proposal-ntfstrategy.com
 proposal-ondos.com
 proposal-onre.xyz
+proposal-opengdp.com
 proposal-orderlynetwork.com
 proposal-pendle.xyz
 proposal-plasma.com
@@ -74489,6 +74492,7 @@ rnbw.rainsbow.xyz
 rnbwcoin.run
 rndex.ink
 rndr--sushi.xyz
+rnedqw.datewiithme.net
 rnetarnask.org
 rneteora.icu
 rnicrosoft-auth.com
@@ -76485,6 +76489,7 @@ searchipl.com
 searchizvestia.com
 searchlnk.ru
 seasolutions.com
+season-etherfi.xyz
 season-validat.xyz
 season1-dreamcash.com
 season1-dreamcash.xyz
@@ -77223,6 +77228,7 @@ seranota.info
 serathe.com
 serbaseru.online
 serboom.com
+serchdomainsocial.com
 sereinbitrevo-invest.com
 sereinmonerix.net
 seren-arch.pages.dev
@@ -78853,6 +78859,7 @@ snapshot-buildonbnb.co
 snapshot-dino.fun
 snapshot-dust.xyz
 snapshot-etherfi.app
+snapshot-etherfi.xyz
 snapshot-ethgasfoundation.app
 snapshot-ethgasfoundation.org
 snapshot-giza.xyz
@@ -94901,6 +94908,8 @@ votes-morphwares.com
 votes-onbeam.com
 votes-onbeams.com
 votes-onbeams.votings.workers.dev
+votes-opengdp.com
+votes-opengdp.xyz
 votes-palu.xyz
 votes-pay.com
 votes-plasma.com

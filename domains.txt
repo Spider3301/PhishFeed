@@ -37603,6 +37603,7 @@ forge-eth.co
 forge-eth.io
 forge-eth.online
 forge-eth.org
+forge-eth.pro
 forge-eth.world
 forge-university.com
 forge.bittensor-en.app
@@ -100742,6 +100743,7 @@ www.moonshot-polls.com
 www.moonshot-s1.xyz
 www.moonshot-s15.xyz
 www.moonshot-s20.xyz
+www.moonshot-score.com
 www.moonshot-tops.com
 www.moonshot.cyou
 www.moonwellefi.org

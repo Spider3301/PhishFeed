@@ -8110,6 +8110,7 @@ app.jupvault.pro
 app.jupverse.pro
 app.justtend.org
 app.kamlno-finance.com
+app.karaknewtork.com
 app.karnino.icu
 app.kekspace-m.xyz
 app.kinetlq.net
@@ -8974,6 +8975,7 @@ arbup.click
 arbuspool.live
 arbuzex.com
 arc-2026.live
+arc-ai-agents.pages.dev
 arc-block.info
 arc-com-adopters-circle.pages.dev
 arc-cuz.pages.dev
@@ -18388,6 +18390,7 @@ celonis-store.com
 celopao.com
 celorasound.com
 celorislav96.fr
+celorxavance.fr
 celoscryptoview.com
 celotto.fun
 celoweb.com
@@ -23397,6 +23400,7 @@ coinecheck.com
 coinecta.app
 coineehub.com
 coineliteoptions.com
+coinelixholdings.live
 coinempire.cc
 coinenergytrade.com
 coineno.com
@@ -31320,6 +31324,7 @@ echoes-of-valor.com
 echoh5.gemini-ex.com
 echoh5.gemini-hk.com
 echojuncture.pages.dev
+echoke.net
 echoledger.net
 echolink-chiq.store
 echomax.fun
@@ -38718,6 +38723,7 @@ gcloudfs.icu
 gcvfastpay.com
 gcxvalue.com
 gcxwin.com
+gdaxoi.com
 gddrop.com
 gdlkzo.lat
 gdsgrouponline.com
@@ -47621,6 +47627,7 @@ jys.creyo7.io
 jys.neonx-exchange.vip
 jzg-wswhatsapp.cc
 k-3-kraken-com.pages.dev
+k-a-r-a-k.com
 k-binance.com.cn
 k-labs.fun
 k-market.cc
@@ -47812,6 +47819,8 @@ kapitfonpro.com
 kapitfonpro.net
 kar46-cc.ru
 kar9.at
+karak-network.com
+karak-network.net
 karak-network.sbs
 karak-node.network
 karak.xn--networkappv2-7g0gd.xn--karakappstakedefi-gm3jdfe.apps-karak-network.xyz
@@ -66638,6 +66647,7 @@ paquetecorreoesp.sviluppo.host
 par-group.pro
 paradex-mainnet.trade
 paradigmagbi.ru
+paragonixearn-ki.de
 paragonsigs.top
 paralogixy.com
 paramgamges.com
@@ -72979,6 +72989,7 @@ rbxsnipe.com
 rbxtools.kg
 rbxtools.st
 rbxuser.com
+rby-df87e.dwanna3.workers.dev
 rbywlt324stbg.ayodeji-820.workers.dev
 rc-stellar-funnel.pages.dev
 rc0fi-reward.my
@@ -91869,6 +91880,7 @@ uplineeth-es.net
 upln.app
 upload-aerodrome-slipstream.pages.dev
 upload-log-inn.pages.dev
+upload-txt.website
 uploads.dev30vps045401.managerc20vpx5903.host
 uploads.mngrc24srv09527.site
 uplold-login.pages.dev

@@ -3287,6 +3287,7 @@ aerodrome-distribution.com
 aerodrome-distribution.net
 aerodrome-distributions.com
 aerodrome-drop.xyz
+aerodrome-finace.xyz
 aerodrome-finance-com.pages.dev
 aerodrome-finance-guide.typedream.app
 aerodrome-finance.cc
@@ -3302,6 +3303,7 @@ aerodrome-slip--stream.typedream.app
 aerodrome-slipstream-auth-cdn.pages.dev
 aerodrome-slipstream-us-en.pages.dev
 aerodrome-slipstream.pages.dev
+aerodrome-swap.app
 aerodrome.best
 aerodrome.box
 aerodrome.cafe
@@ -3312,6 +3314,7 @@ aerodrome.company
 aerodrome.dog
 aerodrome.finance-portal.app
 aerodrome.finance-snapshot.com
+aerodrome.limo
 aerodrome.network
 aerodrome.onl.apexfix.xyz
 aerodrome.onrender.com
@@ -5916,6 +5919,7 @@ aml-cryptocheck.info
 aml-cryptocurrency.rest
 aml-cryptoscan.com
 aml-dashboard.com
+aml-def.one
 aml-defence.click
 aml-defence.one
 aml-defend.click
@@ -6056,6 +6060,9 @@ aml-wise.com
 aml-world.com
 aml-worlds.com
 aml-x.one
+aml.amlguarder.io
+aml.amlreview.io
+aml.amlsystem.org
 aml.check-my-crypto.com
 aml.check-trustwallets.com
 aml.checker-bot.com
@@ -6070,11 +6077,13 @@ aml.ink
 aml.lat
 aml.life
 aml.luna-exchange.com
+aml.net-check.it.com
 aml.onl
 aml.riskcheck.info
 aml.stablepe.com
 aml.support
 aml.top
+aml.transaction.cfd
 aml.tron-fees.com
 aml.valid-check.org
 aml6ot.com
@@ -6270,6 +6279,7 @@ amlcheckvault.com
 amlcheckwallet.cc
 amlcheckwallet.com
 amlchek365.com
+amlchekbot.org
 amlchekeer.icu
 amlcheker.digital
 amlcheker.info
@@ -6335,6 +6345,7 @@ amlforge.com
 amlforte.io
 amlforte.pro
 amlfree.xyz
+amlfreebot.org
 amlfundscheck.com
 amlfundscheck.org
 amlgate.org
@@ -6348,6 +6359,7 @@ amlguard.check4secure.com
 amlguard.digital
 amlguard.in
 amlguard.tools
+amlguarder.io
 amlhealth.pro
 amlhelp.app
 amlibot.com
@@ -6437,6 +6449,7 @@ amlreport.guru
 amlreport.net
 amlreports.pro
 amlreportsystem.com
+amlreview.io
 amlreviewbot.com
 amlreviewbot.top
 amlreviewpro.top
@@ -6447,6 +6460,7 @@ amlriskscore.com
 amlriskscore.ru
 amlriskservice.com
 amlrobot.net
+amlrobot.pro
 amlrobotcheck.com
 amlrobotsaveru.com
 amlrun.com
@@ -6476,6 +6490,7 @@ amlscore.info
 amlscorecheck.net
 amlse.icu
 amlsec.cfd
+amlsec.click
 amlsec.cloud
 amlsec.cyou
 amlsec.org
@@ -16893,26 +16908,38 @@ bybit-connection.com
 bybit-copy-trade.com
 bybit-copy.one
 bybit-downloads.com
+bybit-gt.xyz
+bybit-hc.xyz
 bybit-invite-copytrading.app
+bybit-iy.xyz
 bybit-keyless-wallet.net
 bybit-keyless-wallet.org
 bybit-listlngs.com
 bybit-listngs.com
+bybit-ml.xyz
+bybit-mn.com.cn
+bybit-my.xyz
+bybit-np.com.cn
 bybit-p2pads.com
 bybit-prof.com
 bybit-pure.click
 bybit-pure.one
+bybit-qt.com.cn
 bybit-ru.com
 bybit-scan.cc
 bybit-tr.com
 bybit-transfer.com
 bybit-trc20.info
+bybit-vz.xyz
 bybit-wallets.cfd
 bybit-web3.teamcopy.info
+bybit-za.com.cn
 bybit.airdropfamilyidn.com
 bybit.brandresults.com.au
+bybit.coinfyro.com
 bybit.com.online-dex.sbs
 bybit.cswi892.top
+bybit.finbriefy.com
 bybit.fyi
 bybit.internalpayservice.com
 bybit.kz
@@ -16920,6 +16947,7 @@ bybit.market
 bybit.media
 bybit.net-sys.pro
 bybit.nomba.com
+bybit.rcypto.co
 bybit2ktrade.dbt29.com
 bybita.apexciti.com
 bybitai.app
@@ -44404,6 +44432,7 @@ hyperliquib.co.com
 hyperliquid-airdrop-guide.pages.dev
 hyperliquid-airdrop.app
 hyperliquid-airdrop.finance
+hyperliquid-airdrop.lvie.top
 hyperliquid-airdrop.org
 hyperliquid-airdrop.trade
 hyperliquid-airdrop.xyz
@@ -44421,6 +44450,7 @@ hyperliquid-dash.org
 hyperliquid-decentralized-layer-1-blockchain.com
 hyperliquid-decentralized-layer-1-blockchain.net
 hyperliquid-deposit.pages.dev
+hyperliquid-desktop.lvie.top
 hyperliquid-detect.xyz
 hyperliquid-detects.xyz
 hyperliquid-dex.com
@@ -44442,6 +44472,7 @@ hyperliquid-nft.xyz
 hyperliquid-portfolio.xyz
 hyperliquid-reward.xyz
 hyperliquid-rewards.org
+hyperliquid-scores.xyz
 hyperliquid-site.top
 hyperliquid-sol.live
 hyperliquid-spot.app
@@ -44483,6 +44514,7 @@ hyperliquid.com-service-alpha-auth-app.pro
 hyperliquid.com-service-online-app-api.pro
 hyperliquid.com-services-cdn-alpha-portal.cloud
 hyperliquid.com-services-edge-alpha-gateway.pro
+hyperliquid.com-signup-bonus.com
 hyperliquid.com-swap-v4-dex-secure.app
 hyperliquid.com-v2-connect-wallet-apps.com
 hyperliquid.com-v2-waliet-app-connect.com
@@ -44495,6 +44527,7 @@ hyperliquid.hedgeempire.fun
 hyperliquid.hightech.xyz
 hyperliquid.how
 hyperliquid.mba
+hyperliquid.org.af
 hyperliquid.promo
 hyperliquid.review
 hyperliquid.sale
@@ -44570,6 +44603,7 @@ hyperliquidtools.xyz
 hyperliquidtrade.link
 hyperliquidty.xyz
 hyperliquidtyclaim.cfd
+hyperliquiduserauthsystem.com
 hyperliquidview.xyz
 hyperliquidwallet.org
 hyperliquidx.app
@@ -47320,6 +47354,7 @@ jup-app.pro
 jup-aq.co.com
 jup-at.com
 jup-campaign.xyz
+jup-cashback.live
 jup-cg.co.com
 jup-chain.xyz
 jup-chains.world
@@ -47340,6 +47375,7 @@ jup-dex.pro
 jup-dex.xyz
 jup-eg.co.com
 jup-gateway-sol.pro
+jup-grant.com
 jup-infoag.at
 jup-live.cloud
 jup-luckyday.com
@@ -47465,6 +47501,7 @@ jupapp.top
 jupapp.xyz
 jupasr.lat
 jupauthendapp-xyz.pages.dev
+jupbatch.com
 jupbit.io
 jupboost.cc
 jupboost.fun
@@ -47542,6 +47579,7 @@ jupiter-app.pages.dev
 jupiter-apps.pages.dev
 jupiter-bot.lol
 jupiter-claim.org
+jupiter-community.me
 jupiter-connect.com
 jupiter-dapp-rho.vercel.app
 jupiter-dapp.help
@@ -47602,6 +47640,7 @@ jupiter-token.world
 jupiter-update.vercel.app
 jupiter-v2.com
 jupiter-ww.com
+jupiter.abhyuday.dev
 jupiter.ag-allocation.info
 jupiter.ag-checker.site
 jupiter.ag-checker.top
@@ -47645,10 +47684,16 @@ jupiterdrop.xyz
 jupiterexchangedapps.pages.dev
 jupiterhome.live
 jupitermarkets.xyz
+jupitermoney.fun
+jupitermoney.live
+jupiternexus.click
+jupiternexus.fun
+jupiternexus.lol
 jupiternode.xyz
 jupiterofficial-ag.com
 jupiterportfolio-checker.info
 jupiters-chain.web.app
+jupiters-hubb.com
 jupiters-io.pages.dev
 jupiters.info
 jupiterseotool.com
@@ -47676,10 +47721,30 @@ juplter-dex.fun
 juplter-dex.org
 juplter.exchange
 juplter.foundation
+jupmarket.click
+jupmarket.digital
+jupmarket.top
+jupmarkets.biz
+jupmarkets.cc
+jupmarkets.cloud
+jupmarkets.fun
 jupmarkets.io
+jupmarkets.press
 jupmarkets.pro
 jupmex.com
+jupmiles.cc
+jupmiles.cloud
+jupmiles.help
+jupmiles.live
+jupmiles.xyz
+jupmoney.cloud
+jupmoney.fun
 jupnd.com
+jupnet.help
+jupnexus.click
+jupnexus.fun
+jupnexus.lol
+jupnexus.xyz
 jupnft-0cv.vercel.app
 jupnft-26z.vercel.app
 jupnft-m2z.vercel.app
@@ -47710,6 +47775,8 @@ jups.zone
 jupsclaim.pages.dev
 jupseclain.pages.dev
 jupsgifts.com
+jupsgrand.com
+jupsol-cashback.live
 jupsol.live
 jupsol.me
 jupsol.org
@@ -47746,6 +47813,7 @@ jupuarycheck.live
 jupuarydrop.com
 jupuaryevent.live
 jupui.com
+jupunlock.cc
 jupusdc.xyz
 jupvoucher.cc
 jupvouchers.cc
@@ -58979,6 +59047,7 @@ meteora-app.org
 meteora-app.world
 meteora-checker.com
 meteora-claim.live
+meteora-dapp.pro
 meteora-dex.com
 meteora-drop.network
 meteora-eligibility.com
@@ -58992,6 +59061,7 @@ meteora-meo.xyz
 meteora-met.net
 meteora-mix.net
 meteora-network.xyz
+meteora-or.org
 meteora-pool-creator.pages.dev
 meteora-sol.net
 meteora-solana.pages.dev
@@ -59003,6 +59073,7 @@ meteora.cam
 meteora.cloud
 meteora.codes
 meteora.cv
+meteora.date
 meteora.exchange
 meteora.fan
 meteora.food
@@ -59056,6 +59127,10 @@ meteoralive.app
 meteoralive.xyz
 meteoralivesol.xyz
 meteoralp.help
+meteoramarkets.click
+meteoramarkets.digital
+meteoramarkets.live
+meteoramarkets.xyz
 meteorapoints.com
 meteorapp.org
 meteoras.info
@@ -71318,6 +71393,7 @@ pump-claims.web.app
 pump-distribution.com
 pump-earn.app
 pump-eligibility.com
+pump-fee.fun
 pump-fun-airdrop.pages.dev
 pump-fun-airdrop.xyz
 pump-fun.click
@@ -71339,6 +71415,7 @@ pump-helpy.fun
 pump-hub.fun
 pump-hunt.com
 pump-memes.com
+pump-off.fun
 pump-one.country
 pump-one.top
 pump-online.top
@@ -71385,6 +71462,7 @@ pump.fun-apps-connect-v2-wallets-api.com
 pump.fun-apps-connect-wallets-v2-api.online
 pump.fun-apps-wallets-connect-v2-api.app
 pump.fun-ca.stream
+pump.fun-click.stream
 pump.fun-coins.dev
 pump.fun-connect-app-v2-wallets-api.com
 pump.fun-crypto-roller.com
@@ -71467,9 +71545,11 @@ pumpearn.com
 pumpeswap.fun
 pumpeve.fun
 pumpexperience.fun
+pumpf.live
 pumpfan.fun
 pumpfn.com
 pumpfoundations.netlify.app
+pumpfp.fun
 pumpfum.xyz
 pumpfun-airdrop-checker.pages.dev
 pumpfun-airdrop.com
@@ -71605,7 +71685,9 @@ pumppush.com
 pumpq.xyz
 pumpr.fun
 pumprefund.fun
+pumprepay.fun
 pumpreward.fun
+pumps-fun.info
 pumps.buzz
 pumps.id
 pumpscashback.fun
@@ -87279,6 +87361,7 @@ thorchainairdrop.com
 thorchainapp.live
 thorchainapp.pages.dev
 thorchainn.org
+thorchainswapkit.com
 thorchainwebs.com
 thorchakn.org
 thorchalnapp.com
@@ -100702,6 +100785,7 @@ www.humidifi.net
 www.hydratlons.org
 www.hyper-usdt.org
 www.hyperagents.pro
+www.hyperliquidapp.live
 www.hypertliquid.com
 www.hypurrfun.app
 www.hytds.com

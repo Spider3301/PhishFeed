@@ -34924,6 +34924,7 @@ exod-sweb-eng-un.pages.dev
 exod-uus-web3.pages.dev
 exod-web3-s.pages.dev
 exod.exoqus.co.com
+exod.phantum.biz
 exod1us.godaddysites.com
 exodas-start-io.pages.dev
 exodas-web3.zapier.app
@@ -44295,6 +44296,7 @@ hub-sso-upholdlgnn.pages.dev
 hub-starts-trzor.github.io
 hub-sun.xyz
 hub-syncswap.cfd
+hub-tresor-log.pages.dev
 hub-trezorr-logenn.pages.dev
 hub-trezr-login.pages.dev
 hub-unich.cfd
@@ -83282,6 +83284,7 @@ started-kraken.pages.dev
 started-ledger.com
 started-ledger.live
 started-ledgrlive.framer.ai
+started-livedesktop.wixstudio.com
 started-meta-wallet.pages.dev
 started-mtamaskk.pages.dev
 started-rabby-wallet.pages.dev

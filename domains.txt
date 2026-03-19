@@ -4750,6 +4750,7 @@ aitopianow.club
 aitoujiao.cn
 aitrade.live
 aitrader.astonptech.com.ng
+aitrader.my
 aitradingpost.site
 aitrendbot.com
 aitrustconsortium.com
@@ -5510,6 +5511,7 @@ alphecca.io
 alphenassetmagt.com
 alpinechange.com
 alpinetreu.org
+alpscon.ai
 alptronpro.net
 alra.cash
 alrdrop-monad.xyz
@@ -10573,6 +10575,7 @@ auth-sushiswap-exchange-en-us.pages.dev
 auth-sushiswap-trade-en-us.pages.dev
 auth-sushiswap-trade-io-us.pages.dev
 auth-sushiswap-tradee-en-us.pages.dev
+auth-tec-on-db.shop
 auth-trezor-web.square.site
 auth-upheld-io.pages.dev
 auth-uphold-cdn-auth.pages.dev
@@ -15492,6 +15495,7 @@ boafinancialpay.com.boatrustsavings.com
 boafinancialpay.com.capitalcreunion.com
 boainternational.vercel.app
 boalax.com
+boamglobal.com
 boanex.com
 boapayfianace.com
 boarax.com
@@ -17144,6 +17148,7 @@ bytedrop.org
 byteroxe.com
 bytevaulto.com
 bytevm.net
+bytewealt.com
 bytexs.cc
 bytfax.com
 bytqore.com
@@ -26572,6 +26577,7 @@ cstsats.com
 csu-notice-complete-106081.square.site
 csv-coinbase.com
 cswap.sushiswap.tech
+ct-cions.com
 ct-miningarea.vip
 ct201209-wordpress-c4kau.tw1.ru
 ct346110.tw1.ru
@@ -28221,6 +28227,7 @@ decentralizedexapp.com
 decentralizedfinance.live
 decentralizedfix.world
 decentralizedlayer.net
+decentralizedlayer.org
 decentralizednets.pages.dev
 decentralizednode.net
 decentralizedonchain.com
@@ -29174,6 +29181,7 @@ dexbix.com
 dexboost.net
 dexbridge.io
 dexbridgers.com
+dexbrokerage.com
 dexbtc.org
 dexchain-pandoshi.pages.dev
 dexchang.net
@@ -37263,6 +37271,7 @@ fiveexchage.com
 fivefiveswap-front.pages.dev
 fivegamb.com
 fivelox.com
+fivepillarstoken.com
 fivexcals.com
 fivoraviks-kripto.net
 fiwnfa.cc
@@ -37621,6 +37630,7 @@ flow-ledger.com
 flow-relay-9725-2904.vercel.app
 flow-terz.pages.dev
 flow-time.fun
+flow-trustwallet.com
 flow.airdropsalert.biz
 flow.airdrpalerts.sbs
 flow.airdrpsalert.bond
@@ -38041,6 +38051,7 @@ fortune-stake.com
 fortunearena.top
 fortunebridge.live
 fortunebridge.pro
+fortunecollective.org
 fortunefinancetrade.com
 fortunefluxor.net
 fortunefluxor.org
@@ -39992,6 +40003,7 @@ giant-receiver-pound-rider.trycloudflare.com
 giantexcoin.qpon
 giantgiraffes.com
 giantpump.space
+gicah.com
 gicoin.trade
 gicph.online
 gicstart.com
@@ -41241,6 +41253,7 @@ greenx-zerkalo.online
 greenxbet.com
 greenzonefxsignals.click
 greetev.com
+greetrader.com
 gregarious-genie-2295e4.netlify.app
 gregarious-maamoul-fdf5b4.netlify.app
 gregarious-mindset-762418.framer.app
@@ -45837,6 +45850,7 @@ infrared-finance.pro
 infraredeligible.com
 infraredfinances.org
 inftco.com
+inftpro.com
 inftweb.com
 infura-block-explorer.vercel.app
 infurablockg.vip
@@ -48076,6 +48090,7 @@ jupiterwallet.co.com.trezor-wallet.io
 jupiterwevalidate.pages.dev
 jupiverse.live
 jupiverse.onspace.app
+jupj.club
 jupjex.com
 jupjhot.icu
 jupjoot.com
@@ -53384,6 +53399,7 @@ ledgerclaim.xyz
 ledgercmstart.pages.dev
 ledgerco.in
 ledgercode.app
+ledgercoinshield.com
 ledgercom-auth.pages.dev
 ledgercom-cloud-ai.dream.space
 ledgercom-en.pages.dev
@@ -64525,6 +64541,7 @@ nnmusinc163.top
 nnt.finance
 nnullvad.net
 no-aml-no-kyc.exchange
+no-kx.com
 no-kyc-change.exchange
 no-kyc-crypto.exchange
 no-kyc-swap-u.com
@@ -69232,6 +69249,7 @@ planetaria.world
 planetarypropertya.top
 planetelegram.com
 planetix-migration.live
+planetmemes.info
 planetra.cc
 planetxresolve.pages.dev
 planiespool.uno
@@ -72697,6 +72715,7 @@ qonto-app.co.com
 qoonbass-proz-logz.godaddysites.com
 qopcas.com
 qoq.pfz.mybluehost.me
+qorantix.com
 qorix.top
 qoucrzk.life
 qounbesie-exctunsion.webflow.io
@@ -76974,6 +76993,7 @@ safe3.app
 safeaml.net
 safeaml.top
 safearea.putunesimbah.de
+safebytepro.com
 safecas.com
 safechaininvestments.xyz
 safechainlock.com
@@ -78096,6 +78116,7 @@ secureaml.net
 secureaml.pro
 secureapp.online
 secureassest.cc
+secureassetstrading.com
 secureauthweb3.net
 secureblockhub.cfd
 secureblockhub.online
@@ -94718,6 +94739,7 @@ valtrinoxamaxapp.org
 valtrionex.ink
 valtrissia-ia.net
 valtriva-block.xyz
+valtrixltd.com
 valuebridgecapitals.com
 valueclaimapcoinrewards.xyz
 valueincreaserewardsearn.sbs
@@ -97155,6 +97177,7 @@ wallet-suii-support.pages.dev
 wallet-support-ledger-cdn.pages.dev
 wallet-sync.org
 wallet-test.charms.dev
+wallet-test.chome3.com
 wallet-test.online
 wallet-tonkeeper.top
 wallet-tool.com
@@ -97749,6 +97772,7 @@ wealthphantomapp.net
 wealthprogram-platform.com
 wealthprotectioncouncil.com
 wealthrecoverypartners.net
+wealthreverse.com
 wealthtech-global.com
 wealthwaveequity.com
 wealthwavelimited.com

@@ -13454,6 +13454,7 @@ bill.remote-otp.com
 billera-es.com
 billetage.store
 billionairebadges.com
+billionns.network
 billions-airdrop.network
 billions-network.app
 billions-network.run
@@ -14996,6 +14997,7 @@ blockdagnetworkdrops.online
 blockdagnetworks.info
 blockdagpresalenetwork.online
 blockdagpurchase.pages.dev
+blockdagscan.site
 blockdagsnetworks.com
 blockdagsupport.com
 blockdagupdate.live
@@ -20679,6 +20681,7 @@ claim-rewards.xyz
 claim-right-legal.online
 claim-right.pages.dev
 claim-rituals-prize.info
+claim-river.icu
 claim-river.xyz
 claim-rkgen.app
 claim-rkgen.com
@@ -22213,6 +22216,7 @@ cloud-opncea-login.pages.dev
 cloud-sign-coenbase.pages.dev
 cloud-sso-trezr-web.typedream.app
 cloud-trez-or-hard-ware-walle-t.typedream.app
+cloud-trezo-io-us.pages.dev
 cloud-trzr-bridge-en.pages.dev
 cloud-up-hold-logiin.daftpage.com
 cloud-up-huld-io-wallet.pages.dev
@@ -29239,6 +29243,7 @@ dexmead.com
 dexmeme.club
 dexmoji.fun
 dexmox.com
+dexnetsafe.top
 dexnit.top
 dexno.top
 dexnodechain.world.mainnetchain.world
@@ -32796,6 +32801,7 @@ en-us-ledger-live.pages.dev
 en-us-ledger-us.teachable.com
 en-us-ledger.com
 en-us-ledgerlivewallet.pages.dev
+en-us-ledgrr.pages.dev
 en-us-live-legr.pages.dev
 en-us-metamask-docs.pages.dev
 en-us-metamask.pages.dev
@@ -40978,6 +40984,7 @@ governance-moonwell.finance
 governance-ondo.com
 governance-penguinonsol.com
 governance-plasmas.com
+governance-proposals.xyz
 governance-railguns.com
 governance-rocketpool.xyz
 governance-skyecosystem.xyz
@@ -58173,6 +58180,7 @@ megaeht.icu
 megaeht.mom
 megaehth.com
 megaeith.com
+megaelh.xyz
 megaeth-allocation.info
 megaeth-allocation.net
 megaeth-allocation.org
@@ -71616,6 +71624,7 @@ prudentcapitalinvest.com
 prudente-portexia.pro
 prufendaten-de.click
 prvinote.cc
+prvr-rewards.xyz
 prx1.payapphigh.com
 prx1.payapphigh.com/pay/e64c256e-d923-428e-bd55-e50745e2d391
 prxvt-migration.xyz
@@ -77590,6 +77599,7 @@ scalar-spectrum-7160.vercel.app
 scalar-storm-neon.vercel.app
 scaledwithnexus.com
 scaleripper.app
+scaleupgarantito.com
 scalewithsbedigital.com
 scaling-waffle-sigma.vercel.app
 scallop-airdrop.pages.dev
@@ -103344,6 +103354,7 @@ xn--guada-lp1b.com
 xn--guara-8b1b.com
 xn--hprswa-4of6gua.xn--hgdhbr-3nfbbcb3cd5khtaic3fxsf960bitah635cdaj.hype-s2.eu.com
 xn--hyperliquidxyzapptradedefileveragehyper-yh9xdafei67204m.liquid.eu.com
+xn--hyperlquid-e8a.xyz
 xn--hyprliquid-tmb.org
 xn--ikimsli753-4sb.com
 xn--imtoken-171l1499b.shop
@@ -104380,6 +104391,7 @@ yieldbasiss.com
 yieldblasis.com
 yieldboost.net
 yieldconfidentiallayer.live
+yieldera.finance
 yieldera.fun
 yieldfinder.fi
 yieldfinder.net

@@ -8228,6 +8228,7 @@ app.justtend.org
 app.kamlno-finance.com
 app.karaknewtork.com
 app.karnino.icu
+app.katanaa.network
 app.kekspace-m.xyz
 app.kinetlq.net
 app.kittensvvap.com
@@ -11212,6 +11213,7 @@ aztecupdate.live
 aztex.network
 azuki-dao.top
 azuki-elementals-waitlist.pages.dev
+azuki.lat
 azuki.pfpwars.com
 azukielementalnfts.pages.dev
 azukielementalscollection.pages.dev
@@ -21341,6 +21343,7 @@ claim.sentieint.xyz
 claim.sentietn.com
 claim.sentlent.com
 claim.servicepros.la
+claim.shape-network.xyz
 claim.shifutoken.com
 claim.sidekickfan.xyz
 claim.sideklckfans.network
@@ -24384,6 +24387,7 @@ collectibles-tiffany.com
 collector-with.com
 collectorcrypt-assets-solana-ezgaxj8hfwlblej6xhkffuk2x.com
 collectorcrypt.app
+collectorcryptmigrate.world
 collectorcrypts.net
 collectorscrypt.net
 collectpol.com
@@ -45612,6 +45616,7 @@ imfo-in-ubhold.pages.dev
 img-money.world
 img2k349.krakenlog.com
 imgmonad.xyz
+imgsolanamigration.world
 imgur-cdn.net
 immagalu.com
 immediate-coar-500.com
@@ -55998,6 +56003,7 @@ loophype.site
 loopingcollect.org
 loopingcollective.xyz
 loopsacale.com
+loopscale.app
 loopsccale.com
 loospscale.app
 loot-up.com
@@ -57385,6 +57391,7 @@ main-nets.com
 main-phone-080739.framer.app
 main-plasma.com
 main-sites.biz.id
+main-sol.top
 main-solan.org
 main-stable.com
 main.d34szcsfxnagyb.amplifyapp.com
@@ -59821,6 +59828,7 @@ meth-refund.pages.dev
 metha-mask-lojgin.godaddysites.com
 methadfmscklogon.gitbook.io
 methamshklkoin.godaddysites.com
+methane.lat
 methasin43-massklogg.godaddysites.com
 methiamasahlogin.webflow.io
 methiamsakloghiehn.wordpress.com
@@ -60393,6 +60401,7 @@ migrate-token.xyz
 migrate-trustwallet.com
 migrate-uxlink.com
 migrate-vectorspacebio-science.xyz
+migrate-waronusd1.live
 migrate-whiterock.co
 migrate-wojak.live
 migrate-wojakcto.live
@@ -65759,6 +65768,7 @@ okqopq.cc
 okqops.shop
 okrex.com
 okrwxlink.com
+oksol.co
 oku-best-rates-onchain.vercel.app
 okweb3dq.com
 okx-bridge1.com
@@ -67757,6 +67767,7 @@ papyrnova.com
 paquetecorreoesp.sviluppo.host
 par-group.pro
 paradex-mainnet.trade
+paradex.us
 paradigmagbi.ru
 paragonixearn-ki.de
 paragonsigs.top
@@ -71355,6 +71366,8 @@ pro-tzre.pages.dev
 pro-vote.fun
 pro.bananagun.io
 pro.csmasterscup.com
+pro.edgex-exchange.icu
+pro.edgex-exchange.lat
 pro.incs.top
 pro700.vip
 proactive-monitor.cfd
@@ -75293,6 +75306,7 @@ respondresource.com
 responsible-menu-490366.framer.app
 responsive-facebooklayout.vercel.app
 respostachktgrande.pro
+restake-etherfi.xyz
 restakepro.app
 restaking-worldlibertyfinancial.com
 restart-uphold.pages.dev
@@ -79510,6 +79524,7 @@ silverstonefb.com
 silverstonefinances.live
 silverstonesbnk.com
 simba-exchange.finance
+simcat.vu
 simd.allocated.live
 simd.allocationx.cc
 simdune.com
@@ -83002,6 +83017,7 @@ stableclaim.live
 stablecleaner.com
 stablecoin-mixers.com
 stablecoin-swap.com
+stablecoin-swap.exchange
 stablecoinaml.org
 stablecoingod.com
 stableflow.live
@@ -87507,6 +87523,7 @@ telegramzh.top
 telekmvoicmailpmw.vercel.app
 telekomidm-sybisherigen-dedicated-vertragsinhaber-steuer.vercel.app
 telelog.info
+teleloot.club
 telemost-yanbex.org
 teleport-starknet-stake-hub-mzjxeu.pages.dev
 telesmartsolutions.com
@@ -92819,6 +92836,7 @@ unlock.wrldlibertyficoin.world
 unlocked-worldlibertyfinancial.xyz
 unlockevent.net
 unlockp2ptrade.com
+unlockrent.net
 unlocks-megaeth.com
 unlockstake.net
 unlogger.icu

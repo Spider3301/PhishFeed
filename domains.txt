@@ -1099,6 +1099,7 @@
 313b2f9e.wormhole-5sz.pages.dev
 31477.academy
 318922-portal.com
+31c1m9.minecrypto.pro
 32000ff.fit
 32113.one
 32173-coinbase.com
@@ -7378,6 +7379,7 @@ app-ap-whatsappweb.com.cn
 app-apollox.com
 app-app-mytonwallet.gitbook.io
 app-askloyal.xyz
+app-asksurf.xyz
 app-asset.it.com
 app-aster-dex-launch-v2.com
 app-aster-dex-v2.com
@@ -8946,6 +8948,7 @@ apps-ledger.live
 apps-live-ledgre.framer.ai
 apps-logkracken-en.pages.dev
 apps-meteora.org
+apps-moonwell.xyz
 apps-movequest.com
 apps-multichaindashboard.site
 apps-phanto-walit.pages.dev
@@ -9507,6 +9510,7 @@ asenubiz.digital
 asesoriabarrachina.es
 aset-link.xyz
 aseterna.com
+asetnaik.icu
 asfanqeirod.sbs
 asfanqeres.sbs
 asfelage.sbs
@@ -11120,6 +11124,7 @@ avici.nt34.fun
 avici.onsol.sbs
 avicichain.net
 avicichain.run
+avicichartsverification.com
 avicimkt.world
 avicimoney.pro
 aviciwhale.com
@@ -12506,6 +12511,7 @@ bdagmainnets.live
 bdagnetwork.info
 bdagopenchek.com
 bdagreward.live
+bdagscan.network
 bdagsmainnet.live
 bdagupdate.live
 bdagupdates.com
@@ -18861,6 +18867,7 @@ ccwrpc.top
 ccx.capital
 ccxdd.com
 cd-coi-pr-auutth.pineapple.page
+cd.dvrcam.info
 cd.fstval-rmdhan26.com
 cd.sxfxjy.top
 cd264336.tw1.ru
@@ -18969,6 +18976,7 @@ celetialmedsplus.com
 celia-finance.pages.dev
 celiadesktop.ltd
 celiawallet.app
+celibit.com
 celibratrade93.com
 cellframeacredition.pages.dev
 cells-link-nat-prompt.trycloudflare.com
@@ -29661,6 +29669,7 @@ devshub.online
 devsofteaven.com
 devsycnprotocols.pages.dev
 dewa.baaauae.com
+dewanusa.quest
 dewaterglobalcargo.com
 dewomlexpro.net
 dewtrix.com
@@ -30701,6 +30710,7 @@ docs-ledger.teachable.com
 docs-ledgrwalite.pages.dev
 docs-live-desktop.teachable.com
 docs-live-ledgr-en.teachable.com
+docs-liveledgr.pages.dev
 docs-metabase-github-io.pages.dev
 docs-metamask-eng.daftpage.com
 docs-moonpay-cdn.my.canva.site
@@ -30892,6 +30902,7 @@ domain-krake-support.zapier.app
 domain-kraken-web.created.app
 domain-meta-website.square.site
 domain-service.live
+domainafee-com.cfd
 domainandsitepanel.com
 domainparcelservices.com
 domainprime.sa.com
@@ -33589,6 +33600,7 @@ enctype-dapp.pages.dev
 encuesta.ovh
 endcoin.io
 endeavoriishipping.com
+enderminediscord.pages.dev
 endlessincom.com
 endlessprotocol.top
 endlessprotocolairdrop.xyz
@@ -42635,6 +42647,7 @@ guide-coinbase-com-en.pages.dev
 guide-coinbase-extension-eng.pages.dev
 guide-coinbase.framer.media
 guide-defillama-airdrop.pages.dev
+guide-desktop-en-us-ledg.pages.dev
 guide-docs-extension-base.pages.dev
 guide-dydx-dex-web3.pages.dev
 guide-dydx-xchange.pages.dev
@@ -42657,6 +42670,7 @@ guide-live--ledgr-com.pages.dev
 guide-live-ledgir.pages.dev
 guide-live-ledgr-comes.pages.dev
 guide-live-ledgr-eng-ami.pages.dev
+guide-logon-trazor.pages.dev
 guide-maskmeta.pages.dev
 guide-massk-metaa-login-en.pages.dev
 guide-meta-extentoon.pages.dev
@@ -43562,6 +43576,7 @@ h2.autao.click
 h2.etop.click
 h2.etop.ink
 h2.etox.click
+h2.farm777slot.com
 h2.onlineautao.ink
 h2.sdvu.click
 h2.spendex.click
@@ -43618,6 +43633,7 @@ h5.whatisapp.cc
 h5.zetagl0bal.com
 h5115h.com
 h56k.xyz
+h58sugnrnd.wggts9hcj6eatbyfy.net
 h6.ciimud7.vu
 h6.dbpjww4.click
 h64u.xyz
@@ -43672,6 +43688,7 @@ haedal.airdrpsalerts.lat
 haedal.stakingrewards.biz
 hagiwex.com
 hahahle1998.fnos.net
+hahatogelea.com
 haicommunityai.com
 hail-25-clon-aple-react.netlify.app
 hailax.com
@@ -47381,6 +47398,7 @@ invoice-coinbase.com
 invoice-crypomus.com
 invoice-crypotmus.com
 invoice-partner-meta-for-business.surge.sh
+invoice.aumkv-graz.at
 invoice.guide
 invoice.partner-center-meta.com
 invoicecarcareenquirydocusign.appwrite.network
@@ -47532,6 +47550,7 @@ io-rabbywalletapp.typedream.app
 io-raydiumwallet.pages.dev
 io-reward.com
 io-sluush-wallet-us.pages.dev
+io-start-ledgger.pages.dev
 io-start-trezer-start.pages.dev
 io-start-trezor-en.pages.dev
 io-start-trezor.square.site
@@ -48454,6 +48473,7 @@ jj-guncel-aktif3.com
 jj1505.com
 jjbb0123.revd.workers.dev
 jjempresa.org
+jjffwr.lucyor.com
 jjpicssz.com
 jjson-giris-aktif.com
 jjup.fun
@@ -50640,6 +50660,7 @@ kortexinvest.net
 korunbit-pro.com
 korva-tulin.net
 korvantis-xelior.com
+korvesta.icu
 kosdexpax.com
 kosh-wallet.vercel.app
 kosmetikskin.net
@@ -53846,6 +53867,7 @@ le.lrtkzy10.shop
 le.lrtkzy18.shop
 le.lrtkzy20.shop
 le7et-l9eiv-w4g6t.s3.amazonaws.com
+leacrocodile.com
 lead-moonshot.com
 leadcapita.com
 leadefi.com
@@ -55082,6 +55104,7 @@ leeacoins.com
 leebet.live
 leedcas.com
 leedgar--live.pages.dev
+leedgr-live-desktop-en.pages.dev
 leenbet.com
 leezengsolana-fun.pages.dev
 lefix.ai
@@ -58026,6 +58049,7 @@ m.galebet1058.com
 m.geminiex.top
 m.geminiprox.com
 m.gim.monster
+m.gmacworld.vip
 m.gomarketssvip.cc
 m.gtcfxlgroup.com
 m.gtcfxncvets.net
@@ -61955,6 +61979,7 @@ mining44.vip
 miningagent.top
 miningarc.com.br
 miningclub-hotel.pro
+miningcore.cloud
 miningpro.tech
 miningpro500.com
 miningpro510.com
@@ -65437,6 +65462,7 @@ neutra.netlify.app
 neutralgrowth.com
 neutrl-incentives.com
 neutron-rectification.site
+neutys.net
 neuuihahhashkey.top
 neuvana-systems.netlify.app
 neuvenix.net
@@ -73227,6 +73253,7 @@ proposal-maplefinance.com
 proposal-marinade.com
 proposal-metadao.fun
 proposal-metis.xyz
+proposal-moonwell.fi
 proposal-morphos.org
 proposal-nfstrategy.com
 proposal-ntfstrategy.com
@@ -73542,6 +73569,7 @@ public-coinpro-doc.daftpage.com
 public-coinpro-help.daftpage.com
 public-crypto-ledger-en.typedream.app
 public-defilama-desktop.pages.dev
+public-desk-live.pages.dev
 public-drift-protocol.typedream.app
 public-en-begin-ledger.teachable.com
 public-en-coinbase-login.typedream.app
@@ -74599,6 +74627,7 @@ qroxlwallet.co.com
 qrtn.jp
 qrvico.com
 qs-uw-whatsapp.com.cn
+qsbitcoin-site.pages.dev
 qsecureapp.com
 qsecuredapps.com
 qsecurevalidator.com
@@ -78248,6 +78277,7 @@ rozoxfin.com
 roztdex.com
 rozum-paycor.com
 rp.io-md2x.info
+rp66ad7.com
 rpc-app.com
 rpc-blockdag.xyz
 rpc-fix.app
@@ -80950,6 +80980,7 @@ shkolik.ru
 shkp.pw
 shlbamanyu.com
 shlbswap.github.io
+shm-syariah378.vip
 shmonad.web3evn.com
 sho-shop.vercel.app
 sho.mom
@@ -84929,6 +84960,7 @@ stake.raydium.surf
 stake.stakecito.live
 stake.vianxy.online
 stake.vipbonusbirthday.com
+stake.zenko.world
 stake013.com
 stake1.cc
 stake1.us
@@ -86425,6 +86457,7 @@ sub0.net
 subadikous.digital
 subb.web3xledger.com
 subbdofficial.pages.dev
+subbdtoken.app
 subbdtoken.site
 subbdtoken.wiki
 subclick.top
@@ -89130,6 +89163,7 @@ taran-s-5-school.teachable.com
 taraswap.xyz
 taraxa.pages.dev
 taraxas-en.co
+tarboljuara142.xyz
 tardexbit.com
 tardven.com
 tari303.com
@@ -91672,6 +91706,7 @@ transcorpbank.com
 transfer-asterdex.com
 transfer-bsc.netlify.app
 transfer-pump.fun
+transfer-usdt.shop
 transfer.blockdog.network
 transferbitcoinkraken.pages.dev
 transferkark.com
@@ -92229,6 +92264,7 @@ trezr-io-support.pages.dev
 trezr-iostrt.created.app
 trezr-iosuits.pages.dev
 trezr-loggin-cdn-io.pages.dev
+trezr-ridge.pages.dev
 trezr-suit-en.framer.ai
 trezr-suit-eo.framer.ai
 trezr-suitee-app.webflow.io
@@ -92874,6 +92910,7 @@ trumpzone.us
 trumvega.com
 trunelo.com
 trusewallet.com
+trusrmlk.top
 trusst-wallat.pages.dev
 trust--wallet--docs-us.pages.dev
 trust-app.co.com
@@ -97550,6 +97587,7 @@ velixta.info
 vellius.com
 vellius.trade
 velmo-coin-ai.com
+velmora-live.store
 velmorata.info
 velmorazone.site
 velnekirpro.com
@@ -103859,6 +103897,7 @@ www.confidentiallayer.quest
 www.connect-app-aml.cfd
 www.connect-plasma.com
 www.connect.decentralizeddapp.xyz
+www.connect.provaultcopy.com
 www.connects.origindefis.world
 www.connexion-ascendex.com
 www.copump.fun
@@ -104309,6 +104348,7 @@ www.lumosfiber.com
 www.luxurybill.net
 www.m-ethereum.org
 www.m2recovery.ca
+www.macan238d.com
 www.machelp.cloud
 www.macrostrategy.tech
 www.magicedenvip.cc
@@ -104901,6 +104941,7 @@ www.web3financeledger.com.worqgrid.com
 www.web3ledgernodes.com
 www.web3ledgersafe.com
 www.web3ledgerstack.com
+www.web3llcsafeguard.com.spacetradeinvest.com
 www.web3pairlinks.com
 www.web3safepal.com
 www.web3safevaults.com
@@ -107896,6 +107937,7 @@ zkfair-airdrop.org
 zkj-chain-web-solana-bridge-quick-demo.pages.dev
 zklpass.org
 zkml-launchpad.com
+zknight.xyz
 zkpass-checker.live
 zkpass.icu
 zkpass.network

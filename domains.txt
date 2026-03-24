@@ -8417,6 +8417,7 @@ app.inifinex.xyz
 app.intlyksoffsglobal.online
 app.isbeef.com
 app.join-hyena.trade
+app.jpool.finance
 app.jupcore.pro
 app.jupgate.pro
 app.jupitr.cam
@@ -17932,6 +17933,7 @@ candidatezoomcall.im
 candidmeets.com
 candoxa.xyz
 candymoney.casino
+candyomnom.xyz
 candyroyal.bet
 candyspinss.com
 candyspinz.pro
@@ -28360,6 +28362,7 @@ dappswalletnode.pages.dev
 dappswebsync.pages.dev
 dappswiftfix.pages.dev
 dappsy.org
+dappsync-extensions.pages.dev
 dappsync.sharepool.in
 dappsync.tokenallocation.xyz
 dappsynchron.site
@@ -37533,6 +37536,7 @@ feq-us-opensealogin.pages.dev
 feraska.cyou
 feravo-biz-pelqan-28126.pages.dev
 ferbitx.com
+fercuann.icu
 fereta-qundexar.net
 fergato.com
 ferme-invion.net
@@ -67107,6 +67111,7 @@ noilki.com
 noircas.com
 noisee.xyz
 nokentertainment.com
+nokosmurah.com
 nokycusdtbetting.com
 nolibet.com
 nolimitclaim.pages.dev
@@ -74138,6 +74143,7 @@ protect-base-extension.pages.dev
 protect-ledgrlive-app.pages.dev
 protect.captcha-verified.cyou
 protect.dailynsfw.xyz
+protect.mee6-verifications.icu
 protect.nsfwverification.icu
 protectedportal-coinbase.com
 protectedvault-coinbase.com
@@ -93584,6 +93590,7 @@ trongate.app
 tronify.rent
 troniink.biz
 troniink.shop
+troniink.xyz
 tronilnk-org.com
 tronilnk.pro
 troninfrastructure.org
@@ -95596,6 +95603,7 @@ undian-whatsapp58.blogspot.com
 undocoin.xyz
 undressaitools.net
 undresswith.ai
+unduh-nokos-murah-apk.untuk-mu.biz.id
 unduhaplikasi.com
 unecas.com
 uneiiaswap.com
@@ -103037,6 +103045,7 @@ whisper-cactus-9836.vercel.app
 whisperanalysis.live
 whisperturtledev.xyz
 white-bit.global
+white-bit.net
 white-bit.org
 white-money.top
 white-net-b75.cf-eb0dgs6f.workers.dev

@@ -848,7 +848,6 @@
 1wdjbd.com
 1web.bmt-whatsapp.com.cn
 1wfypv.com
-1win-arg.com
 1win.fyi
 1win.ng
 1win.nyc
@@ -2768,7 +2767,6 @@ accgn.club
 accioali.vip
 accnetrades.com
 accntshop.xyz
-accorex.com
 account-alert-center-243.pages.dev
 account-amex.mannafound.com
 account-apple.eu
@@ -7237,6 +7235,7 @@ api-tokenfi.pages.dev
 api-v4-swap.cc
 api.abokidevelopers.com
 api.aedigitaltether.com
+api.ai-mining.ltd
 api.bahusande.com
 api.berachainbuild.xyz
 api.betgrim.com
@@ -16020,6 +16019,7 @@ bombbet.top
 bombieplay.com
 bomcaz.com
 bomeonsol.page
+bomeow-solana.pages.dev
 bomepex.com
 bometrumps.pages.dev
 bomewex.com
@@ -17118,6 +17118,7 @@ build-extn-coinbseex.pages.dev
 build-extnension-coinbse.pages.dev
 build-exts-coin-base.pages.dev
 build-maplefinance.xyz
+build-soltool.com
 build-tge.com
 build.assiterr.space
 build.assiterr.xyz
@@ -17230,6 +17231,7 @@ bundesprofit-ki.de
 bundessupport.sbs
 bundlercatch.com
 bundlerpump.fun
+bung-7t0.pages.dev
 bungeexchenge.org
 bunnidesktop.xyz
 bunniextension.xyz
@@ -35425,6 +35427,7 @@ eventrump.live
 events-1coin.xyz
 events-anodos.xyz
 events-apebama.fun
+events-apyx.xyz
 events-arkham.xyz
 events-auras.org
 events-bape.fun
@@ -45131,6 +45134,7 @@ home-lidofinancee.gitbook.io
 home-lidofinanct.webflow.io
 home-live-en-ledgeer-eo.pages.dev
 home-live-en-ledger.pages.dev
+home-live-en-ledges.pages.dev
 home-meta-ext-ogiin.pages.dev
 home-metamask-en-us.framer.ai
 home-metamaskdapp.pages.dev
@@ -54014,6 +54018,7 @@ launchersol.trade
 launchertools.pro
 launches-ledger.com
 launchit.meme
+launchmeme.fun
 launchonbase.fun
 launchpad-bio.xyz
 launchpad-bscs-finance.pages.dev
@@ -56570,6 +56575,7 @@ listed-moonshot.xyz
 listia.privatesol.shop
 listify-moonshot.com
 listing-btcc.info
+listing-satoshiv.pages.dev
 listingcollective.com
 listings-moonshot.net
 listings-okx.com
@@ -58154,6 +58160,7 @@ lunadefi.fun
 lunadefi.net
 lunadeploy.com
 lunadeploy.net
+lunadeployit.com
 lunakai.net
 lunalaunch.com
 lunalaunch.live
@@ -69091,6 +69098,7 @@ over-view-exxodes.pages.dev
 overcas.com
 overhit.us
 overlay-airdrop.com
+overlay-b48.pages.dev
 overlaypool.xyz
 overlayportal.xyz
 overlayprotocol-claim.xyz
@@ -69137,6 +69145,7 @@ ovostake.com/w
 ovovault.com
 ovowave.com
 ovowild.com
+ovppclaim.expl.live
 ovvjfllt.elementor.cloud
 owa-lausanne-ch.weebly.com
 owa-portal-rsmx.weebly.com
@@ -82027,6 +82036,7 @@ site-929aihezf.godaddysites.com
 site-96p3yce5g.godaddysites.com
 site-9byvdyw3x.godaddysites.com
 site-9gzodesty.godaddysites.com
+site-9sm.pages.dev
 site-9yfg7o615.godaddysites.com
 site-agngjkc19.godaddysites.com
 site-aic91fv1h.godaddysites.com
@@ -83648,6 +83658,7 @@ solanascope9.live
 solanasewer.com
 solanaslars.netlify.app
 solanasnip.com
+solanasniper.app
 solanasniper.sol-galaxy.cc
 solanasniper.sol-node.org
 solanasniper.web-hub.cc
@@ -83710,6 +83721,7 @@ solardrop.co
 solareneergy.com
 solarewallet.co.com
 solarobets.com
+solarpath.pages.dev
 solarrebates-invest.com
 solaryplay.com
 solaryxlumen.net
@@ -84689,6 +84701,7 @@ spazeze.com
 spb.royal-change.ru
 spbetbrazil.bet
 speak.careers
+speakapp.me
 speal.net
 special-octo-winner-seven.vercel.app
 special-telegram-eosin.vercel.app
@@ -90417,6 +90430,7 @@ testnet-pharosnetwork.cc
 testnet-pharosnetwork.net
 testnet-stable.app
 testnet-stables.com
+testnet.grandline.world
 testnet.heliosportal.live
 testnet.humanitiy.xyz
 testnet.humanitiye.xyz
@@ -102487,6 +102501,7 @@ whantsapp.us.cc
 whaotapp.us.cc
 whastappa.cn
 what-can-be-done-if-the-metamask-login-doesnt-work.typedream.app
+what-is-ubisoft-connect-reddit.pages.dev
 what5app.top
 whatap.eu.cc
 whatappbagya.blogspot.com

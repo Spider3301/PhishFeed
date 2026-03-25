@@ -9518,6 +9518,7 @@ arnldetect.com
 arnlguard.com
 arnlsecure.com
 arnlshield.com
+arocketmadeofpaper.com
 arolcapitalmake.com
 aromaticaskinglow.com
 aronetwork.live
@@ -38959,6 +38960,7 @@ flrax.finance
 flrclaimreserve.live
 flrconnectportal.live
 flread01.com
+flreading999.com
 flrespkconnect.com
 flrnetdrop.com
 flrnetworkdao.com
@@ -56946,6 +56948,7 @@ litelepepe.mom
 litelink.ghost.io
 litelink.ghost.io/trezor-suiteapps
 litellpepe.com
+litensi.id
 liteowlb.com
 litepepe.com
 literage.com
@@ -63951,6 +63954,7 @@ monstead.cfd
 monstean.cfd
 monstersfun.xyz
 monstersmint.fun
+monsterwa.id
 monstragames.com
 mont-investeau.com
 montanatouchservices.com
@@ -101170,6 +101174,7 @@ wallet.lmfx.com
 wallet.mymonero.co
 wallet.mymonero.fi
 wallet.nodechaindapp.site
+wallet.nodechainrestore.sbs
 wallet.pro-conbase.com
 wallet.quantumrecoveryservice.com
 wallet.register-robinhood.com

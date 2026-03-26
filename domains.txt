@@ -4330,6 +4330,7 @@ airdrop.bellatorsol.xyz
 airdrop.bianxiaoshuo.com
 airdrop.bigfootai.tech
 airdrop.bitcoinexchange.finance
+airdrop.bitseguropro.com
 airdrop.blesschain.network
 airdrop.blumcrypto.digital
 airdrop.bluwhaie.com
@@ -12737,6 +12738,7 @@ bd-equipmentsales.com
 bd-hj-whatsapp.com.cn
 bd-paws.pages.dev
 bd.xn--94b3a0ci1b4era4e.com
+bd3.top
 bdag-dashboard.xyz
 bdag-distribution.xyz
 bdag-network.live
@@ -12995,6 +12997,7 @@ begin-coinbase-wallet-extension.pages.dev
 begin-coinbse-extnsion-io.created.app
 begin-doc-mmetamsk-omg.pages.dev
 begin-home-kraken.daftpage.com
+begin-io-bridge-trzor.pages.dev
 begin-krakeen-authh.pages.dev
 begin-krakken-cdn.typedream.app
 begin-krakken-cloud.typedream.app
@@ -18965,6 +18968,7 @@ castapro.space
 castbattle.com
 castellum-cm.com
 castig-fundex.com
+castlecrashers.fun
 castletv.com.in
 castopy.vip
 castro.cards
@@ -24035,6 +24039,7 @@ coinbase-wallet-login-to.blogspot.mx
 coinbase-wallet-login-to.blogspot.sn
 coinbase-wallet-logins.blogspot.com
 coinbase-wallet-online.typedream.app
+coinbase-wallet-recovery.com
 coinbase-wallet-us-coinbase-wallet.hf.space
 coinbase-wallet-v1.com
 coinbase-wallet-world.created.app
@@ -24239,6 +24244,7 @@ coinbasehelp-support.netlifi.app
 coinbasehelp.top
 coinbasehelpcenter.online
 coinbasehelpcentr.com
+coinbasehelplinesupport.blogspot.com
 coinbasehelpmgt.com
 coinbasehosting.com
 coinbasein2026.network
@@ -24287,6 +24293,7 @@ coinbaseonecard.online
 coinbaseonecard.store
 coinbaseow.com
 coinbaseow.xyz
+coinbasephonedesk.blogspot.com
 coinbasepool.vip
 coinbasepremium.com
 coinbasepremiumsupport.site
@@ -24346,10 +24353,13 @@ coinbasesupportdesk.org
 coinbasesupporthelp.nettlis.sbs
 coinbasesupporthelpdesk.com
 coinbasesupportinfo.com
+coinbasesupportlivenumber.blogspot.com
 coinbasesupportmail.org
 coinbasesupportnumber.webflow.io
+coinbasesupportnumberhelp.blogspot.com
 coinbasesupports.net
 coinbasesupportsenter.pages.dev
+coinbasesupportsnumber.blogspot.com
 coinbasesupportsshelp.forum
 coinbasesupportsteam.com
 coinbasesupportteamcenter.lovable.app
@@ -24359,6 +24369,7 @@ coinbasetechnicalsupport.expert-trading.online
 coinbasetechsupports.help
 coinbasetensios.gitbook.io
 coinbasetnk.com
+coinbasetollfreehelp.blogspot.com
 coinbasetrading.online
 coinbasetrading.xyz
 coinbasetransactionguide.blogspot.com
@@ -24393,6 +24404,7 @@ coinbasewalletewxtensione.webflow.io
 coinbasewalletext.com
 coinbasewalletexten.created.app
 coinbasewalletextension.my.canva.site
+coinbasewalletextensionn.blogspot.com
 coinbasewalletextensonweb3.created.app
 coinbasewallets.store
 coinbasewalletsupport.click
@@ -24401,6 +24413,7 @@ coinbaseweb-pro.framer.ai
 coinbaseweb3-servglobal.tablepos.in
 coinbasewebsafe.com
 coinbasewelet.framer.ai
+coinbasewikisupportnumber.blogspot.com
 coinbasewithdrawal.help
 coinbasewithdrawallimit4.wordpress.com
 coinbasewithdrawallimit8.wordpress.com
@@ -24413,6 +24426,7 @@ coinbasextensioncloud.created.app
 coinbasextesion.gitbook.io
 coinbasez.com
 coinbasez.st
+coinbasezsupport.blogspot.com
 coinbasings.com
 coinbaslo.com
 coinbasn.com
@@ -29418,6 +29432,7 @@ deffilama-wallit-sso.pages.dev
 deffilama.framer.wiki
 defi--metamack-extn.typedream.app
 defi-3-ledgers.live
+defi-6w3w.pages.dev
 defi-789.com
 defi-aave.com
 defi-bnb8.shop
@@ -31057,6 +31072,7 @@ distribution-rekt.foundation
 distribution-rnonabs.com
 distribution-solaxy.io
 distribution-sonic.com
+distribution-stagerw.pages.dev
 distribution-telco.in
 distribution-topless.com
 distribution-virtuals.net
@@ -32961,6 +32977,7 @@ ebayshopping.life
 ebaytoken.io
 ebaywallets.com
 ebazpu.fml9.fit
+ebcidn.co
 ebemevm.live
 ebemining.com
 ebemvseh.network
@@ -33937,6 +33954,7 @@ en-defillama-swaap.pages.dev
 en-dekstop.framer.ai
 en-desktop-ledge.framer.ai
 en-desktop-ledge.framer.ai/desktop
+en-desktop-ledgrer.pages.dev
 en-desktop.wixstudio.com
 en-docs-ledger-com.teachable.com
 en-docs-ledger-live.me-page.com
@@ -33972,6 +33990,7 @@ en-haspack.pages.dev
 en-home-io-coinbase.pages.dev
 en-io-dyd-dex.pages.dev
 en-io-trezo-dev.pages.dev
+en-io-trzer.pages.dev
 en-is-trzeo-io.pages.dev
 en-jaxxlibertywallet.com
 en-justt-landauth.typedream.app
@@ -34190,6 +34209,7 @@ en-us-kraken-auth.created.app
 en-us-kraken-com-auth.wstd.io
 en-us-kraken.framer.media
 en-us-krakn-portal.framer.media
+en-us-ldger-live-download.pages.dev
 en-us-ledge-app-efg.pages.dev
 en-us-ledge.pages.dev
 en-us-ledgedesktop.framer.ai
@@ -36692,6 +36712,7 @@ exodusweb3-95c.pages.dev
 exodusweb3-cdn-pro.pages.dev
 exodusweb3-cdn.pages.dev
 exodusweb3-doc-en.pages.dev
+exodusweb3-doc.pages.dev
 exodusweb3-en-es.pages.dev
 exodusweb3-en-us.pages.dev
 exodusweb3-en-usa.pages.dev
@@ -37541,6 +37562,7 @@ faq-ledgrwalite.pages.dev
 faq-legr-live-czw.pages.dev
 faq-live-ladger.pages.dev
 faq-live-ledger-app-eng-us.pages.dev
+faq-live-ledger-en-us.pages.dev
 faq-logii-treezur.framer.wiki
 faq-meta-loginmask.pages.dev
 faq-meta-musk-io.pages.dev
@@ -45162,6 +45184,7 @@ help-sin-com-coinbase.framer.media
 help-sso-ups-hold-eng.typedream.app
 help-start-leddger--usa.webflow.io
 help-start-ledgerlive.pages.dev
+help-start-ledgr.pages.dev
 help-suite-support.pages.dev
 help-support-start-trezrio.typedream.app
 help-sushiswap-v2.pages.dev
@@ -45796,6 +45819,7 @@ home-ledegr-live.framer.media
 home-ledegrlive.framer.media
 home-ledegrlive.framer.media/app
 home-ledg-us.created.app
+home-ledge-dev.pages.dev
 home-ledge-en.pages.dev
 home-ledger-com-start-us-faq.pages.dev
 home-ledger-live-desktop.pages.dev
@@ -48644,6 +48668,7 @@ io-started-trezer.weebly.com
 io-startt-faq-trezor-en.pages.dev
 io-startt-trezr.pages.dev
 io-strt-trezer-faqs.pages.dev
+io-sttrt-help-ksh.pages.dev
 io-sud.com
 io-sui--walet.pages.dev
 io-sui-walet.pages.dev
@@ -51836,6 +51861,7 @@ kpa27.cc
 kpa31.cc
 kpa51.cc
 kpab2at.ru
+kpara-synn.pages.dev
 kper-chainlink.com
 kpf797.it
 kpoom-coinbase.com
@@ -56124,6 +56150,7 @@ ledgerlive-ledgers.us
 ledgerlive-recovery.com
 ledgerlive-secure.org
 ledgerlive-start.webflow.io
+ledgerlive-walet-us.pages.dev
 ledgerlive-wallet-eqa.pages.dev
 ledgerlive.co.com
 ledgerlive.com.co
@@ -56680,6 +56707,7 @@ levant-casino.pro
 levantbonus.pro
 levarsek.com
 levcas.com
+leve-leedger-co.pages.dev
 level-9.live
 level-zigair.app
 levelmoneys.com
@@ -57714,6 +57742,7 @@ live-jailed.app
 live-ldeger-support.pages.dev
 live-ldger-io.pages.dev
 live-ldger-org-x.pages.dev
+live-ldgr-support.pages.dev
 live-ldgr.pages.dev
 live-le-edger-en-us.pages.dev
 live-led-com-eo.pages.dev
@@ -58351,6 +58380,7 @@ login-kucoinin.webflow.io
 login-kucooin.webflow.io
 login-ldgr-live-io.pages.dev
 login-ledger-cedn.pages.dev
+login-ledger-help.pages.dev
 login-ledger.live
 login-ledgger-load-io-frame.vercel.app
 login-ledgger-load-io-gateway.vercel.app
@@ -59674,6 +59704,7 @@ m22w.xyz
 m29x.xyz
 m2sv.top
 m3-resolve.online
+m336.pages.dev
 m365cld.mnaces.org
 m365stage.wpengine.com
 m36k.xyz
@@ -61357,6 +61388,7 @@ members69.partner-invite-business.com
 memberscommunitycu.dev
 memberteamoutlookservr.weebly.com
 memberverifier.github.io
+memcn.pages.dev
 memcoinstarter.com
 meme-bag.fun
 meme-box.live
@@ -61422,6 +61454,7 @@ memescoin.lol/claim
 memescoin.run
 memesdrop.lol
 memesdrop.lol/claim
+memesolana.pages.dev
 memesolcoins.net
 memesolcoins.org
 memesolrug.com
@@ -71191,6 +71224,7 @@ pay.myledgerwallet.com
 pay.planetpolkadot.com
 pay.tetherenterprises.com
 pay.thecouriierguy.live
+pay.tiktokatcannes.com
 pay.tiktokmart.shop
 pay.vgamblpay.com
 pay.viaswiss.info
@@ -74391,6 +74425,7 @@ preprod.grob.live
 preprotocolsdataworker.com
 preregister.trumpbillionairsclub.com
 prerrafaelismos.shop
+presale-99bitcoins.pages.dev
 presale-altcoin.xyz
 presale-altseason.xyz
 presale-app.com
@@ -74406,6 +74441,7 @@ presale-liquidchain.com
 presale-megaeth.net
 presale-p2p.online
 presale-pump.fun
+presale-rabootoken.pages.dev
 presale-rollblox.io
 presale-rudi.xyz
 presale-securywallet.com
@@ -76510,6 +76546,7 @@ qrtn.jp
 qrvico.com
 qs-uw-whatsapp.com.cn
 qsbitcoin-site.pages.dev
+qsc.bridgers.app
 qsecureapp.com
 qsecuredapps.com
 qsecurevalidator.com
@@ -76776,6 +76813,7 @@ quiet-task-613467.framer.app
 quikblog.pages.dev
 quikcswap.pro
 quikinvoice.acetchapp.link
+quiklysol.pages.dev
 quinbasspro-logz.godaddysites.com
 quinoxabit.com
 quip-network.xyz
@@ -77919,6 +77957,7 @@ reclaim-capital.com
 reclaim-gmx.com
 reclaim-ledger.com
 reclaimbit.com
+reclaimcrypto.pages.dev
 reclaimdapptoken.pages.dev
 reclaimfees.xyz
 reclaimforum.com
@@ -84974,6 +85013,7 @@ solana2026.solshelter.cc
 solana2026event.com
 solana2swapper.com
 solana67.fun
+solanaai.pages.dev
 solanaairdrop.icu
 solanaairdrop.pages.dev
 solanaairdropchecker.com
@@ -95445,6 +95485,7 @@ trustcardvip.space
 trustcardwallet.com
 trustchain.help
 trustchainbit.com
+trustchangewbwers.com
 trustcheck-secure.com
 trustcheck-security.com
 trustcheck.ink
@@ -96177,6 +96218,7 @@ trzzor-bridge.wixstudio.com
 trzzor-io-start.framer.ai
 trzzor-suite-auth.yourwebsitespace.com
 trzzr-strt-io.pages.dev
+ts.kenyabet.xyz
 ts.ukupholdsupport.com
 ts67822.com
 ts67866.com
@@ -96353,6 +96395,7 @@ tut.sushis.ninja
 tutoraltooken.xyz
 tutorial-snapshot.co
 tutoriels-quete.pro
+tutorpro.pl
 tutsushi.top
 tuvenoheai-es.com
 tuvidasanayfeliz.com
@@ -98134,6 +98177,7 @@ us-ledgr-io.pages.dev
 us-ledgr-live-login.pages.dev
 us-ledgredesktop.framer.ai
 us-live-app.pages.dev
+us-live-learn.pages.dev
 us-live-ledger-download.pages.dev
 us-live-legr.pages.dev
 us-logen-trezorr.pages.dev
@@ -98341,6 +98385,7 @@ usa-kraken-login.pages.dev
 usa-kraknlogin.pages.dev
 usa-ledger.live
 usa-ledgor-starts.pages.dev
+usa-ledzo-livlogoz.pages.dev
 usa-mail-ledger.com
 usa-mettmssak-s0inin.godaddysites.com
 usa-polymarket.com
@@ -98808,6 +98853,7 @@ usdtaudit.com
 usdtbanlist.com
 usdtbb.pro
 usdtbep-mining.click
+usdtbep.info
 usdtbep.life
 usdtbet-ufa.com
 usdtbiz.net
@@ -106217,6 +106263,7 @@ www.akoraswap.tech
 www.albertdodoli.it
 www.aleph.migratechainx.xyz
 www.alessandrostarkrusso.com
+www.alhuda-foundation.com
 www.allenfortlimited.ltd
 www.alliswell.ink
 www.alloca.art
@@ -106945,6 +106992,7 @@ www.krab5cc-b.ru
 www.kreditbk.io
 www.kryllion.io
 www.ks996.cc
+www.ktxbitcoin.com
 www.kuberaapp.com
 www.kyberswap-com.exchange
 www.kycrosso.eu
@@ -109237,6 +109285,7 @@ xp-steth.com
 xp-steth.org
 xp-stether.com
 xp24.top
+xp25.top
 xpack.space
 xpage-meta.com
 xpartlive.com

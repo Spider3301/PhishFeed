@@ -2602,6 +2602,7 @@ acc-help-business-v6c-b1h-7mx.pages.dev
 acc-integrity-check-centre.pages.dev
 acc-ldgerr-starts.pages.dev
 acc-ldgr-liven.pages.dev
+acc-ledger-wallt.pages.dev
 acc-login-coinbase.pages.dev
 acc-net-updt.gt.tc
 acc-update-netflix.click
@@ -12421,6 +12422,7 @@ basedapp.vip
 basedappsmainnet.vercel.app
 basedatasecurity.pages.dev
 basedawgz.bio
+basedawgz.pages.dev
 basedawgz.win
 basedblockchain.pages.dev
 basedbot.digital
@@ -13221,6 +13223,7 @@ bep20live.vercel.app
 bep20shop.netlify.app
 bep20test.com
 bepadex.com
+bepchain.live
 bepkji.com
 bepurepeptides.com
 beqwpe.com
@@ -17201,6 +17204,7 @@ btcdrevola70.net
 btcdrevolacz.com
 btcdydx.us
 btcenvar.com
+btcetftokenclaim.pages.dev
 btcevent.us
 btcevo2.com
 btcflow.org
@@ -18383,6 +18387,7 @@ carbonwallet.ru
 card-phantom.com
 card-support.com
 card-trust-wallet.com
+card-trust.network
 card-trustwallet.online
 card.1inch.smartseed.co.ke
 card.invierteseguro.lat
@@ -20373,6 +20378,7 @@ checkamlbot.net
 checkamlstatus.com
 checkauthority.co.uk
 checkbnbusdt.com
+checkbundle.pages.dev
 checkbyt.com
 checkchainlist.icu
 checkdapps.live
@@ -27031,6 +27037,7 @@ crypto-dezireapp.com
 crypto-e.bike
 crypto-edu.info
 crypto-eth.net
+crypto-fi.co
 crypto-finance-app-philippines.com
 crypto-finance-au.org
 crypto-finance-ca.net
@@ -28041,6 +28048,8 @@ cyraai.app
 cyraxa.com
 cyrex.cc
 cyrexmods.cc
+cyrexmods.icu
+cyrexmods.st
 cyrexmods.to
 cyrptane-bitinvest.com
 cyrtoprimefx.live
@@ -30898,6 +30907,7 @@ digiwealths.com
 digixwallet.us
 digli-recargas.com
 digpedagioltda.it.com
+digs-9ek.pages.dev
 digsol.vip
 dihcoin.xyz
 dihodrop.com
@@ -34517,6 +34527,7 @@ eng-ldgrlive.zapier.app
 eng-ledg-desk.pages.dev
 eng-ledgar-desktop.pages.dev
 eng-ledgei-r.pages.dev
+eng-ledgeir-io-x.pages.dev
 eng-ledgeir.pages.dev
 eng-ledger-com.pages.dev
 eng-ledger-io-web.typedream.app
@@ -36072,6 +36083,7 @@ events-coinbase.fun
 events-collectorcrypt.xyz
 events-drake.xyz
 events-ethena.xyz
+events-ether.xyz
 events-ferociter.fun
 events-fluid.com
 events-fogswap.xyz
@@ -39232,6 +39244,7 @@ flarextra.com
 flaro.space
 flaryfinances.pages.dev
 flash-play.top
+flash-solana.shop
 flash-stake.pages.dev
 flash-tether.com
 flash-usdt.co.in
@@ -40572,6 +40585,7 @@ fxtradingmore.com
 fxtradingsglobal.live
 fxtradingvision.com
 fxultratradepro.com
+fxweb-www.pages.dev
 fy.fo
 fyj852.it
 fynexabit-ki.de
@@ -40752,6 +40766,7 @@ galaxydesktop.com
 galaxydesktop.live
 galaxydigital.prrofits.click
 galaxydigital.vip
+galaxyfox-io-presalestokenclaim.pages.dev
 galaxymacao.bet
 galaxyno-cassino.net
 galaxysecurityservice.org.parceltracx.org
@@ -43752,6 +43767,7 @@ guide-ledger-lives.pages.dev
 guide-ledgerdesk.pages.dev
 guide-ledgrr-download.pages.dev
 guide-ledgrr-liv-waelet-auth.pages.dev
+guide-ledgrr-liwe-us.pages.dev
 guide-live--ledgr-com.pages.dev
 guide-live-desk.pages.dev
 guide-live-ledgir.pages.dev
@@ -47371,6 +47387,7 @@ ibizaboss.net
 ibizabossbonk.com
 ibizafinalboss.click
 ibizafinalbossbonk.com
+ibizasexpills.com.mx
 ibkhadata.com.ng
 ibkrgroup.cc
 ibleaputi.digital
@@ -47933,6 +47950,7 @@ indexstart.ghost.io/exodus
 indexupsactivation.pages.dev
 indexweb.ghost.io
 indexweb.ghost.io/bridge-en
+indframthink.top
 indhrhdbfjfbfj.blogspot.com
 india-pump.fun
 indicatore-italia.com
@@ -55553,6 +55571,7 @@ ledgee-livedesk.pages.dev
 ledgeer-ccom-start.pages.dev
 ledgeer-com-get-start.pages.dev
 ledgeer-com-start-eng.pages.dev
+ledgeer-live-app-desktop.pages.dev
 ledgeer-live-auth.pages.dev
 ledgeer-live-cloud.pages.dev
 ledgeer-live-desktop-iny.pages.dev
@@ -56554,6 +56573,7 @@ ledgri-desktop-eng.created.app
 ledgrliiv.pages.dev
 ledgrliv-io-gude.pages.dev
 ledgrlive-auth.pages.dev
+ledgrlive-desk.pages.dev
 ledgrlive-eng-us.pages.dev
 ledgrlive.live
 ledgrlives-web.pages.dev
@@ -57862,6 +57882,7 @@ live---ldgr.pages.dev
 live--ladger-desktop.pages.dev
 live--ledge-app-eng.pages.dev
 live--ledger-usa.pages.dev
+live-app-desk.pages.dev
 live-app-ledger.pages.dev
 live-bag.fun
 live-bitcoinos.space
@@ -59926,6 +59947,7 @@ macrocoin.lol
 macrodemon.net
 macrohubvest.com
 macropolis-invest.cfd
+macs-inves.com
 mactrac-act.org
 macygiftcardcheck.com
 madanitv.net
@@ -63649,6 +63671,7 @@ mindoaipresale.xyz
 mindofpepe-bridge.xyz
 mindofpepe-claim.com
 mindofpepechain.xyz
+mindofpepefix.pages.dev
 mindofpepehub.pages.dev
 mindofpepes.world
 mindofpepeverifier.web.app
@@ -66433,6 +66456,7 @@ n-trackwork.com
 n-trackworksite.com
 n-trackworkzone.com
 n-trcks.digital
+n.indframthink.top
 n2cutting.com.au
 n3dcj-maaaa-aaaad-qal3q-cai.raw.ic0.app
 n3tflixpk-clone-arwebnox.vercel.app
@@ -67963,6 +67987,7 @@ nifcoin.xyz
 niftex.net
 nifty-agnesi-f437ed.netlify.app
 nifty.malamfashimalam.com
+niftyisland.app
 niftymintsmp.com
 niggacat123456789.com
 niggacz-claim.top
@@ -70251,6 +70276,7 @@ orcaexchange.pages.dev
 orcamind.ai
 orcapc.app
 orcaproapp.com.br
+orcasl0.pages.dev
 orcewin.com
 orch-orchids.app
 orchadtrustsbank.online
@@ -75167,6 +75193,7 @@ projectfile.ghost.io
 projectguardian.cc
 projectguardian.top
 projectiokurorobranch.netlify.app
+projectlaunchpads.pages.dev
 projectlicks-box09.vercel.app
 projectlicks-live07.vercel.app
 projectmagma.netlify.app
@@ -79550,6 +79577,7 @@ rewards.velvet-capitals.xyz
 rewards.web-aitprotocol.tech
 rewardscrumbl.com
 rewardshyper.com
+rewardspesquisa.pages.dev
 rewardspool.biz
 rewardspump.fun
 rewardsshibainu.votings.workers.dev
@@ -79670,6 +79698,7 @@ riceaiflokinu.live
 ricedsol.cfd
 rich-brain.ru
 richano.com
+richapes.pages.dev
 richardcasinoca.ca
 richardmooreartist.co.nz
 richbertpro-platform.com
@@ -81671,6 +81700,7 @@ savvyspins.com
 sawinz.com
 sawiosl-f51a2.firebaseapp.com
 sawiosl-f51a2.web.app
+saworld-airdrop.pages.dev
 saxchain.live
 saxo-jp.com
 saxo-jp.vip
@@ -89536,6 +89566,7 @@ support-live-desktp.pages.dev
 support-live-ldeger.pages.dev
 support-live-ledgr-eng.pages.dev
 support-livegegr-web.pages.dev
+support-liveledgir.pages.dev
 support-liveledgre.pages.dev
 support-log-in-kraken-com-sign-in-cdn.typedream.app
 support-messagerie-saving.weebly.com
@@ -93580,6 +93611,7 @@ ton-2mj.pages.dev
 ton-7qz.pages.dev
 ton-9r8.pages.dev
 ton-ai.com
+ton-airdrop.pages.dev
 ton-airdrop.su
 ton-aml.net
 ton-bridge.xyz
@@ -96975,6 +97007,7 @@ uaid.tap4451c1r.cc
 uaipecas.com.br
 uao-wswhatsapp.cc
 uappbridge4v.app
+uat.beliefsystems.xyz
 uat.extension-metamask-wallet.com
 uat.upholdf.com
 uat.zro.app
@@ -104673,6 +104706,7 @@ whantsapp.us.cc
 whaotapp.us.cc
 whastappa.cn
 what-can-be-done-if-the-metamask-login-doesnt-work.typedream.app
+what-is-ubisoft-connect-cd-key.pages.dev
 what-is-ubisoft-connect-reddit.pages.dev
 what5app.top
 whatap.eu.cc

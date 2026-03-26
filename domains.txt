@@ -9968,6 +9968,7 @@ aster.xvault.live
 asterairdrop.cc
 asterairdrop.online
 asterairdrop.world
+asteralrdrop.xyz
 asterapp.xyz
 astercas.com
 asterclaim.com
@@ -11319,6 +11320,7 @@ aviraphantomvpnlogin.pages.dev
 avironcapital.ltd.kryptpilot.com
 avirpc.top
 avitosec.ru
+avivoroblox.pages.dev
 avkoto.cloud-protect-091.com
 avkresearch.org
 avm-code.com
@@ -17887,6 +17889,7 @@ cacnt.pages.dev
 cacsade.xyz
 cadabrus.casino
 cadastro.art
+caddun.com
 caddyflow-webflow-agency-airbnb.webflow.io
 cadskucgens.ru
 cadsnft.com
@@ -22636,6 +22639,7 @@ claimsolanex-ai.site
 claimsolpump.com
 claimsolrefund.com
 claimsolrewards.com
+claimsoltokens.pages.dev
 claimsolv.top
 claimsomnianetworkrewards.xyz
 claimsonic.top
@@ -24225,6 +24229,7 @@ coinbaseloginu.blogspot.ch
 coinbaseloginu.blogspot.com
 coinbaseloginu.blogspot.lu
 coinbaseloginwallet.blogspot.com
+coinbaselt.com
 coinbaseltd.lu
 coinbaseluxury.com
 coinbasemart.com
@@ -24364,6 +24369,7 @@ coinbasextension.created.app
 coinbasextensioncloud.created.app
 coinbasextesion.gitbook.io
 coinbasez.com
+coinbasez.st
 coinbasings.com
 coinbaslo.com
 coinbasn.com
@@ -29911,6 +29917,8 @@ dep-vavada14.ru
 dep18k.com
 dep18k.net
 dep20h.com
+dep20h.net
+dep20h.org
 dep26k-binance.com
 dep26k.cfd
 dep27k-binance.com
@@ -29920,7 +29928,10 @@ dep27k.org
 dep29k-binance.com
 dep29k.com
 dep29k.sbs
+dep30h.com
 dep30h.icu
+dep30h.net
+dep30h.org
 depcas.com
 depcip.cc
 dephope.bet
@@ -64726,6 +64737,7 @@ moonshot-listed.fun
 moonshot-listed.org
 moonshot-listgem.com
 moonshot-listing.app
+moonshot-listing.fun
 moonshot-listing.help
 moonshot-listing.live
 moonshot-listing.pro
@@ -82504,6 +82516,7 @@ setup-ledger.live
 setup-rabbyy-wallet.pages.dev
 setup-safepal.com
 setup-suitetrzr.zapier.app
+setup-sunswaap-eng.pages.dev
 setup-trez-en.created.app
 setup-trezre.pages.dev
 setup.trozre.com
@@ -101352,6 +101365,7 @@ votes-usualx.com
 votes-virtuals.xyz
 votes-whitewhalememe.com
 votes-worldlibertyfinancial.com
+votes-yearn.xyz
 votes-yo.xyz
 votes-zebec.com
 votes.c0m4.top
@@ -101434,6 +101448,7 @@ voting-virtual.co
 voting-worldibertyfinancial.com
 voting-worldliberty.com
 voting-worldlibertyfinancial.com
+voting-yearn.xyz
 voting-zora.com
 voting-zoras.xyz
 votingmoonshot.fun
@@ -107849,6 +107864,8 @@ xa47p-cointelegraph.com
 xa47p.com
 xa47p.icu
 xa47p.today
+xa48z.icu
+xa48z.sbs
 xa500k-coinbase.com
 xa500k-cointelegraph.com
 xa500k-fxempire.com
@@ -107950,6 +107967,7 @@ xa90p.com
 xa90p.icu
 xa90p.net
 xa90p.org
+xa90p.sbs
 xa91p-cointelegraph.com
 xa91p-fxempire.com
 xa91p.com
@@ -107976,6 +107994,7 @@ xahaureward.info
 xahupdate.live
 xai-network.live
 xai-network.org
+xai-official.icu
 xai-official.sale
 xai-portal.com
 xai-verse.com

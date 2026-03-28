@@ -7469,6 +7469,7 @@ apexsignaltrends.click
 apexsmartrade.com
 apexstudios.art
 apexsusllc.com
+apexsyndicate-trade.com
 apextradecapital.pro
 apextradeforce.com
 apextrader.xyz
@@ -7497,6 +7498,7 @@ api-integrate.com
 api-ledger.click
 api-opinion.xyz
 api-p.cloud
+api-qubetics.pages.dev
 api-routing-one.vercel.app
 api-sslperfect.com
 api-tokenfi.pages.dev
@@ -7732,6 +7734,7 @@ app-b14g.xyz
 app-backpack.exchange
 app-bakery.com
 app-based.one
+app-basedbrett.pages.dev
 app-beam.com
 app-beefy-finance.xyz
 app-beefy.info
@@ -9704,6 +9707,7 @@ ardaex.com
 ardentsaving.com
 ardocas.com
 ardowin.com
+ardteam.fr
 area.aureliushub.org
 area.bitnixer.net
 area.eaglonproedge.com
@@ -12092,6 +12096,7 @@ backpacj.exchange
 backpack-admin-dist.pages.dev
 backpack-airdrop.vercel.app
 backpack-app.io
+backpack-bp.co
 backpack-bp.live
 backpack-drop.live
 backpack-exchange-five.vercel.app
@@ -15986,6 +15991,7 @@ blockdagnetworks.info
 blockdagpresalenetwork.online
 blockdagpurchase.pages.dev
 blockdagresolution.netlify.app
+blockdags-netw0rk.pages.dev
 blockdagscan.site
 blockdagsnetworks.com
 blockdagsupport.com
@@ -17749,6 +17755,7 @@ bucketprotorewards.icu
 bucky-bonk.com
 buckybonk.com
 bucolic-pika-e058bb.netlify.app
+buddy-bucks-rainbowkit.pages.dev
 budget-dydx-dex.pages.dev
 budgetbuddy.info
 budgetexpandcity.com
@@ -21244,6 +21251,7 @@ chips.gives
 chipsgo.io
 chiripaagencyarg.com
 chirpairdrop.live
+chirptoken.pages.dev
 chiulemixer.space
 chivalrousmpr3orqwnnahu4kemixtdwnbtoyegxdmstitch.surge.sh
 chixmkxd.vip
@@ -23137,6 +23145,7 @@ claimmystimulus.com
 claimneonevm.org
 claimnet-app.asia
 claimnet.pages.dev
+claimnft-airdrop.pages.dev
 claimnft-yala.org
 claimnft.yaia.life
 claimnftyala.org
@@ -29880,6 +29889,7 @@ dashboard-eigencloud.xyz
 dashboard-etherfi.xyz
 dashboard-farlabs.xyz
 dashboard-farlabsai.netlify.app
+dashboard-fastapicloud-com.pages.dev
 dashboard-fih.xyz
 dashboard-gains.xyz
 dashboard-ghostwareos.xyz
@@ -34398,6 +34408,7 @@ ecosystem-mon.com
 ecosystem-monad.com
 ecosystem-shido.xyz
 ecosystem-turtle.xyz
+ecosystem-x.com
 ecosystemrewards.claims
 ecosystemrewards.live
 ecosystemweb3.com
@@ -39132,7 +39143,6 @@ farcastar.xyz
 farcastef.xyz
 farcaster-mini-app.pages.dev
 farcaster-mock.vercel.app
-farcaster.conduit-ucpi.com
 farceit.com
 farewex.com
 fargo24.cc
@@ -39228,6 +39238,7 @@ fasncup.com
 fasntcup.com
 fasocup.com
 fasotcup.com
+fasoud.com
 faspcup.com
 fasptcup.com
 fasqtcup.com
@@ -50391,6 +50402,7 @@ install-trezor-bridge.weebly.com
 install-web-rabby-wallet.pages.dev
 install-web-rabby-wallett.pages.dev
 installing-ledger.live
+installsbot.com
 instamax.live
 instandhfasrters.site
 instant-900akpro.com
@@ -59481,6 +59493,7 @@ ledgerr-com-sttart.pages.dev
 ledgerr-desktop-us.pages.dev
 ledgerr-desktop.pages.dev
 ledgerr-harware.pages.dev
+ledgerr-io-wallet.pages.dev
 ledgerr-live-app-desktop.pages.dev
 ledgerr-live-app-hub.pages.dev
 ledgerr-live-ceo-io.pages.dev
@@ -66836,6 +66849,7 @@ migration-ctowojak.xyz
 migration-cuminu.xyz
 migration-dolomite.live
 migration-dop.site
+migration-dpai.pages.dev
 migration-eft.xyz
 migration-ethfan.club
 migration-fun.iq6900.world
@@ -71769,6 +71783,7 @@ noreply.offices-support.org
 noreply.support-interne.org
 norix-velxa-biz-tunra-zxic22526d-prixel.pages.dev
 normanbarryberman.online
+normdex.vercel.app
 normiebase-allocations.pages.dev
 norocas.com
 norowex.com
@@ -72652,6 +72667,9 @@ okx-web3-tron-usdt-trc20-000000806.pages.dev
 okx-web3-tron-usdt-trc20-000000817.pages.dev
 okx-web3-tron-usdt-trc20-000000879.pages.dev
 okx-web3-tron-usdt-trc20-000000885.pages.dev
+okx-web3-usdt-trc20-00000000001.pages.dev
+okx-web3-usdt-trc20-00000000002.pages.dev
+okx-web3-usdt-trc20-00000000005.pages.dev
 okx-web3-usdt-trc20-0000000001.pages.dev
 okx-web3-usdt-trc20-payfor-00000005.pages.dev
 okx-web3-usdt-trc20-payfor-00000008.pages.dev
@@ -72659,6 +72677,10 @@ okx-web3-usdt-trc20-payfor-00000012.pages.dev
 okx-web3-usdt-trc20-payfor-00000017.pages.dev
 okx-web3-usdt-trc20-payfor-00000026.pages.dev
 okx-web3-usdt-trc20-payfor-00000028.pages.dev
+okx-web3-usdt-trc20-payfor-00000046.pages.dev
+okx-web3-usdt-trc20-payfor-00000059.pages.dev
+okx-web3-usdt-trc20-payfor-00000063.pages.dev
+okx-web3-usdt-trc20-payfor-00000067.pages.dev
 okx.city
 okx.dappsclouds.cfd
 okx.okx-okex.com.cn
@@ -72829,6 +72851,7 @@ on-chaindefi.com
 on-chainfixes.xyz
 on-chainku.com
 on-exodust-web.pages.dev
+on-punch.fun
 on-ripple.org
 on-tersor-suite.pages.dev
 on-trzer.pages.dev
@@ -77747,6 +77770,7 @@ portal-ledger-new.pages.dev
 portal-lightspeed.com
 portal-lightspeed.vip
 portal-live-ledgar.webflow.io
+portal-live-ledger-desktop-io-us.pages.dev
 portal-live-terzor.vercel.app
 portal-login-access.net
 portal-mantle.xyz
@@ -79156,6 +79180,7 @@ prudentcapitalinvest.com
 prudente-portexia.pro
 prudentia.pro
 prufendaten-de.click
+prv-busd-presale.pages.dev
 prvinote.cc
 prvr-reward.xyz
 prvr-rewards.xyz
@@ -79478,6 +79503,7 @@ pudgypeuguins.com
 pudgypienguins.com
 pudgyrewards.com
 pudgys.claims
+pudgysmash.xyz
 pudgyswap.pro
 pudgyweb.com
 pudgyzpenguins.com
@@ -81795,6 +81821,7 @@ realworldtoken.org
 realyono.lakhokmao.com
 reaoo.com
 reaper-drainer.is
+reaplex-legal.com
 reasonedresearch.com
 reavers-booty.web.app
 reawake.online
@@ -83998,7 +84025,6 @@ rolizio.vip
 roll-bet.com
 roll-bit.net
 roll2x.com
-rollanforensics.com
 rollbet.cc
 rollbex.com
 rollbit-casino.com
@@ -85470,6 +85496,7 @@ satrixbroker.xyz
 satrixbroker.xyz.satrixmarket.live
 satrixmarket.live
 satsume.art
+satsume.live
 sattamatkaa.co.com
 saturnbarnksltd.com
 saturngloba.com
@@ -86905,6 +86932,7 @@ shadowbet.cc
 shadowdemon.privatedns.org
 shadowdemon.privatedns.org/auth
 shadoweso.org
+shadowmint.cc
 shadowse.org
 shadowsniper.lol
 shadowsniper.world
@@ -97944,6 +97972,7 @@ token-kgen.com
 token-kgen.io
 token-kite.foundation
 token-link.org
+token-lumia.pages.dev
 token-lumia.web.app
 token-luna.com
 token-mega-eth.com
@@ -103756,6 +103785,7 @@ usdt-25.com
 usdt-26.com
 usdt-28.com
 usdt-29.com
+usdt-99.com
 usdt-aml-bot.com
 usdt-aml.at
 usdt-aml.cc
@@ -112644,6 +112674,7 @@ www.snipersol.com
 www.snowairdrop.com
 www.socialsols.com
 www.sol-claim.live
+www.sol-claim.online
 www.sol-galaxy.cc
 www.sol-scope.com
 www.solajs.com
@@ -113676,6 +113707,7 @@ xamanreward.app
 xamans-aiiocation.xyz
 xamansecure.online
 xamansetup.app
+xamanwallet-resync.com
 xamanwallet.center
 xamanwallet.download
 xamanwallet.pro

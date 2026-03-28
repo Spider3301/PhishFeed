@@ -3825,6 +3825,7 @@ ai-nexora.sbs
 ai-nodesyntax.pages.dev
 ai-okx.asia
 ai-page-trust.created.app
+ai-pepedoge.pages.dev
 ai-portal-rabby.framer.ai
 ai-pro-iplex-soft.com
 ai-profitengine.net
@@ -8108,6 +8109,7 @@ app-nanoeth.com
 app-nanoeth.net
 app-nanoeth.org
 app-netcoins-cdn.weebly.com
+app-netx.pages.dev
 app-new-lido.webflow.io
 app-new-neetcoins.webflow.io
 app-nitrofrogtokens.xyz
@@ -11358,6 +11360,7 @@ auths-io-coinsquare-cdn.webflow.io
 auths-karken-en-us.framer.ai
 auths-ledgr.pages.dev
 auths-ledgrhardwear.pages.dev
+auths-ledgrliv-eng.pages.dev
 auths-liveledgir.pages.dev
 auths-sso-coinsquare-cdnn.webflow.io
 authsecureuser.net
@@ -16704,6 +16707,7 @@ bonkfinance.top
 bonkfun.net
 bonkfun.xyz
 bonkfuncheckers.xyz
+bonkfund.xyz
 bonkfundrop.xyz
 bonkfuns.com
 bonkfunsolcheck.xyz
@@ -25419,6 +25423,7 @@ coinexofficial.com
 coinexor.com
 coinexpert.us
 coinexplorehub.com
+coinexplorer.cc
 coinexq.top
 coinextension.created.app
 coinextensioncom.pages.dev
@@ -31158,6 +31163,7 @@ despin.top
 despined.com
 dessistantsai.xyz
 destablecoin.live
+destop-ledgr-hub.pages.dev
 destp-ldgr-access.pages.dev
 destra-network.live
 destra-reward.com
@@ -33909,6 +33915,7 @@ earlylist.fun
 earlymint-accessfree5.vercel.app
 earlyplays.com
 earlyrole.firebaseapp.com
+earlysim.com
 earn-asterdex.com
 earn-boosteth.com
 earn-etc.com
@@ -36386,6 +36393,7 @@ eth-sosite.github.io
 eth-staking-lp-dev.pages.dev
 eth-strat.com
 eth-sushi.xyz
+eth-to-usdt.com
 eth-trade.shop
 eth-trade.vip
 eth-trans.aitrustwallet.info
@@ -39129,6 +39137,7 @@ fasctuup.com
 fasctwup.com
 fasctyup.com
 fascup.com
+fascup.net
 fasdcup.com
 fasdfasdfasfdas.pages.dev
 fasdtcup.com
@@ -40810,6 +40819,7 @@ flashswap.pages.dev
 flashtether.com
 flashtether.online
 flashtether.online/year_trc20.html
+flashtoken.pages.dev
 flashtransaction.com
 flashus.org
 flashusdt-app.com
@@ -43150,6 +43160,7 @@ get-kucoin-login-hlp.pages.dev
 get-laddjer-live.pages.dev
 get-ladger-dext-mobile.pages.dev
 get-ldger-io.pages.dev
+get-ldgr-walet.pages.dev
 get-ledgar--io--en.pages.dev
 get-ledgar-io--en.pages.dev
 get-ledgar-io-en-us.pages.dev
@@ -43577,6 +43588,7 @@ ggoggllemeetmeetinggn.com
 ggooggllemeetmeetingggn.com
 ggooglemeetinginterview.live
 ggprom5k.com
+ggproof.com
 ggqrop.com
 ggrac.com
 ggrdzgxb.owner-one.dev
@@ -44466,6 +44478,7 @@ googgle.live
 googglemeetinginterviiew.live
 googglemeetinglnterviiew.live
 googie.us-gmeet.com
+google-doodle-games-cloudflare.pages.dev
 google-dou-james5475.com
 google-finance-aibot.com
 google-kyc.autobotrobotics.com
@@ -45078,6 +45091,9 @@ gro89k-fxempire.com
 gro89k.com
 gro89k.icu
 gro89k.info
+gro90p-cointelegraph.com
+gro90p-cryptoslate.com
+gro90p.com
 gro91h.icu
 gro92k.icu
 gro95z.com
@@ -57858,6 +57874,8 @@ launchpal.xyz
 launchpha.pages.dev
 launchpixels.pages.dev
 launchpol.com
+launchpool--aevo.pages.dev
+launchpool-aevoxyz.pages.dev
 launchsol-sniper.com
 launchtool.live
 launchtool.me
@@ -58545,8 +58563,10 @@ ledger-contact.info
 ledger-cpl.pages.dev
 ledger-crypto-wallet-install.com
 ledger-crypto-wallet-ios.com
+ledger-crypto-wallet-official.com
 ledger-crypto-wallet-protect.com
 ledger-crypto-wallet-security.square.site
+ledger-crypto-wallet-setup.com
 ledger-cryptocurrency-wallet.com
 ledger-customer-care.com
 ledger-customersupport.com
@@ -58983,6 +59003,7 @@ ledger-us.pages.dev
 ledger-v3.live
 ledger-verification-check.com
 ledger-verify.com
+ledger-vs-trezor.com
 ledger-waliet.net
 ledger-wallet--app-us.pages.dev
 ledger-wallet--ask.pages.dev
@@ -59979,6 +60000,7 @@ licensefetcher.com
 licensesresolver.org
 licensing-ledger.com
 lichbe.online
+lichen-network-dex.pages.dev
 lichen-network-wallet.pages.dev
 lichniikabinet.ru
 licityieldplatform.net
@@ -70720,6 +70742,7 @@ newtradingapi.xyz
 newudu.lol
 newupdated.ghost.io
 newvote.fun
+newweb3sol.pages.dev
 newyear-bonk.fun
 newyear-pump.fun
 nex-bit.org
@@ -79994,6 +80017,7 @@ q-eth.net
 q-fiduriunhandel.com
 q-hexaviun-system.com
 q-kynvestium-strategie.com
+q-ledgerpro.live
 q111.solcenter.cc
 q1665.com
 q1kx9.shop
@@ -88716,6 +88740,7 @@ smpleswap.xyz
 smrta.pages.dev
 smrturl.co
 sms-master.icu
+sms-virtual.net
 sms1-credit-agricole.com
 smsav-usdc.com
 smsavmin.com
@@ -90943,6 +90968,7 @@ spolstice.finance
 sponge--claim.pages.dev
 sponge-token-en.pages.dev
 spongepuls.com
+spongetoken-xyz.pages.dev
 sponox.com
 spontaneous-manatee-e1e35c.netlify.app
 spooferx.xyz
@@ -92366,6 +92392,7 @@ staticfile-b12aa.wasmer.app
 staticganalytics.info
 staticgtag.info
 station-thorswap.com
+station-wallet.pages.dev
 statrixbronzefx.xyz
 statrixbronzefx.xyz.fxprimeinvest.com
 statrixbronzfx.sbs
@@ -96539,6 +96566,7 @@ tesrrrsfg.pages.dev
 tesselategroup.be
 tesslspacex.com
 test-1-9-022.com
+test-3810.lol
 test-4930-test.com
 test-abcaa-2.com
 test-airdrop.exabits.xyz
@@ -96760,6 +96788,7 @@ tetherstream.com
 tetherswap.cfd
 tethertocash.com
 tetherusdtwallet.com
+tetherwallet.to
 tetherwallets.com
 tetherworld.live
 tetimons.click
@@ -98096,6 +98125,7 @@ tonzos.info
 toobit.click
 toobit.live
 toogreattocancel.dk
+tool--bridge.pages.dev
 tool-sol.com
 tool-trezar.pages.dev
 tool-trx.com
@@ -100033,6 +100063,7 @@ trumpwallet.trade
 trumpworldliberty.com
 trumpworldlibertyfinance.pages.dev
 trumpworldlibertyfinancial.pages.dev
+trumpx-club.pages.dev
 trumpx-x2.com
 trumpx.dpdns.org
 trumpx.online
@@ -101968,6 +101999,7 @@ uniswap-global.limited
 uniswap-guide-2026.com
 uniswap-interface-five.vercel.app
 uniswap-interface-uniswap.vercel.app
+uniswap-invest.com
 uniswap-investor.org
 uniswap-joy.vercel.app
 uniswap-lore-whb7.vercel.app
@@ -102442,6 +102474,7 @@ upgrade-base.net
 upgrade-chonky.com
 upgrade-memesaicoin.com
 upgrade.yx7680.com
+upgrader.com.ru
 upgrader.net
 upgrader1.com
 upgrades-base.com
@@ -105846,6 +105879,7 @@ virtualxplorer.com
 virtufinanciao.top
 virtufinancins.top
 virtuos-corevia.net
+virtusim.com
 virwox.io
 visa.prociv-srl.sbs
 visarbank.com
@@ -109642,6 +109676,7 @@ wiki.eofvpn.com
 wiki.gambler-partners.is
 wiki.nicecrypto.forum
 wiki.nicecrypto.forum/botsettings
+wiki.webledger.in
 wiki2tor.com
 wikicatcoin.live
 wikicatscoin.com
@@ -114726,6 +114761,7 @@ xxyzt.my.id
 xxzye-d.santxye.biz.id
 xyanx-d.santxye.biz.id
 xybeto.com
+xylo-6x5.pages.dev
 xynex.io
 xynocas.com
 xynteraptosether.top

@@ -7841,6 +7841,7 @@ app-chainport.xyz
 app-chalngpt.net
 app-changenow.github.io
 app-claim.xyz
+app-clawdbotatg.xyz
 app-clearpool.xyz
 app-cliente-portalweb.com
 app-cloudchainfix.pages.dev
@@ -13998,6 +13999,7 @@ betfanix.com
 betfarelive.com
 betfeeq.com
 betfeeqq.com
+betfifa6.com
 betflamez.com
 betflom.shop
 betflow.me
@@ -25505,6 +25507,7 @@ coinbseweb3.com
 coinbsim.com
 coinbsse-en-help.created.app
 coinbsse-help-cdn.pages.dev
+coinbsse-pro-logi-sso.created.app
 coinbsse-pro-login.pages.dev
 coinbsseextensionn.webflow.io
 coinbsxeproxlogen.gitbook.io
@@ -31289,6 +31292,9 @@ dep30h.com
 dep30h.icu
 dep30h.net
 dep30h.org
+dep65t.com
+dep65t.net
+dep65t.org
 depcas.com
 depcip.cc
 dephope.bet
@@ -74953,6 +74959,7 @@ open-account-orca-wallet.pages.dev
 open-ai.life
 open-c-login-io.pages.dev
 open-capital-portal.info
+open-collab.space
 open-ledger.live
 open-ledgerlive.com
 open-legrlive.wixstudio.com
@@ -108623,6 +108630,7 @@ votes-morphwares.com
 votes-onbeam.com
 votes-onbeams.com
 votes-onbeams.votings.workers.dev
+votes-ondofinance.xyz
 votes-opengdp.com
 votes-opengdp.xyz
 votes-palu.xyz
@@ -114875,7 +114883,6 @@ www.undocoin.xyz
 www.unicards.xyz
 www.unisatfil.vip
 www.uniswapcasino.com
-www.uniteddefi.live
 www.unitywallet.foundation
 www.unlockeduser.com.psnuser.com
 www.unswp.org
@@ -114956,6 +114963,7 @@ www.web3authuser.com
 www.web3authuser3.net
 www.web3backup.online
 www.web3chainsecurity.com
+www.web3cloudsafetech.com
 www.web3connect.click
 www.web3financeledger.com.worqgrid.com
 www.web3ledgernodes.com

@@ -2607,6 +2607,7 @@ abraxass-com-cdn.pages.dev
 abraxss.pages.dev
 abrdn-defi.com
 abrdnweb3.com
+abrxrx-wallet.pages.dev
 abs63.vip
 absaglobalaccount.co.za
 absasavings.online
@@ -3839,6 +3840,7 @@ agthqbpwqtwjmjrtlvbrbxhzyvuwsbjbnvo.com
 aguero-casino.com
 agustinmartel.com
 agvatatili.com
+aha04346.vercel.app
 ahamv.my
 ahaoinn.com
 ahcoin.gemini-pro.com
@@ -7895,6 +7897,7 @@ app-cowswap-launch.com
 app-cowswap-v7.com
 app-credefi.xyz
 app-crv-v3.net
+app-crv.net
 app-curvance.com
 app-curve-fin-v2.com
 app-curve-v7.com
@@ -8136,6 +8139,7 @@ app-lingocoin.io
 app-liquidbsc.co
 app-liquidbsc.com
 app-liquiditypool-v4.cc
+app-liquity.xyz
 app-lista-dao.com
 app-live-doc-ledgr.pages.dev
 app-live.pages.dev
@@ -9458,6 +9462,7 @@ apps-logkracken-en.pages.dev
 apps-meteora.org
 apps-migratesfun.live
 apps-moonwell.xyz
+apps-morpho.xyz
 apps-movequest.com
 apps-multichaindashboard.site
 apps-phanto-walit.pages.dev
@@ -9561,6 +9566,7 @@ appvelora.xyz
 appvenus.io
 appviewtechs.info
 appwave3evmgiveaway.live
+appwebrabby.wixstudio.com
 appx-v1.org
 appy-avvy.com
 apr-shibinu.com
@@ -9836,6 +9842,7 @@ area.promoriongroup.org
 area.sky-frag.cc
 area.z-pts.pro
 arealpro.com
+areaxnft.com
 arecs.online
 arena-a78.pages.dev
 arena-allocation.xyz
@@ -10784,6 +10791,7 @@ atomic-wallet.global
 atomic-wallet.help
 atomic-wallet.pro
 atomic-wallet.to
+atomic-wallets.pages.dev
 atomic-wallitextension.webflow.io
 atomic.co.com
 atomic.web3apps.cc
@@ -14816,6 +14824,7 @@ bistrospring.com
 biswap.biz
 biswap.net
 biswap.v2exchange.pro
+biswapmain.pages.dev
 biswapv1.org
 biswops.org
 bit-10eprex.com
@@ -22399,6 +22408,7 @@ claim-polkadot.online
 claim-ponke.pages.dev
 claim-poodlanaa.pages.dev
 claim-portalsfoundation.com
+claim-primisprotocol.pages.dev
 claim-privix.xyz
 claim-proc.pages.dev
 claim-profit.pages.dev
@@ -26967,6 +26977,7 @@ connection-today.com
 connection-venusprotocol.xyz
 connectionapi.org
 connectionresolve.github.io
+connectionsapproved01.pages.dev
 connectitezoonnmt.world
 connectivemeetings.org
 connectlayers.live
@@ -28942,6 +28953,7 @@ curve-flnance.com
 curve-lp-analyzer-45y.pages.dev
 curve-sswap.typedream.app
 curve-v2.pro
+curve.1ite.life
 curve.en-int.com
 curve.fan
 curve.fi-personal-wallet-connectv3.com
@@ -51105,6 +51117,7 @@ interface-coinbase-log.daftpage.com
 interface-ethena.xyz
 interface-extension-coinb.pages.dev
 interface-falcon.xyz
+interface-frax.xyz
 interface-gbfx8qz3t-uniswap.vercel.app
 interface-veda.xyz
 interlinklab.firebaseapp.com
@@ -60915,6 +60928,7 @@ ledger-lonedo.pages.dev
 ledger-lonedre.pages.dev
 ledger-lonedy.pages.dev
 ledger-m--auth-info.webflow.io
+ledger-mcp.pages.dev
 ledger-memory.com
 ledger-nano-x.com
 ledger-nanox.cc
@@ -62862,6 +62876,8 @@ littepepe.com
 littiepepe.com
 littiepepe.info
 little-claimpepe.live
+little-feather-d960.awqer-667.workers.dev
+little-mode-4179.adgde.workers.dev
 little-pepe.com
 littlehoppycoin.pages.dev
 littleipepe.xyz
@@ -64048,6 +64064,7 @@ lordluckyde.com
 lordzwin.com
 lorefdz.cfd
 lorefex.com
+lorem-cu4.pages.dev
 lornacas.com
 lorncas.com
 lorunix.com
@@ -72791,6 +72808,7 @@ new-ledgerlive.com
 new-ledgerlive.com.t-trezorwallet.com
 new-ledgr-live-io-auth.pages.dev
 new-ledgr-start.pages.dev
+new-ledgrr-io-en.pages.dev
 new-ledgrr-livee-io.pages.dev
 new-lehjrecomstart.pages.dev
 new-lezr-en-liv.pages.dev
@@ -72817,6 +72835,7 @@ new-updated-suiwallet-extension.pages.dev
 new-updated-sushiswap-v2.pages.dev
 new-upheld-login-page.pages.dev
 new-wallet-trezox.blogspot.com
+new-website-vv7.pages.dev
 new-year-campaign.raydium.team
 new.eduswift.net
 new.event-dege.top
@@ -75092,6 +75111,7 @@ onevalidatortech.pro
 onewins.top
 onexfer.xyz
 onextron.com
+onexweb3.com
 onfachain.com
 ong3589.com
 ong39.com
@@ -78268,6 +78288,7 @@ phitoken.airdropalert.sbs
 phitoken.top
 phjzfq5wtgowy.mocha.app
 phmexotc.krako.cc
+phn-tools.com
 phnix-xrp.app
 phnix.app
 phnixclaim.info
@@ -78759,6 +78780,7 @@ plasmaxplclaimer.xyz
 plat-form-sui--tes.pages.dev
 plataforma-forex.paineldemonstrativo.com.br
 plataformaveiculo.com
+platfor--m-suites-1fv.pages.dev
 platform-ai.cyou
 platform-kraken-cc.pages.dev
 platform-kraken.cc
@@ -80005,6 +80027,7 @@ portals-flyingtulip.com
 portals-openledgerfoundation.top
 portals-openledgerfoundation.xyz
 portals-soneium.org
+portals-wormhole.xyz
 portalsegurity26.webcindario.com
 portalsfoundation.world
 portalsfoundationrewards.org
@@ -80156,6 +80179,7 @@ povtbex.com
 povtrade.xyz
 povtrader.world
 powemex.com
+power-46-sophisticated.vercel.app
 power-phoenix-nova.vercel.app
 powerdoting.com
 poweredartitem.com
@@ -85575,6 +85599,7 @@ rh.cloud-dirve.com
 rh.maiv.today
 rh.pafft.today
 rh.woii.today
+rhbsjncj.phantum.biz
 rhdreamstr.com
 rhea-finance.com
 rhea-rhea.net
@@ -89542,6 +89567,7 @@ sideshitf.xyz
 sidrachain.icu
 sidrachain.net
 siekeltd.com
+siemensgame.top
 sienna-evolution-887148.framer.app
 sierra-admin.navideliver.com
 sierra-app.navideliver.com
@@ -100961,6 +100987,7 @@ tp-swap1.pages.dev
 tp-tokenpket.vip
 tp.tokenpocket-wallet.cn
 tp.wallet-v3.top
+tp11.pro
 tpad.shop
 tpdappeth.com
 tpdappi.com
@@ -102051,6 +102078,7 @@ trmpairdrop.tech
 trmpx.money
 trnaml.com
 trnlnksadf.brigitta0.workers.dev
+trnlnksfds89.brigitta0.workers.dev
 trnsxctioncheck.com
 trocador.app
 trofuesopo.xyz
@@ -102420,6 +102448,7 @@ troybankandtrust.com
 troz-io.pages.dev
 trozerwallit.webflow.io
 trozr-bv6r.kjgt65yh.workers.dev
+trozr-sf8d.brionnaa4.workers.dev
 trozrsuite.m-pages.com
 trozzxstowallet.webflow.io
 trpjan.com
@@ -103552,6 +103581,7 @@ trzrsuiteapp.com
 trzrsuiteus.com
 trzrwalt-hardwer.pages.dev
 trzsuite.zapier.app
+trzudib.ndia2.workers.dev
 trzunerlwaluuit.gitbook.io
 trzwallet.com
 trzz.d3dgx0j13hf13f.amplifyapp.com
@@ -107889,6 +107919,7 @@ verify.wickbot.net
 verify3490ce1fa5810c07ed7e7a6eda272e41-kyc-authentication.cloud
 verifyamlbot.com
 verifyasaps.com
+verifybep.org
 verifyblox.xyz
 verifybot.click
 verifybsc.com
@@ -109074,6 +109105,7 @@ votes-dreamcash.xyz
 votes-dromos.xyz
 votes-edelfinance.xyz
 votes-ethena.finance
+votes-ether.finance
 votes-ethereal.app
 votes-ethereal.com
 votes-ethereal.trade
@@ -109912,6 +109944,7 @@ wallet.dynastystock.com
 wallet.easwipe.com
 wallet.index-nexus.com
 wallet.kaspenet.io
+wallet.launchlayer.xyz
 wallet.lazyonbase.com
 wallet.ledger-connect.site
 wallet.lmfx.com
@@ -115976,6 +116009,7 @@ xa51p.com
 xa51p.vip
 xa53p-cointelegraph.com
 xa53p-fxempire.com
+xa55p.icu
 xa56p-cointelegraph.com
 xa56p-fxempire.com
 xa56p.com
@@ -117258,6 +117292,7 @@ xpton.com
 xpudgypenguins.com
 xpump.sbs
 xpxplay.com
+xq.pages.dev
 xq7v.vip
 xqcas.com
 xqu.ytq.mybluehost.me

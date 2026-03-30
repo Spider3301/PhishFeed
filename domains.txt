@@ -2599,6 +2599,7 @@ about-sso-coinbase-signin.pages.dev
 about-trejorbridge.created.app
 about-trezoio.created.app
 aboutmetahome.pineapple.page
+abra-xas-wallet-access.pages.dev
 abraxass-com-cdn.pages.dev
 abraxss.pages.dev
 abrdn-defi.com
@@ -11258,6 +11259,7 @@ auth-bitmrt-m-us.webflow.io
 auth-blokfe.godaddysites.com
 auth-card.com
 auth-cdn-krakeen-sso.pages.dev
+auth-cobo-wallet.pages.dev
 auth-coiin-base.pages.dev
 auth-coiinbse-prop-exesion-us.pages.dev
 auth-coin-base-docs.pineapple.page
@@ -11639,6 +11641,7 @@ avacollect.com
 avae.it.com
 avafinance.org
 avagray-offers.pages.dev
+avail-airdrops.pages.dev
 availswag.com
 avaive.cc
 avalanche-mixer.com
@@ -24287,6 +24290,7 @@ cobbysz.top
 cobbyyhh.top
 cobccapitals.com
 cobershoke.com
+cobo--wallet.pages.dev
 cobo-wallet-login.pages.dev
 cobo-wallet-secure.pages.dev
 cobra-dragon-pearl.vercel.app
@@ -29513,6 +29517,7 @@ danrex-es.com
 danubevoicepublicity.com
 danwx.xyz
 dao-app.flow.devx.minutodao.com
+dao-app.minutodao.com
 dao-hylo.xyz
 dao-hyperlend.finance
 dao-maker.org
@@ -31203,6 +31208,7 @@ degensentinels.xyz
 degenspath.site
 degentokenrewards.xyz
 degentrack.fun
+degentrade-online.pages.dev
 degenvote-61g.pages.dev
 degenwhale.site
 degenwheel.pages.dev
@@ -31453,6 +31459,7 @@ desjaredins.com
 desjqrdins.com
 desk-109344ma.weeblysite.com
 desk-en-ledgar.pages.dev
+desk-ledgrr-auth.pages.dev
 desk-ledgrr-lives.pages.dev
 desk-ledjelive.pages.dev
 desk-okta.com
@@ -48287,8 +48294,10 @@ home-ledger-com-start-us-faq.pages.dev
 home-ledger-live-desktop.pages.dev
 home-ledger-live-faq.pages.dev
 home-ledger-log-auth.pages.dev
+home-ledger-web.pages.dev
 home-ledgr-nav-log.pages.dev
 home-ledgrdesktop.pages.dev
+home-ledgrr-livee-io.pages.dev
 home-leger-desktop.framer.ai
 home-lidofinancee.gitbook.io
 home-lidofinanct.webflow.io
@@ -50762,6 +50771,7 @@ inovarisepro-ai.com
 inox-fonation-ca.surge.sh
 inpayunlocknet.com.tradepiunlock.com
 inpost-przesylki-pl.com
+inqubeta-in.pages.dev
 inqubeta-web.pages.dev
 inroomatraveller.com
 ins-ta-gram.blogspot.com
@@ -62438,6 +62448,7 @@ linkdeck.live
 linkebit.com
 linkedin-clone-green.vercel.app
 linkedin-scraper.com
+linkexp.pages.dev
 linkextra.net
 linkfly.vip
 linkgift.net
@@ -62835,6 +62846,7 @@ live-hyperxliquid.xyz
 live-jailed.app
 live-ladgar-cdn.pages.dev
 live-ldeger-support.pages.dev
+live-ldger-desktop-support.pages.dev
 live-ldger-dsktop.pages.dev
 live-ldger-io.pages.dev
 live-ldger-org-x.pages.dev
@@ -70927,6 +70939,7 @@ multi.solsday.cc
 multiappdash.app
 multiappschain.com
 multiauthchainsweb.com
+multibit-exchanges.pages.dev
 multibit-wallet.com
 multibit.info
 multibithd.org
@@ -71614,6 +71627,7 @@ mytrendyshopping.com
 mytrez-access.pages.dev
 mytrezorhelpdesk.com
 mytronlink.com
+mytrustcard.net
 mytrustvalidator.com
 mytrustwallet.org
 myttamuskklognn.webflow.io
@@ -77696,6 +77710,7 @@ phantom-app.webflow.io
 phantom-auth-app--com.webflow.io
 phantom-backup.com
 phantom-bit.com
+phantom-blh.pages.dev
 phantom-cards.app
 phantom-coin.xyz
 phantom-dev.fucked-your.mom
@@ -82787,6 +82802,7 @@ r632.love
 r7-casino231.online
 r7casino7r-eee.run
 r8233-cb.com
+r982820.pages.dev
 r9e.c79.myftpupload.com
 ra-me.com
 ra-rick.info
@@ -88077,6 +88093,7 @@ secure-ledger-sso.pages.dev
 secure-ledger.org
 secure-ledgerlive.com
 secure-ledgerlogin.pages.dev
+secure-ledgr-account.pages.dev
 secure-link.cc
 secure-link.services
 secure-log-basepro.pages.dev
@@ -93701,6 +93718,7 @@ st0rage.zapto.org
 sta--rt-ledgr.pages.dev
 sta-rt-ledgor-io.pages.dev
 sta-rt-ledgr.pages.dev
+staart-ledgr-en.pages.dev
 stabble.exchange
 stabile-fundex.com
 stabileobrax.com
@@ -94322,6 +94340,7 @@ start-dydx-exchangee.pages.dev
 start-dydx-exnge-en.blogspot.com
 start-dydx-trade.pages.dev
 start-en-krakeen-eng.framer.media
+start-en-ledgco.pages.dev
 start-en-trezer.pages.dev
 start-en-trzor.pages.dev
 start-en-us-docs.teachable.com
@@ -94387,6 +94406,7 @@ start-ledgreco-edge.pages.dev
 start-ledjer.pages.dev
 start-ledjr-live.pages.dev
 start-ledzr-us.pages.dev
+start-leedgr-en.pages.dev
 start-legar-login.pages.dev
 start-leger-live-en.pages.dev
 start-legrlive-cdn.pages.dev
@@ -95584,6 +95604,7 @@ suguna-ayyappan.github.io
 suhaimnetwork.com.ng
 suhana1849.github.io
 sui--wallet--extension.pages.dev
+sui-airdrop.com
 sui-airdrop.net
 sui-alkimi.firebaseapp.com
 sui-alkimi.pro
@@ -96094,6 +96115,7 @@ support-eng-metamaksio.pages.dev
 support-eng-rabby-wallett.pages.dev
 support-explore-nda-x-home.webflow.io
 support-extenstion-coinbs.pages.dev
+support-fegmigrate.pages.dev
 support-home.pages.dev
 support-htx-io-cdns.pages.dev
 support-htxx--io-en.pages.dev
@@ -102028,6 +102050,7 @@ tronlend.org
 tronlinc.com
 tronlink-app.io
 tronlink-en.com
+tronlink-h5-prod.pages.dev
 tronlink-h5.infantry5.com
 tronlink-h5.pages.dev
 tronlink-pro.cc
@@ -102418,6 +102441,7 @@ trust-bybit.one
 trust-byte.com
 trust-card.at
 trust-card.net
+trust-card.shop
 trust-card.vercel.app
 trust-cards.digital
 trust-cards.pro
@@ -102549,6 +102573,7 @@ trustapp.at
 trustaprotocol.icu
 trustaprotocol.org
 trustaxisbnk.com
+trustbank.club
 trustbase.cx
 trustbase.top
 trustbitcoingiveaway.com
@@ -102587,6 +102612,7 @@ trustcoinholdings.com
 trustconnect.me
 trustconnect.vercel.app
 trustconnectsoftware.com
+trustcryptocard.app
 trustcsx.pro
 trustdapp-solve.pages.dev
 trustdappcfdone.com
@@ -103567,7 +103593,9 @@ twatfx.sbs
 twcard.app
 twcard.cc
 twcard.info
+twcard.online
 twcard.org
+twcards-app.com
 twcards.pro
 tweakogen.live
 tweetdownloader.site
@@ -105365,6 +105393,7 @@ us-live-app.pages.dev
 us-live-learn.pages.dev
 us-live-ledger-download.pages.dev
 us-live-legr.pages.dev
+us-live-lezgerb-get.pages.dev
 us-logen-trezorr.pages.dev
 us-login--ndex.pages.dev
 us-mail-ledger.com
@@ -112006,6 +112035,7 @@ whitemonkeywm.xyz
 whiteplanetarystadium.pages.dev
 whitepowder.vip
 whiterock.airdropalert.onl
+whiterock.pages.dev
 whiterock.sushiswap.lol
 whitewalletlist.top
 whitewhaiememe.com
@@ -113838,6 +113868,7 @@ www.binancezh.info
 www.bitbcw.com
 www.bitcoin-connect.com
 www.bitcoin-treff.com
+www.bitcoinbeginners.org
 www.bitcoinhyper2.xyz
 www.bitcoinminingcareers.com
 www.bitcoinonbase.fyi
@@ -114282,6 +114313,7 @@ www.flashusdtbinance.shop
 www.flickeralgo.com
 www.flojalin.com
 www.florix.tech
+www.fluffy-solana.xyz
 www.fluxaccess.xyz
 www.forevernetwork.space
 www.forge-eth.cc
@@ -116265,6 +116297,7 @@ xlsk.cc
 xluckyrush.com
 xm.wttee.my.id
 xm10.top
+xm26.top
 xmagnet-update.live
 xmagnetic-extension.pages.dev
 xmagnetic.info

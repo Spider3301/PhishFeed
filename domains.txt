@@ -3757,6 +3757,7 @@ ag-op.top
 ag-portfoilo.com
 ag-usa.info
 ag-x.top
+ag-x.vip
 ag.meteora.gifts
 aga123.pages.dev
 again-legorlive.pages.dev
@@ -9431,6 +9432,7 @@ apps--phantom---walllet.webflow.io
 apps--suites-eng.framer.ai
 apps-aane.com
 apps-apyx.xyz
+apps-arbitrum.xyz
 apps-asterdex.com
 apps-believe.com
 apps-celus.zone
@@ -17881,6 +17883,7 @@ btcgrid.org
 btchaze.com
 btchero.pro
 btchyper.claims
+btchyper.click
 btchyper.site
 btchyper2support.pages.dev
 btchyperapp.pages.dev
@@ -23686,6 +23689,7 @@ claimshape.network
 claimshape.pages.dev
 claimshibashootout.pages.dev
 claimshubs.click
+claimsimulator.lol
 claimsinvestigationunit.com
 claimsmonad.xyz
 claimsnorter.live
@@ -27092,6 +27096,7 @@ consultapedagiodigital.com
 consultavirtualonline.netlify.app
 consumer-monorepo-interface-v2-2gxxk03wv-morpho-addmo.vercel.app
 consumer-monorepo-interface-v2-git-batteer-5e577e-morpho-addmo.vercel.app
+consumer-monorepo-interface-v2-oafeh7cel-morpho-addmo.vercel.app
 consumerproductsconference.com
 consumertestconnect.com
 cont-roan.vercel.app
@@ -35961,6 +35966,7 @@ en-us-desktopledgre.framer.ai
 en-us-desktopledgre.framer.ai/en-us
 en-us-desktp-ledgr.pages.dev
 en-us-desktup-ledgre.pages.dev
+en-us-download.wixstudio.com
 en-us-dsketop-ledgre.pages.dev
 en-us-dydx-trade-web.pages.dev
 en-us-e-xedos.pages.dev
@@ -52979,6 +52985,7 @@ jup.ag-v3-wallets-connects-api.app
 jup.ag-v4-wailet-app.com
 jup.ag-wallets-api-gateway-apps-portal.cloud
 jup.ag-wallets-api-secure-auth.cloud
+jup.ag-x.vip
 jup.cash
 jup.co.com
 jup.co.com.trezor-wallet.io
@@ -57759,6 +57766,7 @@ kraken.computeprovider.com
 kraken.daftpage.com
 kraken.danildavidov.ru
 kraken.eu.com
+kraken.everyonetech.com
 kraken.forex
 kraken.gazdesign.ro
 kraken.i2005.buzz
@@ -67768,6 +67776,7 @@ metamaskio-login.pages.dev
 metamaskio.framer.ai
 metamaskio.org
 metamaskiologiwe.gitbook.io
+metamaskj.io
 metamaskkkkkk-wallet.webflow.io
 metamaskkslogiinn.webador.com
 metamasklgin-co-us.gitbook.io
@@ -68615,6 +68624,7 @@ microsoftonilne.ru
 microsoftonlineonedrive.com
 microsoftssidd.vercel.app
 microsoftsupport45.weebly.com
+microsoftteamms.top
 microsofttlow56dxt765hg6d.weebly.com
 microsoftupsoft.weebly.com
 microsoftusersinc.weebly.com
@@ -85289,6 +85299,7 @@ reward-lidoxp.org
 reward-manyushiba.com
 reward-meta.com
 reward-moonday.com
+reward-moonwell.fi
 reward-mysticdao.xyz
 reward-nexira.app
 reward-night.org
@@ -93308,6 +93319,7 @@ spinfury.live
 spinfury.world
 spinharta.com
 spinhartaapp.com
+spinhartaonline.com
 spinhartas.com
 spinhead.cc
 spinhouse.bet
@@ -95072,6 +95084,7 @@ stellar-store.pages.dev
 stellar-success.com
 stellar-talk.vercel.app
 stellar-wallet.netlify.app
+stellar-wallet.org
 stellar.airdropalert.us
 stellar.airdropsalert.bar
 stellar.airdropsalert.biz
@@ -99887,6 +99900,7 @@ thrikfrfidelity.qpon
 thrivebusinesswebs.com
 thrivecapital.ltd
 thrivefin.ai
+throbbing-salad-708e.saasf.workers.dev
 throughput-grid.digital
 throwing-gilbert-true-delivering.trycloudflare.com
 thrustersfenance.org
@@ -103704,6 +103718,7 @@ tuplyunified.pages.dev
 tupocas.com
 tuqify.net
 turbine.saluteorigin.world
+turbinecash.live
 turbinecash.net
 turbines.origindefis.world
 turbo--sushi.xyz
@@ -107367,6 +107382,7 @@ variational.neocities.org
 variational.trade
 variational.xyz
 variationaleco.xyz
+variationalgov.xyz
 variationalpresale.xyz
 variationalresearch.co
 variationalresearch.com
@@ -108934,6 +108950,7 @@ vote-ripple.com
 vote-rnoonshot.app
 vote-rnoonshot.com
 vote-s02.xyz
+vote-sanctum.app
 vote-shitcoin.com
 vote-solayer.org
 vote-solve.com
@@ -109685,6 +109702,7 @@ waldportivon.com
 walemcp.online
 walet--trst-start.pages.dev
 walet-coinbase-eng.pages.dev
+walet-exodess.pages.dev
 walet-ledegrlive-us.pages.dev
 walet-live.zapier.app
 walet-metamaskio-help.pages.dev
@@ -113385,6 +113403,7 @@ worldlibiertyfinance.com
 worldlibirtyfiancials.xyz
 worldlibirtyfinacials.com
 worldlibirtyfinacials.xyz
+worldlibirtyfinance.marketing
 worldlibirtyfinance.xyz
 worldlibirtyfinances.com
 worldlibirtyflnacials.xyz
@@ -117566,7 +117585,6 @@ xxbum-anime.com
 xxbum-sextok.com
 xxbum-shorts.com
 xxbum-twisex.com
-xxbum.com
 xxccmgxmgx.top
 xxcpfyfe.click
 xxlrain.pages.dev

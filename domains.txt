@@ -6269,6 +6269,7 @@ aml-bot.co
 aml-bot.co.com
 aml-bot.info
 aml-bot.life
+aml-bot.net
 aml-bots.info
 aml-bots.world
 aml-botx.com
@@ -8205,6 +8206,7 @@ app-netcoins-cdn.weebly.com
 app-netx.pages.dev
 app-new-lido.webflow.io
 app-new-neetcoins.webflow.io
+app-new.flow.devx.minutodao.com
 app-nitrofrogtokens.xyz
 app-nniswap.org
 app-nodepoint-web.pages.dev
@@ -15037,6 +15039,7 @@ bitcoinvn.co
 bitcoinvn.io
 bitcoinvnn.io
 bitcoinvvn.io
+bitcoinwalletextension.com
 bitcoinwn.io
 bitcoinxyz.pages.dev
 bitcoinyuan.com
@@ -15902,6 +15905,7 @@ blaze-play.top
 blaze.teststrintl.com
 blazebolt.world
 blazecas.com
+blazechampion625.top
 blazeclub.top
 blazedogbase.xyz
 blazeevent.net
@@ -17739,6 +17743,8 @@ btc-esamx.com
 btc-esamx.net
 btc-esamx20.com
 btc-ex.org
+btc-exchange-nokyc.com
+btc-exchange-swap.com
 btc-global.us
 btc-income-app.com
 btc-income.net
@@ -23945,6 +23951,7 @@ clickmints-here7.vercel.app
 clickmints-here8.vercel.app
 clickmints-here9.vercel.app
 clickpuzzle123.info
+clickstrike555.top
 clickwa.cc
 clickwinorio.com
 clickwinorio.com/ae1cea6de
@@ -29882,6 +29889,7 @@ dapps-pro.pages.dev
 dapps-protocols.pages.dev
 dapps-radars.xyz
 dapps-restorers.pages.dev
+dapps-solutionapp.pages.dev
 dapps-sphare.42web.io
 dapps.connectdirects.com
 dapps.cx
@@ -32456,6 +32464,7 @@ discord-clone-static.netlify.app
 discord-clone-using-html-and-tailwind-css.vercel.app
 discord-d7f1pmwte-owenlikecoding.vercel.app
 discord-homepage-ui.netlify.app
+discord-id-react.pages.dev
 discord-login-page.vercel.app
 discord-login-three.vercel.app
 discord-login.vercel.app
@@ -32485,6 +32494,7 @@ discord.pokemaobr.dev
 discord.power-riders.de
 discord.quasarsoftware.net
 discord.racinesapp.com
+discord.refundyoursol.com
 discord.roinujnosde.me
 discord.rvcsoft.net
 discord.softorod.com
@@ -33409,6 +33419,7 @@ download.invoice.23423423523523.goaware2026.gosecurity.ch
 download.meetingjoincenter.world
 download.metamask.softwareszones.com
 download.ouyiokxapp.com
+download.web-metamask.to
 download.web-solflare.to
 download.wlfidesktop.app
 download.youhodlerdesktop.com
@@ -36644,6 +36655,7 @@ escrow-atomicwallet.com
 escrowcryptogroup.com
 escroyal.bet
 esee36.it
+esegpanel.icu
 esepresso.foundation
 eserviceportal.live
 eservices.rthd.gov.bd
@@ -52345,6 +52357,7 @@ jjup.fun
 jjup.fun/airdrop-checker
 jjup.ng
 jk9.0e1.mytemp.website
+jkbkbjkjbkjbkjb.pages.dev
 jkblog790.netlify.app
 jkioaso0908903.com
 jkjhjhdhsdjhjhdjhd.weebly.com
@@ -60100,6 +60113,7 @@ learn-rabby-x.framer.ai
 learn-rn-web3exo.pages.dev
 learn-sso-coins-com.square.site
 learn-start-io-trezor.typedream.app
+learn-start-ledg-sso.pages.dev
 learn-start-ledgrr.pages.dev
 learn-start-trezurio.pages.dev
 learn-started.ghost.io
@@ -60736,6 +60750,7 @@ ledger-livee-waallet.pages.dev
 ledger-livee-walet.pages.dev
 ledger-livee-wallet.pages.dev
 ledger-liveedesktop.pages.dev
+ledger-livelogin--us.pages.dev
 ledger-liveloginn.pages.dev
 ledger-livepad.pages.dev
 ledger-lives.io
@@ -66427,6 +66442,7 @@ megacth.com
 megadark.cc
 megadarknet.cc
 megadefi.top
+megadrop-bouncebit.pages.dev
 megaeeb4.com
 megaeeth.run
 megaeht.click
@@ -70742,6 +70758,7 @@ mrtrumpcasino.bet
 mrwinx.com
 mrxbet.co.com
 ms-2025.io
+ms-59g.pages.dev
 ms-capitals.com
 ms-drainer.com
 ms-evn.pages.dev
@@ -74521,6 +74538,7 @@ okx-web3-tron-usdt-trc20-000000817.pages.dev
 okx-web3-tron-usdt-trc20-000000879.pages.dev
 okx-web3-tron-usdt-trc20-000000885.pages.dev
 okx-web3-tron-usdt-trc20-000000891.pages.dev
+okx-web3-tron-usdt-trc20-000000912.pages.dev
 okx-web3-usdt-trc20-00000000001.pages.dev
 okx-web3-usdt-trc20-00000000002.pages.dev
 okx-web3-usdt-trc20-00000000005.pages.dev
@@ -75056,6 +75074,7 @@ oolll.cyou
 oon.uih.mybluehost.me
 oooo-money.com
 oooo-update.com
+ooooioioioioioi-xyz-ss.pages.dev
 oooomoney.com
 oooomoney.xyz
 ooooo-oooo-oooo.surge.sh
@@ -79275,6 +79294,7 @@ polymarket-verify.com
 polymarket-web.pages.dev
 polymarket-whale-tracker.pages.dev
 polymarket-wl.com
+polymarket.0auth.select
 polymarket.academy
 polymarket.airdropalert.us
 polymarket.airdropalerts.icu
@@ -82463,6 +82483,7 @@ quantum-core.lat
 quantum-dydxsyncvertex.online
 quantum-financial-system.org
 quantum-liveledger.com
+quantum-quotient-ai.pages.dev
 quantum6alrex.com
 quantumai-es.com
 quantumai-eu.com
@@ -84134,6 +84155,7 @@ refundyoursolana.fun
 refundyoursolana.io
 refundyoursolana.xyz
 refundyuorsol.com
+reg-arcade-exf.pages.dev
 reg-authorize.live
 reg-autismcoin.fun
 reg-gtprotocolio.pages.dev
@@ -90961,6 +90983,7 @@ smtp2.goteal.io
 smtp8-coinbase.com
 smtpauth.inputecho.co
 smtps.goteal.io
+snailbrookwhitelist.pages.dev
 snak3.top
 snake-casino.pro
 snakecas.com
@@ -91884,6 +91907,7 @@ solarbabot.com
 solardrop.co
 solareneergy.com
 solarewallet.co.com
+solargy.io
 solarobets.com
 solarpath.pages.dev
 solarrebates-invest.com
@@ -94356,6 +94380,7 @@ start-ledgerlive-auth.pages.dev
 start-ledgerlive-cd.pages.dev
 start-ledgertoolkits.com
 start-ledgertoolkits.xyz
+start-ledggr-en.pages.dev
 start-ledgr-com-en-us.pages.dev
 start-ledgr.m-teach.com
 start-ledgreco-edge.pages.dev
@@ -99188,6 +99213,7 @@ thanksgod.net
 thanksnet.jp
 tharidofarms.co.za
 thatskinnybitch.co.za
+thavda.pages.dev
 thccanapa.com
 the-aa-e.com
 the-algorithmic-trader.com
@@ -115051,6 +115077,7 @@ www.toyota303.vip
 www.tpwallet.me
 www.tqxxbymem.com
 www.trackfey.app
+www.tracvalidator.com
 www.tradegptonline.com
 www.trademegastocks.com
 www.trademonex.net
@@ -118201,6 +118228,7 @@ zetwix.com
 zeucas.com
 zeuro.org
 zeus-team.top
+zeus-token.pages.dev
 zeuscas.com
 zeuscoin-rewards.co
 zeuscoin.top

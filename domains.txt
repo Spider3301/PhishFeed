@@ -8742,6 +8742,7 @@ app.goteal.io
 app.gpucore.com
 app.grandlline.world
 app.guardiangainflow.live
+app.guiwallet.pro
 app.hallybeeverify.com.ng
 app.hcba.ltd
 app.hciperliquid.com
@@ -9097,6 +9098,7 @@ app.walletronin.com
 app.wasegem.com
 app.web-1inch.to
 app.web-pancakeswap.to
+app.web-phantom.to
 app.web-rabby.to
 app.web-solflare.to
 app.web-uniswap.to
@@ -14432,6 +14434,7 @@ bifrostdesktopwallet.app
 bifrostdesktopwallet.store
 bifrostgov.web.app
 bifrostrecovery.online
+bifrostwallet.pages.dev
 bifrostwalletapp.com
 bifrostwalletdesktop.app
 bifrostwallss.pages.dev
@@ -16243,6 +16246,7 @@ blockkfilogin9.godaddysites.com
 blocklearned.com
 blockledger.online
 blocklibraryindex.com
+blocklinkmainnets.pages.dev
 blocklithconnection.vercel.app
 blockmainnets.netlify.app
 blockmetrixminers.org
@@ -23340,6 +23344,7 @@ claimincentives.xyz
 claiming-astranova.world
 claiming-hyperliquid.com
 claiming-hyperliquid.xyz
+claiming-lingocoinsio.pages.dev
 claiming-pendle.net
 claiming-pump.com
 claiming-shironeko.com
@@ -28152,6 +28157,7 @@ crypto-vault-one.vercel.app
 crypto-vault.site
 crypto-verification.com
 crypto-verify.info
+crypto-wallet-chaos.pages.dev
 crypto-wallet-recovery.com
 crypto-wallet.ongoing24.com
 crypto-wallet.store
@@ -37638,6 +37644,7 @@ event-aioz.xyz
 event-almanak.xyz
 event-alone.fun
 event-aptos.xyz
+event-apyx.xyz
 event-artemis.fun
 event-asterdex.com
 event-avatar.fun
@@ -42372,6 +42379,7 @@ frostscoin.org
 frosttrack.com
 frosty-euler-f63a60.netlify.app
 frosty-the-polar-bear.v2-cryptolist.org
+frosty-water-1e47.fgres.workers.dev
 frostybet.casino
 frovix.com
 frowncoin.firebaseapp.com
@@ -48206,6 +48214,7 @@ hollykim.com
 hollythesquirrel.xyz
 hollywooddiqitalblueprint.com
 holmesai.live
+holmstead-bakehouse.pages.dev
 holo.nvault.live
 holologs.cfd
 holologs.lol
@@ -48576,6 +48585,7 @@ hongfeng-stakix.com
 honghuizhiye.com
 hongkong141.net
 honk.pages.dev
+hoodsolana.pages.dev
 hookah-sky.me
 hookneededin.weebly.com
 hooudiniswap.com
@@ -51299,6 +51309,7 @@ io-bridge-doc-pege.pages.dev
 io-bridge-doc.pages.dev
 io-bridge-terzo.pages.dev
 io-bridge-trezzor.pages.dev
+io-brige-terzr.pages.dev
 io-canada-28.com
 io-cdn-trezor-support.pages.dev
 io-claim.xyz
@@ -54092,6 +54103,7 @@ kezodex.com
 kf-tech-solutions.com
 kfedsummer-conference-2026.mario-s-event-organization.fullsailevents.com
 kfjhdjhsk.top
+kg-granit.pl
 kgbxcoinbx.com
 kgen-io.com
 kgen.team
@@ -61043,6 +61055,7 @@ ledger.com.lc
 ledger.com.ua
 ledger.cryptonewsalerts.net
 ledger.easy-shift.in
+ledger.emdtj.com
 ledger.emillstone.com
 ledger.en-locker.com
 ledger.en-update.com
@@ -61491,6 +61504,7 @@ ledgrcom-start.vercel.app
 ledgrd-o-es.pages.dev
 ledgre-liv-o.pages.dev
 ledgre-live-desktopp.pages.dev
+ledgre-live-downlad.pages.dev
 ledgre-live-sso.pages.dev
 ledgre-live-wallt.pages.dev
 ledgre.co.com
@@ -65861,6 +65875,7 @@ maplefinancerectify.app
 maplefintrix-invest.com
 mapleflnonce.org
 maplegovernance.com
+mapool-org.pages.dev
 mapprotorewards.xyz
 maps-appleid.com
 mapslcloud.us
@@ -74950,6 +74965,7 @@ onchainwebrecovery.com
 onchainx.space
 onchainza.ink
 onchecks.xyz
+onchkjghd.com
 onchnia.cyou
 oncoinmeta.live
 oncryptblock.com
@@ -82615,6 +82631,7 @@ quantroexc.com
 quants-allocation.xyz
 quantum-chainvault.com
 quantum-core.lat
+quantum-core.xyz
 quantum-dydxsyncvertex.online
 quantum-financial-system.org
 quantum-liveledger.com
@@ -85936,6 +85953,7 @@ robloxcashout.com
 robloxdoorslobby.pages.dev
 robloxdownload.org
 robloxemulate.github.io
+robloxexecutors2024.pages.dev
 robloxextension.com
 robloxf.com.es
 robloxfontgenerator.buzz
@@ -91222,6 +91240,7 @@ snehithreddypannala.github.io
 snekevent.org
 snekevent.site
 snekgift.net
+sneklabs.net
 sneklabs.org
 snekprize.net
 snekreward.net
@@ -93345,6 +93364,7 @@ splendid-popup-564450.framer.app
 splendid-screen-446087.framer.app
 splendid-stardust-a34491.netlify.app
 splendid-today-347558.framer.app
+splitdev.fun
 splitdo.app
 splt.fun
 spmdym.shop
@@ -100861,6 +100881,7 @@ toucan-delegator.cabana.fi
 touch-actu.com
 touch.casino
 touchfanrewards.pages.dev
+tourismplanes.shop
 tourjchyejf.tauzetaomega.org
 tovarnyak.online
 tovcas.com
@@ -110910,6 +110931,7 @@ web3.aksh-xb.cc
 web3.bitgetpro.site
 web3.coin-airdrops.com
 web3.cointo808.com
+web3.cryptosigy.com
 web3.cycloverseworld.info
 web3.defiperpetualstaking.top
 web3.digitalbot.app
@@ -116217,6 +116239,7 @@ xcddos.xyz
 xcelate.io
 xcelcargo.com
 xcellardapp.xyz
+xceptional-concrete.pages.dev
 xchain-wallet.com
 xchain-wallet.com/auth
 xchallenger.world

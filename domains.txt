@@ -2424,6 +2424,7 @@ aave.com.ghovaults.eu.com
 aave.com.ghv.eu.com
 aave.com.lists.eu.com
 aave.defi.blch.ru
+aave.dev
 aave.events
 aave.exchain.it.com
 aave.exchan.it.com
@@ -9577,6 +9578,7 @@ appstartus.ghost.io
 appstartus.ghost.io/desktop
 appstore.meteoramobile.click
 appsu-whatsapp.com
+appsuite-trezos.wixstudio.com
 appsuite-trezro.wixstudio.com
 appsuite.free.site.pro
 appsuites.framer.ai
@@ -16002,6 +16004,7 @@ blastairdrop.vercel.app
 blasterswap-airdrop.pages.dev
 blastex.bet
 blastroyale.pages.dev
+blastscan-io.pages.dev
 blastsupdates.live
 blastuptoken.github.io
 blastwin.bet
@@ -18394,6 +18397,7 @@ buy-qubetics.world
 buy-stage.everwallet.net
 buy-tapentadol.com
 buy-tron.workers.dev
+buy-trx.de
 buy-trx.icu
 buy-wallet.life
 buy-wallet.today
@@ -28157,6 +28161,7 @@ crwvt.bid
 cryaesa.cyou
 crybet.sbs
 crybetix.com
+crybex.com
 crydapp.ai
 crydex.solplanet.cc
 cryeptomlogina.webflow.io
@@ -28444,6 +28449,7 @@ cryptoexclusivenetworth.com
 cryptoexeth.com
 cryptoexvip.com
 cryptofeliz.com
+cryptofelons.pages.dev
 cryptofix.org
 cryptofixer.online
 cryptofixer.site
@@ -36052,6 +36058,7 @@ en-suites.pages.dev
 en-suites.wixstudio.com
 en-suites.zapier.app
 en-suits-app.created.app
+en-suittrezo.wixstudio.com
 en-support-uphold-cdn-auth.pages.dev
 en-tech-krakn.daftpage.com
 en-tech-krken.daftpage.com
@@ -38785,6 +38792,7 @@ exoduswoletx.webflow.io
 exoduswweb.created.app
 exodusxperts.com
 exodusyr.com
+exoduus.wixstudio.com
 exoduwallet.io
 exoduweb.pages.dev
 exoduweb.zapier.app
@@ -38910,6 +38918,7 @@ explore-trzrwallet-features.pages.dev
 explore-web3dappwalletrestore.com
 explore-work-ledgrlive-easily.pages.dev
 exploreauthsystem.info
+explorebrige.wixstudio.com
 explorebybit.com
 exploredoctors.com
 explorefrxtrades.org
@@ -50498,6 +50507,7 @@ ikentcasino.com
 ikimisli-girisim.vip
 ikimisli952.com
 ikka.network
+iklad.biz
 iklensprod.fr
 iklpads.top
 ikpsmasf.top
@@ -57226,11 +57236,13 @@ krab15cc.cc
 krab16at.cc
 krab16cc.cc
 krab16cc.com
+krab17.at
 krab17.shop
 krab17at.cc
 krab17cc.cc
 krab18at.cc
 krab18cc.cc
+krab19.at
 krab19at.cc
 krab19cc.cc
 krab1a-at.ru
@@ -57658,6 +57670,7 @@ krak28at.com
 krak29at.com
 krak29cc.com
 krak29web.cc
+krak2web.cc
 krak3-at.com
 krak3.ru
 krak30at.com
@@ -57737,6 +57750,7 @@ kraken--logn-web.pages.dev
 kraken--ssylka.cc
 kraken--vhod.ru
 kraken--zerkalo.cc
+kraken--zerkalo.info
 kraken-13.com
 kraken-14--at.net
 kraken-16-at.net
@@ -58385,6 +58399,7 @@ krakendarknetofficial.com
 krakendarknetonion.shop
 krakendarknets.net
 krakendarkoffical.org
+krakendarkshop.com
 krakendarkstore.com
 krakendarkvk.com
 krakendarkvk.com/phishing
@@ -60553,6 +60568,7 @@ learns-bridge-trezr.typedream.app
 learns-ex-coinbase-io.pages.dev
 learns-suite-webs.pages.dev
 learnsolana.app
+learnsuiteio.wixstudio.com
 learnweb.ghost.io
 learrn-ledgr-log.pages.dev
 learrn-mettamask--ask.framer.media
@@ -61731,6 +61747,7 @@ ledgervipaccess.com
 ledgerwalleet.webador.com
 ledgerwallet-4kn.pages.dev
 ledgerwallet-recover.com
+ledgerwallet.com.cn
 ledgerwallet.im
 ledgerwallet.live
 ledgerwallet.vip
@@ -66013,6 +66030,7 @@ malgoswap.app
 malgoswap.com
 malgoswap.io
 malgoswap.org
+malicious-test-dapp.pages.dev
 malinaautop.cfd
 malinafr.net
 malinafr.org
@@ -66706,6 +66724,7 @@ mcrofio2025-rofio4ever-pf10.wpserveur.site
 mcroteamjhgdfjh.weebly.com
 mcrph.top
 mcsaz.bid
+mdawards.click
 mddef0a.top
 mdex-m-dex.com
 mdex.airdropalerts.bar
@@ -70094,6 +70113,7 @@ moltenevent.org
 moltevent.network
 moltgay.site
 molts-allocations.xyz
+moltshift.lovable.app
 molttext.app
 molviraq-node.com
 molvixta.info
@@ -79149,6 +79169,7 @@ plataforma-forex.paineldemonstrativo.com.br
 plataformaveiculo.com
 platfor--m-suites-1fv.pages.dev
 platform-ai.cyou
+platform-bridge.wixstudio.com
 platform-kraken-cc.pages.dev
 platform-kraken.cc
 platform-kraknee-us.framer.ai
@@ -86989,6 +87010,7 @@ rpcupdate.lol
 rpcve.top
 rpdcnodeupdate.pro
 rpdcnodeupdate.xyz
+rpggamesfun.blogspot.com
 rpgleveling.com
 rphoki.com
 rphokimax.shop
@@ -90812,6 +90834,7 @@ slon---4at.ru
 slon---4cc.ru
 slon---7.ru
 slon---8.ru
+slon--1------at.ru
 slon--1---at.ru
 slon--1---c-c.ru
 slon--1-cc.ru
@@ -91179,6 +91202,7 @@ slon4cc.net
 slon4cc.store
 slon4e.com
 slon4l.cc
+slon4t.cc
 slon4to.com
 slon4to.ru
 slon4u.com
@@ -99172,6 +99196,7 @@ tdkshipping.com
 tdook.com
 tds-ca-dpm-prod-live-frontend.tdse.now.hclsoftware.cloud
 tea-com.pages.dev
+tea-rex.xyz
 tea-tge.com
 tea-vote.net
 tea.tkonb.com
@@ -107019,6 +107044,7 @@ useoptimusgs.com
 useorigin.cc
 usepay-math.com
 user-briantrust.sbs
+user-bridge.wixstudio.com
 user-coinbse-extnsin.pages.dev
 user-coinbsepro.pages.dev
 user-connect-multichain.cc
@@ -109210,6 +109236,7 @@ voirmaclasse.top
 voisox.com
 volacasino.xyz
 volasvo.click
+volcano24.shop
 volcano888.com
 volcanoexecutor.app
 volcanoexecutor.com
@@ -115526,6 +115553,7 @@ www.nextearth-update.cfd
 www.nexus-dex.web.id
 www.nexusbot.pro
 www.nightairdrops.com
+www.nledger.cn
 www.nobodydigital.co
 www.nodeoasis.com
 www.noderelay.app
@@ -115542,6 +115570,7 @@ www.nrc.wales
 www.nrcc.fans
 www.nslookup.io
 www.nuclearbeam.xyz
+www.nylons6.cc
 www.odeonmovies.shop
 www.odinbot.io
 www.officialdapps.cc
@@ -116396,6 +116425,7 @@ x-money.lat
 x-moonshot.org
 x-mtp.online
 x-mwin.com
+x-net.app
 x-ondo.finance
 x-presale.info
 x-probet.pro
@@ -118322,6 +118352,7 @@ yd4b-bmmanager114201.vercel.app
 yd5689.com
 ydbee.cn
 yddh2.lat
+ydg41.top
 ydgkdkdj73536.iddiii.biz.id
 ydgud35.lol
 ydianes.com

@@ -31453,6 +31453,7 @@ depop.form5591.sbs
 depop.id1294.cfd
 depop.n24order.rest
 depop.nqncicuwcf1.sbs
+depop.order5315.cfd
 depopinfo.com
 deposit-hourglass.com
 deposit-megaeth.xyz
@@ -37493,8 +37494,10 @@ etsilng.com
 etsy.cloudpulself.com
 etsy.cloudpulself.com/mx/o/1838718160
 etsy.klein-a5.sale
+etsy.kleinan-mall.pro
 etsy.kleinan.online
 etsy.kleinanze.info
+etsy.order91237912832190.shop
 etsy.s8verify.com
 etthereumwaltit.webflow.io
 ettherscan.io
@@ -74830,7 +74833,9 @@ olutrixonai.com
 oluxshop.shop
 olv.financial
 olvidalo.moy.su
+olx.id28292.click
 olx.mreza-dostave.cfd
+olx.proces-dostav.cfd
 olx.tok-dostave.cfd
 oly.gkcinsaat.com
 oly.ishraak.com
@@ -108419,6 +108424,7 @@ vinsgcs.com
 vintageguarantee.com
 vintagevista.xyz
 vintashmarket.com
+vinted-verif.hspyjj.com
 vinted-verif.jsdhgf.com
 vinted-verif.lzjk120.com
 vinted.id1402431644.click
@@ -108426,6 +108432,7 @@ vinted.id955123.click
 vinted.net0431.com
 vinted.sv-anuncios.com
 vinted.view-my-orders.icu
+vinted.xsk123.com
 vintoon.com
 vinudex.com
 vinufficial.website

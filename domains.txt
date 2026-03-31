@@ -4968,6 +4968,7 @@ airdropsolaxy.app
 airdropsolaxy.io
 airdropsolix.live
 airdropsomnianetwork.live
+airdropsonic.live
 airdropsonics.live
 airdropsosovlue.live
 airdropsoullabs.live
@@ -7947,6 +7948,7 @@ app-dogeverse-claim.pages.dev
 app-dot-polkadot.cc
 app-drop.com
 app-drt-whatsappcc.com
+app-dual.pages.dev
 app-efhen.li
 app-ehtremail.portal-sync.com
 app-eigenlaeyer.com
@@ -10090,6 +10092,7 @@ asdasdas.elysium-drainer.world
 asdasdasd-cpy.pages.dev
 asdasdsadasdads.pages.dev
 asdbo.fun
+asddd-ey5.pages.dev
 asdflk.top
 asdwqeqasd.icu
 asedsxwcad.t.mydomain.zone
@@ -12028,6 +12031,7 @@ axlava.com
 axodus-web-com.pages.dev
 axoim.app
 axoim.lol
+axol-9sk.pages.dev
 axon-reward.uno
 axondao-claim.info
 axondao.network
@@ -25257,6 +25261,7 @@ coinbase.com-reviews.help
 coinbase.com-safety.help
 coinbase.com-transaction.support
 coinbase.com.cases.support
+coinbase.com.dashboard-payment.link
 coinbase.com.pl
 coinbase.com.support.services.kygxc4mhk1jzuhzb7cxlcuysdkymeko7fthn7vtozxgemxzvj8nv.grupocsiperu.com
 coinbase.commerce-id.net
@@ -27189,6 +27194,7 @@ consultapedagiodigital.com
 consultavirtualonline.netlify.app
 consultorianfp.com
 consumer-monorepo-interface-v2-2gxxk03wv-morpho-addmo.vercel.app
+consumer-monorepo-interface-v2-52nafhpro-morpho-addmo.vercel.app
 consumer-monorepo-interface-v2-git-batteer-5e577e-morpho-addmo.vercel.app
 consumer-monorepo-interface-v2-oafeh7cel-morpho-addmo.vercel.app
 consumerproductsconference.com
@@ -29764,8 +29770,12 @@ dapp-f.pages.dev
 dapp-fartcoin.org
 dapp-fi.pages.dev
 dapp-future-7827837482.pages.dev
+dapp-g0mp90q5z-klimadao.vercel.app
 dapp-gamon.fun
+dapp-git-biwano-fix499liquiditypoolposition-klimadao.vercel.app
+dapp-git-biwano-fixk2apr-klimadao.vercel.app
 dapp-git-biwano-fixpriceperton-klimadao.vercel.app
+dapp-git-tapi-retire-confirm-button-fix-klimadao.vercel.app
 dapp-guard.xyz
 dapp-h.pages.dev
 dapp-home.pages.dev
@@ -29787,6 +29797,7 @@ dapp-main-one.pages.dev
 dapp-mainet.vercel.app
 dapp-mainnet-server.pages.dev
 dapp-mainnetnodes.pages.dev
+dapp-mobt1h2co-klimadao.vercel.app
 dapp-module.pages.dev
 dapp-multichainexplorer.com
 dapp-n.pages.dev
@@ -29794,6 +29805,7 @@ dapp-o.pages.dev
 dapp-p.pages.dev
 dapp-p1f.pages.dev
 dapp-papatrump.pages.dev
+dapp-pfkrbctv5-klimadao.vercel.app
 dapp-pool.pages.dev
 dapp-presales.pages.dev
 dapp-projectmainnet.com
@@ -29960,6 +29972,7 @@ dappchainwallet.xyz
 dappclaim-airdrop.xyz
 dappcon.solgrid.cc
 dappconnect.coinmerges.live
+dappconnections-auth.web.app
 dappcontracts.pro
 dappcrypto-dapp.space
 dappdecentralisedlaunchpad.vercel.app
@@ -40007,6 +40020,7 @@ fastprotocol.cam
 fastrackroute.com
 fastrecovery.icu
 fastrecovery.icu.index-trading.ltd
+fastrefundgroup.com
 fastroexpress.com
 fasts-cup.com
 fastsafe-node.top
@@ -51049,6 +51063,7 @@ inovarisepro-ai.com
 inox-fonation-ca.surge.sh
 inpayunlocknet.com.tradepiunlock.com
 inpost-przesylki-pl.com
+inqly.cloud.base.yt
 inqubeta-in.pages.dev
 inqubeta-web.pages.dev
 inroomatraveller.com
@@ -52457,6 +52472,7 @@ jetton-telegram.xyz
 jetwin.cc
 jetwin.pro
 jetwor.com
+jetx-download.co.ke
 jetxfrance.com
 jetxspin.com
 jetxxxbet.com
@@ -61822,6 +61838,7 @@ ledzer-com-start.webflow.io
 ledzer-hardware-wallet.pages.dev
 ledzer-live-app.pages.dev
 ledzer-live-e-n-us.pages.dev
+ledzer-live-learn.pages.dev
 ledzer-live-view.pages.dev
 ledzer-logn-live.pages.dev
 ledzger-live-intro.pages.dev
@@ -67254,6 +67271,7 @@ merklupdates.live
 merl-sushi.cfd
 merlin-airdrop.live
 merlinchain.sushiswap.info
+merlinswap-6ib.pages.dev
 merlospin.com
 merltking1691.com
 mermann.sbs
@@ -75539,6 +75557,7 @@ onyxdelta.top
 onyxeternisafe.de
 onyxnewservice.top
 onyxpage-dev.website
+onyxqi76.cfd
 oobitmigration.uno
 oogaboo.xyz
 oogacore.xyz
@@ -76418,6 +76437,7 @@ ouyi.clinic
 ouyi.cm
 ouyi.okx-okex.com.cn
 ouyi.solutions
+ouyi.systems
 ouyi.work
 ouyich.cc
 ouyicn.club
@@ -80365,6 +80385,7 @@ portfolio--metamask-io.typedream.app
 portfolio-1.ghost.io
 portfolio-coinbsecom-help.framer.ai
 portfolio-geminii-en.pages.dev
+portfolio-jan.pages.dev
 portfolio-kraken-log.framer.ai
 portfolio-kraken-web.framer.ai
 portfolio-lighter.io
@@ -89406,6 +89427,7 @@ setg18.it
 sethassetspay.info
 setlink.ghost.io
 setlink.ghost.io/trezorsuitess
+setorwa-slt.com
 setrly.com
 setronweb3ledger.com
 setting.refund-process.com
@@ -90352,6 +90374,7 @@ skandor.top
 skansmonkey.com
 skantelegram.org
 skarles.com
+skaska.click
 skatechain.team
 skatechain.us
 skatechaincore.xyz
@@ -91336,6 +91359,7 @@ slush-wallet.pages.dev
 slush-wallett-cdn.pages.dev
 slush.pages.dev
 slush6.com
+slushapp.framer.ai
 slushh-wallet.pages.dev
 slushie.email
 slushiegoose.github.io
@@ -104263,6 +104287,7 @@ twezy.info
 twezygame.xyz
 twezygames.click
 twezygaming.site
+twezylive.xyz
 twezyrrbx.xyz
 twezysgaming.click
 twgxcc.art
@@ -108994,6 +109019,7 @@ visionpump.live
 visiontrade-invest.com
 visiontrade-pl.com
 visit--exodusweb.pages.dev
+visit-aevo-21z.pages.dev
 visit-artrade.pages.dev
 visit-coispre-cds.pineapple.page
 visit-tresor.pages.dev
@@ -116231,6 +116257,7 @@ wwwinterbankpe.net
 wwwmarketwebb.me
 wwwmomentum.pages.dev
 wwwpepe.vip
+wwwplwebnne.com
 wwwpudgypenguin.com
 wwwspx6900.org
 wwwsteam.com
@@ -117057,6 +117084,7 @@ xm.wttee.my.id
 xm10.top
 xm26.top
 xm27.com
+xm27.top
 xmagnet-update.live
 xmagnetic-extension.pages.dev
 xmagnetic.info

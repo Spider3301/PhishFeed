@@ -12919,6 +12919,7 @@ basedblockchain.pages.dev
 basedbonkey-com.pages.dev
 basedbot.digital
 basedbrett-b52.pages.dev
+basedfnd.netlify.app
 basedfoundation-check.live
 basedfoundation.app
 basedfoundation.cc
@@ -18569,6 +18570,7 @@ bytegenevm.net
 byteroxe.com
 bytevaulto.com
 bytevm.net
+bytevngen.net
 bytewealt.com
 bytexs.cc
 bytfax.com
@@ -83465,6 +83467,7 @@ rasobet.com
 raspagreenz.com
 raspoarsap.click
 raspy-frog-4e86.amdersonmarcus022.workers.dev
+raspy-pond-c31a.zdser.workers.dev
 rastaroyesh.com
 raster.finance
 rastreio.jltransportelogistica.com
@@ -86442,6 +86445,7 @@ royal-capital-ex.vip
 royal-club.top
 royal-exchange.club
 royal-exchange.top
+royal-queen-453b.cxcde.workers.dev
 royal-spin.world
 royal-stake.cc
 royal-stake.com
@@ -97005,6 +97009,7 @@ swap-cow-fl.com
 swap-cowswap.app
 swap-crypto.live
 swap-cvw.com
+swap-dao.icu
 swap-defiillama--com.pages.dev
 swap-defillama-en-us.pages.dev
 swap-defillama-io-us.pages.dev
@@ -114442,6 +114447,7 @@ www.demon.web3securenetwork.com
 www.denizlibayramogluminikepce.com
 www.desktop.addicted-fun.pro
 www.dexrockets.com
+www.dexscreener-voting.com
 www.dhl-paketzentral.de
 www.dhl-paketzusteller.de
 www.diamoncapitalcrypto.com

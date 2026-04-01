@@ -8169,6 +8169,7 @@ app-llnk.org
 app-lnb-whatshktw.com
 app-login-accesoweb.com
 app-login-secure.com
+app-logn-li.pages.dev
 app-lrgdrelive.pages.dev
 app-lunatool.online
 app-lvf-whatsappcc.com
@@ -10185,6 +10186,7 @@ ask-metmask-loginz-io.pages.dev
 ask-phntm-wallet.framer.ai
 ask-splat.com
 ask-trrzerrio-startd.weebly.com
+ask-wallet-ldgr.pages.dev
 asked-web-upzold-lgns.pages.dev
 askjune.web.app
 askkraken.net
@@ -12747,6 +12749,7 @@ bankofai.icu
 bankofamerica-am.vercel.app
 bankofamericalogin.sbs
 bankofceylon.online
+bankoklaeng.live
 bankom.cc
 bankomaat.cc
 bankomot.cc
@@ -13274,6 +13277,7 @@ bchgame.net
 bchh.games
 bciotv18.com
 bck.streamlinewarpnetwork.top
+bckr.pages.dev
 bckrmemeonsol.com
 bclocation.com
 bclub-cc.uk
@@ -26462,6 +26466,7 @@ colnilst.co
 colnlist.com
 colnsbase.com
 colnsbee.pro
+colobiad.live
 colonylab-migration.pages.dev
 coloradooutono.com
 coloradopledge.org
@@ -29594,6 +29599,7 @@ daft-uphold-protal.daftpage.com
 dafygode.com
 dagdagrail.com
 dagetzzidxty.hrvgg.biz.id
+dago-coin.pages.dev
 dagora.live
 dagupdate.live
 dahnimusic.com
@@ -31435,6 +31441,7 @@ delabs.digital
 delagocas.com
 delapex.com
 delaunch.top
+delegate.tokenlogic.xyz
 delegationonbeam.com
 delftaadvisors.com
 delicious-purpose-104949.framer.app
@@ -33617,6 +33624,7 @@ download-ledger.live
 download-ledger.us
 download-ledgerlive-us-eng.pages.dev
 download-ledgerlivee-us.pages.dev
+download-ledgerrlive.pages.dev
 download-ledzr-live.pages.dev
 download-live-ledger-3rn.pages.dev
 download-metamask-wallet.typedream.app
@@ -36174,6 +36182,7 @@ en-us-suites.framer.ai
 en-us-trazor-io-pages.pages.dev
 en-us-trezarsuite.pages.dev
 en-us-trzeio-io.pages.dev
+en-us-trzr.pages.dev
 en-us-trzre-io-bridges.pages.dev
 en-us-uphld-io.pages.dev
 en-us-uphlld.pages.dev
@@ -37200,6 +37209,7 @@ ethenarewards.com
 ethenario.pro
 ethenas.icu
 ethenaud.pro
+ethenterjkrykmxr.pages.dev
 ether-airdrop.top
 ether-boost.com
 ether-boost.org
@@ -41402,6 +41412,7 @@ fixnode.icu
 fixolution.xyz
 fixowex.com
 fixpanelweb.pages.dev
+fixprotocoldapp.com
 fixprotrade.xyz
 fixright.peradesktops.com
 fixrpc.tgeblockdag.network
@@ -49417,6 +49428,7 @@ husrevaraci.com
 husscard.com
 hustbet.com
 hustlersuniversityspro.live
+hustonssman.live
 hut8-pool.com
 hutcas.com
 hutkas.com
@@ -51783,6 +51795,7 @@ ioc-exodusweb.pages.dev
 iohwauldgrndiawodibaobfwf.netlify.app
 iohydan9.pages.dev
 ioi-bridge-terzor.pages.dev
+ioi-phomts-walet.pages.dev
 ioihodxh.com
 ioiioooe01.claimcoin.app
 ioiphomtqs-walet.pages.dev
@@ -53028,6 +53041,8 @@ jullex.bet
 jumaplay.com
 jumat03.pages.dev
 jumbo-siberian.ext-helper.cc
+jumbo88.co.in
+jumbo88a.com
 jumepr.xyz
 jumer.xyz
 jummper.xyz
@@ -60249,6 +60264,7 @@ lddzzr-live.pages.dev
 ldeger-comstart.framer.ai
 ldeger-comstart.framer.ai/enus
 ldegr-live-web.pages.dev
+ldegrlive.pages.dev
 ldegrr-com-start-help.pages.dev
 ldegrr-live-eng.pages.dev
 ldegrr-live.pages.dev
@@ -60304,6 +60320,7 @@ ldgr-login-auth.pages.dev
 ldgr-wallet-web.pages.dev
 ldgr-wallet.pages.dev
 ldgr-walt.pages.dev
+ldgr-wlt.pages.dev
 ldgr3424sdfds.velva-045.workers.dev
 ldgr3424sdfds.velva-045.workers.dev/index.html
 ldgr3424sdfs.shreyansh40.workers.dev
@@ -60477,6 +60494,7 @@ learn-kreken.pages.dev
 learn-krken-co-app.daftpage.com
 learn-kucoin-login.typedream.app
 learn-ldggerr-live-download.pages.dev
+learn-ldgr-live-download-eng.pages.dev
 learn-ledger-live-strt-us.pages.dev
 learn-ledger-log-in.pages.dev
 learn-ledggr-log.pages.dev
@@ -61771,6 +61789,7 @@ ledggdr.gd
 ledgger--live-en.pages.dev
 ledgger-live-guide.pages.dev
 ledggerr-com-start.pages.dev
+ledgglivewalk.pages.dev
 ledggr.framer.media
 ledggre-live.pages.dev
 ledgher.com
@@ -61827,12 +61846,14 @@ ledgrlive-auth.pages.dev
 ledgrlive-desk.pages.dev
 ledgrlive-desktop.wixstudio.com
 ledgrlive-eng-us.pages.dev
+ledgrlive-guide.pages.dev
 ledgrlive.live
 ledgrlives-web.pages.dev
 ledgrr-login.pages.dev
 ledgrr-seo-livee.pages.dev
 ledgrr-us-livee-en.pages.dev
 ledgrr.com
+ledgrre-com.pages.dev
 ledgrrrr---live---walllettt.pages.dev
 ledgrrs-oi-lives.pages.dev
 ledgrs--oi-live.pages.dev
@@ -61890,6 +61911,7 @@ ledzer-logn-live.pages.dev
 ledzger-live-intro.pages.dev
 ledzger.com
 ledzr-com-starrt.pages.dev
+ledzr-com-strt-io.pages.dev
 ledzr-hrdwre-wallet.pages.dev
 ledzr-io-start.pages.dev
 ledzr-live.pages.dev
@@ -62033,6 +62055,7 @@ legscoin.com
 lehavreweb.weebly.com
 leia-santander.vercel.app
 leidax.com
+leiger--d-live-learn.pages.dev
 leilaocarrosbr.com
 leinera.com
 leinoholdings.com
@@ -62578,6 +62601,7 @@ lilacswap.com
 lilcas.com
 lilewex.com
 lilhzvkpsmxn.icu
+liliazaare.live
 lilinworld.com
 lilittlepepe.com
 lilltlepepe.com
@@ -62805,6 +62829,7 @@ lineastationeryco.com
 lineaverse.org
 linegambt.fun
 linela.build
+linelive.live
 linemacs.com
 linenetworkclaim.xyz
 linera.run
@@ -72290,6 +72315,7 @@ nansenverse.com
 nansqap.com
 nanswao.com
 nanswsp.com
+nanthasan.live
 naodax.com
 naol724.github.io
 naolax.com
@@ -75678,6 +75704,7 @@ opansea-wallet-sign-up.pages.dev
 opanseas.pages.dev
 opap.playqoogle.site
 opbnb-bridge.pages.dev
+opbnb-chains.pages.dev
 open-5bd.pages.dev
 open-account-orca-wallet.pages.dev
 open-ai.life
@@ -76434,6 +76461,7 @@ otoseopaneli.com
 otpcepat.org
 ou2809876.bring-your-own-malware.com
 oug-wswhatsapp.cc
+oumarketio.com
 oup2nxaekgsl3sd8abqe74z9.pages.dev
 our-roulette.com
 ourbeamwe.com
@@ -80252,6 +80280,7 @@ portal-krkenn-faqs.typedream.app
 portal-kucoin-login-info.typedream.app
 portal-kucoinn-com.square.site
 portal-ldgerliv-download.pages.dev
+portal-ldgr-live-wallet-cdn.pages.dev
 portal-ledger-com-en.me-page.com
 portal-ledger-com-learn.me-page.com
 portal-ledger-live-login.pages.dev
@@ -89511,6 +89540,7 @@ sezonex.com
 sezowex.com
 sezwex.com
 sf-epal.com
+sf-ledger-frontend.pages.dev
 sf-redi.vercel.app
 sf-redirector.vercel.app
 sfaliorderjob.cc
@@ -94994,6 +95024,7 @@ start-addicted.fun
 start-amlbot.initiatescreening.com
 start-auth-en-raby-walet-app.pages.dev
 start-b-ridge.pages.dev
+start-bitkeepp-com.pages.dev
 start-cdn-uphuld-us.pages.dev
 start-coenbase-io-learn.pages.dev
 start-coin-bas-en.pages.dev
@@ -96849,6 +96880,7 @@ support-live-desktp.pages.dev
 support-live-faqs.pages.dev
 support-live-ldeger.pages.dev
 support-live-ledgr-eng.pages.dev
+support-live-ledgr-wallet.pages.dev
 support-livegegr-web.pages.dev
 support-liveledgir.pages.dev
 support-liveledgre.pages.dev
@@ -102975,6 +103007,7 @@ truewallet.top
 truewavewallet-in.online
 truexaiedge.com
 truezeusdistritoks.com
+truflation-migration.pages.dev
 truhashfix.com
 truidne.gl
 truist-en-us.pages.dev
@@ -107079,6 +107112,7 @@ usocksfi.xyz
 usocksfinance.xyz
 usoil.cc
 usoil.finance
+usoil.live
 usoil.trade
 usoilreserve.cc
 usol.top
@@ -114452,6 +114486,7 @@ www.activatep2ptrading.com.activatep2ptrade.com
 www.adobe-ai.vip
 www.adspower-ru.com
 www.adventuresinscamming.site
+www.aedanismanlik.com.tr
 www.aegisswap.com
 www.aerodromedesktop.finance
 www.aerodromesflnance.org
@@ -115973,6 +116008,7 @@ www.vuibank.site
 www.vvexcoin.com
 www.vvsfnence.org
 www.vwasolana.xyz
+www.vzcxiw.com
 www.w3c.web3coinmark.icu
 www.wallet-detector.digital
 www.wallet.thew3official.com
@@ -117055,6 +117091,7 @@ xm10.top
 xm26.top
 xm27.com
 xm27.top
+xm31.top
 xmagnet-update.live
 xmagnetic-extension.pages.dev
 xmagnetic.info
@@ -117611,6 +117648,7 @@ xn--solscn-7za.org
 xn--son2-50a.cc
 xn--stream-pmp-jdb.fun
 xn--sumr-dpa.money
+xn--tonscan-gob.org
 xn--trzor-k0a.com
 xn--uarda-j1a.app
 xn--uk-8kc8dc5je88mxa.xn--hgbtthuk-16gb5cdcb7ltako4dwte1a346bdb1275leaed.app-s2.eu.com
@@ -119036,6 +119074,7 @@ zeucas.com
 zeuro.org
 zeus-team.top
 zeus-token.pages.dev
+zeusai.xyz
 zeuscas.com
 zeuscoin-rewards.co
 zeuscoin.top

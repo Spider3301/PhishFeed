@@ -3297,6 +3297,7 @@ adjara-gudju3.cfd
 adjara-gudju4.cfd
 adjara-gudju5.cfd
 adjudicator-ods.insolvency-development.co.uk
+adl-dev-1.pages.dev
 adm-ap.site
 adm.loginsecurecoinbaseid.com
 adm.pro-deepgtp.top
@@ -8958,6 +8959,7 @@ app.monadmainnet.xyz
 app.moon.villas
 app.moonshootvoting.xyz
 app.morphhub.network
+app.morpho.casa
 app.mortunityfin.com
 app.movequests.com
 app.msnrenewmicro.com
@@ -30578,6 +30580,7 @@ dashboard-metamask.live
 dashboard-meteora.org
 dashboard-meteora.xyz
 dashboard-minara.xyz
+dashboard-moonwell.xyz
 dashboard-ndax-login.webflow.io
 dashboard-nexchain.net
 dashboard-nunchi.xyz
@@ -31171,6 +31174,7 @@ defi-lama-v2.xyz
 defi-launch.io
 defi-liquidbsc.com
 defi-live-app.pages.dev
+defi-live-us-en.pages.dev
 defi-live.pages.dev
 defi-llama-v2.xyz
 defi-llama.net
@@ -36795,6 +36799,7 @@ enter-metamshk-logn--hub.framer.media
 enter-metmask-xtention.pages.dev
 enter-moons-shot.com
 enter-moonshot.org
+enter-moonwell.foundation
 enter-nftstrategy.fun
 enter-okx-listing-voting-security-2.vercel.app
 enter-okx-listing.vercel.app
@@ -51236,6 +51241,7 @@ info-ldgr-wlt.pages.dev
 info-ldzr-strt.pages.dev
 info-learn-coinbase.daftpage.com
 info-ledgrr-live-connect.pages.dev
+info-legrr-en-live.pages.dev
 info-live-desktop-legr.pages.dev
 info-live-ledger.pages.dev
 info-live-ledgr-connect.pages.dev
@@ -51607,6 +51613,7 @@ insurance-world.in
 insurance.micard.co.jp
 insurancequoteaib.com
 insurebitbox.com
+insuredsafepal.com
 intake-jailed.fun
 intalogix.com
 integrate-blockchain.com
@@ -60507,6 +60514,7 @@ layenrbrett.com
 layer-chain-fix-app.life
 layer2-chain.com
 layer2-henjin-xyz.pages.dev
+layer2-lava.pages.dev
 layer2-node-aethir.pages.dev
 layer2l.com
 layer3-app.com
@@ -62986,6 +62994,7 @@ liig-uuid.info
 liightter-onchain.xyz
 liimtless.exchange
 liitlpepe.com
+liiv-ledger.pages.dev
 liivoe.com
 lijunxt-wallet8.com
 like-kreken.pages.dev
@@ -78756,6 +78765,7 @@ phan-event.app
 phan-tom---wallet.pages.dev
 phan-toms-eo.pages.dev
 phan.solcenter.cc
+phan1.top
 phanbust.live
 phanbust.pro
 phanexnsion.info
@@ -83883,6 +83893,7 @@ r-dex-v1.app
 r-e-n-z-o.cc
 r-e-n-z-o.net
 r-games.tech
+r-trez-rbridg-app.pages.dev
 r-w-v4.app
 r.batiactu.info
 r.com
@@ -93975,6 +93986,7 @@ sorvek-klanden-biz-morvex-grantil-nd13kt12.pages.dev
 soryne-valtrix.com
 soryne-varex.com
 sos-google.com
+sos-ledgerr.pages.dev
 sosalka.cyou
 sosana.finance
 soshandorangevocal.godaddysites.com
@@ -96280,6 +96292,7 @@ stice.sol-today.com
 stickerdom.shop
 stickypk.shop
 stiksfood-com.pages.dev
+stiktok-page.pages.dev
 still-math-b030.lenhancute1602.workers.dev
 stilwellinvest.com
 stilwellinvest.com/pc_home
@@ -97486,6 +97499,7 @@ support-live-faqs.pages.dev
 support-live-ldeger.pages.dev
 support-live-ledgr-eng.pages.dev
 support-live-ledgr-wallet.pages.dev
+support-live-legor.pages.dev
 support-livegegr-web.pages.dev
 support-liveledgir.pages.dev
 support-liveledgre.pages.dev
@@ -103097,6 +103111,7 @@ trezr-suit-en.framer.ai
 trezr-suit-eo.framer.ai
 trezr-suite-alc.pages.dev
 trezr-suitee-app.webflow.io
+trezr-walet-faq.pages.dev
 trezriiuoretiorsrt.gitbook.io
 trezrio-walets.pages.dev
 trezrosuite-en-auth.typedream.app
@@ -103619,6 +103634,7 @@ trrezrsuite.framer.ai
 trrezzaorrwallett.webflow.io
 trrrzer-suiit.pages.dev
 trrrzzrrr---suitee.pages.dev
+trrust-tool-pages.pages.dev
 trrustweallet.gitbook.io
 trrxorien.wixstudio.com
 trrzoroisuite.m-pages.com
@@ -115219,6 +115235,7 @@ www.aml-finances.com
 www.aml-finances.com/home
 www.aml-secure.help
 www.aml-tools.digital
+www.aml-walletverify.com
 www.amladvisers.com.au
 www.amlbot-audit.app
 www.amlbot-scanner.com

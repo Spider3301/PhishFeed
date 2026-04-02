@@ -5260,6 +5260,7 @@ alainetwork-a29.pages.dev
 alainetwork.xyz
 alamarr.com
 alamedapartners-ag.com
+alamery.com
 alancucmbe7.alwaysdata.net
 alarbabank.wixstudio.com
 alarielegault.com
@@ -9503,6 +9504,7 @@ apprpc-fix.site
 apps--phantom---walllet.webflow.io
 apps--suites-eng.framer.ai
 apps-aane.com
+apps-across.xyz
 apps-apyx.xyz
 apps-arbitrum.xyz
 apps-asterdex.com
@@ -17614,6 +17616,7 @@ bridge-chainswap.cc
 bridge-digital.wixstudio.com
 bridge-gravite.xyz
 bridge-heing.pages.dev
+bridge-home-trez.pages.dev
 bridge-hourglass.com
 bridge-hub-trez.zapier.app
 bridge-i-guide.pages.dev
@@ -19353,6 +19356,7 @@ cardprotections.com
 cards-phantom.icu
 cards-staker.xyz
 cards2read.com
+cardsolana.xyz
 cardstrust.com
 cardstrust.org
 cardstrustwallet.info
@@ -19764,6 +19768,7 @@ cash-drop.netlify.app
 cash-pump.fun
 cash-update.xyz
 cash77.sbs
+casha.cc
 cashapples.lat
 cashapples.xyz
 cashappmakemoney.freegames.money
@@ -26940,6 +26945,7 @@ compstake.org
 comptoirduprint.com
 computenet.digital
 comsolana.com
+comstart-ledger.pages.dev
 comstear.site
 comstrtledger-access.square.site
 comtiktik.com
@@ -31746,6 +31752,9 @@ dep30h.icu
 dep30h.net
 dep30h.org
 dep46t.sbs
+dep57t-coinstats.com
+dep57t.com
+dep57t.icu
 dep65t.com
 dep65t.net
 dep65t.org
@@ -32217,6 +32226,7 @@ dexrp-drop.xyz
 dexrp-net.web.app
 dexrp-org.pages.dev
 dexrp-presale.xyz
+dexrp-update.live
 dexrp.network
 dexrp.org.uk
 dexrp.website
@@ -35472,6 +35482,7 @@ electrum.co.com
 electrum.is
 electrum.ru
 electrumwalletlogin.com
+elefantsterribles.xyz
 elegant-bonbon-9f185d.netlify.app
 elegant-smakager-fca8d0.netlify.app
 elegantpawstransit.com
@@ -38378,6 +38389,7 @@ evmapp.pages.dev
 evmbitnode.com
 evmbitnode.pages.dev
 evmbulksender.com
+evmchain.pro
 evmchecker.pages.dev
 evmcheckhealth.pages.dev
 evmcodes.org
@@ -46149,6 +46161,7 @@ gro32k.icu
 gro34d-cointelegraph.com
 gro34d.com
 gro34d.org
+gro36v.icu
 gro38z.com
 gro38z.net
 gro38z.org
@@ -46214,6 +46227,7 @@ grok-ainetwork.net
 grok-ainetwork.org
 grok-aiofficial.com
 grok-allocations.xyz
+grok-network.icu
 grok-network.live
 grok-network.sbs
 grok-official.com
@@ -48916,6 +48930,7 @@ home-ledgielive.pages.dev
 home-ledgr-liv-en.pages.dev
 home-ledgr-nav-log.pages.dev
 home-ledgrdesktop.pages.dev
+home-ledgre-us.pages.dev
 home-ledgrr-io-livee-login.pages.dev
 home-ledgrr-livee-io.pages.dev
 home-leger-desktop.framer.ai
@@ -48926,6 +48941,7 @@ home-live-en-ledgeer-eo.pages.dev
 home-live-en-ledger.pages.dev
 home-live-en-ledges.pages.dev
 home-logen-treezio.pages.dev
+home-lpger-io.pages.dev
 home-meletora.sbs
 home-meta-ext-ogiin.pages.dev
 home-metamask-en-us.framer.ai
@@ -50333,6 +50349,7 @@ hyperliwquid.xyz
 hyperlliquid.xyz
 hyperlllquid.space
 hyperlnend.finance
+hyperlock-rpc.pages.dev
 hyperloiquid.xyz
 hyperlqds.live
 hyperlqiuid.co.com
@@ -53652,6 +53669,7 @@ jupi-chain.live
 jupi-dapp.web.app
 jupi-official.web.app
 jupi-online.world
+jupi-swap.sbs
 jupi-swat.at
 jupi-world.web.app
 jupi.humidifi.network
@@ -61013,6 +61031,7 @@ ledegar--com-start.pages.dev
 ledeger-liv-desktop.pages.dev
 ledeger-live.pages.dev
 ledegercom-start-us.pages.dev
+ledegr-live-start-get.pages.dev
 ledegr-liveapp.wixstudio.com
 ledegr-livedesktop-info.pages.dev
 ledegrlive-download.pages.dev
@@ -63237,6 +63256,7 @@ linela.build
 linelive.live
 linemacs.com
 linenetworkclaim.xyz
+linera.bet
 linera.run
 lineraairdrop.xyz
 lineratask.xyz
@@ -84129,6 +84149,7 @@ radifixit.com
 radiocontraponto.org.br
 radiocruzdemalta.com.br
 radiojones.com
+radionova.dussle.org
 radium-dashboard.pages.dev
 radium-io-us.pages.dev
 radium-io.pages.dev
@@ -88978,6 +88999,7 @@ scotitalinvest.com
 scotla-comect.cc
 scotlacomp.cc
 scottyai.click
+scottytheai-st.pages.dev
 scottytheai-web.pages.dev
 scottytheai-xyz.pages.dev
 scottytheai.free.nf
@@ -93286,6 +93308,7 @@ solcoin.co
 solcoinsmeme.com
 solcoinsmint.com
 solcommando.top
+solcommunity.lat
 solcool.fun
 solcore.cc
 solcore.net
@@ -98110,6 +98133,7 @@ swap-jnp.ac
 swap-jup.icu
 swap-jup.sbs
 swap-jupag-v4.com
+swap-jupi.icu
 swap-jupiter.app
 swap-jupiter.com
 swap-jupiter.net
@@ -113071,6 +113095,7 @@ weoslots.com
 weospins.top
 wepcas.com
 wepe-c7l.pages.dev
+wepe-token-wallstreetpepe-gifts.pages.dev
 wepe.pages.dev
 wepeairdrop.com
 wepereward.live
@@ -113126,6 +113151,7 @@ westrnuniuon.com
 westtrustnational.com
 wesxa.com
 wet-claim.live
+wet-ledger-live.pages.dev
 wet-vavexy5rj9.live-website.com
 wet.solhost.cc
 wetaa883456aaq.finance-allianc.com

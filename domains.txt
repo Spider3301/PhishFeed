@@ -13482,6 +13482,7 @@ beamish-dragon-5e1436.netlify.app
 beamless-auth.com
 beamless-structure-phase.com
 beamprize.com
+beams.cam
 bean-rewards.xyz
 beanexchange.app
 beanexchange.art
@@ -32001,6 +32002,7 @@ desktop.atomicappwallet.xyz
 desktop.framer.media
 desktopapp-installer.capital
 desktopapp-installer.online
+desktopapps.wixstudio.com
 desktopinstallation.com
 desktopwallet-installer.com
 desktopwallet-installer.icu
@@ -62560,6 +62562,7 @@ ledlive.live
 ledncryptocompany.org
 ledqer.org
 ledrer-support-open.zapier.app
+ledrer-support.zapier.app
 ledrr-live-donload.pages.dev
 ledstart.at
 ledstart.gl
@@ -81529,6 +81532,7 @@ ppd.cpi.mybluehost.me
 ppdb-mtsnuruttauhidwonorejo.pages.dev
 ppegasusswap.com
 ppew.app
+pphantom.wixstudio.com
 pportal-metamsak-start.daftpage.com
 ppp.solshelter.cc
 ppreredirecting0-attupdate.weeblysite.com
@@ -101030,6 +101034,7 @@ tge-tea.xyz
 tge-teas.xyz
 tge-terminal.com
 tge-thorwallet.live
+tge-usdai.org
 tge-variationalfoundation.xyz
 tge-yieldbasis.com
 tge.thorwallet.icu

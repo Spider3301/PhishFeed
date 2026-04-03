@@ -22102,6 +22102,7 @@ claim-area.obieo.com
 claim-ariaprotocol.xyz
 claim-articpablo.com
 claim-artyfact-gaming.pages.dev
+claim-assets-token-xyo.pages.dev
 claim-aster.com
 claim-asterdex.lat
 claim-asterdex.live
@@ -29902,6 +29903,7 @@ dandans4.com
 dandy-customer-644575.framer.app
 dandy-cylinder-482953.framer.app
 dandyfortune.com
+danf-up01.w16-oct.workers.dev
 danf-up02.revd.workers.dev
 dangcomercial.com.br
 dangnhap-ascendex.com
@@ -33535,6 +33537,7 @@ dogespec1.pages.dev
 dogesploit.pages.dev
 dogetradingllc.com
 dogeventure.com
+dogevercetoken.pages.dev
 dogeverse-app-dgx.pages.dev
 dogeverseclaimed.pages.dev
 dogeversecoin.pages.dev
@@ -46273,6 +46276,11 @@ gro75k.icu
 gro75k.info
 gro75k.net
 gro75k.org
+gro79p-cointelegraph.com
+gro79p-cryptoslate.com
+gro79p.com
+gro79p.net
+gro79p.org
 gro82x-cointelegraph.com
 gro82x-cryptoslate.com
 gro82x-fxempire.com
@@ -61998,6 +62006,7 @@ ledgercom-start-get.pages.dev
 ledgercom-start-info.pages.dev
 ledgercom-start.floot.app
 ledgercom-start.pages.dev
+ledgercom-sttartt.pages.dev
 ledgercom.m-teach.com
 ledgercom.wixstudio.com
 ledgercom.wixstudio.com/en-us
@@ -81399,6 +81408,8 @@ pradfinspire.net
 praesidiatrust.com
 praga-camera.app
 pragacasino.com
+pragmatic-11-com.pages.dev
+pragmatic11.com
 prague-prize.com
 pragueprize.com
 praivox.pro
@@ -82486,6 +82497,7 @@ pswap.financeconnect.app
 pswap.flnanceconnect.app
 psxloot.cc
 psxloot.com
+psxloot.net
 psxloot.vip
 psy-ducks.xyz
 psy-foundation.xyz
@@ -89875,6 +89887,7 @@ seedify-funds.vercel.app
 seedlfiy.com
 seedofaith.net.ng
 seedphrasedrainer.pages.dev
+seedphrasefinder.xyz
 seedtfy.com
 seedworld-toys.xyz
 seeee.cc
@@ -95754,6 +95767,7 @@ stardger----io.webflow.io
 starex.bet
 starex1.bet
 stargambling.top
+stargate-finance-project.xyz
 stargate-financee.github.io
 stargate.finance-app-defi.com
 stargate.finance-app-web3.com
@@ -102383,6 +102397,7 @@ towns.sushiswap.best
 townsevm.xyz
 tox.bet
 tox23.com
+tox3.im
 toxbet.top
 toxcas.com
 toxcrypt.com
@@ -113969,6 +113984,8 @@ win-slots.world
 win-soft.org
 win-up.life
 win-win.ac
+win138cu4n.sbs
+win138cuan.sbs
 win138gov.com
 win138play.xyz
 win138play.xyz/slots/pragmatic
@@ -115789,6 +115806,7 @@ www.chainshieldhub.pro
 www.chainvault.codewebdemos.sbs
 www.chairmanbkk.com
 www.chalengermode.com
+www.champsautoaz.com
 www.charlesschwabbrokers.com.fxprimeinvest.com
 www.cheat.city
 www.check-heleket.com
@@ -116143,6 +116161,7 @@ www.gaiaprotocol.xyz
 www.gale100pomansba.site
 www.gamecuan.id
 www.gamesofdesire.com
+www.gangnammoore.com
 www.gareenteeairbank.com
 www.gasstation.ai
 www.gatebase.business

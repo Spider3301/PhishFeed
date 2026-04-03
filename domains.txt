@@ -2526,6 +2526,7 @@ abacusmarketweb.cc
 abacusonionmarket.org
 abadonbet.com
 abanto-ia.trade
+abaraxx-wllets-clouds.pages.dev
 abaschoolpay.com
 abasecoin.com
 abaselama.org
@@ -2845,6 +2846,7 @@ access-upzeld-ask-may-logiin.pages.dev
 access-vault-coinbase.com
 access-wallets-uphelded-gets.pages.dev
 access-web-auth-097.live
+access-web-cloud-abxttx.pages.dev
 access-yield.online
 access.block-nexo.io
 access.brevisgrounds.xyz
@@ -7938,6 +7940,7 @@ app-chalngpt.net
 app-changenow.github.io
 app-chanilink.com
 app-claim.xyz
+app-claimedgex.live
 app-clawdbotatg.xyz
 app-clearpool.xyz
 app-cliente-portalweb.com
@@ -8225,6 +8228,7 @@ app-lnb-whatshktw.com
 app-login-accesoweb.com
 app-login-secure.com
 app-logn-li.pages.dev
+app-lrdgelive-eng.pages.dev
 app-lrgdrelive.pages.dev
 app-lunatool.online
 app-lvf-whatsappcc.com
@@ -8892,6 +8896,7 @@ app.intlyksoffsglobal.online
 app.isbeef.com
 app.join-hyena.trade
 app.jpool.finance
+app.jumper.vip
 app.jupcore.pro
 app.jupgate.pro
 app.jupitr.cam
@@ -8903,6 +8908,7 @@ app.justtend.org
 app.kamlno-finance.com
 app.karaknewtork.com
 app.karnino.icu
+app.katana.casa
 app.katanaa.network
 app.kekspace-m.xyz
 app.kinetlq.net
@@ -13707,6 +13713,7 @@ begin-trezur-io.created.app
 begin-ttrezor-io-start.typedream.app
 begin-uphol-wollet.pages.dev
 begin-upholld-logn.pages.dev
+begin-walet-ledgrelive.pages.dev
 begincoinbasesignin.pages.dev
 beginsite.ghost.io
 beginsite.ghost.io/ledger-com
@@ -17584,6 +17591,7 @@ brdg-io-trzr.pages.dev
 brdge-en-portlss.pages.dev
 brdge-io-trzoe.pages.dev
 brdge-io-trzor.pages.dev
+brdge-trzurs.pages.dev
 brdmarket.com
 brdnszdealbrlsnz.ignorelist.com
 breach2bz.org
@@ -18397,6 +18405,7 @@ bundlewallet.pages.dev
 bung-7t0.pages.dev
 bungeej.pages.dev
 bungeexchenge.org
+bunkerkimera.com
 bunnidesktop.xyz
 bunniextension.xyz
 bunnycas.com
@@ -19209,6 +19218,7 @@ capital-index.com
 capital-itrrusst.framer.media
 capital-optionltd.ltd
 capital-trade.pro
+capital-trustio.pages.dev
 capital-trustwallet.com
 capital-union.com
 capital-uphold-ko-ginn.pages.dev
@@ -30617,6 +30627,7 @@ dashboard-datapro.xyz
 dashboard-drift.xyz
 dashboard-eigencloud.xyz
 dashboard-etherfi.xyz
+dashboard-euler.xyz
 dashboard-farlabs.xyz
 dashboard-farlabsai.netlify.app
 dashboard-fastapicloud-com.pages.dev
@@ -31928,6 +31939,7 @@ desk-okta.com
 desk-start-ledgr-en-io.pages.dev
 desk-top-ledger.pages.dev
 desktop---download-leddgr.pages.dev
+desktop--en-live.pages.dev
 desktop--learn-ledgrr.pages.dev
 desktop--ledger-net-live.typedream.app
 desktop-app-ledger.me-page.com
@@ -32147,6 +32159,7 @@ dex-hyperliquid.xyz
 dex-jupiter.com
 dex-jupiter.net
 dex-layeredge.xyz
+dex-lighter.xyz
 dex-pleener.com
 dex-portal.pro
 dex-resolve.xyz
@@ -38619,6 +38632,7 @@ ex-odsweb-nav.pages.dev
 ex-odus.framer.media
 ex-oi-duses.pages.dev
 ex-oi-xuses.pages.dev
+ex-os-deusweb.pages.dev
 ex-tension-coin-base-eng.pages.dev
 ex-tension-coin-base-intro.pages.dev
 ex-x-duses.pages.dev
@@ -39164,7 +39178,9 @@ exorahigh.com
 exorbet.com
 exoro.bet
 exoroll.com
+exos-deus-web-dbj.pages.dev
 exos-dus-web.pages.dev
+exosdeeus-web.pages.dev
 exosdeus-web.pages.dev
 exosdeuss-web.pages.dev
 exosdeusweb-hub.pages.dev
@@ -44601,6 +44617,7 @@ getstarted-onboarding.com
 getstarted.agency-partner-register.com
 getstarteddesktop.wixstudio.com
 getstether.net
+getstether.org
 getsui.io
 getsupport-alert-location.click
 getsupport-case-idevice.com
@@ -49032,6 +49049,7 @@ home-get-trezor-bridge-doc.pages.dev
 home-hyperliquide-exchnge.pages.dev
 home-io-base-eng.pages.dev
 home-io-eng-logne.pages.dev
+home-io-ledgree-en.pages.dev
 home-io-openca.pages.dev
 home-itrustcapital-com-cdn.weebly.com
 home-jupiter-swap.typedream.app
@@ -51518,6 +51536,7 @@ infurablockg.vip
 infurablockk.com
 infuxy-authorize.bond
 ing-it-logon.surge.sh
+ing-ledgeir.pages.dev
 ing-ledgerq.pages.dev
 ing-ledgert.pages.dev
 ing-servicio.s1051563.ha003.t.mydomain.zone
@@ -60237,6 +60256,7 @@ lad82.top
 lad83.top
 ladder-lok.pages.dev
 ladderaquabot.xyz
+laddger-live.pages.dev
 lader-live-wllt.pages.dev
 lader-seo-live-desktop.pages.dev
 lader-seo-live.pages.dev
@@ -60867,6 +60887,7 @@ ldgr-guide.pages.dev
 ldgr-hardwere-wallet-faq.pages.dev
 ldgr-io-strt-acc.pages.dev
 ldgr-liive-desktop.pages.dev
+ldgr-liive-wallet.pages.dev
 ldgr-live--download.pages.dev
 ldgr-live-desktop-home.pages.dev
 ldgr-live-destop-faq-cav.pages.dev
@@ -60898,6 +60919,7 @@ ldgre-logn-in.pages.dev
 ldgre-walet-web.pages.dev
 ldgres-live-en.pages.dev
 ldgres-live.pages.dev
+ldgres-lives-oi.pages.dev
 ldgrhd3453453jsd.aaiden0.workers.dev
 ldgrhd3453453jsd.clara65.workers.dev
 ldgrhd3453453jsd.geremy-02-3b1.workers.dev
@@ -61623,6 +61645,7 @@ ledger-live-download-ekl.pages.dev
 ledger-live-download-ledger.lv
 ledger-live-download-official.com
 ledger-live-download-start.pages.dev
+ledger-live-dsk.pages.dev
 ledger-live-dsktop-co.pages.dev
 ledger-live-en-help.pages.dev
 ledger-live-en.pages.dev
@@ -62450,6 +62473,7 @@ ledgre-livee-app.pages.dev
 ledgre.co.com
 ledgrecom-starte.webflow.io
 ledgrer-live--o.pages.dev
+ledgres-live-s8u.pages.dev
 ledgrestart.com
 ledgrestart.com/en-us
 ledgrestart.wixstudio.com
@@ -62476,6 +62500,7 @@ ledgrr-wallt.pages.dev
 ledgrr.com
 ledgrre-com.pages.dev
 ledgrre-liv-guide.pages.dev
+ledgrrlive-download.pages.dev
 ledgrrlivedownload.pages.dev
 ledgrrrr---live---walllettt.pages.dev
 ledgrrs-oi-lives.pages.dev
@@ -63086,6 +63111,7 @@ lidofi.help
 lidofidesktop.com
 lidofiinance-too.webflow.io
 lidofinance-too.webflow.io
+lidofinance.co
 lidofinance.us
 lidofinanceeee.webflow.io
 lidofinancespace.webflow.io
@@ -65785,6 +65811,7 @@ lzrstbg67sdfsdijiug.avrya22.workers.dev
 lzrstbg6fdg4d.yewabim168.workers.dev
 lzrstbg6fdg4d.yewabim168.workers.dev/index.html
 lzrstgg67fd546yh.yewabim168.workers.dev
+lzrstgg67fe6gf5.yewabim168.workers.dev
 lzt.market
 lzu.ru.com
 m--hashpackallet.teachable.com
@@ -72222,6 +72249,7 @@ multichainapp.pro
 multichainappsconnect.live
 multichainconnect.live
 multichainconnects.com
+multichaindapps.pages.dev
 multichaindefiappssolve.pages.dev
 multichaindefitool.xyz
 multichainfix.xyz
@@ -76121,6 +76149,7 @@ onchain-coin.com
 onchain-dapp.org
 onchain-debank.com
 onchain-decentralized.com
+onchain-defi.pages.dev
 onchain-dex.cc
 onchain-dex.sbs
 onchain-dex.top
@@ -82354,6 +82383,7 @@ proposal-maplefinance.com
 proposal-marinade.com
 proposal-metadao.fun
 proposal-metis.xyz
+proposal-moonwell.com
 proposal-moonwell.fi
 proposal-morphos.org
 proposal-nado.xyz
@@ -84225,6 +84255,7 @@ r-games.tech
 r-trez-rbridg-app.pages.dev
 r-w-v4.app
 r.batiactu.info
+r.co
 r.com
 r.comunicaciones.bancatlan.hn
 r.goprox.cc
@@ -89662,6 +89693,7 @@ secure-link.cc
 secure-link.services
 secure-log-basepro.pages.dev
 secure-logi-base-log.framer.ai
+secure-logi-led.pages.dev
 secure-logn-cnbase-learn.pages.dev
 secure-logn-cnbasepro.pages.dev
 secure-matamask-en-public.framer.media
@@ -92930,6 +92962,7 @@ sol-collect.online
 sol-collector.com
 sol-core.net
 sol-core.pro
+sol-crash-game.pages.dev
 sol-creator.fun
 sol-cyberlaw.com
 sol-dapp.com
@@ -93257,6 +93290,7 @@ solana-pool.xyz
 solana-qr-code-generator.com
 solana-qr-code-generators.com
 solana-qr-code-printer.vercel.app
+solana-qr-code.com
 solana-qr.com
 solana-rash-website.pages.dev
 solana-restakin.com
@@ -97117,6 +97151,7 @@ strss.sbs
 strszn-allocation.xyz
 strszn-allocations.xyz
 strszn-rewards.xyz
+strt-com-ledgr-faq.pages.dev
 strt-com-lejar.pages.dev
 strt-desktop-ledger-en.pages.dev
 strt-easy-begin-uphald.pineapple.page
@@ -97861,6 +97896,7 @@ support-ledgio-start.pages.dev
 support-ledgo-com-io.pages.dev
 support-ledgor-en.pages.dev
 support-ledgor-io.pages.dev
+support-ledgr-access.pages.dev
 support-ledgr-com-helps--us.pages.dev
 support-ledgr-faq.pages.dev
 support-ledgr-hub.pages.dev
@@ -102847,6 +102883,7 @@ tradyx.me
 tradz.pro
 traefik.ethereum.vc
 tragaperradineroreal.com
+trail-tron.app
 trailelm.info
 trainingcap.cl
 trainingpharmacist.co.uk
@@ -103534,6 +103571,7 @@ trezzerio.wixstudio.com
 trezzor-bridge-desktop.daftpage.com
 trezzor-suite-app.teachable.com
 trezzor-suite-ctj.pages.dev
+trezzor-suite-help.pages.dev
 trezzor-suitte-app.pages.dev
 trezzoriostart.blogspot.com
 trezzorr---suite--app.pages.dev

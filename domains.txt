@@ -31834,6 +31834,9 @@ dep30h.com
 dep30h.icu
 dep30h.net
 dep30h.org
+dep36t.com
+dep36t.net
+dep36t.org
 dep46t.sbs
 dep57t-coinstats.com
 dep57t.com
@@ -60112,6 +60115,8 @@ kvadun.icu
 kvadun.info
 kvadux.com
 kvadux.icu
+kvadux.net
+kvadux.sbs
 kvantsupdate.live
 kvardin.info
 kvconnlogon.webflow.io
@@ -70097,6 +70102,7 @@ mine58.net
 mine88.net
 mineaml.com
 minebestminingco.net
+minecore.cc
 minecraft-download-apk-1-20.pages.dev
 minecraft-download-code-switch.pages.dev
 minecraft-download-for-linux.pages.dev
@@ -110207,6 +110213,7 @@ virtuals.io-agents.com
 virtuals.io-dashboard.app
 virtuals.io-dashboard.com
 virtuals.lat
+virtuals.one
 virtualsagent.org
 virtualsagent.pro
 virtualsget.xyz
@@ -117933,6 +117940,7 @@ xai-official.sale
 xai-portal.com
 xai-verse.com
 xai-xa20r.com
+xai-xai20r.com
 xai.protousd.com
 xai122.com
 xai19p.com

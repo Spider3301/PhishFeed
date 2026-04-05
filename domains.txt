@@ -8949,6 +8949,7 @@ app.hypersol.live
 app.hyperswap.exchange.mypcpwallet.com
 app.hyperswapx.exchange
 app.hyperswsap.exchange
+app.hypertiquid.xyz
 app.hyperuinit.xyz
 app.hypierliquid.xyz
 app.hypurrfi.ink
@@ -12236,6 +12237,7 @@ axiwix.com
 axl-axelar-onchain-finance.net
 axl-sushi.xyz
 axlava.com
+axocode.vip
 axodus-web-com.pages.dev
 axoim.app
 axoim.lol
@@ -27480,6 +27482,7 @@ connect-sol-finder.vercel.app
 connect-start-ldger-io.pages.dev
 connect-started.ghost.io
 connect-started.ghost.io/exodus
+connect-suites-apps.wixstudio.com
 connect-ton.vercel.app
 connect-trast-io-app.pages.dev
 connect-tre-brid-com.pages.dev
@@ -45069,6 +45072,7 @@ getether.one
 getexponentix.com
 getfailsafeauthenticated.com
 getfar-express.com
+getflashbtc.com
 getflashusdt.com
 getflashusdt.org
 getflstudio.com

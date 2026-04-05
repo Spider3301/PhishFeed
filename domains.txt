@@ -3812,6 +3812,7 @@ agency-model.com
 agency.enkpay.com
 agency18.partner-connect-marketing.com
 agencycentre-meta.com
+agent-2mx.pages.dev
 agent-help-coinbase.com
 agent.coinbasepay.tech
 agent.deribitltd.cc
@@ -9604,6 +9605,7 @@ apps-believe.com
 apps-celus.zone
 apps-claim-monad.xyz
 apps-coinext.wixstudio.com
+apps-coinsext.wixstudio.com
 apps-doublezero.xyz
 apps-dydx.xyz
 apps-etuktuk-io.pages.dev
@@ -9717,6 +9719,7 @@ appsuit.wixstudio.com
 appsuite-trezos.wixstudio.com
 appsuite-trezro.wixstudio.com
 appsuite.free.site.pro
+appsuites-trezro.wixstudio.com
 appsuites.framer.ai
 appsuitetrezor.created.app
 appswallet-connect.web.app
@@ -11316,6 +11319,7 @@ atualizacaodecadastro.digital
 atualizacaodedispositivo.digital
 atualizacaomodulotopaz.com
 atualizacaouser.digital
+atumic.wixstudio.com
 atvbz.app
 atvercel.com
 atyommicwallet.webflow.io
@@ -11562,6 +11566,7 @@ auth-land.su
 auth-ldgr-liv.pages.dev
 auth-ldgr-live.pages.dev
 auth-ldgr-login.pages.dev
+auth-le-zr-io.pages.dev
 auth-learn-coinbseproo.pages.dev
 auth-ledger-com-secure.square.site
 auth-ledger-com-strt.pages.dev
@@ -16518,6 +16523,7 @@ blockdag-network-en.web.app
 blockdag-network.com
 blockdag-networknets.web.app
 blockdag-networks.pages.dev
+blockdag-presale-website-41e.pages.dev
 blockdag-server.web.app
 blockdag.online
 blockdagairdrop.pages.dev
@@ -36583,6 +36589,7 @@ en-ex-xodusweb.pages.dev
 en-exdosweb-usa.pages.dev
 en-exdus-web.pages.dev
 en-exdus.wixstudio.com
+en-exo-dus.wixstudio.com
 en-exo-us.pages.dev
 en-exodua-io-web.pages.dev
 en-exodus-e.pages.dev
@@ -44054,6 +44061,7 @@ galiciacgu.ar
 galidix-invest.com
 galixwallet.co.com
 gallabet1066.com
+gallaxis.cc
 galleonwallet.app
 gallery.billy-chiu.com
 galleta.jdevcloud.com
@@ -44911,6 +44919,7 @@ get-started-aave-wallet-4ei.pages.dev
 get-started-astr-netwrk-us.pages.dev
 get-started-coinbase-wallet.pages.dev
 get-started-desktop.wixstudio.com
+get-started-en-us.wixstudio.com
 get-started-en.wixstudio.com
 get-started-leger-web.pages.dev
 get-started-public-uphldapp.pages.dev
@@ -45154,6 +45163,7 @@ getting-started-ledgr-easily.pages.dev
 getting-started-sign-in-now-103316.weeblysite.com
 getting-started-sign-in-now.weeblysite.com
 getting-started-sui-wallet-en.pages.dev
+getting-starten.wixstudio.com
 gettingstart.ghost.io
 gettonhub.com
 gettradegenius.com
@@ -49660,6 +49670,7 @@ home-kraken-cdn.daftpage.com
 home-kraken-com-log.square.site
 home-kraken-log.framer.ai
 home-kraken-log.framer.media
+home-kucoen-eng.pages.dev
 home-kucoiin-eng.pages.dev
 home-kucoinhelps-cdn.tem3.io
 home-ldger-i.pages.dev
@@ -54992,6 +55003,7 @@ kai-systems.cfd
 kaicas.com
 kaicasino.com
 kaicat-30f.pages.dev
+kaicatsale.pages.dev
 kaicatsales.pages.dev
 kaicenatbet.com
 kaidora.info
@@ -60974,6 +60986,7 @@ ladexdelivery.com
 ladger-co-start-us.pages.dev
 ladger-com-start-web.pages.dev
 ladger-com-started.pages.dev
+ladger-enus.wixstudio.com
 ladger-hardwere-wallet-info.pages.dev
 ladger-laive.pages.dev
 ladger-liv-wallet-download.pages.dev
@@ -61930,6 +61943,7 @@ learnblocksmart.com
 learnen-ledgrstart.pages.dev
 learning-about.com
 learnioweb.ghost.io
+learnpagebridge.wixstudio.com
 learns-bridge-trezr.typedream.app
 learns-ex-coinbase-io.pages.dev
 learns-live-ledgr.pages.dev
@@ -91602,6 +91616,7 @@ setup-trez-en.created.app
 setup-trezre.pages.dev
 setup.trozre.com
 setupdish.zone
+setupledger.wixstudio.com
 setupupdatewallet.center
 setval.top
 setxbet.com
@@ -92560,6 +92575,7 @@ skatechain.team
 skatechain.us
 skatechaincore.xyz
 skazki-olga-bogacheva.kz
+skeelosoft.com
 skeet-v3-solana-dapp-rc.pages.dev
 skeletonvoting.xyz
 skendbux.com
@@ -97504,6 +97520,7 @@ starts-trazor.wixstudio.com
 starts-trexorio.wixstudio.com
 startsgaiblack.com
 startsledgeer.created.app
+startsledgor.wixstudio.com
 startt---sso--kucoinn.webflow.io
 startt--leidgre-comm.webflow.io
 startt-ledgerrcom-en.pages.dev
@@ -98763,6 +98780,7 @@ suites-trezre-en.pages.dev
 suites-trezri-en.pages.dev
 suites-trezzor.pages.dev
 suites.framer.ai
+suitesapp.wixstudio.com
 suitesapp.zapier.app
 suitesapps.framer.ai
 suiteshome.wixstudio.com
@@ -104338,6 +104356,7 @@ treasuremart.com
 treasurescapitalpartnerslimited.com
 treasurestrustdelivery.com
 treasuresuit.framer.ai
+treasuresuit.wixstudio.com
 treasuretradealliance.com
 treasurresuit.framer.ai
 treasury-aerodrome.com
@@ -104483,6 +104502,7 @@ tresor-sui-t.pages.dev
 tresorcapitalinvest.com
 tresortradevia-invest.com
 trest--wallet-enn.pages.dev
+tresuite-home-en.wixstudio.com
 tresuite-home.zapier.app
 tresuite-trezo.wixstudio.com
 tresure-chests.xyz
@@ -104506,6 +104526,7 @@ trexor-io-start-en-us.pages.dev
 trexor-io-start-me.pages.dev
 trexor-view.wixstudio.com
 trexorbridge.wixstudio.com
+trexorsuite-global.wixstudio.com
 trexorsuite-io.pages.dev
 trextrade.xyz
 trexvault.com
@@ -109464,6 +109485,7 @@ usdwon.com
 usdwon.eu
 usdxproof.com
 use-base-extension-wallet.pages.dev
+use-trzr-suite-app.pages.dev
 use-wallttrzr---rr.pages.dev
 use05webzoom.us
 useamplify-financial-capital.com
@@ -114696,6 +114718,7 @@ website-e8dce2af.pop.owl.temporary.site
 website-krakenio.daftpage.com
 website-toko.vercel.app
 website-web-meta.square.site
+website-zqc.pages.dev
 website.fidelitylabs.dev.br
 website.kwmobi.com
 website1-beo.pages.dev

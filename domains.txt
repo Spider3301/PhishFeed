@@ -3686,6 +3686,7 @@ aethir.beefyhubs.lol
 aethir.beefyhubs.monster
 aethir.beefyhubs.sbs
 aethir.click
+aethir.entrance-cryptolist.net
 aethir.hub-airdropalert.click
 aethir.portal-hubs.cfd
 aethir.portal-hubs.lat
@@ -10037,6 +10038,7 @@ arcmarket.pro
 arcmessage.xyz
 arcnetwork.vercel.app
 arcoin.global
+arcpay-xyz.netlify.app
 arcpayai.xyz
 arcpayment.net
 arcpays.xyz
@@ -20150,6 +20152,7 @@ cashmachine.onl
 cashnatural.com
 cashon.pro
 cashout-gcashl.live
+cashoutrewards.roblox-635.workers.dev
 cashstakes.top
 cashstashnc.com
 cashtags-x.com
@@ -28822,6 +28825,7 @@ cryptidsgame.io
 cryptio.top
 cryptionix.xyz
 cryptip.me
+cryptium.cc
 cryptixo.site
 cryptixplay.com
 cryptixpro.com
@@ -43222,6 +43226,7 @@ forrestgainlux.net
 forsale.dynadot.com
 forsemur.com
 fort-drop.com
+fort2026.com
 fortbh.com
 fortbitcapital.com
 fortcas.com
@@ -45429,6 +45434,7 @@ getxeno.app
 getxeno.org
 getxgame777.top
 getxrp25.com
+getxrp26.com
 getxwebsite.top
 getyacdn.ru
 getyo.icu
@@ -74136,6 +74142,7 @@ myixi-power.com
 mykeystoparis.com
 mykrakeenlogin.wordpress.com
 mykrakenlogins.webflow.io
+mykrkenlogin.wordpress.com
 myledger-app.com
 myledgerlivesycronizationwebapp.com
 myledgerwebapp.com
@@ -77415,6 +77422,7 @@ okxweb3.io
 okxweb3.us
 okxweb3wallet.io
 okycoin.net
+olaf-group.online
 olas-register.xyz
 olas-registers.xyz
 olas.sushiswap.tech
@@ -83959,6 +83967,7 @@ proposals-asters.com
 proposals-asters.votings.workers.dev
 proposals-chain.com
 proposals-curves.network
+proposals-ethena.finance
 proposals-ethena.network
 proposals-giza.xyz
 proposals-hyperlend.finance
@@ -86828,6 +86837,7 @@ realbullnestsk.com
 realcameras.info
 realclaim.fun
 realestate-vista.com
+realestatemoney.pages.dev
 realestateonreels.com
 realfi.online
 realficoin.com
@@ -89378,6 +89388,7 @@ rovinnhood-learn-login.pages.dev
 rownowaga-invrevo.com
 roxacas.com
 roxbet.cc
+roxbolit.lol
 roxbom.com
 roxborn.com
 roxdey.cc
@@ -109593,6 +109604,7 @@ usd1official.live
 usd2c.cyou
 usd65k.com
 usdai-predeposit.net
+usdai.fi
 usdai.finance
 usdai.governance-proposals.xyz
 usdai.network
@@ -110903,6 +110915,7 @@ valley.conevalley.net
 valmoz.top
 valo-grab.com
 valo-loot.cc
+valo-luck.cc
 valo-stix.com
 valoepic.com
 valoevent.rest
@@ -110932,6 +110945,7 @@ valoreal-capital.com
 valorexcoincargo.com
 valorfest.rest
 valorfun.xyz
+valorivals.com
 valors.network
 valostrike.com
 valotb.icu

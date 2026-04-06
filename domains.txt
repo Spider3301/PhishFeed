@@ -46383,6 +46383,7 @@ gorapide.com
 gorbagana-chain.com
 gorbagana-whitelist.com
 gorbagana-wtf.world
+gordenmart.cfd
 gorderix.com
 gordon-allocation.xyz
 gordon-allocations.xyz
@@ -46496,6 +46497,7 @@ governance-uniswap.com
 governance-usdai.xyz
 governance-usefelix.trade
 governance-velo.finance
+governances-ethena.finance
 governo.vip
 govmyclaimpro.info
 govpaymentconnect.com
@@ -46929,6 +46931,7 @@ gro82x-fxempire.com
 gro82x.com
 gro82x.net
 gro82x.org
+gro87.net
 gro87x-cointelegraph.com
 gro87x-cryptoslate.com
 gro87x-fxempire.com
@@ -79448,6 +79451,7 @@ paymathhq.com
 paymathsolutions.com
 paymathtech.com
 paymathweb.com
+paymenku.com
 payment-cryptomus.com
 payment-pinetworks.com
 payment-pump.fun
@@ -86430,6 +86434,7 @@ reallocation-flyingtulip.com
 reallocation-mitosis.com
 reallocation-mmtfinance.app
 reallocation-saharaai.com
+reallocation-usdai.com
 reallocations-mmtfinance.app
 realmedshop.com
 realminersforum.pro
@@ -104491,6 +104496,7 @@ treasury-superverse.com
 treasury-telco.in
 treasury-telcoin.cc
 treasury-telcoin.network
+treasury-usdai.com
 treasury-zora.com
 treasury.astersdex.io
 treasury.checker-asterdex.app
@@ -112427,6 +112433,8 @@ voting-terraformation.com
 voting-tibbirs.com
 voting-trillions.com
 voting-trillions.info
+voting-usdai.org
+voting-usdai.xyz
 voting-vibestr.com
 voting-vibestr.pages.dev
 voting-virtual.app

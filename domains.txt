@@ -32438,6 +32438,8 @@ dep36t.icu
 dep36t.net
 dep36t.org
 dep46t.sbs
+dep48k.com
+dep48k.net
 dep57t-coinstats.com
 dep57t.com
 dep57t.icu
@@ -53661,6 +53663,7 @@ irejuu.digital
 iren-limited.com
 irestore.apple.doxicora.cloud
 iribetbrazil.com
+iridia.me
 irios-sol.pages.dev
 irit.rastamojim.ru
 iriys.xyz

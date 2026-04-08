@@ -2792,6 +2792,7 @@ access-globalpy.com
 access-guildguards.xyz
 access-helps-base-extension.pages.dev
 access-helps-bridges-tronoz.pages.dev
+access-hyperliqueed-exchange.pages.dev
 access-koins-en-us.pineapple.page
 access-krakeen-us-dekstop.pineapple.page
 access-kraken-en.pages.dev
@@ -9790,6 +9791,7 @@ appsilo.finance
 appslog.ghost.io
 appsolmint.com
 appsolstice.finance
+appsphantom.wixstudio.com
 appsprotocols.com
 appsraslapotsa.blogspot.com
 appsstarted.ghost.io
@@ -32538,6 +32540,9 @@ dep36t.org
 dep46t.sbs
 dep48k.com
 dep48k.net
+dep52k.com
+dep52k.net
+dep52k.org
 dep57t-coinstats.com
 dep57t.com
 dep57t.icu
@@ -32847,6 +32852,7 @@ devbord.pages.dev
 devchain-vercel.site
 devchain.cloud
 devchain.dev
+devchainsupport.pages.dev
 devconnection.xyz
 devconnectwallet.pages.dev
 devdefidash.xyz
@@ -51246,6 +51252,7 @@ huntex.cc
 huntingtnbkltd.com.wstrustcap.com
 huntingtoncommunity-inc.com
 huntspin.com
+huo.be
 huobi-register.com
 huobi.br.com
 huobits.com
@@ -55262,6 +55269,7 @@ jupairdrops.pages.dev
 jupallocation.com
 jupapp.top
 jupapp.xyz
+jupasr.cc
 jupasr.lat
 jupauthendapp-xyz.pages.dev
 jupbatch.com
@@ -55340,6 +55348,7 @@ jupiter-ag.live
 jupiter-ag.net
 jupiter-ag.sbs
 jupiter-agg.xyz
+jupiter-aggrgtor-auth-en.pages.dev
 jupiter-ags.pages.dev
 jupiter-agz.world
 jupiter-airdrop-round-2.pages.dev
@@ -63498,6 +63507,7 @@ ledger-lonedo.pages.dev
 ledger-lonedre.pages.dev
 ledger-lonedy.pages.dev
 ledger-m--auth-info.webflow.io
+ledger-mac.com
 ledger-mcp.pages.dev
 ledger-memory.com
 ledger-nano-x.com
@@ -63510,6 +63520,7 @@ ledger-official.pro
 ledger-okta.com
 ledger-online-wallet.com
 ledger-online.alarmtotaal.eu
+ledger-online.com
 ledger-op3n.com
 ledger-org.pages.dev
 ledger-orpin-tan-omega-firgme-rule-324324-psi.vercel.app
@@ -101069,6 +101080,7 @@ sushiswap.trade
 sushiswapev3.pages.dev
 sushiswapfix.com
 sushiswapp-exchangg-eng.pages.dev
+sushiswapp-trade-eng.pages.dev
 sushiswaprectifier.pro
 sushiswaps.app
 sushiswaps.pages.dev
@@ -101214,6 +101226,7 @@ swap-v4.com
 swap-velar.pages.dev
 swap-w-v4.app
 swap-web3-exodus.typedream.app
+swap-zeddex-io-us.pages.dev
 swap.agentmpp.xyz
 swap.bitmoya.com
 swap.blockdag.network.collabscare.com
@@ -106705,6 +106718,7 @@ tronlink-en.com
 tronlink-h5-prod.pages.dev
 tronlink-h5.infantry5.com
 tronlink-h5.pages.dev
+tronlink-network.pages.dev
 tronlink-pro.cc
 tronlink-token.app
 tronlink-wallet.at
@@ -109585,6 +109599,7 @@ updateape.live
 updated-defilama-io.pages.dev
 updated-exchange-dydx-wallet.pages.dev
 updated-rabby-wallet.pages.dev
+updated-sushiswap-v2.pages.dev
 updated-swap-raydium.pages.dev
 updatedetails.com
 updatedog.live

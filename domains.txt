@@ -11956,6 +11956,7 @@ authwalls-trump.cfd
 autismcoin.club
 autismcoin.pro
 autismonsol.fun
+autnhentlcatlon.live
 auto-crypto.click
 autoamlbot.com
 autobahn.lol
@@ -15518,6 +15519,7 @@ bitcoinexodus.com
 bitcoinexplorer.cc
 bitcoinflash-software.com
 bitcoinforallages.org
+bitcoinforcorporations.com
 bitcoingenesisai.com
 bitcoingex.com
 bitcoinglobal-system.com
@@ -21703,6 +21705,7 @@ chainresolverdapp.com
 chainretificator.com
 chainrewards.app
 chains-nodex.com
+chainsatlas.live
 chainscore.org
 chainsdapp.net
 chainsecurevault.com
@@ -63054,6 +63057,7 @@ leddgger.cc
 leddggr-com-start.pages.dev
 leddgr-com-start.pages.dev
 leddgr-desktop-live-en.pages.dev
+leddgr-live-en-desktop.pages.dev
 leddgrliv.framer.media
 leddgrr-live-faq.pages.dev
 leddowad.pages.dev
@@ -68389,6 +68393,8 @@ maheshkalvakuntala-ctrl.github.io
 mahidhar-3997.github.io
 mahiyasingh.github.io
 mahjong5000.rest
+mahjongwin138.com
+mahjongwin138.it.com
 mahjongwin138.org
 mahjongwin138f.vip
 mahjongwin138h.vip
@@ -71081,6 +71087,7 @@ metamdasksldn.webflow.io
 metamdsk.io
 metamedconnect.com
 metamesk-io-en.pages.dev
+metamesk-login.pages.dev
 metamesk-wallet-io.pages.dev
 metamesk-web-auth.daftpage.com
 metameskelogi.webflow.io
@@ -75163,6 +75170,7 @@ mytrezorhelpdesk.com
 mytronlink.com
 mytrustcard.net
 mytrustvalidator.com
+mytrustwallet.co.usdtbnb.pro
 mytrustwallet.org
 myttamuskklognn.webflow.io
 myupholdio.dream.space
@@ -78997,6 +79005,7 @@ openloop.zone
 openmind-fabric.web.app
 openmindearly.web.app
 openmint.web.app
+openoccean-swap-en-us.pages.dev
 openocean-finance.pages.dev
 openocean-swap.pages.dev
 openocean.website
@@ -83132,6 +83141,8 @@ poly-web3.com
 polyagentbot.com
 polyairdrop.fun
 polyalpha.cc
+polyarb.app
+polyarb.bot
 polyarb.io
 polybeta.market
 polybot-5vj.pages.dev
@@ -85064,6 +85075,16 @@ prowix-edge.net
 prowixedge-cz.net
 proworkflow.ai
 proxette.cc
+proxif.ai
+proxifai.ai
+proxifai.cloud
+proxifai.com
+proxifai.eu
+proxifai.info
+proxifai.net
+proxifai.pro
+proxifai.shop
+proxifai.store
 proximaplus.com
 proximus.at
 proximusloginauthbe.homeftp.net
@@ -85073,6 +85094,17 @@ proxy-de.steganos.com
 proxy.jmkjsh.com
 proxy.skytale.finance
 proxycas.com
+proxyf.ai
+proxyfai.ai
+proxyfai.cloud
+proxyfai.com
+proxyfai.digital
+proxyfai.eu
+proxyfai.net
+proxyfai.online
+proxyfai.org
+proxyfy.cloud
+proxyfy.online
 proxypush.com
 proxysales.cc
 proyieldapp.com
@@ -86576,6 +86608,7 @@ quantuminvest.app
 quantumledgersecure.com
 quantumledgersecv.com
 quantumledgertradefi.com
+quantumledgerweb3hub.com
 quantumledgerweb3vaults.com
 quantumliberty-inv.com
 quantumlibertyfin.com
@@ -97970,6 +98003,7 @@ sso---itrustcapital-com---auth.webflow.io
 sso---robinhood---com---cdn---autth.webflow.io
 sso---robinhood--com--cdn--h--autth.webflow.io
 sso---uphold-com---cdn--xx-autth.webflow.io
+sso--app-uphold-cdn.typedream.app
 sso--atomic-wallet--cdn--auth.webflow.io
 sso--atomicwallet-cdn---auth.webflow.io
 sso--azure-netcoins-com-cdn-autths.webflow.io
@@ -103944,6 +103978,7 @@ tetherwallets.com
 tetherwiki.net
 tetherworld.live
 tetimons.click
+tetra-usd.com
 tetrachoice.com
 tetrislaunch.com
 tetzelstandardcapital.com
@@ -107635,6 +107670,7 @@ trustcard.live
 trustcard.uno
 trustcardin.site
 trustcardpay.app
+trustcards.eu
 trustcards.icu
 trustcards.io
 trustcards.space
@@ -121682,6 +121718,7 @@ xaman-app.world
 xaman-elh.pages.dev
 xaman-foundation.app
 xaman-pass.com
+xaman-reward.com
 xaman-rewards.com
 xaman-wallet.world
 xaman-world.app

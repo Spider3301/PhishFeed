@@ -9572,6 +9572,7 @@ application-dashboard.pages.dev
 applicationodefix.mov
 applicatonupdate.fyi
 applive-en-us.pages.dev
+applive-ldgre.wixstudio.com
 applive-ledgr.pages.dev
 appllexcrypto.com
 applooksrare.info
@@ -18078,6 +18079,7 @@ bridge-s-guide.pages.dev
 bridge-s2.eu.com
 bridge-satoshivm-ajd.pages.dev
 bridge-setup.wixstudio.com
+bridge-software.wixstudio.com
 bridge-sologenic.org
 bridge-swap-tron.com
 bridge-swap-usdt.com
@@ -28425,6 +28427,7 @@ counteeglobalbnk.com
 counter-strike2.xyz
 countryandtownhouse.blog
 countrycapitalmc.org
+countrysidefiles.download
 coup.vicarshop.com
 coupleofdollars.app
 couponeau-invest.cfd
@@ -32724,6 +32727,7 @@ desktop-en-ldger.pages.dev
 desktop-en-ledger-live.pages.dev
 desktop-en-ledgrlive.pages.dev
 desktop-en-live.created.app
+desktop-en-us.wixstudio.com
 desktop-en.wixstudio.com
 desktop-eng.pages.dev
 desktop-global.wixstudio.com
@@ -32798,6 +32802,8 @@ desktopconnect.wixstudio.com
 desktopeng.wixstudio.com
 desktopglobal.wixstudio.com
 desktopinstallation.com
+desktoplive-started.wixstudio.com
+desktops-en-us.wixstudio.com
 desktopwallet-installer.com
 desktopwallet-installer.icu
 desktopwallet-installer.live
@@ -35888,6 +35894,7 @@ easter-ton-gift.vercel.app
 eastercatcoin.com
 easterncru-plc.com
 eastium-sphereplc.com
+eastjpn.com
 eastlhhjkhkgkkg.weebly.com
 eastlink-j636bjb47bb8bn4b8vv8b5858v8.weebly.com
 eastore-filecoin.vercel.app
@@ -37121,6 +37128,7 @@ en-desktop-ledge.framer.ai
 en-desktop-ledge.framer.ai/desktop
 en-desktop-ledgre-intro.pages.dev
 en-desktop-ledgrer.pages.dev
+en-desktop-live.wixstudio.com
 en-desktop-us.wixstudio.com
 en-desktop.wixstudio.com
 en-desktopp.wixstudio.com
@@ -37718,6 +37726,7 @@ eng-ledgrdesktop.pages.dev
 eng-ledgrdesktop.wixstudio.com
 eng-ledgrelive.pages.dev
 eng-ledgrlive-faq.pages.dev
+eng-ledgrlivee.pages.dev
 eng-ledxgeir.pages.dev
 eng-ledzeir.pages.dev
 eng-leger-hub.pages.dev
@@ -45504,6 +45513,7 @@ get-coinbse-logn.pages.dev
 get-coinbsextension-faq.pages.dev
 get-coinbsextension.pages.dev
 get-coinebsed.framer.media
+get-comledgr.wixstudio.com
 get-crypto.online
 get-cygnus.com
 get-defilama-wallet.pages.dev
@@ -48127,6 +48137,7 @@ guide-rabbyy-wallet.pages.dev
 guide-trazer.pages.dev
 guide-trezer-io-begin.pages.dev
 guide-trezer-suite.pages.dev
+guide-trzor-suite-io.pages.dev
 guide-trzr-x-bridge.pages.dev
 guide-upheld-en.pages.dev
 guide-uphold-login-hub.pages.dev
@@ -62954,6 +62965,7 @@ led-log-ger-us.pages.dev
 led-net1-9cjf.vercel.app
 led-zer-live-desktop.pages.dev
 ledak5l0t.net
+ledar.pages.dev
 leddegerrs.co.com
 leddge-comstart.wixstudio.com
 leddgeliva.github.io
@@ -63050,6 +63062,7 @@ ledgecmstarts.wixstudio.com
 ledgedesktop.wixstudio.com
 ledgee-livedesk.pages.dev
 ledgeenstarted.wixstudio.com
+ledgeer--live.pages.dev
 ledgeer-ccom-start.pages.dev
 ledgeer-com-get-start.pages.dev
 ledgeer-com-start-eng.pages.dev
@@ -63241,6 +63254,7 @@ ledger-delta-wet-woad-five-sigma-dfasf-324324-343244.vercel.app
 ledger-desk-top.pages.dev
 ledger-desk.pages.dev
 ledger-desktop-app-live.pages.dev
+ledger-desktop-en-us.pages.dev
 ledger-desktop-liv.pages.dev
 ledger-desktop-us.pages.dev
 ledger-desktop.pages.dev
@@ -64230,6 +64244,7 @@ ledghifur.cc
 ledghshg-zbnxndfjd.pages.dev
 ledgier-start.pages.dev
 ledgifiur.gl
+ledgir-live-web.pages.dev
 ledgity.co
 ledgjeer-liv.pages.dev
 ledgjsdjkjie.ac
@@ -66013,6 +66028,7 @@ live-openseasmint28.vercel.app
 live-openseasmint29.vercel.app
 live-openseasmint30.vercel.app
 live-openseasmint31.vercel.app
+live-plateform.wixstudio.com
 live-procoin.pages.dev
 live-shuffle.com
 live-stable.org
@@ -66094,6 +66110,7 @@ liveclaim-lucky08.vercel.app
 liveclaim-lucky09.vercel.app
 liveconnect.ghost.io
 liveconnect.ghost.io/en-desktop
+lived-desktop.wixstudio.com
 livedappsyncnode.co
 livedesk.framer.ai
 livedesktop.wixstudio.com
@@ -67695,6 +67712,7 @@ luxpot.top
 luxprofitplatform.com
 luxskinspromax.com
 luxslot.pro
+luxspin.cc
 luxspins.cc
 luxspinz.com
 luxury-trade.io
@@ -69880,6 +69898,7 @@ mellyos.github.io
 melo.gg
 meloautocargos.com
 melocas.com
+melomex.com
 melontnsgroup.com.ng
 melox.pro
 melrkl.xyz
@@ -77892,6 +77911,7 @@ official-exodus-web3.framer.ai
 official-exos.pages.dev
 official-exouds-app.pages.dev
 official-extension-sui-wallet.pages.dev
+official-global.wixstudio.com
 official-hashpack-en-us.pages.dev
 official-iphone.info
 official-jupiter-solana.pages.dev
@@ -81095,6 +81115,7 @@ pengunicebox.com
 pengunow.fun
 pengupdates.live
 pengupunks.pages.dev
+pengupunksabs.pages.dev
 pengusclub.com
 pengusol-drop.fun
 penguvoucher.com
@@ -98924,6 +98945,7 @@ started-desktop.wixstudio.com
 started-en-ldger.created.app
 started-en-us.ghost.io
 started-en-us.ghost.io/exodus
+started-eng-traizor.pages.dev
 started-extnsn-coinbase.square.site
 started-get.ghost.io
 started-get.ghost.io/desktop-en
@@ -98931,8 +98953,10 @@ started-kraken.framer.media
 started-kraken.pages.dev
 started-ledger.live
 started-ledgrlive.framer.ai
+started-live-en.wixstudio.com
 started-live-us.wixstudio.com
 started-live.wixstudio.com
+started-liveapp.wixstudio.com
 started-livedesktop.wixstudio.com
 started-lives-eng.wixstudio.com
 started-meta-wallet.pages.dev
@@ -100334,6 +100358,7 @@ suitesapp.wixstudio.com
 suitesapp.zapier.app
 suitesapps.framer.ai
 suiteshome.wixstudio.com
+suitestart.wixstudio.com
 suitestrezo.wixstudio.com
 suitestrzoor.wixstudio.com
 suitetresor.wixstudio.com
@@ -105999,6 +106024,7 @@ treasure--suit.framer.ai
 treasuremart.com
 treasurescapitalpartnerslimited.com
 treasurestrustdelivery.com
+treasuresuit-en.wixstudio.com
 treasuresuit.framer.ai
 treasuresuit.wixstudio.com
 treasuretradealliance.com
@@ -106140,6 +106166,7 @@ tresapex.com
 tresderiustart.webflow.io
 treserhomepage.wixstudio.com
 treserllogin.webflow.io
+tresor-bridge-ens.pages.dev
 tresor-fundrade.com
 tresor-log-page.pages.dev
 tresor-log.pages.dev
@@ -115679,6 +115706,7 @@ web-exoduss-io.pages.dev
 web-exoduss.pages.dev
 web-ext-metamask.gitbook.io
 web-extnsion-metmmask.typedream.app
+web-exuodus.pages.dev
 web-form-co.my.id
 web-frontend-c8z.pages.dev
 web-galxe.com

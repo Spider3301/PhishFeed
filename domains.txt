@@ -2966,6 +2966,7 @@ account-suspension-center.pages.dev
 account-trust-center.pages.dev
 account-trustwallet.com
 account-upholdd-eng-io.pages.dev
+account-walleet-aave.pages.dev
 account-wallet-connect.com
 account-weallet-verrtex.pages.dev
 account-yandex.net
@@ -37462,6 +37463,7 @@ en-us-live-legru.pages.dev
 en-us-livedesktop.wixstudio.com
 en-us-lives-legr.pages.dev
 en-us-lives-legre.pages.dev
+en-us-livledgr.pages.dev
 en-us-metamask-docs.pages.dev
 en-us-metamask.pages.dev
 en-us-opensea.pages.dev
@@ -37740,6 +37742,7 @@ eng-phantom.pages.dev
 eng-phantum.pages.dev
 eng-phntom.pages.dev
 eng-rabby-cdn.square.site
+eng-raydium-swaap.pages.dev
 eng-s-uit-use.pages.dev
 eng-start-trzor-io.pages.dev
 eng-started.ghost.io
@@ -40332,6 +40335,7 @@ explore-extension-coin.pages.dev
 explore-extensioncoinn.pages.dev
 explore-hyperliquid.pages.dev
 explore-iron-wallet-app.pages.dev
+explore-iron-wallet-new.pages.dev
 explore-jupiter-swap.pages.dev
 explore-jupiter-swapp.pages.dev
 explore-kra-keen--cds.pineapple.page
@@ -43071,6 +43075,7 @@ flasherc20.org
 flasherog.com
 flasherusdt.in
 flashether.com
+flashking.org
 flashmyusdt.com
 flashparcel.co.ke
 flashspin.top
@@ -47552,6 +47557,12 @@ gro11k.com
 gro11k.icu
 gro11k.net
 gro11k.org
+gro11z-cointelegraph.com
+gro11z-cryptoslate.com
+gro11z-fxempire.com
+gro11z.com
+gro11z.net
+gro11z.org
 gro15k.icu
 gro22v-cryptoslate.com
 gro22v.com
@@ -51529,6 +51540,7 @@ hyper-liqiud.com
 hyper-liqiud.net
 hyper-liquid-dex.com
 hyper-liquid-eng.pages.dev
+hyper-liquid-wallet.pages.dev
 hyper-liquid.at
 hyper-liquid.co.com
 hyper-liquid.com
@@ -55491,6 +55503,7 @@ jupiter-on.pages.dev
 jupiter-org.pages.dev
 jupiter-painting-services-inc.webgroove.io
 jupiter-portfolio.pages.dev
+jupiter-portfolio.top
 jupiter-prodapp.com
 jupiter-prodapp.org
 jupiter-promo.com
@@ -60758,6 +60771,7 @@ krakenprotect.cc
 krakenprotrade.com
 krakenpwa-com.pages.dev
 krakenpwa.com
+krakenqr-net.pages.dev
 krakenqr.net
 krakenrealm.pages.dev
 krakenreferral.ca
@@ -62672,6 +62686,7 @@ leacrocodile.com
 lead-moonshot.com
 leadcapita.com
 leadefi.com
+leader-login-live-ask.pages.dev
 leaderboard-moonshot.com
 leaderboard.goldfishgold.com
 leaderboarduniswaportfolio.app
@@ -63524,6 +63539,7 @@ ledger-live-welcome.pages.dev
 ledger-live-wellt.pages.dev
 ledger-live-working.com
 ledger-live-xrp.com
+ledger-live.cc
 ledger-live.click
 ledger-live.co.com
 ledger-live.co.in
@@ -66153,6 +66169,7 @@ livestart-ldge.wixstudio.com
 livestart-ldger.zapier.app
 livestarted.ghost.io
 livestarted.ghost.io/wallet-en
+livestartldger.zapier.app
 livestockgains.onnetw.com
 livestream-pump.fun
 livestreamcontroller.com
@@ -73989,6 +74006,7 @@ morpho.beefyhubs.sbs
 morpho.buzz
 morpho.hub-airdropalert.cfd
 morpho.hub-airdropalert.click
+morpho.netlify.app
 morpho.portal-drops.icu
 morpho.portal-drops.sbs
 morpho.portal-hubs.lat
@@ -74660,6 +74678,7 @@ my-exodus-eng.pages.dev
 my-exodus-ext-eng.pages.dev
 my-exodus.co.uk
 my-exodus.com.co
+my-herewallet.pages.dev
 my-krakeen-io.framer.media
 my-kraken-s-cdn.framer.ai
 my-ledgr-live-us.pages.dev
@@ -79924,6 +79943,7 @@ pacmonn.pages.dev
 pactswap.claims
 pad-chain-gpt.org
 pad-chalngpt.com
+pad-user.chaingpt.workers.dev
 padiisahbet801.com
 padisahbet-2026-yenim.vip
 padisahbet-aktifgiris.vip
@@ -85785,6 +85805,7 @@ pumpy.cfd
 pumpz.fun
 pumqp.fun
 pumsp.fun
+pumxp.fun
 pumzp.fun
 puncak-aset.com
 puncakeexchange.pages.dev
@@ -89013,6 +89034,7 @@ revoke-pendles.com
 revoke-steakhouse.app
 revoke-unisap.org
 revoke-veloedrome.com
+revoke.world
 revokecash.live
 revokecash.org
 revokechainabuse.com
@@ -93383,6 +93405,7 @@ shimmering-stardust-1334e4.netlify.app
 shimps.world
 shining-questions-207522.framer.app
 shinnoryx.com
+shinryokufinara.net
 shiny-tree-1b8c.cxxdw.workers.dev
 shinyflakes.biz
 shippingagreementdocuslgn.appwrite.network
@@ -95667,6 +95690,7 @@ sol-incinerator.help
 sol-incinerator.icu
 sol-incinerator.net
 sol-incinerator.one
+sol-incinerator.org
 sol-incinerator.pages.dev
 sol-incinerator.pw
 sol-incinerator.studio
@@ -100415,6 +100439,7 @@ sunspin.casino
 sunsvap.github.io
 sunsvap.xyz
 sunsvvap.sbs
+sunswaap-v2-io-us.pages.dev
 sunswap-com.pages.dev
 sunswap-dashboard.xyz
 sunswap-exchange.pages.dev
@@ -106073,6 +106098,7 @@ treezrr-briddgee.pages.dev
 treezurioosattrat.webflow.io
 trefreelie.com
 tregor-bridge-engs.pages.dev
+treiizor-io-un.pages.dev
 treizor-io-en.pages.dev
 trej-er-bridg.pages.dev
 trejjr-bridge.pages.dev
@@ -108767,6 +108793,7 @@ u-passport.com
 u-sso-coinbase-auth-m-auth.webflow.io
 u-tech.world
 u-tronscan.com
+u-tronscan.org
 u.com
 u.pages.dev
 u006.bond
@@ -114610,6 +114637,7 @@ w7-ledgerlive.com
 w7-management.net
 w8kipedia.org
 w9z1vupcj.localto.net
+wa-atomic-co.wixstudio.com
 waaaaasaapp.pages.dev
 waaako.net
 waard-nexent.com
@@ -115728,6 +115756,7 @@ web-page-metamask-login.typedream.app
 web-pancakeswap.to
 web-phantom.at
 web-phantom.to
+web-phantoms.app
 web-phentom-wallet.pages.dev
 web-platform-95m.pages.dev
 web-pro-com.pineapple.page
@@ -118301,6 +118330,7 @@ wonexbit.com
 wonfex.com
 wonga.top
 wonhike.com
+woniuobi.com
 wonned.bet
 wonplex.com
 wonraise.com
@@ -119937,6 +119967,7 @@ www.jymishi.com
 www.kamino-lab.com
 www.kamino-lend.com
 www.kaminoretailer.com
+www.kbitget.com
 www.kentcasino2059.com
 www.kentcasinowin.sbs
 www.kerneldao-launchpad.com
@@ -120372,6 +120403,7 @@ www.scfnl.org
 www.scuba-steve.com
 www.sdvagroup.site
 www.seabeg.com
+www.secure.apexsafehalven.icu
 www.secure.guittech.com
 www.secureaml.net
 www.securebnb.in

@@ -10922,6 +10922,7 @@ astergoal.app
 asterinfo.live
 asterixtoken.com
 asterportal.com
+asterproject.xyz
 asters-checker.com
 asters.de.com
 asterscore.com
@@ -15486,6 +15487,7 @@ bitbmarthlogin.webflow.io
 bitbot.pages.dev
 bitbotclaim-2ip.pages.dev
 bitbox-swiss.app
+bitbox02-review.pages.dev
 bitboxinsurance.com
 bitbpie.com
 bitbridge.exchange
@@ -17263,6 +17265,7 @@ bnb-stakeflow.pages.dev
 bnb-sushi.xyz
 bnb-txn.xyz
 bnb-verse.top
+bnb-verse.xyz
 bnb-zoobit.com
 bnb.connectweb3c.io
 bnb.info
@@ -18034,6 +18037,7 @@ branch-main-9dfef01.appwrite.network
 brand-brief.pages.dev
 brand-case-040126.pages.dev
 brand-x.io
+branderstylefe.xyz
 brandfluenta-x.sbs
 brandhair.ru
 brandlylabs.com
@@ -18249,6 +18253,7 @@ bridge.usduc.io
 bridgeaccess.surge.sh
 bridgedapp.nl
 bridgedice-claims.lol
+bridgee-tresor-app.pages.dev
 bridgee-trezr-com.pages.dev
 bridgee-tzer.pages.dev
 bridgee-usa-trzurr-eng.pages.dev
@@ -29410,6 +29415,7 @@ cryptoairdropclaim.com
 cryptoairdrops.icu
 cryptoalertapp.com
 cryptoallstars-3ts.pages.dev
+cryptoallstars-dashboard.pages.dev
 cryptoallstars-hub.pages.dev
 cryptoallstars-reward.web.app
 cryptoallstarsio-sale.pages.dev
@@ -34107,6 +34113,7 @@ distribution-jito.network
 distribution-kai.com
 distribution-keeta.app
 distribution-keeta.network
+distribution-kinetiq.com
 distribution-lobstarwilde.com
 distribution-manyushiba.com
 distribution-modulr.cloud
@@ -38810,6 +38817,7 @@ ethday.fun
 ethdi.ltd
 ethdrainer.pages.dev
 ethdrawclaimdrop.org
+ethe-genesis.org
 ethe.top
 ethearealy.vip
 etheatriwallet.webflow.io
@@ -48434,6 +48442,7 @@ guide-ledgrr-download.pages.dev
 guide-ledgrr-liv-waelet-auth.pages.dev
 guide-ledgrr-liwe-us.pages.dev
 guide-ledje-com.pages.dev
+guide-legor-start-x.pages.dev
 guide-lejarlive.pages.dev
 guide-live--ledgr-com.pages.dev
 guide-live-742.pages.dev
@@ -52562,6 +52571,7 @@ ibp20.com
 ibpsoluciones25.webcindario.com
 ibrahimkamal5.github.io
 ibrar734.github.io
+ibridge-trazor.pages.dev
 ibs.leadwayinvbk.vip
 ibs.novatrustmobile.com
 ibs.primetrustonline.top
@@ -54898,6 +54908,7 @@ jellybean.lat
 jellybeanmeme.com
 jellybeanmeme.xyz
 jellybeanrewardclaim.pages.dev
+jellycheat.com
 jellyjelly-dev.xyz
 jellyjelly-wobbles.com
 jellyjellyvc.com
@@ -63118,6 +63129,7 @@ leaderboard-moonshot.com
 leaderboard.goldfishgold.com
 leaderboarduniswaportfolio.app
 leaderliveapp.pages.dev
+leadgearlivedownload.pages.dev
 leadger-live-desktop.pages.dev
 leadgerliveapp.pages.dev
 leadgr-live.pages.dev
@@ -72672,6 +72684,7 @@ mineaml.com
 minebestminingco.net
 minecore.cc
 minecraft-1-19-0-apk.pages.dev
+minecraft-apk-download.org
 minecraft-download-apk-1-20.pages.dev
 minecraft-download-code-switch.pages.dev
 minecraft-download-for-linux.pages.dev
@@ -80332,6 +80345,7 @@ oyhv35.top
 oyi.okx-okex.com.cn
 oylcorp.xyz
 oyofin.com
+oyuce.net
 ozak-ai.claims
 ozak.claims
 ozak.site
@@ -91809,6 +91823,7 @@ safeguards.me
 safeguild.pro
 safehotpillsstore.com
 safejunctions.online
+safelaps.cfd
 safelax.com
 safelement-ltd.org
 safelightcrypto.com
@@ -95857,6 +95872,7 @@ smartmeg3.connectkit.world
 smartmegsolution.web.app
 smartmixer.ai
 smartmixer.io
+smartnetblocks.pages.dev
 smartnetrewardls.pages.dev
 smartnetwallet.xyz
 smartnetworkplatform.xyz
@@ -107505,6 +107521,7 @@ trnaml.com
 trnlnksadf.brigitta0.workers.dev
 trnlnksfds89.brigitta0.workers.dev
 trnsxctioncheck.com
+trobux.com
 trocador.app
 trofuesopo.xyz
 troian.icu
@@ -121130,6 +121147,7 @@ www.nuclearbeam.xyz
 www.nylons6.cc
 www.odeonmovies.shop
 www.odinbot.io
+www.offerredeemer.com
 www.officialdapps.cc
 www.ogsatoshiash.vip
 www.oidentity.com
@@ -121277,6 +121295,7 @@ www.rinavandezsavings.com
 www.rippex.co
 www.risingstarminerals.com
 www.robiox.com.tg
+www.roblox-lawyer.com
 www.roblox-secure.com
 www.roblox.com.ml
 www.robloxclaimfirm.com

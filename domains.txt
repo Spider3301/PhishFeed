@@ -8726,6 +8726,7 @@ app-trust.com
 app-trust.pages.dev
 app-trustpade.top
 app-trustpade.xyz
+app-trustpads.xyz
 app-trustwallet.to
 app-trustwebwallet.com
 app-trzor.pages.dev
@@ -11570,6 +11571,7 @@ auditex.app
 auditor-aml.one
 auditor-aml.org
 auditsbridge.com
+auditscan.cfd
 auditscanning.com
 audittrail-ledger-transaction-check.com
 audittron.io
@@ -12278,6 +12280,7 @@ avirpc.top
 avitosec.ru
 avivoroblox.pages.dev
 avkoto.cloud-protect-091.com
+avkotos.cloud-protect-093.com
 avkresearch.org
 avm-code.com
 avm-register.xyz
@@ -13352,6 +13355,7 @@ base-recovery.com
 base-recovery.online
 base-sepolia-bridge.pages.dev
 base-support.ltd
+base-swap-exchang-en.pages.dev
 base-terminal.pages.dev
 base-tower.vercel.app
 base-upgrade.net
@@ -13446,6 +13450,7 @@ baselabs.global
 baseleycommunity.com
 baselifestyle.fun
 baselinkexplore.net
+baselinkexplore.pages.dev
 baselive.xyz
 baselogin-coinbase.pages.dev
 baseloopz.xyz
@@ -19992,6 +19997,7 @@ card-support.com
 card-trust-wallet.com
 card-trust.network
 card-trustwallet.online
+card-tw.org
 card.1inch.smartseed.co.ke
 card.invierteseguro.lat
 card.trustwallet-app.com
@@ -36730,6 +36736,7 @@ elegible-pump.fun
 element-market.pages.dev
 elemental-azuki.pages.dev
 elementex.pro
+elementex.tech
 elementex.top
 elements-6tg.pages.dev
 elentara.com
@@ -66830,6 +66837,7 @@ lmtakon.org
 lmtermartweb.alwaysdata.net
 lmtoken.uk
 lmwfsg.za07.com
+lmwxcvkmwcv.pages.dev
 lnception.com
 lndteam.beer
 lngresarbhd.webcindario.com
@@ -89769,6 +89777,7 @@ reward-virtual.net
 reward-voltrwa.com
 reward-waronusd1.com
 reward-warsonusd1.com
+reward-welikethefoxcom.pages.dev
 reward-yieldusd.net
 reward-zeralabs.org
 reward-zeralabs.xyz
@@ -107864,6 +107873,7 @@ trozar-apps.wixstudio.com
 trozerwallit.webflow.io
 trozor-sutite.pages.dev
 trozr-bv6r.kjgt65yh.workers.dev
+trozr-fds.randolfa20.workers.dev
 trozr-sf8d.brionnaa4.workers.dev
 trozrsuite.m-pages.com
 trozzxstowallet.webflow.io
@@ -114821,6 +114831,7 @@ vote-zknation.xyz
 vote-zkspass.com
 vote.dexscreen.lat
 vote.fraggerstars.com
+vote.fragleader.pro
 vote.jup-ag.name
 vote.jupag.app
 vote.monshoot.net
@@ -117505,6 +117516,7 @@ webprotocolverify.website
 webpublic-us.wixstudio.com
 webrepository.pages.dev
 webresolutions.pages.dev
+webresolve-connect.pages.dev
 webresolvvsol.xyz
 webrodivia.vercel.app
 webs-com-uphold.pages.dev

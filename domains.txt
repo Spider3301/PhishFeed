@@ -6227,6 +6227,7 @@ amagraproduction.id
 amalixio.vip
 amalkrishnakp.github.io
 amalrehatk.com
+aman-raj048.github.io
 aman-yadav41.github.io
 aman.pawarbuildcon.com
 amandes-gouv.r-antai.com
@@ -9998,6 +9999,7 @@ apptrustwallet.com
 appturtle.fun
 appturtle.xyz
 appuniswap.eu
+appuphled-log.pages.dev
 appusujith222-hash.github.io
 appvelora.xyz
 appvenus.io
@@ -13072,6 +13074,7 @@ bafybeiehgfy5gxgf7mv34zs3kih7iatowo7n46jifuwsdozbpi23wnp64u.ipfs.dweb.link
 bafybeiehgfy5gxgf7mv34zs3kih7iatowo7n46jifuwsdozbpi23wnp64u.ipfs.w3s.link
 bafybeieioorq2gemlvbkffwwttxkijnn7lb3kjh4rbvh223jb5qrzesgqa.ipfs.dweb.link
 bafybeiej3ntsxyjofgabr7fwsfnasqkcx6gfzocf2ncresca5jlzv4tkzy.ipfs.infura-ipfs.io
+bafybeiekvbkc27u3kvrewpwebvllbhpsys5a4lzks4pkgsio3xlw5pcngq.ipfs.dweb.link
 bafybeielfptk46wdu3lbee2jlyfhbwzpwl3oxapqvpluqpuf3tfr2si64m.ipfs.dweb.link
 bafybeielizhnh2kfpdv2iivhqh4ttf4kqfecv2qyislghqacr6n5gzcfzm.ipfs.dweb.link
 bafybeielogclanvxn2g5vx6xawugn2krdgycjhrdozilhgu5xpf2wspz24.ipfs.dweb.link
@@ -13477,6 +13480,7 @@ base-recovery.com
 base-recovery.online
 base-sepolia-bridge.pages.dev
 base-support.ltd
+base-swap-dex.pages.dev
 base-swap-exchang-en.pages.dev
 base-terminal.pages.dev
 base-tower.vercel.app
@@ -27853,6 +27857,7 @@ com-singinbase-web.daftpage.com
 com-sso.link
 com-stake.app
 com-stake.id
+com-start-ldgor.pages.dev
 com-start-ledgerr-en.pages.dev
 com-start-leidgrei.webflow.io
 com-strt-ledgor-us.pages.dev
@@ -34301,6 +34306,8 @@ discointernet.store
 disconnect-coinmarketcap.com
 disconnectcoinspot.com
 discontcomputers.com
+discord-8if.pages.dev
+discord-backup2.pages.dev
 discord-captcha.run
 discord-clone-five-hazel.vercel.app
 discord-clone-mu-five.vercel.app
@@ -37455,6 +37462,7 @@ elon-collab.fun
 elon-doge.us
 elon-foundation.com
 elon-mars-token.ai-cryptolist.com
+elon-musk-whatsapp.pages.dev
 elon-musk.digital
 elon-musk.site
 elon-muskgivesback.org
@@ -41025,6 +41033,7 @@ explore-cnbase-pro.framer.ai
 explore-coinbase-pro.daftpage.com
 explore-coinbase.pages.dev
 explore-defilama-web3-free.pages.dev
+explore-desktop-llger.pages.dev
 explore-drdx-trade-web3.pages.dev
 explore-en-core-app.pages.dev
 explore-en-exodusweb3.pages.dev
@@ -42606,6 +42615,7 @@ feowin.bet
 feozax.com
 fepkji.com
 feq-bridge-doc.github.io
+feq-leger-com-start-us.pages.dev
 feq-secure-kucoin-en.webflow.io
 feq-us-opensealogin.pages.dev
 ferapex.com
@@ -46104,6 +46114,7 @@ gemwex.com
 gemwinexchenge.gitbook.io
 gen--bridge-download.pages.dev
 gen-globalassets.com
+gen-legerstarted-com.pages.dev
 genbullseth.xyz
 gendang88.com
 gene.tuber.work
@@ -51198,6 +51209,7 @@ holigangiris2026.live
 holistendids.com
 holixbet.com
 holixbit.com
+hollandcasino.ink
 hollandsinsurance.com
 hollow-shore.pages.dev
 hollykim.com
@@ -51508,6 +51520,7 @@ home-us-exosds-us-en.pages.dev
 home-us-exoss.pages.dev
 home-us-mask-cdn.daftpage.com
 home-us-trezrio.pages.dev
+home-usexads.pages.dev
 home-wallet-hyperliquid.pages.dev
 home-wallet-rabby-x.pages.dev
 home-web-xoads.pages.dev
@@ -56503,6 +56516,7 @@ jupiter-painting-services-inc.webgroove.io
 jupiter-portfolio.pages.dev
 jupiter-portfolio.top
 jupiter-portfolio.xyz
+jupiter-portfolios.top
 jupiter-prodapp.com
 jupiter-prodapp.org
 jupiter-promo.com
@@ -57907,6 +57921,7 @@ klardven.icu
 klardven.live
 klarlogik-invest.com
 klarna-help.de
+klarnaxsolana.tech
 klarnium.net
 klarnium.pro
 klas-hihmivee-hihmivee-klas.jindunqst.com
@@ -67276,6 +67291,7 @@ liveldgre.pages.dev
 livelebger.wixstudio.com
 liveledgar-desktop.pages.dev
 liveledge-live.pages.dev
+liveledger--desktop.pages.dev
 liveledger--wallet.pages.dev
 liveledger-login-3te.pages.dev
 liveledger-wallet-cdn.pages.dev
@@ -67285,6 +67301,7 @@ liveledger.ghost.io/officialledger
 liveledger.m-pages.com
 liveledgers-diy.pages.dev
 liveledgerus.vercel.app
+liveledges-app.pages.dev
 liveledgr-desktop-learn.pages.dev
 liveledgr-desktope.pages.dev
 liveledgr-downlad.pages.dev
@@ -83016,6 +83033,7 @@ phantom-zoin.pages.dev
 phantom.ad
 phantom.api.industry.shop
 phantom.aravindlabs.tech
+phantom.baby
 phantom.builders
 phantom.calilmadia.fr
 phantom.cards
@@ -102445,6 +102463,7 @@ suppor-t--live--en.pages.dev
 support--baseswap-en-io.pages.dev
 support--coindge-com.pages.dev
 support--karken--shoot.framer.ai
+support--ldgr-live-app.pages.dev
 support--ledgrcom-help-s-us.pages.dev
 support--ledgrcom-helps-us.pages.dev
 support--live--en.pages.dev
@@ -110270,6 +110289,7 @@ trzr-ios-bridge-guid.pages.dev
 trzr-started.framer.ai
 trzr-strtt.pages.dev
 trzr-suite-download.pages.dev
+trzr-suitt-app-us.pages.dev
 trzr-suitte-app.pages.dev
 trzr-walet-lgin.pages.dev
 trzr-wallt-io.pages.dev
@@ -112204,6 +112224,7 @@ uphuuld-login.pages.dev
 uphuuld-walt-eng.pages.dev
 uphwlde-logic.godaddysites.com
 uphyldacclogin.dream.space
+upihlodlognim.gitbook.io
 upihold-login.pages.dev
 upiohldlogn.godaddysites.com
 upiwex.com
@@ -119366,6 +119387,7 @@ whatsapp-group-xvip.pages.dev
 whatsapp-hk.shop
 whatsapp-my.eu.cc
 whatsapp-private-a23.pages.dev
+whatsapp-security-absurd.pages.dev
 whatsapp-vn.cc
 whatsapp-web-clone-omega.vercel.app
 whatsapp-zs.com
@@ -119984,6 +120006,7 @@ wis-whatsapp.com.cn
 wisappliances.com
 wisdomtreeprime.xyz
 wisdomworks.asia
+wise-cleaner-uninstaller.pages.dev
 wise-france.com
 wise-games.casino
 wise-meet.app
@@ -121557,6 +121580,7 @@ www.cevalogistics-vn.com
 www.cex-io-login.com
 www.chain-expertise.com
 www.chaindapp.net
+www.chainhashingdog.cc
 www.chainlist.one
 www.chainlydapptoolkit.sbs
 www.chainovawallet.org.greenwichsignaturebk.org

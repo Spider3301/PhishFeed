@@ -5023,6 +5023,7 @@ airdropped-hyperliquid.xyz
 airdroppedlink.pages.dev
 airdroppengv.live
 airdropper.pages.dev
+airdroppernight.shop
 airdropphoenix.live
 airdroppilot.com
 airdropprimuslabs.live
@@ -5120,6 +5121,7 @@ airdropsonics.live
 airdropsosovlue.live
 airdropsoullabs.live
 airdropstbl.solcoin.sbs
+airdropstimes.com
 airdropsummerfi.live
 airdroptaker.live
 airdroptea.live
@@ -9707,6 +9709,7 @@ appmeteora.egibilitychecker.xyz
 appmultiwallet.live
 appnansenai.com
 appnetfixup.pages.dev
+appnodesrefix.pages.dev
 appnovawallet.app
 appodos.org
 appofficialstrezor.ghost.io
@@ -15974,6 +15977,7 @@ bitget-token.site
 bitget-trolpix.pages.dev
 bitget-us.top
 bitget-wallet-bitget.us
+bitget-wallet-review.com
 bitget-wallet.online
 bitget-wallet.vip
 bitget-wallet3.com
@@ -16183,6 +16187,7 @@ bitkeep-wallet-eng.pages.dev
 bitkeep-wallet-feq.pages.dev
 bitkeep.bar
 bitkeep.created.app
+bitkey-wallet-review.com
 bitkeydesktop.app
 bitkeydesktop.store
 bitkubthb.live
@@ -16858,6 +16863,8 @@ blockchain-resolve-support.netlify.app
 blockchain-stellardex.com
 blockchain-tool.web.app
 blockchain-uk-gov.com
+blockchain-wallet-guide.com
+blockchain-wallet-review.com
 blockchain-wallet.co.com
 blockchain.chainnet.site
 blockchain.com.cmtoba.cc
@@ -18225,6 +18232,7 @@ bratiyanetworkekek.icu
 brave-join.com
 brave-message-765752.framer.app
 brave-pentagon-994978-85bda422a.framer.app
+brave-wallet-review.com
 brave-wallet-review.pages.dev
 brave-wallet.me
 bravecryptoamlchecker.com
@@ -21080,6 +21088,7 @@ cb-128943.com
 cb-loginportal.cloud
 cb-operations.com
 cb-pay-tam.vercel.app
+cb-wallet-review.com
 cb.careplus247.info
 cb.com
 cb.international-mf.com
@@ -26517,6 +26526,7 @@ coinbase5k88.com
 coinbaseaccounsele.blogspot.com
 coinbaseai.app
 coinbaseai.one
+coinbaseaiagents.com
 coinbaseak.com
 coinbaseandhelpcenter.netlify.app
 coinbaseapp.com.cn
@@ -26589,6 +26599,7 @@ coinbaseelogin.blogspot.it
 coinbaseelogin.blogspot.lu
 coinbaseelogin.blogspot.mk
 coinbaseeprologin.gitbook.io
+coinbaseer.com
 coinbaseex.created.app
 coinbaseexchang.webflow.io
 coinbaseexchangelog.created.app
@@ -26610,6 +26621,7 @@ coinbasegenie.online
 coinbasegive.cc
 coinbasego.blogspot.com
 coinbasego.com
+coinbaseh.com
 coinbaseheadofpremium.com
 coinbasehelp-support.netlifi.app
 coinbasehelp.top
@@ -26652,6 +26664,7 @@ coinbaseloginwallet.blogspot.com
 coinbaselt.com
 coinbaseltd.lu
 coinbaseluxury.com
+coinbasemailinfo.com
 coinbasemart.com
 coinbasemedia.com
 coinbasemoney.com
@@ -27488,6 +27501,7 @@ cointera.net
 cointerminal-app.site
 cointir.com
 cointo.cloud
+cointowallet.com
 cointracker365.com
 cointrackingpro.live
 cointradeadmin.com
@@ -27565,6 +27579,7 @@ colchoesemmapromo.com
 cold-lake-265d.salisahmad74437.workers.dev
 cold-trazor-logine.pages.dev
 coldai.vip
+coldcard-wallet-review.com
 coldcas.com
 coldstorage-backupsecure.com
 coldwallet-landing-page.pages.dev
@@ -28618,6 +28633,7 @@ coolnbase.com
 coolproyect.es
 coolshopp367.store
 coolsino.online
+coolwallet-pro-review.com
 coonnbsoprooologiusa.godaddysites.com
 cooperativereserves.com
 cooperlawfirm.com
@@ -29736,6 +29752,7 @@ cryptoclaim.space
 cryptoclausairdrop.digital
 cryptocoinsc.cfd
 cryptocoinsx.cfd
+cryptocom-wallet-review.com
 cryptocomloge.webflow.io
 cryptocomlogineissue.gitbook.io
 cryptocommunitynz.com
@@ -32087,6 +32104,7 @@ dcc.jiuzhouw.net
 dcceq.com
 dccqe.com
 dccwy.com
+dcent-wallet-review.com
 dcentapptools.web.app
 dcentpcwallet.com
 dcentralmodulenode.com
@@ -37091,6 +37109,7 @@ electrum-data.cc
 electrum-usdt.com
 electrum-vtc.org
 electrum-wallet-net-d9z.pages.dev
+electrum-wallet-review.com
 electrum-wallet.info
 electrum.co.com
 electrum.is
@@ -40405,6 +40424,7 @@ exchange-hyperliquid-cdn-us.pages.dev
 exchange-hyperliquid-wallet-en.pages.dev
 exchange-id.com
 exchange-m.com
+exchange-nft-now.com
 exchange-option.pro
 exchange-payments.com
 exchange-pump.fun
@@ -44586,6 +44606,7 @@ fourx.top
 fourxbt.ai-cryptolist.org
 fovcas.com
 fowg.fun
+fox-crypto-wallet.com
 fox-sushi.top
 fox.forenxikf.top
 fox.offcoin.one
@@ -48946,6 +48967,7 @@ guidestart.ghost.io/install-ledger
 guideviolation-x.click
 guidewallet.ghost.io
 guidewallet.ghost.io/ledger-live-app
+guild-blockchain-web3.pages.dev
 guild-guardian.com
 guild-pro.app
 guild-verify.vercel.app
@@ -53572,6 +53594,7 @@ imtoken-plw.com.cn
 imtoken-trade.com
 imtoken-upay.com
 imtoken-wallet-guide.com
+imtoken-wallet-review.com
 imtoken-wallet-review.pages.dev
 imtoken-wallet.com.cn
 imtoken-wallet.help
@@ -75660,6 +75683,7 @@ multifixapps.xyz
 multifixdapp.xyz
 multifixdapps.xyz
 multifixsolve.xyz
+multihubconnect.pages.dev
 multiicoinsolutionn.xyz
 multilivesync.firebaseapp.com
 multilivesync.web.app
@@ -76084,6 +76108,7 @@ mydrive.effem.com
 mydtech.com
 myecho.chat
 myetherqallet.com
+myetherwallet-review.com
 myetherwallet.cn.com
 myetherwallet.top
 myetherwalletdesktop.app
@@ -77955,7 +77980,6 @@ nftnexsus.com
 nftnow.top
 nftpool.top
 nftquark.xyz
-nftradex.biz
 nftrewardsclaim.onrender.com
 nftrewardsjupiter.com
 nfts-hyperliquld.xyz
@@ -78014,6 +78038,7 @@ nicessencecapitalventures.com
 nicetenz.biz
 nicexchanger.cc
 nichebabys.xyz
+nichexchange.com
 nickelcoin.fun
 nickelcoins.fun
 nickeleu.kissmediagroup.com
@@ -88250,6 +88275,7 @@ rabby-wallet-home-dzj.pages.dev
 rabby-wallet-io.com
 rabby-wallet-io.pages.dev
 rabby-wallet-official.com
+rabby-wallet-review.com
 rabby-wallet-support-us.pages.dev
 rabby-wallet-uk.pages.dev
 rabby-wallet-un.pages.dev
@@ -88486,6 +88512,7 @@ rainbow-tge.com
 rainbow-tge.pages.dev
 rainbow-token.com
 rainbow-v2.com
+rainbow-wallet-review.com
 rainbow-wallet.at
 rainbow-wallet.org
 rainbow-wallet.pages.dev
@@ -89642,6 +89669,7 @@ reg-autismcoin.fun
 reg-gtprotocolio.pages.dev
 reg-plasma.com
 reg-servers.com
+reg-versedapps-ui.pages.dev
 reg-worldfinancialcom.pages.dev
 reg.plume-network.live
 regaining.top
@@ -92715,6 +92743,7 @@ safepal-staking.com
 safepal-v2.com
 safepal-walle-en.pages.dev
 safepal-wallet-app.cc
+safepal-wallet-review.com
 safepal-wallet-support.cc
 safepal-wallet.cc
 safepal-wallet.co.com
@@ -94132,6 +94161,7 @@ securpassrenov.com
 securr---downloaddd----liiive---ldgrrr.pages.dev
 securrr----downloaddd---liivee---ldgrr.pages.dev
 securtiy-download-ledgar.pages.dev
+secux-wallet-review.com
 sedexencomendas.com
 sedigitalads.com
 sedrex.pro
@@ -106945,6 +106975,7 @@ tonkeeper-pro.org
 tonkeeper-trade.top
 tonkeeper-walle.com
 tonkeeper-walle.top
+tonkeeper-wallet-review.com
 tonkeeper-web.com
 tonkeeper-web.org
 tonkeeper.co.uk
@@ -108094,6 +108125,8 @@ trezor-briedge.pages.dev
 trezor-bryge-eng.pages.dev
 trezor-c-main-bridge.pages.dev
 trezor-cdn-en.pages.dev
+trezor-crypto-tips.com
+trezor-crypto-vault.com
 trezor-crypto-vault.pages.dev
 trezor-crypto-wallet.com
 trezor-data.gxtigroup.com
@@ -108147,10 +108180,13 @@ trezor-login-web.typedream.app
 trezor-login-wel.pages.dev
 trezor-logun-help.netlify.app
 trezor-m-io-start.pages.dev
+trezor-model-t-tips.com
 trezor-protect.co
 trezor-restorehardware.io
 trezor-revokerequest.com
+trezor-safe-guide.com
 trezor-secure-treezo-io-get.typedream.app
+trezor-setup-help.top
 trezor-start-io-info.pages.dev
 trezor-start-wallet.dream.space
 trezor-start.io-startt.com
@@ -109515,6 +109551,7 @@ trustwalet-cloud.created.app
 trustwalet-web.created.app
 trustwalet.com.co
 trustwalet.godaddysites.com
+trustwalet.info
 trustwallatxtension-zone.webflow.io
 trustwallatxtensionzone.webflow.io
 trustwallect.starlngs.com
@@ -109754,6 +109791,7 @@ trustwalletsecurity.com
 trustwalletsecurity.support
 trustwalletsend.org
 trustwalletservice.click
+trustwalletsfund.com
 trustwalletsinvest.com
 trustwalletslogin.com
 trustwalletsolution.com
@@ -111285,6 +111323,7 @@ uniswap-v3-pools.vercel.app
 uniswap-v3.pw
 uniswap-verify.com
 uniswap-viewers.web.app
+uniswap-wallet-review.com
 uniswap-web.world
 uniswap-web3.com
 uniswap-xaut.org
@@ -125815,6 +125854,7 @@ zencviro.xyz
 zendesk.com-my-support.icu
 zendeskwhizz.us
 zendobet.com
+zengo-wallet-review.com
 zengoappdownload.com
 zengoswap.com
 zenith-tr.net
@@ -125896,6 +125936,7 @@ zerepy.gate-cryptolist.com
 zerion-scan.firebaseapp.com
 zerion-scan.web.app
 zerion-tracker.firebaseapp.com
+zerion-wallet-review.com
 zerion-wallet-review.pages.dev
 zerion-wallet-us.teleporthq.app
 zerion.la

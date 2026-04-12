@@ -2814,6 +2814,7 @@ access-dydxedex-en.pages.dev
 access-e-coinbase.pages.dev
 access-en-us-keraken.daftpage.com
 access-eng-coinbase.pages.dev
+access-eng-trezr--x-logg-web.pages.dev
 access-everlyn.com
 access-exdust-wlt.pages.dev
 access-extn-sion-auth-tust-waellex-en.pages.dev
@@ -14240,6 +14241,7 @@ began-raydium-swaap-en-us.pages.dev
 began-raydium-swaap-io-us.pages.dev
 began-raydium-swap-io-us.pages.dev
 began-wallet-rayiidum.pages.dev
+began-zeddex-swap-eng-us.pages.dev
 begiin-phanttom-x--cloud.framer.media
 begin--download-suite.pages.dev
 begin--metamshkk-logs.framer.media
@@ -30945,6 +30947,7 @@ cyjershoke.com
 cykershoke.com
 cyli861.my.id
 cyneraguard.app
+cynextavlo.pages.dev
 cyon-areclianti-dmini738473-renouvlez.app-networking.com
 cyon-client-area-domini3782947server.agency-gatway.com
 cypeex.com
@@ -33198,6 +33201,7 @@ dep30h.com
 dep30h.icu
 dep30h.net
 dep30h.org
+dep31k.com
 dep36t.com
 dep36t.icu
 dep36t.net
@@ -33391,6 +33395,7 @@ desktop-ledgrelives.pages.dev
 desktop-ledgrer.pages.dev
 desktop-ledigr-com.pages.dev
 desktop-ledrr-com.pages.dev
+desktop-legeer-live.pages.dev
 desktop-legr-lives.pages.dev
 desktop-legr.framer.ai
 desktop-lgur.pages.dev
@@ -35613,6 +35618,7 @@ dqctvuqfidelity.qpon
 dqinodrop.com
 dqwdq.pages.dev
 dr-community.online
+dr.msonedrive-cdn.site
 dr3z.closer.website
 drabbybloom.com
 dracors.com
@@ -38829,6 +38835,7 @@ entry.virtualswaifus.live
 entry.virtualwaifus.art
 entry.virtualwaifus.xyz
 entrynetwork.net
+enu-ledgeir.pages.dev
 enus-appledger.pages.dev
 enus-exedos.pages.dev
 enus-exudus.wixstudio.com
@@ -41336,6 +41343,7 @@ extension-metamask-hlp-wellet.framer.ai
 extension-metamask-wallet.com
 extension-metamasks.webflow.io
 extension-phantom-io.framer.media
+extension-platform.framer.ai
 extension-rabby-wallet-easily.pages.dev
 extension-rabby.com
 extension-trrust.wixstudio.com
@@ -42058,6 +42066,7 @@ faq-ldgr-wallet.pages.dev
 faq-learn-base-por.daftpage.com
 faq-ledge-live-wallet-eng-us.pages.dev
 faq-ledge-logn-en.pages.dev
+faq-ledger-app-live.pages.dev
 faq-ledger-com.pages.dev
 faq-ledger-log.typedream.app
 faq-ledgerliv.pages.dev
@@ -43407,6 +43416,7 @@ finance-trustwallet.net
 finance-usdt.com
 finance-usdt.net
 finance-usdt.org
+finance-with-open-ocean.pages.dev
 finance.cbltrustfinbank.info
 finance.ski
 finance.to
@@ -46322,6 +46332,7 @@ general-v2v1.org
 generaldiagnosticrefix.co
 generalearnings.com
 generalnodefix.co
+generate-eth-address-qr-code.com
 generate-privix.troranet.pro
 generate.privix-claim.pro
 generateflashusdt.com
@@ -49207,6 +49218,7 @@ guide-trzr-x-bridge.pages.dev
 guide-upheld-en.pages.dev
 guide-uphold-login-hub.pages.dev
 guide-us-ledgerr-live-desktop.pages.dev
+guide-wallet-ledger.pages.dev
 guidebridge.wixstudio.com
 guidecenter.gitbook.io
 guided-trezor.pages.dev
@@ -54850,6 +54862,7 @@ io-en-ledger-in.pages.dev
 io-en-ledgr-desktop.pages.dev
 io-en-ledgr-starts.pages.dev
 io-en-ledgre.pages.dev
+io-en-ledgrs.pages.dev
 io-en-ledrlive-walet.pages.dev
 io-en-liveledgr-us.pages.dev
 io-en-starts.wixstudio.com
@@ -55046,6 +55059,7 @@ io-trzr-pages-us.pages.dev
 io-trzr-strt-bridge.pages.dev
 io-trzrsuites.pages.dev
 io-tsuite.pages.dev
+io-tzer-start.pages.dev
 io-uphelld.created.app
 io-uphold-cdn.weebly.com
 io-uphold-en.square.site
@@ -64499,6 +64513,7 @@ ledgelvedownload.created.app
 ledger----live.pages.dev
 ledger---live--run.pages.dev
 ledger---start.pages.dev
+ledger--cm-start.pages.dev
 ledger--co--start.pages.dev
 ledger--dapp.pages.dev
 ledger--desktop.pages.dev
@@ -64509,6 +64524,7 @@ ledger--live--doc.pages.dev
 ledger--live--welcome.pages.dev
 ledger--live-desktop.pages.dev
 ledger--live-info.pages.dev
+ledger--live-log-in.pages.dev
 ledger--live-login-cdn.pages.dev
 ledger--live-run.pages.dev
 ledger--live-support.pages.dev
@@ -65104,6 +65120,7 @@ ledger-start-web.pages.dev
 ledger-start.gitlab.io
 ledger-start.io
 ledger-start.live
+ledger-stert.pages.dev
 ledger-strt-com.pages.dev
 ledger-strt.pages.dev
 ledger-subscribe.com
@@ -65891,6 +65908,7 @@ leedger-us-com-start-dsh.pages.dev
 leedger-web-live.pages.dev
 leedgr-live-desktop-en.pages.dev
 leedgr-liveapp.wixstudio.com
+leedzer-live-learn.pages.dev
 leedzzr-live.pages.dev
 leenbet.com
 leerarn-page-eigenlayrr.gitbook.io
@@ -66494,6 +66512,7 @@ lidostakeing.gitbook.io
 lidostakeyu.gitbook.io
 lidostakingen.webflow.io
 lidostakking-webflow-io.gitbook.io
+lidostentaking.gitbook.io
 lidosttakkinngg.gitbook.io
 lidosztakings.gitbook.io
 lidotbfinance.gitbook.io
@@ -67336,6 +67355,7 @@ live-desktop-leidgr.framer.ai
 live-desktop-suport.pages.dev
 live-desktop-us.wixstudio.com
 live-desktop.wixstudio.com
+live-doc-ledgre.pages.dev
 live-download-help.pages.dev
 live-download-us.pages.dev
 live-download-us.wixstudio.com
@@ -67387,6 +67407,7 @@ live-ldger-setup.pages.dev
 live-ldger-usa-io.pages.dev
 live-ldger.framer.wiki
 live-ldgr-dsktop.pages.dev
+live-ldgr-enn.pages.dev
 live-ldgr-support.pages.dev
 live-ldgr.pages.dev
 live-le-edger-en-us.pages.dev
@@ -67635,6 +67656,7 @@ liveintro.wixstudio.com
 liveio-download.wixstudio.com
 liveldgre.pages.dev
 livelebger.wixstudio.com
+liveled-ger.pages.dev
 liveledgar-desktop.pages.dev
 liveledge-live.pages.dev
 liveledger--desktop.pages.dev
@@ -68454,6 +68476,7 @@ logn-uphold-web.pages.dev
 logn-upholde-uss.pages.dev
 logn-web-metamask.pages.dev
 lognatera.com
+logne-uphold-com.pages.dev
 lognkrrkebn.webflow.io
 lognldger-en-us-live.pages.dev
 logo-trezor-main.pages.dev
@@ -68623,6 +68646,7 @@ lostfeetpics.xyz
 lostwallet.lol
 lotexplay.com
 lotoken.info
+lottery-bitcoin-com.pages.dev
 lotterycryptos.com
 lotto-usdt.com
 lottomode.fun
@@ -75553,6 +75577,7 @@ moonshotvote.info
 moonshotvote.live
 moonshotvote.money
 moonshotvotes.live
+moonshotvotes.online
 moonshotvotes.xyz
 moonshotvoteslive.vercel.app
 moonshotvoting.top
@@ -78625,6 +78650,7 @@ niwo.bet
 nixexchanges.com
 nixlinproexpressdelivery.sbs
 nixvan.com
+niyuve.cuqico.com
 nizowex.com
 nizwex.com
 njhjhhijh.weebly.com
@@ -81108,6 +81134,7 @@ orbextraders.world
 orbgate.space
 orbi-mount.com
 orbiantex.com
+orbicapital.com
 orbicore.world
 orbielite.world
 orbiferfi.com
@@ -101001,6 +101028,7 @@ starsupdate.live
 start---ledger-live.pages.dev
 start--coinbase.pages.dev
 start--en-ledgecom-us-sso.pages.dev
+start--en-ledgrcom.pages.dev
 start--ldgr-live.pages.dev
 start--ledgecom--io.pages.dev
 start--ledgor--io.pages.dev
@@ -102350,6 +102378,7 @@ suaro.site
 suavino.cfd
 sub-accounts-invitation.com
 sub-bridge-trezerir.pages.dev
+sub-start-legerr.pages.dev
 sub-uphold-login.pages.dev
 sub-uphold.pages.dev
 sub.abokidevelopers.com
@@ -114655,6 +114684,7 @@ v4-protokols.com
 v4-sushi.co
 v4-swap-av.app
 v4-swapnetwork.cc
+v4-uniswap.org
 v4-wallet-av.app
 v4.remote-supportnetwork.online
 v4sushi.com
@@ -116790,6 +116820,7 @@ votes-hypurr.xyz
 votes-jito.network
 votes-katana.network
 votes-keeta.com
+votes-kinetiq.com
 votes-kinetiq.events
 votes-kmno.org
 votes-lido.com
@@ -116874,6 +116905,7 @@ voting-hyperswaps.com
 voting-hypester.com
 voting-intuition.com
 voting-ip-address-tracking.stellar-community-fund-next.pages.dev
+voting-kinetiq.com
 voting-labspro.com
 voting-layerzero.com
 voting-linea.xyz
@@ -117185,6 +117217,7 @@ vww-coinsase.pro
 vww-porfolio-upholid.pro
 vww-robiox.com
 vww-uinsvap.sbs
+vww-uphoild.pro
 vwww-ankama.com
 vwwwroblox.com
 vx-zb-whatsapp.com.cn
@@ -119598,6 +119631,7 @@ welcome-kucoin-us-en.daftpage.com
 welcome-ldgr-guide.pages.dev
 welcome-ledg-live.pages.dev
 welcome-ledgaer-com.netlify.app
+welcome-ledge-live-io.pages.dev
 welcome-ledger-cdn.typedream.app
 welcome-ledger-cloud.teachable.com
 welcome-ledger-com-web-en.netlify.app
@@ -122344,6 +122378,7 @@ www.cycang.com
 www.cysec-verification.help
 www.czssz.com
 www.d4ug.site
+www.dambayan.com
 www.damnbruh.net
 www.dao.origindefis.world
 www.dapp-allthingslemon.world
@@ -122381,6 +122416,7 @@ www.dexscreen-listing.com
 www.dexscreen-voting.com
 www.dexscreener-listings.com
 www.dexscreener-lists.com
+www.dexscreener-votes.xyz
 www.dexscreener-voting.com
 www.dhl-paketzentral.de
 www.dhl-paketzusteller.de

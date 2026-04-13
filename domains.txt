@@ -8929,6 +8929,7 @@ app-vision.xyz
 app-vooi.org
 app-vooi.world
 app-vvp-whatshktw.com
+app-vvs.finance
 app-wallet-connect.network
 app-wallet-ledger.live
 app-walletconnects.web.app
@@ -33395,6 +33396,7 @@ dep48k.net
 dep52k.com
 dep52k.net
 dep52k.org
+dep53h.com
 dep57t-coinstats.com
 dep57t.com
 dep57t.icu
@@ -64370,6 +64372,7 @@ ldgr3424ss86d.vennie603.workers.dev
 ldgr3gf4sd.d34.workers.dev
 ldgr3gf4sd.d34.workers.dev/index.html
 ldgr788klhsd.soha33.workers.dev
+ldgr78sahjk.samra2.workers.dev
 ldgrdsfsd.df83.workers.dev
 ldgre-l-ive.pages.dev
 ldgre-liive.pages.dev
@@ -101482,6 +101485,7 @@ stanley-pills.com
 stantexcapital.com
 stanviewfin.com
 staples-cp-adsense-prelander.pages.dev
+star-gate-finance-stargate.finance
 star-login-ledwe.pages.dev
 star-play.cc
 star-pump.pages.dev
@@ -106855,6 +106859,8 @@ tetherworld.live
 tetimons.click
 tetra-usd.com
 tetrachoice.com
+tetreum.com
+tetreum.org
 tetrislaunch.com
 tetzelstandardcapital.com
 teulltiyfb4xv.dappdata.cc

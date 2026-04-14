@@ -38231,6 +38231,7 @@ en-auth-sushiswap.pages.dev
 en-b-ridge--io-us.pages.dev
 en-balancer-protocol-in.pages.dev
 en-beercoin2.pages.dev
+en-bitcoinhyper-orgsjq.pages.dev
 en-bitcoinhyper.org
 en-blackhole.pages.dev
 en-br-idge-io.pages.dev
@@ -38335,6 +38336,7 @@ en-kraken-darknetsite-net.pages.dev
 en-kraken-onion-site-net.pages.dev
 en-kraken-sitedark-net.pages.dev
 en-kraken-support.pages.dev
+en-krken.pages.dev
 en-ladger-lve.pages.dev
 en-ladgrecon-auths.pages.dev
 en-ladjorelive.pages.dev
@@ -48610,6 +48612,7 @@ gospin.cc
 gosrcgrowthpartner.com
 gostbet.shop
 gostbet.shop/w
+gosun-io-ui-1a91f6f8.pages.dev
 gosuwin.com
 goswmertyeonijksqdfh.com
 got-solana.com
@@ -54123,6 +54126,7 @@ ig-authority.com
 ig-crypto-dapp.us
 ig-flaredrive.pages.dev
 ig-options.us
+ig-recovery.com
 ig.advisualagency.com
 igadaboo.com
 igamemalta.com
@@ -55643,6 +55647,7 @@ ios-dydx-exchage-us.daftpage.com
 ios.clioudit.com
 ios.nexustops.com
 iosa.click
+iosa.credit
 iosatams.info
 ioservice-start.pages.dev
 iostart-eng.ghost.io
@@ -65617,6 +65622,7 @@ ledger-live-welcome.pages.dev
 ledger-live-wellt.pages.dev
 ledger-live-working.com
 ledger-live-xrp.com
+ledger-live.app
 ledger-live.cc
 ledger-live.click
 ledger-live.co.com
@@ -71375,6 +71381,7 @@ markests.xyz
 market-blackops.xyz
 market-csgo-com.ru
 market-csgo.co
+market-csgo.com.ru
 market-dota2.cs2rate.com
 market-fun.entry-cryptolist.app
 market-getgems.store
@@ -84904,6 +84911,7 @@ pinjmaxregistxden.twxyz.my.id
 pink-meeting-975464.framer.app
 pink.exphelp.life
 pink888fart.com
+pinkasale-finance-bsc.pages.dev
 pinkcas.com
 pinkoasistoken.com
 pinkoyn.com
@@ -93290,6 +93298,7 @@ rooms.lsglobaladvisory.com
 roonplay.com
 roopio.com
 root-sol.pages.dev
+root-xyz-isme-claim.pages.dev
 rootcanalyuma.com
 rootinge.ukwest.cloudapp.azure.com
 rootsystemsbd.com
@@ -107413,6 +107422,7 @@ tgb-ladger-live.pages.dev
 tgcasin0-edh.pages.dev
 tgcasinonet.pages.dev
 tgcasinoreward.info
+tgcasinoweb.pages.dev
 tge-almanaks.co
 tge-base.org
 tge-based.one
@@ -127293,6 +127303,7 @@ yepbit6.com
 yesnoerror-rewards.icu
 yesnoerror.xyz
 yesosjimenez.es
+yestrx.pages.dev
 yeth.pages.dev
 yeti-coin.top
 yeti.pumpfun.dev

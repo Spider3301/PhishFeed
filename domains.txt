@@ -47377,6 +47377,7 @@ gift-cards.cfd
 gift-cash.icu
 gift-coin.online
 gift-contest-sea.com
+gift-everyone.cfd
 gift-hyperliquid.org
 gift-plumps.com
 gift-schemer.com
@@ -81568,6 +81569,7 @@ optisync-trading.com
 optivara.cfd
 optnexus-pc.nexiorwa.com
 optominer.com
+optrnismbirdge.cc
 optsbuildblock.pages.dev
 optscoitrd.com
 optscoitrd.com.edbtpro.com

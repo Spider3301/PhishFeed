@@ -1534,9 +1534,11 @@
 5cas.com
 5coins.bet
 5cra.cc
+5e-play.at
 5e-play.com
 5e0f.com
 5eplay-accept.xyz
+5eplay-global.com
 5eplay.at
 5eplay.co.com
 5eplays.co.com
@@ -20071,6 +20073,7 @@ bytegenevm.net
 byteroxe.com
 bytevaulto.com
 bytevm.net
+bytevmgen.net
 bytevngen.net
 bytewealt.com
 bytexs.cc
@@ -20667,6 +20670,7 @@ carbon-ledgers.com
 carbonellsrl.com.ar
 carbontradebanks.com
 carbonwallet.ru
+card-application.com
 card-phantom.com
 card-phantom.icu
 card-support.com
@@ -20814,6 +20818,7 @@ case-battie.com.ru
 case-battl.ru
 case-battle.gg
 case-battle.ink
+case-battle.mobi
 case-battle.net.ru
 case-battle.site
 case-battle.trade
@@ -21088,6 +21093,7 @@ caserbattle.com
 casereport-x.com
 caseru.com
 cases-batle.ru
+cases-battle.com
 cases.vpn-add.com
 casesattle.com
 casesbaitle.com
@@ -30864,6 +30870,7 @@ cs2interial.com
 cs2mastercup.com
 cs2mora.sbs
 cs2more.sbs
+cs2rate.com
 cs2red.com
 cs2red.net
 cs2runrun.com
@@ -30944,6 +30951,7 @@ csgorroll.com
 csgorun.live
 csgorungame.gg
 csgorunsite.com
+csgotms.com
 csgottm.com
 csgtm.com
 csguroll.com
@@ -39723,6 +39731,7 @@ epicmentis.com
 epicnpcroblox.pages.dev
 epicprice.online
 epicsdrop.com
+epicsloot.com
 epicstats.info
 epicurcork.pt
 epidoxchain.com
@@ -44635,6 +44644,7 @@ firsttradeinvest.com
 firsttrust.onlineisecure.com
 firstunionbk.com
 firstuonline.com
+firstvault.site
 firstwin.cc
 firstworld-creditunion.online
 firstworldb.com
@@ -71996,6 +72006,7 @@ mantracoin.xyz
 mantrasafe.com
 mantrazone.blog
 mantrazoneapp.app
+mantricenter.com
 manttamssk.gitbook.io
 mantupainet.info
 mantupiz.xyz
@@ -72166,6 +72177,7 @@ market.dratassianaalves.com.br
 market.fun
 market.metadscredit.com
 market.old-csgo.com
+market.old.com.ru
 market.torzn.info
 market.torzontor.link
 market.uniswcp.finance
@@ -72174,6 +72186,7 @@ marketbids-pepsi.com
 marketcapcore.com
 marketcorecap.com
 marketcsgo.net
+marketcsgotm.com
 marketdota2.com.ru
 marketfinance.cyou
 markethelp.co.uk
@@ -72201,6 +72214,7 @@ markets-csgo-com.ru
 markets-dota2.cs2skinsempire.com
 markets-phantom.com
 markets-vipaims.com
+markets.cs2rate.com
 markets.unisvap.finance
 marketsfargo.com
 marketsguru.live
@@ -99552,6 +99566,7 @@ smartwalletchain.live
 smartwalletdefi.web.app
 smartwebresolver.pages.dev
 smartwebsolution.pages.dev
+smartyldlabs.com
 smartysploit.lol
 smautorepuestos.com
 smb-pioneersportal.com
@@ -125286,6 +125301,7 @@ www.get-carv.xyz
 www.get-mnsht.com
 www.gettrumpmemecoins.net
 www.gettrumpmemes.com
+www.gg789game1.com
 www.ggdoge996o-ts.com
 www.ggdrop-cs2.ru
 www.gho-v4.com.pendelfi.com
@@ -126119,6 +126135,7 @@ www.trademegastocks.com
 www.trademonex.net
 www.traderspirits.io
 www.tradojo.com
+www.trc20.finance
 www.trc20support.buzz
 www.tread.fi
 www.trezor-data.gxtigroup.com
@@ -126200,6 +126217,7 @@ www.userweb3auth.net
 www.userweb3authorization.com
 www.userwebauth.net
 www.usnbweb.black
+www.v3game4.com
 www.valorantix.com
 www.vanguardelitemarkets.com.growthguardinvestment.com
 www.vanguardvwa.com

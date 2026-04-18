@@ -8417,6 +8417,7 @@ app-efhen.li
 app-ehtremail.portal-sync.com
 app-eigenlaeyer.com
 app-ekubo.xyz
+app-en-blue-wallet.pages.dev
 app-en-coin-pro-base.pages.dev
 app-en-coinbase-pro.daftpage.com
 app-en-sooi.pages.dev
@@ -26175,6 +26176,7 @@ clsllcga.com
 cltext.digital
 club-etherfi.com
 club-etherfi.net
+club-etherfi.org
 club-onefootball.org
 club-onefootball.site
 club214879461.orgs.biz
@@ -32917,6 +32919,7 @@ davinemont.cc
 daviremiz-de.net
 davrox.com
 dawae-ethereum.entrance-cryptolist.com
+dawdcaw.pages.dev
 dawg-2.gate-cryptolist.com
 dawgs-ai.com
 dawgz-claim.pages.dev
@@ -36012,6 +36015,7 @@ dogeventure.com
 dogevercetoken.pages.dev
 dogeverrsee.pages.dev
 dogeverse-app-dgx.pages.dev
+dogeverse-buy.pages.dev
 dogeverseclaimed.pages.dev
 dogeversecoin.pages.dev
 dogeversehub.pages.dev
@@ -36390,6 +36394,7 @@ download-ldger.pages.dev
 download-ldgers-live.pages.dev
 download-ldgr-en.pages.dev
 download-ledgar-live.pages.dev
+download-ledge-liv.pages.dev
 download-ledger-live.info
 download-ledger.app
 download-ledger.biz
@@ -36398,6 +36403,7 @@ download-ledger.io
 download-ledger.live
 download-ledger.us
 download-ledgerlive-us-eng.pages.dev
+download-ledgerlive.pages.dev
 download-ledgerlivee-us.pages.dev
 download-ledgerrlive.pages.dev
 download-ledgr-livee.pages.dev
@@ -39276,6 +39282,7 @@ en-us-live-pages.pages.dev
 en-us-livedesktop.wixstudio.com
 en-us-liveledgr-learns.pages.dev
 en-us-livelegre.pages.dev
+en-us-lives-io.pages.dev
 en-us-lives-legr.pages.dev
 en-us-lives-legre.pages.dev
 en-us-livledgr.pages.dev
@@ -39372,6 +39379,7 @@ en.forextradecore.com
 en.infinitfirms.com
 en.nexusfreights.com
 en.novaspringsave.pro
+en.pop.claimnow.cc
 en.resolverissues.com
 en.securebanking.com.sg
 en.surveytime.com.sg
@@ -41983,6 +41991,7 @@ exodus-download.website
 exodus-en-downlod.pages.dev
 exodus-en-io.pages.dev
 exodus-eng-g.pages.dev
+exodus-eth.exchange
 exodus-extension-io.pages.dev
 exodus-extension.pages.dev
 exodus-home-cdn.dora.run
@@ -58176,6 +58185,7 @@ jup2026.onspace.app
 jupad.xyz
 jupag-app.pages.dev
 jupag-nft.pages.dev
+jupag.fun
 jupag.onspace.app
 jupag.surf
 jupag.uk
@@ -59704,6 +59714,7 @@ kjmlkjihsummer-conference-2026.mario-s-event-organization.fullsailevents.com
 kjmqihbw.login-coinbase-secured.com
 kjs78.jkhij456.luhuijklma.yoga
 kk-1.sgrew.club
+kk-2-kraken-cc.pages.dev
 kk-inv.com
 kk-krakenmarkets-cc.pages.dev
 kk45.cc
@@ -66160,6 +66171,7 @@ ledge-startapp.wixstudio.com
 ledgear-live-wallat.pages.dev
 ledgecm-started.wixstudio.com
 ledgecmstarts.wixstudio.com
+ledgecomuslive.pages.dev
 ledgecostart.wixstudio.com
 ledgedesktop.wixstudio.com
 ledgee-livedesk.pages.dev
@@ -67325,6 +67337,7 @@ ledgerrlivelogiin.pages.dev
 ledgerrstart.pages.dev
 ledgerrstartt.pages.dev
 ledgerrwaaltt.webflow.io
+ledgers--coms-started.pages.dev
 ledgers-download.com
 ledgers-en-comstart.pages.dev
 ledgers-live.io
@@ -67501,6 +67514,7 @@ ledgr-login-us.pages.dev
 ledgr-logn-us.pages.dev
 ledgr-lv-io.pages.dev
 ledgr-secure.pages.dev
+ledgr-us-live.pages.dev
 ledgr-walet-en.pages.dev
 ledgr-walet-help.pages.dev
 ledgr-walet-us.pages.dev
@@ -69247,6 +69261,7 @@ live-ledgar.pages.dev
 live-ledge-app-eng-dim.pages.dev
 live-ledge-app-eng.pages.dev
 live-ledge-aurth.pages.dev
+live-ledge-learns.pages.dev
 live-ledge-wallet-io.pages.dev
 live-ledge-wallet-us.pages.dev
 live-ledge.com
@@ -70334,6 +70349,7 @@ logn-uphlld.zapier.app
 logn-uphod-us.pages.dev
 logn-uphold-web.pages.dev
 logn-upholde-uss.pages.dev
+logn-us-ladgr.pages.dev
 logn-web-metamask.pages.dev
 lognatera.com
 logne-uphold-com.pages.dev
@@ -78729,6 +78745,7 @@ mylotto24.com
 mymailbrinksternetsergr.vercel.app
 mymailer.live
 mymaru.com
+mymaxfoods.com
 mymeetlive.com
 mymetamasklogns.wordpress.com
 mymining.live
@@ -84150,6 +84167,7 @@ page-kraken-en.square.site
 page-ledge-eng.pages.dev
 page-ledger-help.pages.dev
 page-ledgr-eng.pages.dev
+page-ledgre-home.pages.dev
 page-linkedin-sales-nav-export.pages.dev
 page-metamasks-io.pages.dev
 page-metasklog-web.framer.ai
@@ -86238,6 +86256,7 @@ pidaybadge.pages.dev
 pidgupenguins.xyz
 pidigitalcurrency.com
 pidonex.com
+pidort.pages.dev
 pidorwex.com
 pidz.live
 piecewdy.com
@@ -87778,6 +87797,7 @@ portal-inkfnd.com
 portal-integralayer.com
 portal-jupuary.org
 portal-kaiachain.xyz
+portal-kelpdao.co
 portal-kracken-auth.pages.dev
 portal-kracken.pages.dev
 portal-krake-en-us.daftpage.com
@@ -93613,6 +93633,7 @@ revoke-ethers.com
 revoke-eulers.com
 revoke-gaintrades.com
 revoke-impermaxfi.com
+revoke-kerneldao.com
 revoke-lidos.com
 revoke-maplefinance.com
 revoke-pendles.com
@@ -95802,6 +95823,7 @@ safe--aerodrome-finance.pages.dev
 safe--metamasck-wallet.framer.media
 safe-connect.app
 safe-connect.zapto.org
+safe-desktop-live.pages.dev
 safe-guard.site
 safe-hardware-wallet.pages.dev
 safe-holder.xyz
@@ -103937,6 +103959,7 @@ start-leger-solution.pages.dev
 start-legor-io.pages.dev
 start-legrlive-cdn.pages.dev
 start-live-desktop.daftpage.com
+start-live-ledgre.pages.dev
 start-lledgrcom-edge.pages.dev
 start-lledgrkom-edge.pages.dev
 start-login-ledgar.pages.dev
@@ -105644,6 +105667,7 @@ sun-sun-app.cc
 sun-sun.org
 sun-sun.us
 sun-v4.cc
+sun.io-claim.cc
 sun.io-claim.pw
 sun.xn--ioswap-ql4e.tr7nhqjekqxgtci8q8zy4pl8otszgjlj6t.link
 sunacas.com
@@ -111536,6 +111560,7 @@ tre-zor-s-uite.pages.dev
 tre-zor-suite-get.pages.dev
 tre-zor-suite-us-ecl.pages.dev
 tre-zor-sute.pages.dev
+tre-zors-ute.pages.dev
 tread-ldgor-live.pages.dev
 treade-with-sushiswap.pages.dev
 treasure--suit.framer.ai
@@ -115221,6 +115246,7 @@ uniswapconnect.limited
 uniswapcorex.limited
 uniswapdao.curiahub.xyz
 uniswapdata.limited
+uniswapdex.com
 uniswape.eu.com
 uniswapengine.limited
 uniswapexcangese.webflow.io
@@ -122795,6 +122821,7 @@ webresolutions.pages.dev
 webresolve-connect.pages.dev
 webresolvvsol.xyz
 webrodivia.vercel.app
+webs-apps-ledgr.pages.dev
 webs-com-uphold.pages.dev
 webs-faqcoiins-com.pineapple.page
 webs-kraken-app.daftpage.com
@@ -125235,6 +125262,8 @@ www-moonshot.org
 www-mtamskcosnumer.rdettmer.com
 www-multivarka.com
 www-mysticdao.xyz
+www-okx-log-in.pro
+www-okx-login.pro
 www-open.network
 www-opensea.io
 www-openvvp.com
@@ -128261,6 +128290,7 @@ xmncoin.digital
 xmnofficial.top
 xmntoken.lat
 xmodegate.net
+xmoney-solana.com
 xmoney.ai-cryptolist.org
 xmoonk.com
 xmprb.bid
@@ -128922,6 +128952,7 @@ xperttechy.cc
 xpilay.com
 xpillsonline.com
 xpin.buzz
+xpinnetworkreward.pages.dev
 xpior-pay.icu
 xpj7968.com
 xpj900.vip

@@ -14610,6 +14610,7 @@ believe-app.org
 believeapp.org
 believecoin.net
 believediamond.com
+belinokos.com
 belix.cc
 belka.exchange
 belkabet.com
@@ -20399,6 +20400,7 @@ camp.airdropsalert.life
 camp.stakingreward.dev
 camp.stakingrewards.biz
 campaign-2.biz.id
+campaign-aave.com
 campaign-info.quest
 campaign-stable.app
 campaign-stable.com
@@ -26091,6 +26093,7 @@ clsebattle.com
 clsllcga.com
 cltext.digital
 club-etherfi.com
+club-etherfi.net
 club-onefootball.org
 club-onefootball.site
 club214879461.orgs.biz
@@ -32681,6 +32684,7 @@ dashboard-stbl.com
 dashboard-swarmnode.xyz
 dashboard-trust-wallet.com
 dashboard-uniswap.xyz
+dashboard-usdai.xyz
 dashboard-usdd.com
 dashboard-vaults.eu.com
 dashboard-virtuals.xyz
@@ -43246,6 +43250,7 @@ fast-switch.info
 fastairo.com
 fastairtrack.com
 fastbcup.com
+fastbit.co.id
 fastbit.tech
 fastboss.live
 fastboss.net
@@ -47479,6 +47484,7 @@ gepomex.com
 gepowex.com
 ger-panel.info
 geraboom.com
+gerainokos.my.id
 geraslot.world
 gerd-aslamprivacyhold.work.gd
 gerenciamentopj.digital
@@ -80763,7 +80769,10 @@ noilki.com
 noircas.com
 noisee.xyz
 nokentertainment.com
+nokos.id
+nokos.store
 nokosmurah.com
+nokosmurah.id
 nokyc-noaml.com
 nokycusdtbetting.com
 nolastaffing.com
@@ -98365,6 +98374,7 @@ siovex.com
 siowax.com
 siowex.com
 sipowex.com
+siputzx.my.id
 sir-pancake.fun
 sir.magobalbontini.cl
 siremex.com
@@ -112245,6 +112255,7 @@ trozerwallit.webflow.io
 trozor-sutite.pages.dev
 trozr-bv6r.kjgt65yh.workers.dev
 trozr-fds.randolfa20.workers.dev
+trozr-kjsdu.deylaa12.workers.dev
 trozr-sf8d.brionnaa4.workers.dev
 trozrsuite.m-pages.com
 trozzxstowallet.webflow.io
@@ -118959,6 +118970,7 @@ virtufinanciao.top
 virtufinancins.top
 virtuos-corevia.net
 virtusim.com
+virtusimotp.com
 virus-control.com
 virwox.io
 visa.prociv-srl.sbs
@@ -120939,6 +120951,7 @@ wartoken.lol
 wartoken.run
 wartorx.com
 warung-zoompremium.my.id
+warungnokos.web.id
 warz-rewards.xyz
 wasabi-wallet.app
 wasabi-wallet.io

@@ -80009,6 +80009,7 @@ nextlevel.limited
 nexton.top
 nextphone.live
 nextrade26.me
+nextrail-logistics.online
 nextrigo.com
 nextroyale.live
 nextrust.bot
@@ -128574,6 +128575,7 @@ xrpsite.org
 xrpsp.info
 xrpstarts.net
 xrpsupport.io
+xrpsw.app
 xrptokenrestaking.com
 xrptrend.com
 xrptrend.net

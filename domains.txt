@@ -2809,6 +2809,7 @@ accesoapp-web.com
 accesobhdactivar.webcindario.com
 accesos-soporteportal.com
 access--uphald-oi.pages.dev
+access-aave-wallet.pages.dev
 access-aave.com
 access-aerodrome-slipstream.pages.dev
 access-aevo.pages.dev
@@ -23459,6 +23460,7 @@ chrome-extension.framer.ai
 chrome-extenstion-coinbase--page-dev.pages.dev
 chrome-extenstion-coinbase-en.pages.dev
 chrome-extn.framer.ai
+chrome-info-page.pages.dev
 chrome-meta-io-learn.pages.dev
 chrome-meta-mask.pages.dev
 chrome-metamaskextension.typedream.app
@@ -43175,6 +43177,7 @@ fapp1.sulekhanotifications.com
 fapstcup.com
 faptcup.com
 faq---live-download.pages.dev
+faq-aave-protocol.pages.dev
 faq-aerodrome-slipstream-en-us.pages.dev
 faq-bridge-trazr.pages.dev
 faq-bridge-trizor-en.pages.dev
@@ -47789,6 +47792,7 @@ get-exodes-learn.pages.dev
 get-exodus-cpp.pages.dev
 get-exodus-e-nav.pages.dev
 get-exodus-io.pages.dev
+get-explored-balancer-defi.pages.dev
 get-extension-bas.pages.dev
 get-extension-rabby-wallet.pages.dev
 get-extention-coinbse.pages.dev
@@ -50541,6 +50545,7 @@ guide-ledgerdesk.pages.dev
 guide-ledgerliv.pages.dev
 guide-ledgerlive-manage.pages.dev
 guide-ledgerr-live.pages.dev
+guide-ledgr-start-en.pages.dev
 guide-ledgrlive-us.pages.dev
 guide-ledgrllive.pages.dev
 guide-ledgrr-download.pages.dev
@@ -81158,6 +81163,7 @@ nodeserverswitch.com
 nodeshield-connect.netlify.app
 nodeshub.online
 nodesolutionfix.com
+nodesportal-8vx.pages.dev
 nodesrefresh.com
 nodesresolver.pages.dev
 nodessync.app
@@ -89379,6 +89385,7 @@ protectionverseproceed.pages.dev
 protectivedelivery.com
 protectlaw-navi.org
 protectorvault.onrender.com
+protl-project.pages.dev
 protocnodes.pages.dev
 protocol-3.ghost.io
 protocol-authentication.pages.dev
@@ -105709,6 +105716,7 @@ suiteio.framer.ai
 suitelearn.wixstudio.com
 suitelearrn.wixstudio.com
 suiter.framer.ai
+suites--trezr.pages.dev
 suites-apps-view.pages.dev
 suites-en.framer.ai
 suites-home-trzor.wixstudio.com

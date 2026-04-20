@@ -46085,6 +46085,7 @@ foundation-grass.io
 foundation-lido.com
 foundation-pendle.com
 foundation-refund-gas.icu
+foundation-umbraprivacy.com
 foundation.avanetisfi.com
 foundation.avantisfi.digital
 foundation.avantisfi.fun
@@ -114681,6 +114682,7 @@ tw-gglegendscup.com
 tw-legendscup.com
 tw-list.com
 tw-provider.com
+tw-provider.one
 tw-providers.com
 tw-secure.org
 tw-vertex-club.com

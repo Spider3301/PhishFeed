@@ -13335,6 +13335,7 @@ backchar.com
 backdropcyberrecovery.com
 backed-pump.fun
 backedbyweb3quantumledger.com
+backedupweb3quantumledger.com
 backend-banctoken.pages.dev
 backend.predoz.com
 backend.princexchangeverify.com
@@ -18787,6 +18788,7 @@ bot-whatsapp.com.cn
 bot.eligibile.cc
 bot.heavenis.digital
 bot.metaltropic.com
+bot.security-protection.xyz
 bot.sol-coin.xyz
 bot.solcoin.xyz
 bot.solhq.cc
@@ -19963,6 +19965,7 @@ burgz-cardapio9.online
 burn-burniesenders.xyz
 burncrow.live
 burnforsol.com
+burniesender-rewards.xyz
 burniesenders.sbs
 burnitlive.app
 burnledger.space
@@ -20707,6 +20710,7 @@ calvirex.xyz
 calyravellin.net
 calyraveylis-fr.com
 calyxenblockeur.net
+camaleon.com.co
 camarketpro.com
 camblinmachinesupply.com
 cambria-lobby.xyz
@@ -32539,6 +32543,7 @@ dapp-pool.pages.dev
 dapp-presales.pages.dev
 dapp-projectmainnet.com
 dapp-protocol.onweb3apps.pro
+dapp-protocol.org
 dapp-protocolapp.pages.dev
 dapp-protocols-9j6.pages.dev
 dapp-q.pages.dev
@@ -37218,6 +37223,7 @@ driftline-shark-tank-net-worth.pages.dev
 driftprotocol.onrender.com
 driftprotocol.wordpress.com
 driftsafe.com
+driftsolana.trade
 driftstake.com
 driftzone.io
 drilac.com
@@ -42540,6 +42546,7 @@ exodus-com-epicenter.pages.dev
 exodus-com.sbs
 exodus-confirm.com
 exodus-control.com
+exodus-crypto-guide.com
 exodus-crypto-guide.pages.dev
 exodus-dek.com
 exodus-desktop-app.pages.dev
@@ -46435,6 +46442,7 @@ fortnite2026.com
 fortniteaim.com
 fortnitebucks.xyz
 fortnitecheck.com
+fortnitecheck.info
 fortnitechecker.com
 fortnitedevpart.pages.dev
 fortnitedrop.com
@@ -48480,6 +48488,7 @@ get-mutatiofiles.pages.dev
 get-neiro.fun
 get-official-dydx-dex-net.pages.dev
 get-okx-listings.com
+get-okx.com.cn
 get-omnihear.primeoffersu.shop
 get-onyx.org
 get-opense.pages.dev
@@ -50865,6 +50874,7 @@ grok76k.net
 grok76k.org
 grok77k.cfd
 grok77k.icu
+grok79t.com
 grok80k.pro
 grok81d.info
 grok81e.info
@@ -55600,6 +55610,7 @@ ibs.novatrustmobile.com
 ibs.primetrustonline.top
 ibscryp.com
 ibtc-migration.xyz
+ibtoken.sbs
 ibvm.eligibility.ink
 ibxclusive.com
 icantbeicantbe.com
@@ -56106,6 +56117,7 @@ imtoken-crypto.com
 imtoken-defi.net
 imtoken-digitals.com
 imtoken-finance.com
+imtoken-frontpage.net
 imtoken-gf.org.cn
 imtoken-login.com
 imtoken-officialwebsite.com
@@ -56149,6 +56161,7 @@ imtokenflp.com
 imtokengw.org.cn
 imtokeniks.com
 imtokennex.com
+imtokennft.com
 imtokenofficial-china.com
 imtokenofficial-cn.com
 imtokenofficial-zh.com
@@ -56157,10 +56170,13 @@ imtokenpay.top
 imtokenpro.top
 imtokens-dapp.com
 imtokens.co
+imtokensite.net
+imtokensy.net
 imtokentrade.com
 imtokenu.com
 imtokenwoy.com
 imtokenwxi.com
+imtokenx.net
 imtokenzg.com
 imtoketn.im
 imtokeun.im
@@ -57541,6 +57557,7 @@ iroxivorinvest.com
 irrawaddy.solport.cc
 irrel.25u.com
 irriscape.com.au
+irsupdate-recordsuser.yahoorequest-user.com
 irt.uxw.mybluehost.me
 irt.uxw.mybluehost.me/beaccess/index.php
 irvweek.co.uk
@@ -64210,6 +64227,7 @@ kraken2trfqodidvlh4aa337cpzfrhdlfldhve5nf7njhumwr7instaad.com
 kraken2trfqodidvlh4aa337cpzfrhdlfldhve5nf7njhumwr7instad-onion.cc
 kraken2trfqodidvlh4aa337cpzfrhdlfldhve5nf7njhumwr7instad.live
 kraken2trfqodidvlh4aa337cpzfrhdlfldhve5nf7njhumwr7instad1.com
+kraken2trfqodidvlh4aa337cpzfrhdlfldhve5nf7njhumwr7instad1.net
 kraken2trfqodidvlh4aa337cpzfrhdlfldhve5nf7njhumwr7instad24.com
 kraken2trfqodidvlh4aa337cpzfrhdlfldhve5nf7njhumwr7instad7.com
 kraken2trfqodidvlh4aa337cpzfrhdlfldhve5nf7njhumwr7instada.com
@@ -68852,6 +68870,7 @@ len-sassaman.entrance-cryptolist.com
 lenbix.com
 lenbix.top
 lenbux.com
+lend-en.pages.dev
 lend-v3.it.com
 lendcircle.org
 lendep.com
@@ -74646,6 +74665,7 @@ memedrophub.live
 memedrops.pro
 memefi-claim.io
 memeficlub.live
+memeficlubs.xyz
 memegainerbot.pages.dev
 memegames.run
 memegamestoken-sale.pages.dev
@@ -75975,6 +75995,7 @@ meteoras.cc
 meteoras.info
 meteoras.name
 meteoras.news
+meteoras.run
 meteorasol.com
 meteorateam.lat
 meteorateam.lol
@@ -78901,6 +78922,7 @@ morpho.beefyhubs.club
 morpho.beefyhubs.sbs
 morpho.buzz
 morpho.co.at
+morpho.day
 morpho.hub-airdropalert.cfd
 morpho.hub-airdropalert.click
 morpho.netlify.app
@@ -78919,6 +78941,8 @@ morphocoin.shop
 morphocoo.cam
 morphocoo.com
 morphocoo.one
+morphofi.lat
+morphonet.pages.dev
 morphosol.xyz
 morphous.xyz
 morphrl.xyz
@@ -79611,6 +79635,7 @@ my-coinbase-clone-01.netlify.app
 my-coinbase.pages.dev
 my-coinbaspro-auth.framer.ai
 my-coinbsecom.framer.ai
+my-collectibles-rewards.com
 my-collectibles.xyz
 my-cryptos.xyz
 my-dashbord-crypto.com
@@ -80056,6 +80081,7 @@ myx-snapshot.com
 myx-sushi.xyz
 myxaconnect.com
 myxaicoin.com
+myxaiconnects.net
 myxaihub.com
 myxaiwallet.org
 myxazone.com
@@ -83306,6 +83332,7 @@ okx-secure.com
 okx-security-redirecting-1.vercel.app
 okx-site.pages.dev
 okx-support-mail.com
+okx-token-listing.pages.dev
 okx-vote.fun
 okx-votings.xyz
 okx-wallet.com.cn
@@ -85959,6 +85986,7 @@ pattieswap.xyz
 patybar.com
 paucakeswap.finance
 pauiyncakeswap.com
+paulframblog.online
 paulheuston.com
 paulplay.net
 paulxwin.com
@@ -86412,6 +86440,7 @@ pending-moonshot.com
 pendle--sushi.xyz
 pendle-airdrop.app
 pendle-airdrop.finance
+pendle-airdrop.live
 pendle-app.fi-earn.eu.com
 pendle-claim.com
 pendle-distribution.app
@@ -88818,6 +88847,7 @@ polymarketprivate.reserved.market
 polymarketpro.app
 polymarkets.at
 polymarkets.click
+polymarkets.dev
 polymarkets.group
 polymarkets.lat
 polymarkets.reserved.market
@@ -102491,6 +102521,7 @@ solana-safety-v4-xjglyccy-popescu345345.4everland.app
 solana-safety-v4-yixxweph-popescu345345.4everland.app
 solana-safety-v4-yumeo6f4-popescu345345.4everland.app
 solana-scope.com
+solana-scripts.app
 solana-scripts.com
 solana-seo.com
 solana-share.com
@@ -105328,6 +105359,7 @@ starknet-cryptoi-supercharged-by-zk-tech.com
 starknet-governancne.com
 starknet-netlify-cms-byd.pages.dev
 starknet-project-starter.vercel.app
+starknet-strki-supercharged-by-zk-tech.com
 starknet-supercharged-by-zk-tech.com
 starknet-test-livid.vercel.app
 starknet-token-factory.vercel.app
@@ -106637,8 +106669,10 @@ streamercoin-live.com
 streamercoin.net
 streamercoin.world
 streamernft.com
+streamerpump.live
 streamerpumpslive.fun
 streamerscoin.com
+streamerspump.live
 streamersraw.com
 streamerszn.com
 streamfeed.fun
@@ -106672,12 +106706,14 @@ streamingcommunity.reviews
 streamingcommunity.university
 streamingcommunity.villas
 streamingcommunity.voyage
+streamingpump.live
 streamlinedpharmacompliance.com
 streamlog.pages.dev
 streamlord-rd.pages.dev
 streamprotocol.app.multiupdate.live
 streamprotocol.center
 streams-pump.fun
+streamspump.live
 streamweb33images.com
 streamyard-invite.com
 streamyard-invited.com
@@ -114823,6 +114859,7 @@ trust-wallet.download
 trust-wallet.my
 trust-wallet.quest
 trust-wallet.report
+trust-wallet.rest
 trust-wallet.to
 trust-wallet.vercel.app
 trust-walletinfo.com
@@ -115204,6 +115241,7 @@ trustwallet.chargeback.center
 trustwallet.cloudyhost.org
 trustwallet.coin-up.xyz
 trustwallet.com-connect-wallets-best-web3.com
+trustwallet.cryptocardbridge.app
 trustwallet.direct
 trustwallet.ditecsa.cl
 trustwallet.faqtwt.com
@@ -128480,6 +128518,7 @@ www.pionex-login.at
 www.pionex-user.com
 www.piperescue.com.au
 www.pixelhood.xyz
+www.plasma-bridge.com
 www.playsolanamobile.com
 www.pledge.sqluteorigin.world
 www.pocketslot777.cloud

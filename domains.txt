@@ -59071,6 +59071,7 @@ jupag-app.pages.dev
 jupag-nft.pages.dev
 jupag.fun
 jupag.onspace.app
+jupag.pro
 jupag.surf
 jupag.uk
 jupagboard.pages.dev
@@ -71211,6 +71212,7 @@ login.pixeladmin.com
 login.polcu.microsoftenline.com
 login.pwffood.com
 login.rustfoundry.net
+login.security-gate.net
 login.securitybot-verify.sbs
 login.sharepoint.online.collaboration.document.center.webplanco.com
 login.socialcloud9.com
@@ -119972,6 +119974,8 @@ valo-secret.cc
 valo-stix.com
 valoepic.com
 valoevent.rest
+valofg.com
+valofo.com
 valofrex.top
 valogiv.com
 valok.sbs

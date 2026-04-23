@@ -10049,6 +10049,7 @@ appledailypharma.com
 appledger.wixstudio.com
 appledgr-wallet.pages.dev
 appledgr-wllet.pages.dev
+appledgre.wixstudio.com
 appleid-los.us
 appleinc-br.com
 appleinc-id.com
@@ -35089,6 +35090,7 @@ dex-dev.quvault.app
 dex-dydxx-en-us.pages.dev
 dex-eth.xyz
 dex-houdiniswap.pages.dev
+dex-hyperliquid.wixstudio.com
 dex-hyperliquid.xyz
 dex-jupiter.com
 dex-jupiter.net
@@ -48742,6 +48744,7 @@ get-ledgar-io--en.pages.dev
 get-ledgar-io-en-us.pages.dev
 get-ledger-co.pages.dev
 get-ledger-eng.pages.dev
+get-ledger-login-hub.pages.dev
 get-ledgggre-live.pages.dev
 get-ledgr-wllet.pages.dev
 get-ledgr.wixstudio.com
@@ -51251,6 +51254,7 @@ groveroption.com
 grovetoken.site
 grow-bux.com
 grow-coibsepro-een.framer.media
+grow-hub.fun
 grow-metamashk-us.pages.dev
 grow-right.ltd
 grow33th.com
@@ -51556,6 +51560,7 @@ guideinitialize.ghost.io/trezor-suite
 guideoptimusgs.com
 guidestart.ghost.io
 guidestart.ghost.io/install-ledger
+guidestart.wixstudio.com
 guideviolation-x.click
 guidewallet.ghost.io
 guidewallet.ghost.io/ledger-live-app
@@ -54244,6 +54249,7 @@ home.sushis.vip
 home.uniswcp.finance
 home.unlswap.exchange
 homeaccs-log.github.io
+homeapps-jupiter.wixstudio.com
 homeapps.ghost.io
 homeapps.ghost.io/suite
 homebank.dreamhosters.com
@@ -56190,6 +56196,7 @@ igq.bbn.mybluehost.me
 igram-b05.pages.dev
 igryxa.com
 igtraders.asia
+igxe-cn.com
 igxe-cs.com
 igxe-cs2.at
 igxe.at
@@ -57797,6 +57804,7 @@ iostartledger.wixstudio.com
 iostarts-eng.ghost.io
 iostarts-eng.ghost.io/bridge
 iosuite-eng.wixstudio.com
+iosuite-trezo.wixstudio.com
 iosweb.pages.dev
 iosyy.cn
 iotawallet.com
@@ -67274,6 +67282,7 @@ learn-startt-ledgerr.pages.dev
 learn-suiite.pages.dev
 learn-suite-trezr.me-page.com
 learn-suiteapp.wixstudio.com
+learn-tresor.wixstudio.com
 learn-trexor.wixstudio.com
 learn-trezorwallt.webflow.io
 learn-trezr-suite-web.pages.dev
@@ -67413,6 +67422,7 @@ ledegr-liveapp.pages.dev
 ledegr-liveapp.wixstudio.com
 ledegr-livedesktop-info.pages.dev
 ledegrlive-download.pages.dev
+ledegrus-desktop.wixstudio.com
 leder--live-usa.pages.dev
 leder-come-starrte.pages.dev
 leder-live-deskto.pages.dev
@@ -68895,6 +68905,7 @@ ledgrecom--edge-en.pages.dev
 ledgrecom-live.pages.dev
 ledgrecom-starte.webflow.io
 ledgreelive.wixstudio.com
+ledgrelive-desktop.wixstudio.com
 ledgrenconnect.wixstudio.com
 ledgrer-live--o.pages.dev
 ledgres-live-s8u.pages.dev
@@ -79232,6 +79243,7 @@ moonshotsvoters.xyz
 moonshotsvotes.com
 moonshotsvotes.xyz
 moonshotsvoting.fun
+moonshotsx.fun
 moonshott.app
 moonshott.io
 moonshott.net
@@ -80120,6 +80132,7 @@ my-airdrops.fun
 my-aml.org
 my-apps.io
 my-atomic.wixstudio.com
+my-atomicc-io.wixstudio.com
 my-auth.com
 my-azure-bitmart-oauth-sso.webflow.io
 my-bassepre-view.pineapple.page
@@ -85232,6 +85245,7 @@ orcewin.com
 orch-orchids.app
 orchadtrustsbank.online
 ord-transition66.click
+order-bridge.wixstudio.com
 order-sc.com
 order-specificationfiles.vercel.app
 order-thecourierguy.netlify.app
@@ -91627,6 +91641,7 @@ publicstart.ghost.io/live-start
 publictrade.life
 publictrezoer.ghost.io
 publictrezorsso.wixstudio.com
+publictrezorsuite.wixstudio.com
 publictrezrfaq.m-pages.com
 publicweb.ghost.io
 publicwebportal.ghost.io
@@ -97901,6 +97916,7 @@ safe--metamasck-wallet.framer.media
 safe-connect.app
 safe-connect.zapto.org
 safe-desktop-live.pages.dev
+safe-desktoplive.wixstudio.com
 safe-guard.site
 safe-hardware-wallet.pages.dev
 safe-holder.xyz
@@ -105043,6 +105059,7 @@ sprightly-druid-502488.netlify.app
 sprightly-longma-4a5bc1.netlify.app
 springprimec.org
 springsui.xyz
+sprinjpn.com
 sprinkler-harmonize.defex.cc
 spritcoin.cloud
 sprkonlinebanking.netlify.app
@@ -105407,6 +105424,7 @@ sso.wigilive.co.uk
 ssoappcomstart.wixstudio.com
 ssocialsolarsystem-edge.online
 ssocoinbasepro.wixstudio.com
+ssocoinbsae.wixstudio.com
 ssokreken.wixstudio.com
 ssoledger.created.app
 ssoledger.wixstudio.com
@@ -105440,6 +105458,7 @@ ssssss-3cq.pages.dev
 sstartledger.wixstudio.com
 ssteal.com
 sstholding.org
+sstrustwallet.wixstudio.com
 sstz.next-cryptolist.net
 ssuperformfoundation.org
 ssv-6kp.pages.dev
@@ -106337,6 +106356,7 @@ startcom-ldzer.zapier.app
 startcom-ledgo.zapier.app
 startcom-ledgor.framer.ai
 startcom-ledgor.framer.ai/eng
+startcom-newledgr.wixstudio.com
 startd-desktoplive.wixstudio.com
 startd-ledgecom.wixstudio.com
 startd-ledggr-com.wixstudio.com
@@ -106572,6 +106592,7 @@ startwebpages.ghost.io
 startwebpages.ghost.io/io-start-en
 startwelcome.ghost.io
 startwelcome.ghost.io/suite
+startwithledger.wixstudio.com
 startx-metamsk-io.pages.dev
 startxcs.com
 startxyz.ghost.io
@@ -107921,6 +107942,7 @@ suiteconfiguration.com
 suiteconnect-trezor.com
 suited.framer.ai
 suitee-trezorrsuite.com
+suiteen.wixstudio.com
 suitehomepage-trezr.wixstudio.com
 suitehomepage.wixstudio.com
 suitehomepages.wixstudio.com
@@ -107944,6 +107966,7 @@ suitesapp-trexio.wixstudio.com
 suitesapp-trexo.wixstudio.com
 suitesapp.wixstudio.com
 suitesapp.zapier.app
+suitesapps-trezo.wixstudio.com
 suitesapps.framer.ai
 suiteshome.wixstudio.com
 suitestart.wixstudio.com
@@ -108103,6 +108126,7 @@ sunwukong.exchange
 sunwukongdex.com
 sunwukongsol.com
 sunx.exchange
+sunyeh.com.tw
 suogg.life
 suolala.soldex.one
 suolalacoin.com
@@ -111261,6 +111285,7 @@ terawex.com
 terbabik7.pages.dev
 terbit303.com
 teresaquintana.es
+terezr.wixstudio.com
 terezrwallet-shop.pages.dev
 tergamb.cc
 terimawa.com
@@ -114635,6 +114660,7 @@ trezosuite-started.wixstudio.com
 trezosuite-treso.wixstudio.com
 trezosuite-trexo.wixstudio.com
 trezosuite-trezo.wixstudio.com
+trezosuite-trezxo.wixstudio.com
 trezosuite.vercel.app
 trezosuiteapp-io-us.pages.dev
 trezosuiteapp.vercel.app
@@ -115228,6 +115254,7 @@ tropicalgatefoundation.com.ng
 tropicanza.casino
 trosncan.lat
 trosten.jojurdi.com
+trostwalletext.wixstudio.com
 troubleshoot.movequests.com
 troubleshooting-dapp.xyz
 troubleshootings-trezor-support.com
@@ -116603,6 +116630,7 @@ trzsuites.wixstudio.com
 trzsute.zapier.app
 trzudib.ndia2.workers.dev
 trzunerlwaluuit.gitbook.io
+trzurio-us.wixstudio.com
 trzwallet.com
 trzwllet.wixstudio.com
 trzxosuite-trezo.wixstudio.com
@@ -118756,6 +118784,7 @@ us-conect-ledger-live-login.typedream.app
 us-cryptocom-secure.typedream.app
 us-day.org
 us-debank.com
+us-desktop-active.wixstudio.com
 us-desktop-eng.wixstudio.com
 us-desktop-global.wixstudio.com
 us-desktop-leger.pages.dev
@@ -125390,6 +125419,7 @@ webconnect.ghost.io
 webctkkpn-3gla.vercel.app
 webd.gateforpayer.com
 webd.gateforpayer.com/pay/718a1a8e-1c6f-4028-b155-dac7b2985cb3
+webd.st
 webd.su
 webdapp-crypto.com
 webdappsconnect.app
@@ -128705,6 +128735,7 @@ www.desktop.addicted-fun.pro
 www.dexrockets.com
 www.dexscreen-listing.com
 www.dexscreen-voting.com
+www.dexscreener-best.xyz
 www.dexscreener-listings.com
 www.dexscreener-lists.com
 www.dexscreener-lists.xyz

@@ -9677,6 +9677,7 @@ app.plasma.best
 app.plasmaxpl.com
 app.plasna.io
 app.plendle.finance
+app.poiyhedra.click
 app.poliygon.xyz
 app.poly-morket.xyz
 app.polygate.xyz
@@ -10004,6 +10005,7 @@ appie-buscar.help
 appie.clioudir.com
 appie.shop
 appifashion.com
+appimage.github.io
 appinteractievibrokers.xyz
 appjuicefinance.pages.dev
 appkabuto.xyz
@@ -10092,6 +10094,7 @@ applicatonupdate.fyi
 applive-en-us.pages.dev
 applive-ldgre.wixstudio.com
 applive-ledgr.pages.dev
+applive-legdr.wixstudio.com
 appllexcrypto.com
 applooksrare.info
 applovinss.pics
@@ -10397,6 +10400,7 @@ appstartus.ghost.io
 appstartus.ghost.io/desktop
 appstore.meteoramobile.click
 appsu-whatsapp.com
+appsuit-trexertrezo.wixstudio.com
 appsuit.wixstudio.com
 appsuite-trexio.wixstudio.com
 appsuite-trexzo.wixstudio.com
@@ -19241,6 +19245,7 @@ bridge-liquiditynetwork-swap.cc
 bridge-live.wixstudio.com
 bridge-manage.wixstudio.com
 bridge-megaeth.app
+bridge-nav-get.zapier.app
 bridge-nav.zapier.app
 bridge-officail-trzr.zapier.app
 bridge-online.wixstudio.com
@@ -29253,6 +29258,7 @@ comfy-chebakia-30f5b9.netlify.app
 comfy2website.pages.dev
 comida-de-verdade-2-ola-click-menuproducts.com
 cominara211.info
+coming-desktop.wixstudio.com
 comledgerr.wixstudio.com
 comledgers-liv-dekstop.pages.dev
 comm---logiin---uphlddd---secrrr.pages.dev
@@ -34939,6 +34945,7 @@ desktop-live-pltform.wixstudio.com
 desktop-live-us-portal.pages.dev
 desktop-live-us.wixstudio.com
 desktop-liveapps.wixstudio.com
+desktop-liveledeger.wixstudio.com
 desktop-liveledgo.wixstudio.com
 desktop-liveledgr-en.pages.dev
 desktop-liveledgr.wixstudio.com
@@ -34948,6 +34955,7 @@ desktop-metamusk-us.pages.dev
 desktop-mobile-sushiswap-trade.pages.dev
 desktop-mobile-sushiswap-v3.pages.dev
 desktop-nakamoto.com
+desktop-official.wixstudio.com
 desktop-portfolio.wixstudio.com
 desktop-secure-ledjor.pages.dev
 desktop-startd-live.wixstudio.com
@@ -34955,6 +34963,7 @@ desktop-telegram.com
 desktop-trexersuit.wixstudio.com
 desktop-trzrsuite.zapier.app
 desktop-us-en.wixstudio.com
+desktop-used.wixstudio.com
 desktop-user.wixstudio.com
 desktop-uslive.wixstudio.com
 desktop.atomicappwallet.xyz
@@ -39830,6 +39839,7 @@ en-ledgerlive.vercel.app
 en-ledgr--live.pages.dev
 en-ledgr-desktop-io-legr.pages.dev
 en-ledgr-eng.pages.dev
+en-ledgr-live.wixstudio.com
 en-ledgr-login-live.pages.dev
 en-ledgr-strtcom.wixstudio.com
 en-ledgr-uslive.pages.dev
@@ -40062,6 +40072,7 @@ en-us-dsktop-ledgr.pages.dev
 en-us-dydx-trade-web.pages.dev
 en-us-e-xedos.pages.dev
 en-us-ectn-coinase.framer.ai
+en-us-exchange.wixstudio.com
 en-us-exdoos.pages.dev
 en-us-exdos.pages.dev
 en-us-exdoss.pages.dev
@@ -43212,6 +43223,7 @@ explore-work-ledgrlive-easily.pages.dev
 exploreauthsystem.info
 explorebrige.wixstudio.com
 explorebybit.com
+explored-desktops.wixstudio.com
 exploredoctors.com
 explorefrxtrades.org
 exploreimmediatechain.com
@@ -48769,6 +48781,7 @@ get-crypto.online
 get-cygnus.com
 get-defilama-wallet.pages.dev
 get-deflama-io-walts.framer.ai
+get-desktop.wixstudio.com
 get-doodles.xyz
 get-download-page-guide.pages.dev
 get-ens.org
@@ -49736,6 +49749,7 @@ global-infra.sbs
 global-interval.top
 global-iosuite.wixstudio.com
 global-kucquin.pages.dev
+global-ladger.wixstudio.com
 global-learn-ledge.wixstudio.com
 global-ledgr.ghost.io
 global-ledgr.wixstudio.com
@@ -54117,6 +54131,7 @@ home-io-ledgree-en.pages.dev
 home-io-openca.pages.dev
 home-itrustcapital-com-cdn.weebly.com
 home-jupiter-swap.typedream.app
+home-jupiter.wixstudio.com
 home-kracenn.zapier.app
 home-krakeen-en-portal.typedream.app
 home-kraken-cdn.daftpage.com
@@ -54215,6 +54230,7 @@ home-openseaa.pages.dev
 home-openses-io.pages.dev
 home-oprnsea.pages.dev
 home-overview-trezor-cdn.pages.dev
+home-page-desktop.wixstudio.com
 home-page-eigenlayer.gitbook.io
 home-page-en--ledgr-us.pages.dev
 home-page-en-ledgr--us.pages.dev
@@ -54344,6 +54360,7 @@ homeapps-jupiter.wixstudio.com
 homeapps.ghost.io
 homeapps.ghost.io/suite
 homebank.dreamhosters.com
+homebankaz.com
 homebase.sg-center.net
 homebaseproapp.com
 homebaseservices.ca
@@ -54476,6 +54493,7 @@ homeservice.ghost.io
 homeservice.ghost.io/start-en
 homestarpro.com
 homestart-en-ledger.pages.dev
+homestart-extensions.wixstudio.com
 homestart-suiteapp.wixstudio.com
 homestartapps.wixstudio.com
 homestarten.wixstudio.com
@@ -57419,6 +57437,7 @@ intro-trade-desktop.wixstudio.com
 intro-upheld.pages.dev
 introbridge.wixstudio.com
 introcomledgr.wixstudio.com
+introdesktop.wixstudio.com
 introduce-thorchain-wallet-en.pages.dev
 introduce-us-dydx-exchange.daftpage.com
 introduce-us-slush-wallet.pages.dev
@@ -66993,6 +67012,7 @@ ldger-com-startt.pages.dev
 ldger-comstart.pages.dev
 ldger-desktop-web.pages.dev
 ldger-desktop.created.app
+ldger-desktop.wixstudio.com
 ldger-download-usa.pages.dev
 ldger-eng-live.pages.dev
 ldger-io-dsktop.pages.dev
@@ -67267,6 +67287,7 @@ learn-coipros-docs.netlify.app
 learn-curve-finance-es.typedream.app
 learn-defillamaa-airdropp.pages.dev
 learn-dekstop-ladgerr.pages.dev
+learn-desktop-en.wixstudio.com
 learn-download-faq.pages.dev
 learn-dsktop-ledger.pages.dev
 learn-dsktop-ledgr-live.pages.dev
@@ -70681,6 +70702,7 @@ live-desktop-homepages.pages.dev
 live-desktop-info.pages.dev
 live-desktop-ledgger.framer.ai
 live-desktop-ledgr.framer.ai
+live-desktop-ledgr.wixstudio.com
 live-desktop-legdrr.pages.dev
 live-desktop-legger.framer.ai
 live-desktop-leidgr.framer.ai
@@ -70873,6 +70895,7 @@ live-mintsessionz10.vercel.app
 live-morpho.xyz
 live-nerochain.io
 live-nodeconnections.info
+live-onpage.wixstudio.com
 live-openseamints30.vercel.app
 live-openseamints32.vercel.app
 live-openseamints33.vercel.app
@@ -71111,6 +71134,7 @@ livestart-ldger.zapier.app
 livestarted.ghost.io
 livestarted.ghost.io/wallet-en
 livestartldger.zapier.app
+livestarts-platform.wixstudio.com
 livestockgains.onnetw.com
 livestream-pump.fun
 livestreamcontroller.com
@@ -80270,6 +80294,7 @@ my-collectibles-rewards.com
 my-collectibles.xyz
 my-cryptos.xyz
 my-dashbord-crypto.com
+my-desktop-live.wixstudio.com
 my-dogeos.com
 my-etherscan-clone.vercel.app
 my-exodu-co.pages.dev
@@ -85322,6 +85347,7 @@ orbielite.world
 orbiferfi.com
 orbiscapitals.com
 orbisniche.com
+orbistransitways.org
 orbit-1760176834817.staticrun.app
 orbit-expresslogistics.com
 orbit-protocol-lending.net
@@ -86096,6 +86122,7 @@ page-coinbesprologi.wstd.io
 page-coinbse-extension.pages.dev
 page-com-cdn.pages.dev
 page-com-exodus.pages.dev
+page-connect.zapier.app
 page-defillama.typedream.app
 page-ens-kraken.square.site
 page-exodus-io.pages.dev
@@ -88663,6 +88690,7 @@ platform-bridge.wixstudio.com
 platform-bridged.wixstudio.com
 platform-bridgeuser.wixstudio.com
 platform-desktop.wixstudio.com
+platform-endesktop.wixstudio.com
 platform-kraken-cc.pages.dev
 platform-kraken.cc
 platform-kraknee-us.framer.ai
@@ -88671,6 +88699,7 @@ platform-live.wixstudio.com
 platform-livedesktop.wixstudio.com
 platform-rabbyio.pages.dev
 platform-startio.wixstudio.com
+platform-starts.wixstudio.com
 platform-sui-tes.pages.dev
 platform-suit-es.pages.dev
 platform-suites.pages.dev
@@ -90068,6 +90097,7 @@ portfolio--metamask-io.typedream.app
 portfolio-1.ghost.io
 portfolio-b9y.pages.dev
 portfolio-coinbsecom-help.framer.ai
+portfolio-desktops.wixstudio.com
 portfolio-geminii-en.pages.dev
 portfolio-jan.pages.dev
 portfolio-kraken-log.framer.ai
@@ -97929,6 +97959,7 @@ s0lanexrewards.pages.dev
 s1-dreamcash.xyz
 s1-okx-listing.vercel.app
 s1-okx-listing.vercel.app/vote/bankjmvht8tijrsbss1n2hrymbpvt5ze4hu95duameta
+s1-safepal.com.co
 s1.mine-drop.website
 s10-moonshot.xyz
 s101a.xyz
@@ -100060,6 +100091,7 @@ servasco.de
 servce-start-io.pages.dev
 serve.giveaway-pepe.net
 server-7.top
+server-bridge.wixstudio.com
 server-download.wixstudio.com
 server-list1.com
 server-shield-verify.xyz
@@ -106574,6 +106606,7 @@ started-kraken.framer.media
 started-kraken.pages.dev
 started-ldgedesktop.wixstudio.com
 started-ldgerdesktop.wixstudio.com
+started-lebger.zapier.app
 started-ledger.live
 started-ledgr.wixstudio.com
 started-ledgrlive.framer.ai
@@ -108145,6 +108178,7 @@ suites-trezzor.pages.dev
 suites.framer.ai
 suitesapp-trexio.wixstudio.com
 suitesapp-trexo.wixstudio.com
+suitesapp-trezer.wixstudio.com
 suitesapp.wixstudio.com
 suitesapp.zapier.app
 suitesapps-trezo.wixstudio.com
@@ -111530,6 +111564,7 @@ terzor-connects-bridge.pages.dev
 terzor-io-staart.pages.dev
 terzor-sute.pages.dev
 terzor.pages.dev
+terzos-homepage.wixstudio.com
 terzr--io-eng.pages.dev
 terzre-bridge.pages.dev
 terzre-oi-u.pages.dev
@@ -114380,6 +114415,7 @@ treezorsuite-us.pages.dev
 treezrr-briddgee.pages.dev
 treezurioosattrat.webflow.io
 trefreelie.com
+treger-suitee.zapier.app
 tregor-bridge-engs.pages.dev
 treiizor-io-un.pages.dev
 treizor-io-en.pages.dev
@@ -116744,6 +116780,7 @@ trzkmfgh54yj.asf786dfs.workers.dev
 trzn.live
 trzn.site
 trznvip.org
+trzo-io.zapier.app
 trzo-suite-usa.pages.dev
 trzoisuite.m-pages.com
 trzologon.wixstudio.com
@@ -120193,6 +120230,7 @@ usersinfo.cfd
 userstarted.ghost.io
 userstarted.ghost.io/desktop-en
 userstatics.com
+usersuite.wixstudio.com
 usersurvey.live
 usertrexrio.wixstudio.com
 userverificationcenterportal.com
@@ -127946,6 +127984,7 @@ wrencapstead.com
 wrhyper.com
 wriggleimpex.com
 wrise.net
+writerzillur.com
 writingtoolai.com
 wrixbit.com
 wrkd2h.com

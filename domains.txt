@@ -8965,6 +8965,7 @@ app-new.flow.devx.minutodao.com
 app-nitrofrogtokens.xyz
 app-nniswap.org
 app-nodepoint-web.pages.dev
+app-nomu.pages.dev
 app-npc.com
 app-oai-whatshktw.com
 app-ocra.so
@@ -10531,6 +10532,7 @@ aprakiosi.top
 aprendecrypto.com
 aprendefi.click
 aprenderyemprenderdigital.com
+april-labs.pages.dev
 aprior.app
 apriori-live.xyz
 apriori-testnet.web.app
@@ -11667,6 +11669,7 @@ astralpulse.site
 astralunalab.com
 astranovae-hub.com
 astrardex.xyz
+astrasolana.com
 astrdapp.live
 astrdex.site
 astredec.com
@@ -14200,6 +14203,7 @@ base-learn-coinbase.daftpage.com
 base-ledgerx.my
 base-ledgr-en-cdn.pages.dev
 base-ledgr.pages.dev
+base-ledgre-en.pages.dev
 base-loggin-coin-eng-support.pages.dev
 base-login.com
 base-login.us
@@ -15210,6 +15214,7 @@ benqireward.live
 benqirewards.live
 benql-v2.org
 benthsontix.com
+bentop.com.ng
 benutzername.weebly.com
 benzroll.com
 beocas.com
@@ -17924,6 +17929,7 @@ blockchaintradespay.org
 blockchainundo.ai
 blockchainventuresgroup.com
 blockchainvibe.pages.dev
+blockchainwalletsupport.pages.dev
 blockchainweb3walletencrypt.icu
 blockchair-io.github.io
 blockchaln.xyz
@@ -17974,6 +17980,7 @@ blockdaghelp.network
 blockdaglive.app
 blockdaglive.network
 blockdagmainnet.network
+blockdagnet.live
 blockdagnets.pages.dev
 blockdagnetwork.blog
 blockdagnetwork.io
@@ -23978,6 +23985,7 @@ checktrumpmeme.com
 checktrumpmemes.com
 checktrust.app
 checktrust.mobi
+checktrustwallet.info
 checktrustwallet.org
 checkups-aml.one
 checkusdtinfo.com
@@ -41684,6 +41692,7 @@ eth1d.ltd
 eth2.top
 eth2025.net
 eth242.com
+eth2mega.xyz
 eth30.top
 eth30.vip
 eth700-event.com
@@ -42819,6 +42828,7 @@ evmpool.io
 evmpool.me
 evmpool.org
 evmport.com
+evmprotocol.pages.dev
 evmrabby.site
 evmsbitnode.pages.dev
 evmsecureconnect.com
@@ -43469,6 +43479,7 @@ exodusweb3-ens.pages.dev
 exodusweb3-es.pages.dev
 exodusweb3-io-en.pages.dev
 exodusweb3-io.pages.dev
+exodusweb3-n.pages.dev
 exodusweb3-s.pages.dev
 exodusweb3-u.pages.dev
 exodusweb3-us.pages.dev
@@ -44997,6 +45008,7 @@ faucet.iopn.network
 faucet.newbitcoin.pro
 faucet.oilsupply.info
 faucet.settled.pro
+faucet.solsend-devnet.com
 faucet.wiki
 faucetdashboard.com
 faucetdatabase.com
@@ -45797,6 +45809,7 @@ fight2ma-ga.co
 fightfoundationrewards.site
 fightid.fun
 fightidfoundation.xyz
+fightomagaxyz.pages.dev
 fightsupdate.live
 figmetn.com
 figowex.com
@@ -47258,6 +47271,7 @@ fortnitedrop.com
 fortnitefans.pro
 fortnitefun.com
 fortnitegalaxyswapper.com
+fortnitehelper.lol
 fortnitekit.com
 fortnitelocker.cc
 fortnitelp.pages.dev
@@ -50684,6 +50698,7 @@ gogowex.com
 gohelpdesk.co.uk
 gohome-gohometoken.com
 gohusbantsol.xyz
+gohypersol.xyz
 goifirstcenral.com
 gointrads.top
 goixbit.com
@@ -56411,6 +56426,7 @@ hyperr-liquid.pages.dev
 hyperrelay.network
 hyperrliquid.in
 hypers.pages.dev
+hyperscale-nft.pages.dev
 hyperscreener.org
 hyperscreener.xyz
 hyperscriptiondappsnode.pages.dev
@@ -57212,6 +57228,7 @@ imtokenx.net
 imtokenzg.com
 imtoketn.im
 imtokeun.im
+imtokew.vip
 imtokm.app
 imtoknn.icu
 imtoneth.com
@@ -60029,6 +60046,7 @@ jup-exchange.cfd
 jup-exchange.icu
 jup-exchange.sbs
 jup-exchange.top
+jup-fail-zxcjnzk.pages.dev
 jup-gateway-sol.pro
 jup-grant.com
 jup-hubbs.com
@@ -68065,6 +68083,7 @@ learn-sso-coins-com.square.site
 learn-start-io-trezor.typedream.app
 learn-start-ledg-sso.pages.dev
 learn-start-ledgrr.pages.dev
+learn-start-ledjar.pages.dev
 learn-start-legdgr.pages.dev
 learn-start-lidgrs.pages.dev
 learn-start-trezurio.pages.dev
@@ -71143,6 +71162,7 @@ lis-skins-cs2.ru
 lis-skins-official.ru
 lis-skins-rus.ru
 lis-skins-shop.ru
+lis-skins.com.ru
 lis-skirs.com
 lis-skmis.com
 lis-skoins.com
@@ -71532,6 +71552,7 @@ live-ledgerus.teachable.com
 live-ledges-app-cdn.pages.dev
 live-ledges-app.pages.dev
 live-ledges-eu.pages.dev
+live-ledges-us.pages.dev
 live-ledggcom.pages.dev
 live-ledgger.blogspot.com
 live-ledggr.wixstudio.com
@@ -80166,6 +80187,7 @@ moonshots-list.com
 moonshots-listing.com
 moonshots-lobby.pages.dev
 moonshots-picking.pages.dev
+moonshots-poll.lol
 moonshots-poll.net
 moonshots-poll.xyz
 moonshots-pro.fun
@@ -84369,6 +84391,7 @@ o-exodus-com.weebly.com
 o-fficial-exo-us-en.pages.dev
 o-fficial-ledger-live.pages.dev
 o-lawfirm.com
+o-okxcn.com
 o-redirecting.com
 o-redirecting.com/oauth/callback
 o-shop.com
@@ -86765,6 +86788,7 @@ oygbw.hairowner.club
 oyhv35.top
 oyi.okx-okex.com.cn
 oyice.org
+oyizh.info
 oylcorp.xyz
 oyofin.com
 oytlook.vercel.app
@@ -91446,6 +91470,7 @@ presale.havanaelephant.com
 presale.littlespepe.com
 presale.megaseeth.mom
 presale.metabiz.cash
+presale.mzfprotocol.xyz
 presale.pages.dev
 presale.pudgy-pandas.xyz
 presale.pumpfuns.digital
@@ -93576,6 +93601,7 @@ pvufarmland.com
 pvump.fun
 pwa-core.att.dev.cloud.synchronoss.net
 pwdstar.com
+pwebnne.com
 pwffood.com
 pwmp.fun
 pwmp.fun/live/hbpzwu7bcans31wx35uqmbdwayo9o9qkz7y7exk7pump
@@ -95877,6 +95903,7 @@ reformemessage.wasmer.app
 reformmembershipcert.wasmer.app
 reformnotice.wasmer.app
 refowex.com
+refpa96317.com
 refpump.fun
 refriplus.com.br
 reftniblockchain.xyz
@@ -117162,6 +117189,7 @@ trustcardswallet.com
 trustcardvip.com
 trustcardvip.space
 trustcardwallet.com
+trustcart.company
 trustcash-exchange.com
 trustchain.help
 trustchainbit.com
@@ -124718,6 +124746,7 @@ vtlteglobal.com
 vtplport.com
 vtradexglobal.com
 vtsn.org
+vtu.dat.ng
 vtuetopop.com.ng
 vtw.cards
 vtxalpgx.click
@@ -130325,6 +130354,7 @@ www.demon.web3securenetwork.com
 www.denizlibayramogluminikepce.com
 www.desktop.addicted-fun.pro
 www.dexcreener-listings.com
+www.dexcreeners-voting.com
 www.dexrockets.com
 www.dexscreen-listing.com
 www.dexscreen-voting.com
@@ -130563,6 +130593,7 @@ www.gmee-minerals.org
 www.gogoacabs.com
 www.gold-idn.com
 www.gold-vip.icu
+www.goldcondor.info
 www.goldennestrise.com
 www.goldusdt.top
 www.goldusdt.vip
@@ -130966,6 +130997,7 @@ www.okx.city
 www.okxee.cc
 www.okxwebextension.com
 www.omnipool.top
+www.omniswap.top
 www.onenana.com
 www.onwinlogin.com
 www.oojusales.com
@@ -131248,6 +131280,7 @@ www.solona-mining.com
 www.solqpw.top
 www.solqw.top
 www.solsite.lol
+www.solskins.pw
 www.solsmint.com
 www.solsofi.com
 www.solunlocker.com
@@ -131307,6 +131340,7 @@ www.stores.astonptech.com.ng
 www.strategic-solana-reserve.com
 www.streamprotocol.app.multiupdate.live
 www.strtaz.com
+www.subcoin.click
 www.sublimetext.net
 www.subwalletdesktop.app
 www.subwalletdesktop.com
@@ -131818,8 +131852,10 @@ wwwinterbankpe.net
 wwwledgercomlive.pages.dev
 wwwmarketwebb.me
 wwwmomentum.pages.dev
+wwwouchyi.cc
 wwwoucnyi.com
 wwwouzhyi.pink
+wwwouzhyi.red
 wwwoyigwzh.info
 wwwpepe.vip
 wwwplwebnne.com

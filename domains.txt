@@ -8600,6 +8600,7 @@ app-dolomite.xyz
 app-dot-polkadot.cc
 app-drop.com
 app-drt-whatsappcc.com
+app-dtr.servicos-sefaz-es.site
 app-dual.pages.dev
 app-efhen.li
 app-ehtremail.portal-sync.com
@@ -9726,6 +9727,7 @@ app.plendle.finance
 app.poiyhedra.click
 app.poliygon.xyz
 app.poly-morket.xyz
+app.polycmarket.xyz
 app.polygate.xyz
 app.polymarketgrp.com
 app.portal-asterdex.run
@@ -10908,6 +10910,7 @@ arkanworkshop.com
 arkbtc.io
 arkbtc.net
 arkelion.ink
+arkexexchange-en-us.pages.dev
 arkgives.net
 arkham.trade
 arklatexawn.com
@@ -12172,6 +12175,7 @@ att.znkde.icu
 att.zsdif.cc
 att.zxuda.cc
 att021.weebly.com
+attaa-sa.com
 attaqwaislamiccenterbauchi.com.ng.lifhasodecharitynigeria.com.ng
 attarhouse.cl
 attbsc.com
@@ -19360,6 +19364,7 @@ bridg-eng-trzors.zapier.app
 bridg-es-guide.pages.dev
 bridg-terezrr.pages.dev
 bridg-terizr.pages.dev
+bridg-trzr-e.pages.dev
 bridg-tzer-faq.pages.dev
 bridge---trezor-a.pages.dev
 bridge-access.live
@@ -19638,6 +19643,7 @@ broker.inxsolution.com
 broker.pulsedigitalpresence.com
 broker.trustedweb.pro
 brokercomplaintalert.com
+brokerhub.site
 brokerplusfx.live
 brokerplusfx.xyz
 brokertradepro.com
@@ -19900,6 +19906,7 @@ btcbull.sushiswap.it.com
 btcbullcoin.pages.dev
 btcbullera.pages.dev
 btcbullions.com
+btcbullsapp.pages.dev
 btcbulltoken-claim.pages.dev
 btcbultolkens.com
 btcc9085.com
@@ -26853,6 +26860,7 @@ cloud-ledgr-enc.pages.dev
 cloud-ledgr-ong.pages.dev
 cloud-live--ledgr-guide.pages.dev
 cloud-live-ledgr.pages.dev
+cloud-liveled-ger.pages.dev
 cloud-log--in-upzhold-us-en.pages.dev
 cloud-login-ledgrrlive.pages.dev
 cloud-mainnet.xyz
@@ -33536,6 +33544,7 @@ darknetmarketshub.com
 darknetpages.com
 darknetseiten.com
 darkout.cfd
+darkred-bat-585179.hostingersite.com
 darkred-hippopotamus-178224.hostingersite.com
 darkriver.top
 darksalmon-aardvark-812625.hostingersite.com
@@ -33679,6 +33688,7 @@ dashboard-payment.link
 dashboard-pendle.app
 dashboard-pendle.xyz
 dashboard-pep5nvgl-sahir01-metamask.4everland.app
+dashboard-pixelversetap.pages.dev
 dashboard-plasma.app
 dashboard-plasma.to
 dashboard-plus.xyz
@@ -35169,6 +35179,7 @@ desktop-lederliv.gitbook.io
 desktop-ledg-lives.pages.dev
 desktop-ledgar-live.wixstudio.com
 desktop-ledgarcom.pages.dev
+desktop-ledge-live-en.pages.dev
 desktop-ledger-app-en.pages.dev
 desktop-ledger-eng.onrender.com
 desktop-ledger-eng.teachable.com
@@ -35307,6 +35318,7 @@ detifuna.net
 detowex.com
 detoxify.co.com
 detran-es-brs.ghost.io
+detran-es-govbr.vercel.app
 detranipvaes-govbr.vercel.app
 detrannet-servicos-es.online
 detrexfinanceinc.com
@@ -40131,6 +40143,7 @@ en-leatherwallet.io
 en-leddgeercomstart.wixstudio.com
 en-ledg-liv.pages.dev
 en-ledgarr-dsktop.pages.dev
+en-ledge--cloud.pages.dev
 en-ledge-load.pages.dev
 en-ledger--desktop.pages.dev
 en-ledger-com-us-en-live.typedream.app
@@ -40298,6 +40311,7 @@ en-thetawallet.org
 en-token6900.com
 en-token6900.org
 en-tonkeeper.com
+en-trast-wallet.pages.dev
 en-trazor.onrender.com
 en-treasuresuit.framer.ai
 en-treizor-io.pages.dev
@@ -40584,6 +40598,7 @@ encrypted-ledger-transaction-check.com
 encryptedchain.live
 encryptederc.quest
 encryptedweb3vault.com
+encryptfile.cc
 encryptfire.com
 encryption-vip.cc
 encryptsim.com
@@ -43451,6 +43466,7 @@ exoroll.com
 exos-deus-web-dbj.pages.dev
 exos-dus-web.pages.dev
 exosd-eus-web.pages.dev
+exosd-us-web-io.pages.dev
 exosdeeus-web.pages.dev
 exosdeus-web-dya.pages.dev
 exosdeus-web.pages.dev
@@ -44880,6 +44896,7 @@ fate-coder.online
 fatecup.com
 fatedex.com
 fatejack.com
+fatepet-test1.pages.dev
 fatezone.xyz
 fathimashameem.github.io
 fatmaciba-cpu.github.io
@@ -50281,6 +50298,7 @@ globalsolutionexchangeltd.live
 globalsolutionstrategies.ai
 globalstocksexchange.com
 globalsumudus.org
+globaltechc.com.br
 globaltechsupport.us
 globalthieveryadventure.com
 globaltraceasset.com
@@ -52053,6 +52071,7 @@ guide-live-742.pages.dev
 guide-live-desk.pages.dev
 guide-live-desktop.pages.dev
 guide-live-en-hub-us.pages.dev
+guide-live-ledger-hub.pages.dev
 guide-live-ledgir.pages.dev
 guide-live-ledgr-comes.pages.dev
 guide-live-ledgr-eng-ami.pages.dev
@@ -56369,6 +56388,7 @@ hyperxyz.app
 hyperxyz.trade
 hyperzbet.com
 hypeshark.fun
+hypesol-claim.xyz
 hypeswap.vercel.app
 hypeswrap.exchange
 hypevalo.sbs
@@ -58223,6 +58243,7 @@ io-leger-ios.pages.dev
 io-leglives.pages.dev
 io-legor-dsktop.pages.dev
 io-lezer-live-wallet.pages.dev
+io-lgorr-live-wll.pages.dev
 io-live-en.pages.dev
 io-live-ldger-help.pages.dev
 io-live-ldger.pages.dev
@@ -58252,6 +58273,7 @@ io-net.entry-cryptolist.app
 io-nft.org
 io-online-exchange-api-v3.com
 io-op-en-lo-gin-learn.pages.dev
+io-open-ocean-finance.pages.dev
 io-phantm.pages.dev
 io-phanto.pages.dev
 io-phentom-us-eng.pages.dev
@@ -59007,6 +59029,7 @@ japanapartament.com
 japaneseswordmuseumthailand.com
 jarabawa.abokidevelopers.com
 jaran.mondial-equipement.net
+jararbook.com
 jardimalecrim.com
 jarfex.com
 jarfluxrow.com
@@ -59140,6 +59163,7 @@ jemowex.com
 jendcas.com
 jengex.com
 jennertrips.shop
+jennifer-bailey-apple-net-worth.pages.dev
 jenny4luv.biz.alvorereports.com
 jenowex.com
 jentcas.com
@@ -67577,6 +67601,7 @@ ldger-live-learn.pages.dev
 ldger-live-login-x-auth.pages.dev
 ldger-live-suport.pages.dev
 ldger-live-webs.pages.dev
+ldger-live.pages.dev
 ldger-livedesktop.pages.dev
 ldger-login-help.pages.dev
 ldger-lve.pages.dev
@@ -69574,6 +69599,7 @@ ledgr-logn-us.pages.dev
 ledgr-lv-io.pages.dev
 ledgr-secure.pages.dev
 ledgr-us-live.pages.dev
+ledgr-usa-desktop.pages.dev
 ledgr-walet-en.pages.dev
 ledgr-walet-help.pages.dev
 ledgr-walet-us.pages.dev
@@ -69925,6 +69951,7 @@ legr-en-download.pages.dev
 legr-en-us.pages.dev
 legr-live-cdn.pages.dev
 legr-start-io.pages.dev
+legr-us-faq-start.pages.dev
 legr-wallets-auth.pages.dev
 legr.d2cyaif9hhwrvy.amplifyapp.com
 legre-com-strt-en.pages.dev
@@ -71328,6 +71355,7 @@ live-hyperliq.xyz
 live-hyperxliquid.xyz
 live-io--en.pages.dev
 live-io-walle.pages.dev
+live-ioldgr.pages.dev
 live-ioledgr.pages.dev
 live-jailed.app
 live-ladar-app.pages.dev
@@ -71406,6 +71434,7 @@ live-ledgers-eng-io.pages.dev
 live-ledgers-live.pages.dev
 live-ledgeru-com.pages.dev
 live-ledgerus.teachable.com
+live-ledges-app-cdn.pages.dev
 live-ledges-app.pages.dev
 live-ledges-eu.pages.dev
 live-ledggcom.pages.dev
@@ -71450,6 +71479,7 @@ live-leedgers-walet.pages.dev
 live-legerslogn.webflow.io
 live-legor-io.pages.dev
 live-legor.pages.dev
+live-legr-com.pages.dev
 live-lejderr.pages.dev
 live-lev-com-en.pages.dev
 live-loggin-ledger-com-eng.pages.dev
@@ -72318,6 +72348,7 @@ login.kraaa-31cc.ru
 login.krakencorp.us
 login.login.userverifylogin.com
 login.loginmicrosoftonline.uk
+login.mainsecured.com
 login.major-boom.shop
 login.major-boom.shop/fd15e
 login.microsofltonline.org
@@ -72433,6 +72464,7 @@ login.workshopvotesharing.com
 login.workshopvotesharing.com/openid/login/openidmodecheckid_setup_http3a2fspecsopenid2fauth2f20openid/nssreg=http3a2fopenidnet3fextensions1openi=optional
 login.workshopvotesreview.com
 login.workshopvoteweb.com
+login.wpviagens.com
 login1.jiuzhouw.net
 loginaccountitrustcapitl.webflow.io
 loginbamigalinea.pages.dev
@@ -72930,6 +72962,7 @@ luckvero.info
 luckwinner.online
 luckxbeast.com
 lucky-block.net
+lucky-box-cm.pages.dev
 lucky-box-ph.pages.dev
 lucky-box17.vercel.app
 lucky-box21.vercel.app
@@ -84050,6 +84083,7 @@ nubupdate.live
 nucleovendas.com
 nucleuspool.xyz
 nudcas.com
+nudeher-ai.pages.dev
 nudemuslims.com
 nudkas.com
 nueasy.undress.su
@@ -84479,6 +84513,7 @@ official-elon-coin-sol.ai-cryptolist.net
 official-elon-meme.ai-cryptolist.org
 official-en-exds.pages.dev
 official-en-us-jupiterswapp.pages.dev
+official-en-us-raby-walet.pages.dev
 official-ex-odus-en.typedream.app
 official-exo--us.pages.dev
 official-exo-d-us-en.pages.dev
@@ -84605,6 +84640,7 @@ officialwlfichecks.xyz
 officiisnisi.cfd
 offiical--exous.pages.dev
 offiicals--exous.pages.dev
+offiicals-exous-os.pages.dev
 offledgerlivedesk.wixstudio.com
 offshorereserve.live
 offshorestrustwalletfunds.pages.dev
@@ -87658,6 +87694,7 @@ payxworld.com
 pazerx.com
 pazeze.bet
 pb-consult.services
+pb489.encryptfile.cc
 pb489.ro-hub.app
 pba.onl
 pbantom.com
@@ -90808,6 +90845,7 @@ portal.plumebuild.org
 portal.plumecore.org
 portal.plumehub.org
 portal.scroll.bkyw.net
+portal.shepherdoutsourc-ing.com
 portal.signdrop.network
 portal.sopshon.xyz
 portal.thesandbox.network
@@ -100002,6 +100040,7 @@ seaportal.fo
 seapuz.com
 search-4784989979-page.pages.dev
 search-phntm-wlt.pages.dev
+search-trzr-suit.pages.dev
 search.app
 search11.lycos.com
 searchfinddate.com
@@ -101063,6 +101102,7 @@ serviciotecnico.com.uy
 servicioweb-control.com
 servicodtrn-es.online
 servicos-es-sefaz.site
+servicos-lpva-es.online
 servicos-lpva-es.site
 servicos.meudetrannett-es.com
 servicosdigitiasltda.com
@@ -101339,6 +101379,7 @@ sheilla.sviluppo.host
 shein.earz.shop
 sheinholidayreward.com
 shekharscript.github.io
+shelfglobaltrading.co.za
 shell-strange-43.vercel.app
 shellcas.lol
 shellclaims.live
@@ -101736,6 +101777,7 @@ sideshift.app
 sideshift.eth-btc.pro
 sideshift.online
 sideshitf.xyz
+sidex.pages.dev
 sidra-shaikh-99.github.io
 sidrachain.icu
 sidrachain.net
@@ -102453,6 +102495,7 @@ sky.treasury-reserves.xyz
 sky1onecu.com
 skyai-sushi.lat
 skyai.ai-cryptolist.org
+skyaimrentals.co.za
 skybet.best
 skybridgecargo.online
 skybridgecreditunion.sbs
@@ -105778,6 +105821,7 @@ speedyfn.pages.dev
 speedygloballogistics.com
 spencerlloydphoto.com
 spendafrica.com
+spendcrypt.com
 spendcrypt.org
 spendesk.co.com
 spendx.cards
@@ -107360,6 +107404,7 @@ start-ldgr-cloud.pages.dev
 start-ldgr-io-live.pages.dev
 start-ldgre-lives.pages.dev
 start-le-dgor-io.pages.dev
+start-leadgr-cloud.pages.dev
 start-led-gr.pages.dev
 start-ledegr-io.pages.dev
 start-ledg--r.pages.dev
@@ -107417,6 +107462,7 @@ start-leger-live-en.pages.dev
 start-leger-solution.pages.dev
 start-legor-io.pages.dev
 start-legrlive-cdn.pages.dev
+start-leidgr-cloud.pages.dev
 start-live-desktop.daftpage.com
 start-live-ledgre.pages.dev
 start-lledgrcom-edge.pages.dev
@@ -107451,6 +107497,7 @@ start-trezr--x-eng-cloud.pages.dev
 start-trezr--x-eng.pages.dev
 start-trezure-en.wasmer.app
 start-trust-en.pages.dev
+start-trzer-bridges.pages.dev
 start-trzrios.pages.dev
 start-tzore-eg-rdl.pages.dev
 start-tzores-eng.pages.dev
@@ -115239,6 +115286,7 @@ trazourwollets.webflow.io
 trazr-logn-hub.pages.dev
 trazr-suite-start.pages.dev
 trazre-bridges.pages.dev
+trazre-io-strt-page.pages.dev
 trazuur-suite-app.pages.dev
 trazwer.pages.dev
 trazzer-homepage-en.pages.dev
@@ -122012,6 +122060,7 @@ valo-grab.com
 valo-loot.cc
 valo-luck.cc
 valo-secret.cc
+valo-secret.com
 valo-stix.com
 valoepic.com
 valoevent.rest
@@ -129689,6 +129738,7 @@ www.appen-job.com
 www.apple-authenticator.com
 www.apple-icloudl.cc
 www.apple-korea.org
+www.appliancedepotco.com
 www.apps-cryptomus.com
 www.apps-heleket.com
 www.apzix.com
@@ -130102,6 +130152,7 @@ www.delvin.top
 www.demon.web3securenetwork.com
 www.denizlibayramogluminikepce.com
 www.desktop.addicted-fun.pro
+www.dexcreener-listings.com
 www.dexrockets.com
 www.dexscreen-listing.com
 www.dexscreen-voting.com
@@ -130501,6 +130552,7 @@ www.kycrosso.eu
 www.l1advisors.com
 www.l1xapp-foundation.world
 www.labs.supportplus.app
+www.labubusol.space
 www.lafalladelsistema.com
 www.lafalladelsistema.com/optin-organic
 www.lagofastbooster.ru

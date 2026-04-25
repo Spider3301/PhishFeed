@@ -2391,6 +2391,7 @@ aave-app.xyz
 aave-bloggy.com
 aave-bonus.com
 aave-claim.io
+aave-com-help.pages.dev
 aave-crypto.biz
 aave-crypto.co
 aave-crypto.us
@@ -32002,6 +32003,7 @@ csfieil.com
 csfil.com
 csfleat.com
 csfloat.at
+csfloat.com.co
 csfloat.to
 csfmegs.cfd
 csg-app.com
@@ -82624,7 +82626,6 @@ netpaycore.com
 netprotocol.pages.dev
 netrafluxdapp.com
 netrapg18.github.io
-netriller-software.space
 netsecurity.pages.dev
 netseora.click
 netsol.top
@@ -88624,6 +88625,8 @@ pgrmproomo2026.indo-webq.my.id
 pgssecurelinea.com
 pguhrw.com
 pgump.fun
+pgwin138.com
+pgwin138.net
 pgxfv8.gaouga.com
 ph-antom-wallet.pages.dev
 ph-omt-swalet.pages.dev

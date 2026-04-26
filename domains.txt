@@ -10499,6 +10499,7 @@ appstartedtrezr.ghost.io/en-us
 appstarthelp.wixstudio.com
 appstartl-dgr.wixstudio.com
 appstarts-live.wixstudio.com
+appstarttrzo.wixstudio.com
 appstartus.ghost.io
 appstartus.ghost.io/desktop
 appstore.meteoramobile.click
@@ -16719,6 +16720,7 @@ bitcoin-safe-wallet.com
 bitcoin-sarah.com
 bitcoin-sunrise.trackfinanceworld.com
 bitcoin-swap.exchange
+bitcoin-takeover.com
 bitcoin-to-usdt.com
 bitcoin-us.org
 bitcoin-wallet-us-en.pages.dev
@@ -36982,6 +36984,7 @@ doc-metamaskextension.typedream.app
 doc-phntomus-wallet.pages.dev
 doc-sendapplication.com
 doc-star-coenbase.pages.dev
+doc-suitestrzr.framer.ai
 doc-trust-ask.pages.dev
 doc-trust-eu.pages.dev
 doc-upheld.pages.dev
@@ -41086,6 +41089,7 @@ engsuite-apptrexo.wixstudio.com
 engsuite.wixstudio.com
 engsuites.ghost.io
 engsuitesapp.wixstudio.com
+engsuittrezo.wixstudio.com
 engtrezor.wixstudio.com
 engusexedos.pages.dev
 engvertex-clubgg.com
@@ -50506,6 +50510,7 @@ global-suitapps.wixstudio.com
 global-suiteapp.wixstudio.com
 global-suiteen.wixstudio.com
 global-suites.wixstudio.com
+global-trezurio.wixstudio.com
 global.coinomiwallet.cc
 global.myedenfinance.com
 global.slon-e.ru
@@ -53629,6 +53634,7 @@ hardware-official-trze.pages.dev
 hardware-trustwallet.com
 hardware-wallet-ledger-jnd.pages.dev
 hardware-wallet-ledger-web.pages.dev
+hardware-wallet-vergleich.de
 hardware-wallet.co.com
 hardware-wallet.co.com.trezor-wallet.io
 hardwarebackupledger.com
@@ -54811,6 +54817,7 @@ home-bridgge.wixstudio.com
 home-bryge-trzer.wasmer.app
 home-brz-trazor.pages.dev
 home-btimart--web.webflow.io
+home-bybiit.wixstudio.com
 home-cdn-authcoin.pages.dev
 home-cdn.pages.dev
 home-chagelly.wixstudio.com
@@ -55018,6 +55025,7 @@ home-metamask.wixstudio.com
 home-metamaskdapp.pages.dev
 home-metamks.framer.ai
 home-metamusk-login.pages.dev
+home-moonpay.wixstudio.com
 home-mtamsk-eng-wallet.pages.dev
 home-openlgn-en.pages.dev
 home-opensae.pages.dev
@@ -55067,6 +55075,7 @@ home-started-legr-x.pages.dev
 home-startediotrez.wixstudio.com
 home-startrezox.wixstudio.com
 home-sui-te.pages.dev
+home-suiiteapp.wixstudio.com
 home-suit-eng.pages.dev
 home-suiteapp.zapier.app
 home-suites-eng.framer.ai
@@ -58694,6 +58703,7 @@ io-trezor-cdn.pages.dev
 io-trezor-sterts-help.pages.dev
 io-trezor-suite-sso.pages.dev
 io-trezor-us.square.site
+io-trezorsuite-cloud.com
 io-trezosuite.framer.ai
 io-trezr-login-us.typedream.app
 io-trezr-stra.pages.dev
@@ -59424,6 +59434,7 @@ jaxx-web.org
 jaxx.ro
 jaxx.ru
 jaxxliberty-wallet.org
+jaxxliberty.wixstudio.com
 jaxxwallet.online
 jaxxyfreeapi.com
 jay22as9daw021.github.io
@@ -60844,6 +60855,7 @@ just-lend.cc
 just-memecoin.entrance-cryptolist.com
 just-services.biz
 just-stake.com
+just-suiteapp.wixstudio.com
 just-update.live
 just1end.cc
 just1end.com
@@ -69271,6 +69283,7 @@ ledger-secure.me
 ledger-secured.me
 ledger-securehelp.com
 ledger-security-online.com
+ledger-security.com
 ledger-securityphrase.com
 ledger-seo-live-desk.pages.dev
 ledger-setup-tips.com
@@ -82160,6 +82173,7 @@ nav-exxodus.wixstudio.com
 nav-in-coinbase-sing.daftpage.com
 nav-itustcptal.wixstudio.com
 nav-kraken-ca-learn.daftpage.com
+nav-ldgerdesktop.wixstudio.com
 nav-ledgerr-start-io.pages.dev
 nav-ledgr-home.pages.dev
 nav-legdfr.pages.dev
@@ -108193,6 +108207,7 @@ started-trazo.wixstudio.com
 started-trazor-io.created.app
 started-treozr-io.created.app
 started-tresor.wixstudio.com
+started-trexer.wixstudio.com
 started-trezio.wixstudio.com
 started-trezo-hub.created.app
 started-trezo.framer.ai
@@ -109667,6 +109682,7 @@ suitapp-treser.wixstudio.com
 suitapp-trez.wixstudio.com
 suitapp-trezo.wixstudio.com
 suitapps-treser.wixstudio.com
+suitapps-trez.wixstudio.com
 suitapps.wixstudio.com
 suitapps.zapier.app
 suitapptrexo.wixstudio.com
@@ -109735,9 +109751,12 @@ suiteapps-trez.wixstudio.com
 suiteapps-trsexzo.wixstudio.com
 suiteapps-trzre.wixstudio.com
 suiteappss-trezer.wixstudio.com
+suiteapptrexo.wixstudio.com
 suiteconfiguration.com
 suiteconnect-trezor.com
+suited-trazo.wixstudio.com
 suited.framer.ai
+suitee-trezo.wixstudio.com
 suitee-trezorrsuite.com
 suiteen.wixstudio.com
 suitehomepage-trezr.wixstudio.com
@@ -109763,6 +109782,7 @@ suites.framer.ai
 suitesapp-trexio.wixstudio.com
 suitesapp-trexo.wixstudio.com
 suitesapp-trezer.wixstudio.com
+suitesapp-trzre.wixstudio.com
 suitesapp.wixstudio.com
 suitesapp.zapier.app
 suitesapps-trezo.wixstudio.com
@@ -111576,6 +111596,7 @@ sysfidao.network
 syshiswap.net
 system-173-linear.vercel.app
 system-aave.limited
+system-desktop.wixstudio.com
 system-gmx.net
 system-roblox.com
 system-stellarnetworks.com
@@ -116147,6 +116168,7 @@ tresuite--trezo.wixstudio.com
 tresuite-home-en.wixstudio.com
 tresuite-home.zapier.app
 tresuite-trezo.wixstudio.com
+tresuite-trezo.zapier.app
 tresure-chests.xyz
 treuhand-traderepublic.com
 treuhandkonto-traderepublic.com
@@ -116251,6 +116273,7 @@ trezo-en-brdge.pages.dev
 trezo-guide-suite.pages.dev
 trezo-strt-help.pages.dev
 trezo-suit-nav.wixstudio.com
+trezo-suitesapp.wixstudio.com
 trezo-wallet.vercel.app
 trezoapp-page.zapier.app
 trezoapp.wixstudio.com
@@ -116511,6 +116534,7 @@ trezorsuite.at
 trezorsuite.co.com
 trezorsuite.com.co
 trezorsuite.it.com
+trezorsuite.ltd
 trezorsuite.wasmer.app
 trezorsuite.web3apps.biz
 trezorsuiteapp.vercel.app
@@ -116550,6 +116574,7 @@ trezosuite-trezxo.wixstudio.com
 trezosuite.vercel.app
 trezosuiteapp-io-us.pages.dev
 trezosuiteapp.vercel.app
+trezosuiteapp.wixstudio.com
 trezosuites-trezo.wixstudio.com
 trezr--sueat.pages.dev
 trezr--suite-en.pages.dev
@@ -116597,6 +116622,7 @@ trezrriostart.framer.ai
 trezrstartpublics.typedream.app
 trezrsuit.gl
 trezrsuite-intro.pages.dev
+trezrsuite-trezr.wixstudio.com
 trezrsuite.zapier.app
 trezrus-suit.pages.dev
 trezrus-suite.pages.dev
@@ -116606,6 +116632,7 @@ trezrx-suiteapp-en.created.app
 trezsoursuite--desktop.pages.dev
 trezsuit-eng.wixstudio.com
 trezsuit-home.wixstudio.com
+trezsuite-en-us.wixstudio.com
 trezsuiteapp.created.app
 trezsuiten.wixstudio.com
 trezsuitte.wixstudio.com

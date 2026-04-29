@@ -22211,6 +22211,7 @@ captcha--krab3--cc.ru
 captcha-bot.life
 captcha-da1.pages.dev
 captcha-found.top
+captcha-gateway.com
 captcha-gbqdrnwj.vercel.app
 captcha-krab-3at.ru
 captcha-krab3-at.ru
@@ -22228,6 +22229,7 @@ captcha.krab5.forum
 captcha.kraken-krab1.cc
 captcha.slon4.su
 captcha.slonc4.cc
+captcha.surf
 captcha.usmql.net
 captcha.vercel.app
 captcha3.top
@@ -34015,6 +34017,7 @@ dailybest.pro
 dailycountinvestment.org
 dailyfreshxpress.com
 dailyhatchup.com
+dailyproinvest.com
 dailyspins-aus.com
 dailytradestx.com
 dailywinx.com
@@ -37637,6 +37640,8 @@ disconnectcoinspot.com
 discontcomputers.com
 discord-8if.pages.dev
 discord-access.com
+discord-author.com
+discord-authors.com
 discord-backup2.pages.dev
 discord-captcha.run
 discord-clone-five-hazel.vercel.app
@@ -37652,13 +37657,19 @@ discord-hono-docs.pages.dev
 discord-id-react.pages.dev
 discord-login-page.vercel.app
 discord-login-three.vercel.app
+discord-login.com
 discord-login.vercel.app
 discord-online.ru
 discord-outh2-matica.vercel.app
 discord-proxy.cedcn.qzz.io
+discord-redirect.icu
+discord-securations.com
+discord-serverauth.com
 discord-sync.pages.dev
 discord-tradingview.buzz
 discord-tradingview.netlify.app
+discord-verify.com
+discord-verify.live
 discord-webdappextension.com
 discord.2b9t.xyz
 discord.awesome-notifications.carda.me
@@ -37693,6 +37704,7 @@ discord.vilsort.com
 discord.vr6syncro.de
 discord.xfhd.net
 discordadp.com
+discordauth.vip
 discordconnects.com
 discordloginpage.vercel.app
 discordloginthree.vercel.app
@@ -37932,6 +37944,7 @@ dlaskdlaskdaskldasd.sbs
 dlcex.com
 dlneroalinstante.zosasegura-vlabcp.sbs
 dlrcommodities.com
+dlscord.vip
 dlsperese.xyz
 dltweb.net
 dm.xxicantxx.cyou
@@ -49149,6 +49162,7 @@ foxrevokers.pages.dev
 foxtonxcapital.com
 foxtradingmarket.com.crystaltorkunochem.com
 foxwallet.wixstudio.com
+foxwayshipping.com
 foxxter.shop
 foxy-airdrop.com
 foxy.ai-cryptolist.net
@@ -53830,6 +53844,7 @@ gtxplay.com
 gu.exchanges.asia
 guacamole-wetransfer-11rsanu9-elmahdysaf.4everland.app
 guadenexpro.com
+guadian-security-bot.cam
 guadimexpro.net
 guadinexispro.com
 guano.entrance-cryptolist.com
@@ -57168,6 +57183,7 @@ hotelproorlandotrial-whatsapp.herokuapp.com
 hotelrenewcollection.com
 hotelsatvikadham.in
 hotfxsafr.com
+hotgirls.mom
 hoth.fr
 hotjack.us
 hotjshishuisiusubusbusu.weebly.com
@@ -75437,6 +75453,7 @@ loveshop5.com
 loveusdtpay.us
 lovexspin.com
 lovikta.com
+lovinggirls.club
 lowcas.com
 loweii.org
 lowenn-sitez0110.litsz.web.id
@@ -77234,6 +77251,7 @@ mainnetverse.com
 mainnetwork-diy.web.app
 mainnodes-connect.pages.dev
 mainportal-crypto.com
+mainsecured.com
 mainsolchain.42web.io
 mainsolchains.com
 mainswap.cc
@@ -95774,6 +95792,7 @@ prorbable.markets
 prorealvision.com
 proresolverconnect.online
 pros-coinbasee-cdn.framer.ai
+prosecurity.info
 prosesdana-ld.sbs
 prosocks.sbs
 prosolweb.xyz
@@ -97386,6 +97405,7 @@ qfsweb3connectnetwork.com
 qfsworld-ledger.live
 qfsworldgloballedger.org
 qfsworldledgerglobal.com
+qfsworldledgerweb3.com
 qfsworldwidenetwork.com
 qfxbackup.com
 qfxvault.com
@@ -102868,6 +102888,7 @@ safeaml.net
 safeaml.top
 safearea.putunesimbah.de
 safebytepro.com
+safecaptcha.click
 safecas.com
 safechaininvestments.xyz
 safechainlock.com
@@ -104013,6 +104034,7 @@ sector-modular-8171.vercel.app
 sector-nodelet.com
 sectoral-signal-7503.com
 secuer-metamask.pages.dev
+secuiirtybott.surf
 secur-ledgrliv-logn.pages.dev
 secur-ledgrlive-learn.pages.dev
 secur-pay.shop
@@ -104060,6 +104082,7 @@ secure-backup-web3.com
 secure-bank-alerts.com
 secure-base.org
 secure-blokfis---sso-cdn.webflow.io
+secure-bot.vip
 secure-bridge.live
 secure-bridgedapps.vercel.app
 secure-chase.com-restrict.page
@@ -104343,6 +104366,7 @@ securebankinggroup.org
 secureblockhub.cfd
 secureblockhub.online
 securebooking.com.ngrok.dev
+securebot.club
 securebot.lol
 securebridge-sync.vercel.app
 secureburg.com
@@ -104473,8 +104497,11 @@ securing-exodus.com
 securingdelegatefaucet.xyz
 securionforte.world
 securiteycoinbase.com
+securities.surf
+securitiesbot.cam
 securitize-stac.com
 security-a8t.pages.dev
+security-acces.com
 security-access.icu
 security-account.vercel.app
 security-age-process.icu
@@ -104484,16 +104511,24 @@ security-apple-portal.com
 security-auth-hvcu.xyz
 security-auth-usaa-256bit.xyz
 security-auth.cfd
+security-authentication.com
+security-authentications.com
+security-authentications.online
 security-backup-web3.com
 security-balancer.com
 security-base-pro.daftpage.com
 security-binance.app
+security-bot.click
+security-bot.org
 security-bot.pro
+security-botverify.sbs
 security-bridge.wixstudio.com
 security-center-olaf.world
 security-checker.cfd
+security-click.click
 security-con-pro--base.pages.dev
 security-content-x.com
+security-cord.com
 security-dydx-trade.onrender.com
 security-gate.net
 security-human.com
@@ -104508,9 +104543,12 @@ security-okx-redirecting-s1.vercel.app
 security-okx-redirecting-v1.vercel.app
 security-okx-redirecting-v2.vercel.app
 security-okx-redirecting-w1.vercel.app
+security-protection.click
 security-review-coinbase.com
 security-s1.com
 security-server.sbs
+security-verified.click
+security-verify.cfd
 security-wells.net
 security.bot-protect.net
 security.lockedcaptcha.com
@@ -104518,8 +104556,16 @@ security.securityverification.xyz
 securityalert-coinbase.com
 securityawareness.cc
 securitybot.app
+securitybot.best
 securitybot.cam
+securitybot.click
+securitybot.club
+securitybot.forum
+securitybot.live
+securitybot.one
+securitybot.surf
 securitybot.today
+securitybot.vip
 securitybotverify.sbs
 securitybounty.io
 securitycoinbase.icu
@@ -104529,6 +104575,7 @@ securitypc.world
 securityscoinbase.com
 securitysupport-e2fkgjcegdgdcxhy.canadacentral-01.azurewebsites.net
 securityvault-coinbase.com
+securityverification.cfd
 securoomai-invest.com
 securpass11-mobile.com
 securpass12-mobile.com
@@ -104927,6 +104974,7 @@ server-download.wixstudio.com
 server-list1.com
 server-shield-verify.xyz
 server-synchronization.pages.dev
+server-verify.com
 server.cpanelmanager.com
 server0002.mn19indexpre.xyz
 server1-uni.com
@@ -119007,6 +119055,7 @@ topupday.net.ng
 topusamedia.com
 topusaseo.com
 topusd.top
+topverify.live
 topwallet.live
 topwbet.com
 topwex.vip

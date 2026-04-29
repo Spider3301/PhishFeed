@@ -9468,6 +9468,7 @@ app-xyo.network
 app-yieldbasis.com
 app-yo.xyz
 app-zebec.com
+app-zebec.network
 app-zeddex.cyou
 app-zerofees.fun
 app-zerolend.live
@@ -11056,6 +11057,8 @@ arcwthbnkfin.com
 arcwthbnkfin.com.forefrecov.com
 arcxpay.xyz
 ardaex.com
+ardenfinance.online
+ardenfinance.xyz
 ardentsaving.com
 ardocas.com
 ardomane.live
@@ -14441,6 +14444,7 @@ banksample.store.valerietech.site
 bankschase.xyz
 bankscreditconsultantllc.com
 bankssolution.ng
+bankunited.site
 bankustoken.icu
 bankwitunited.site
 banlivatrusts.online
@@ -14599,6 +14603,7 @@ base-support.ltd
 base-swap-dex.pages.dev
 base-swap-exchang-en.pages.dev
 base-swapp-deex.pages.dev
+base-t.live
 base-terminal.pages.dev
 base-tower.vercel.app
 base-upgrade.net
@@ -17854,6 +17859,7 @@ bitjex.net
 bitkeep-cloud-en.created.app
 bitkeep-com-autth.pages.dev
 bitkeep-com.pages.dev
+bitkeep-io-new.pages.dev
 bitkeep-wallet-eng.pages.dev
 bitkeep-wallet-faq.pages.dev
 bitkeep-wallet-feq.pages.dev
@@ -20828,6 +20834,7 @@ btcxv2.com
 bter.io
 btexcoins.com
 btexinteslogins.online
+btfd-website.pages.dev
 btfd.io
 btfd.onrender.com
 btfdbull.pages.dev
@@ -20952,6 +20959,7 @@ build.assiterr.space
 build.assiterr.xyz
 build.gusdt-merkl.xyz
 buildacampervan.com
+buildaionbase.xyz
 buildappeal-x.com
 buildernode.org
 buildfxlimited.com
@@ -28206,6 +28214,7 @@ cobaltlabs.org
 cobaltwave.world
 cobaomuzu.xyz
 cobapoauh.xyz
+cobasefinance.com
 cobasekalii.pages.dev
 cobbaannd.top
 cobbaavvc.top
@@ -38577,6 +38586,7 @@ doodk.lol
 doodlabs.world
 doodlas.app
 doodle-ticketsupport.netlify.app
+doodlecat.app
 doodles-app.claims
 doodles-app.claims/allocation
 doodles-doopies.com
@@ -61819,6 +61829,7 @@ join-hyperliquid.app
 join-kabuto.xyz
 join-kinza.fi
 join-layerzero.network
+join-ledrg-live.pages.dev
 join-main.net
 join-mainnet.com
 join-masafinance.pages.dev
@@ -70588,6 +70599,7 @@ leddgerlive-app.pages.dev
 leddgerlive-eng.framer.ai
 leddgerlive-us.weebly.com
 leddgerlive.pages.dev
+leddgerr--live--desktops.pages.dev
 leddgerr-live-desktop.pages.dev
 leddgerr-live.pages.dev
 leddgger--wallet.webflow.io
@@ -72553,6 +72565,7 @@ legscoin.com
 lehavreweb.weebly.com
 leia-santander.vercel.app
 leidax.com
+leidgerlive.pages.dev
 leige-rd-live-learn.pages.dev
 leiged-live-learn.pages.dev
 leiger--d-live-learn.pages.dev
@@ -80576,6 +80589,7 @@ mexcblog.com
 mexcc.name
 mexccn.one
 mexce.site
+mexcen-cdn.pages.dev
 mexceu.com
 mexcexchange.pages.dev
 mexcfd.com
@@ -95707,6 +95721,7 @@ proposal-onre.xyz
 proposal-opengdp.com
 proposal-opengdp.network
 proposal-orderlynetwork.com
+proposal-pendle.finance
 proposal-pendle.xyz
 proposal-plasma.com
 proposal-playmemoria.com
@@ -99083,6 +99098,7 @@ realfi.online
 realficoin.com
 realfinance.web.app
 realflighttrack-globe.com
+realglobalxpress.live
 realicoglobal.com
 realifemeds.com
 realio-bridge.pages.dev
@@ -111223,6 +111239,7 @@ staking-bdagscan.com
 staking-blocks.xyz
 staking-community.app
 staking-convexfinance.com
+staking-degen.icu
 staking-ether-fi.com
 staking-finary.com
 staking-jupiter.pro
@@ -111634,6 +111651,7 @@ start-ledgrer--com.pages.dev
 start-ledgrorg.pages.dev
 start-ledgrr-eng.pages.dev
 start-ledgrs-cloud.pages.dev
+start-ledjer-ion.pages.dev
 start-ledjer.pages.dev
 start-ledjerl-com.pages.dev
 start-ledjr-live.pages.dev
@@ -119016,6 +119034,7 @@ topken.top
 toplinear.info
 toplist.dexscreener.vote
 toplukonutevleri.com
+topmail-manage.com
 topmarks-o.com
 topmixer.net
 topmultiglobe.com
@@ -122477,6 +122496,7 @@ trzorsuite.pages.dev
 trzosuite.wixstudio.com
 trzosuiteapp-cdn.typedream.app
 trzosuites.wixstudio.com
+trzr-bridg-g.pages.dev
 trzr-bridg-io.pages.dev
 trzr-bridge-down-load.pages.dev
 trzr-bridge-guide.pages.dev
@@ -122832,6 +122852,7 @@ tw-provider.one
 tw-providers.com
 tw-secure.org
 tw-vertex-club.com
+tw-webapp.com
 tw.gtws.ink
 twalletaudit.com
 twalletaudit.com.invite-web3-copytrading.app
@@ -123920,6 +123941,7 @@ unity-nowel.com
 unity-quest.info
 unitycapitalz.online
 unitypeaks.net
+unityrecoverylmt.com
 unityswaps.com
 univ4labs.net
 univ4net.xyz
@@ -133840,6 +133862,7 @@ wordpress.elzabete3.com
 wordpress.krakenmedia.com
 wordpress.musiclol.me
 wordprsss.vercel.app
+wordtojpg.app
 worfcasino.sbs
 woridcoin.co
 woridiibertyflnance.icu
@@ -139964,6 +139987,7 @@ zesofex.com
 zestcore.quest
 zestybet.casino
 zestycenterr498.shop
+zeta-coin.pages.dev
 zeta-marketplace247.xyz
 zeta-sushi.fit
 zeta2.pages.dev

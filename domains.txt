@@ -38275,6 +38275,7 @@ distribution-destra.network
 distribution-eigenlayer.xyz
 distribution-etc.com
 distribution-ethena.fi
+distribution-flare.network
 distribution-gizatech.xyz
 distribution-hype.com
 distribution-hype.net
@@ -43049,6 +43050,7 @@ enter-desktop.wixstudio.com
 enter-drop-finder.com
 enter-ethereal.trade
 enter-ethgasfoundation.org
+enter-firelight.finance
 enter-flare.network
 enter-glaze.com
 enter-ht.xyz
@@ -50436,6 +50438,7 @@ fusser.app
 fusser.io
 fustcup.net
 futcas.com
+futool.shop
 futuerworld.com
 futurafx.live
 futuraitech.github.io
@@ -76144,6 +76147,7 @@ login.bahusande.com
 login.berachainbuild.xyz
 login.blokchain.co.com
 login.blokchain.cx
+login.captcha-verifications.click
 login.clgdsfghgfhjjiihgfcdss.xyz
 login.clients-masspay.io
 login.coiinbase.org
@@ -79744,6 +79748,7 @@ megaetha.com
 megaethdao.xyz
 megaethdaos.xyz
 megaethdefi.xyz
+megaethe.com
 megaethe.pro
 megaethereum.pw
 megaethlabs.top
@@ -79829,6 +79834,7 @@ megawrb3.com
 megawwb4.com
 megaxss.com
 megaxwinvip.art
+megceth.com
 megceth.xyz
 megememecoin.pages.dev
 megeourney.shop

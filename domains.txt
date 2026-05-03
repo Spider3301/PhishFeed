@@ -306,6 +306,7 @@
 1.okx019.com
 10-mir.org
 10-xcapital.com
+100-likes-roblox-game.pages.dev
 100-test-100.com
 100-test-101.com
 10001311.dojiner.at
@@ -8799,6 +8800,7 @@ app-curve-v7.com
 app-curves.online
 app-cybro.pages.dev
 app-dalarnia-com-migration.pages.dev
+app-dappchain.pages.dev
 app-dappradar.icu
 app-dcentwallet.com
 app-debridge.xyz
@@ -9344,6 +9346,7 @@ app-shadow-com.weebly.com
 app-shadow.github.io
 app-shapeshift.com
 app-shopglobalselling.top
+app-silo-fi-dashboard.pages.dev
 app-simonscatworld.co
 app-sizecredit-rpcsync.pages.dev
 app-slash.co.com
@@ -9366,6 +9369,7 @@ app-soporte-clienteonline.com
 app-soporteavisos.com
 app-sovryn.com
 app-sovryn.live
+app-sozu.pages.dev
 app-spark.live
 app-spectra.finance
 app-spectreai.xyz
@@ -25744,6 +25748,7 @@ claim-0gfoundation.org
 claim-0gfoundatlons.xyz
 claim-114514coin.pages.dev
 claim-1inch.netsons.org
+claim-3ur.pages.dev
 claim-5usd-bonus.online
 claim-7tj.pages.dev
 claim-812.pages.dev
@@ -30532,6 +30537,7 @@ cointem.com
 cointension.created.app
 cointera.net
 cointerminal-app.site
+cointhumbs.pages.dev
 cointir.com
 cointo.cloud
 cointowallet.com
@@ -31137,6 +31143,7 @@ compound-crypto.us.org
 compound-finances.vercel.app
 compound-interest-lab.com
 compound-is-an-algorithmic-protocol.com
+compound-leverage-site.pages.dev
 compound-web-5k5.pages.dev
 compound.airdropalerts.bond
 compound.beefy.bar
@@ -32332,6 +32339,7 @@ cr7gold.cc
 cr7life.net
 cr7officialsol.live
 cr7officialsol.xyz
+cr7solana.pages.dev
 cr7token-drop.xyz
 cr7win.fun
 cra22.cc
@@ -41081,6 +41089,7 @@ edgexfx.live
 edgexportal.click
 edgexpro.app
 edgoodtablets.com
+edgr.pages.dev
 edgxex.exchange
 edhdhfnfn.pages.dev
 edifice-portfin.today
@@ -48467,6 +48476,7 @@ fireflight.finance
 fireflyskinz.com
 firefnd.eth.limo
 firein.top
+firelight-liquidity.app
 firelight.one
 firelightdesktopinstaller.icu
 firelighteligibility.info
@@ -49757,6 +49767,7 @@ forum-renzoprotocol.xyz
 forum-worldlibertyvote.com
 forumdread.net
 forumoptionspro.click
+forums-megaeth.xyz
 forums.raidium.quest
 forusbet.com
 forward-hardware-trzor.pages.dev
@@ -51605,6 +51616,7 @@ genomnplex.info
 genoplays.com
 genovatedocs.com
 genowex.com
+genpay-node6.pages.dev
 genpucoserv.com
 genqr.trustswallet.in
 genshinevent.com
@@ -71448,6 +71460,7 @@ learn-live-ledgger.pages.dev
 learn-live-ledgor.pages.dev
 learn-live-ledgr-app.pages.dev
 learn-live-ledgurs.daftpage.com
+learn-live-s-wlt.pages.dev
 learn-live-wlt-s.pages.dev
 learn-live.wixstudio.com
 learn-liveapp.wixstudio.com
@@ -72788,6 +72801,7 @@ ledgerhelpguide.com
 ledgerhelphq.com
 ledgerhelpsolutions.com
 ledgerholders.com
+ledgerhomelive.pages.dev
 ledgerhound.vip
 ledgerhrmanagement.com
 ledgerhubportal.com
@@ -75258,6 +75272,7 @@ live-ledgr-dekstop.pages.dev
 live-ledgr-desk.pages.dev
 live-ledgr-desktop.teachable.com
 live-ledgr-dnload.pages.dev
+live-ledgr-dwnload.pages.dev
 live-ledgr-en.wixstudio.com
 live-ledgr-eng-en.pages.dev
 live-ledgr-eng.created.app
@@ -89290,6 +89305,7 @@ official-suitpps.wixstudio.com
 official-suitps.wixstudio.com
 official-torzon.org
 official-trezsuite.zapier.app
+official-trizor-suits.pages.dev
 official-trump.top
 official-trust-wallet.pages.dev
 official-trzor-bridge.pages.dev
@@ -98051,6 +98067,7 @@ pump-fee.fun
 pump-fees.live
 pump-fun-airdrop.pages.dev
 pump-fun-airdrop.xyz
+pump-fun-bb5.pages.dev
 pump-fun-board.pages.dev
 pump-fun-en.pages.dev
 pump-fun-io.pages.dev
@@ -100934,6 +100951,7 @@ rectifyissues-now.vercel.app
 rectifykyc.pages.dev
 rectifymanual.live
 rectifymultichain.site
+rectifyprotocol.pages.dev
 rectifysvalida.pages.dev
 rectifysvalidation.pages.dev
 rectifyv2.pages.dev
@@ -103011,6 +103029,12 @@ roblox-big-paintball-2-unlock-all-guns-script.pages.dev
 roblox-coffin-dance-song-id.pages.dev
 roblox-com.de
 roblox-com.ru
+roblox-custom-accessory-filter-script.pages.dev
+roblox-custom-daily-reward-script.pages.dev
+roblox-custom-follow-system-script.pages.dev
+roblox-custom-input-filter-script.pages.dev
+roblox-custom-maze-generation-script.pages.dev
+roblox-custom-name-filter-script.pages.dev
 roblox-esp-script-universal-pastebin.pages.dev
 roblox-exec.com
 roblox-exec.net
@@ -103018,6 +103042,7 @@ roblox-exec.online
 roblox-exploit-discord-server.pages.dev
 roblox-free-online-log-in.pages.dev
 roblox-hair-id-codes-for-boys-black.pages.dev
+roblox-id-codes-for-image-decals-anime.pages.dev
 roblox-innovation-arctic-base-script.pages.dev
 roblox-k-mvnt-8w4.pages.dev
 roblox-lune-automation-script-example.pages.dev
@@ -103032,10 +103057,12 @@ roblox-revolver-script-auto-fan.pages.dev
 roblox-rocash.pages.dev
 roblox-roleplay-name-gui-script.pages.dev
 roblox-security-system-on-pc.pages.dev
+roblox-shader-pack-download-low-end-pc.pages.dev
 roblox-shareurl.com
 roblox-skateboard-script.pages.dev
 roblox-sky-tool-script-auto-box.pages.dev
 roblox-studio-toolbelt-plugin-download.pages.dev
+roblox-ui-icons-pack-free.pages.dev
 roblox-uncopylocked-fps-games.pages.dev
 roblox-urlshare.com
 roblox-wing-ids-list-aesthetic-2026.pages.dev
@@ -110059,6 +110086,7 @@ solana-chain-rectify.pages.dev
 solana-change.com
 solana-claim.org
 solana-claimsaward.live
+solana-cleaner.com
 solana-clicker.fun
 solana-community.digital
 solana-createmytoken-net.pages.dev
@@ -110203,6 +110231,7 @@ solana-token-launchpad-ruddy.vercel.app
 solana-tokenforge.com
 solana-tokenomics.com
 solana-tool.com
+solana-top-traders-wallets-and-tokens-api.dehghani.ca
 solana-tracker.pages.dev
 solana-trading.biz
 solana-treasury-machine.ai-cryptolist.net
@@ -111446,6 +111475,7 @@ space-pay.live
 space-public.com
 space-signature.pages.dev
 space-stake.com
+space-x-bot.pages.dev
 space.initcondaap.digital
 space.sol-community.cc
 spaceandtime.airdropalert.us
@@ -112333,6 +112363,7 @@ sso--uphoold--cdn-autth-x.typedream.app
 sso-abraxas-learn.pages.dev
 sso-abraxas-wallet-hub.pages.dev
 sso-account-robinhood--com-auth.webflow.io
+sso-app-lezr-live.pages.dev
 sso-app-uphuld.free.site.pro
 sso-atlassian.com
 sso-auth-coinbase-pro.my.canva.site
@@ -119137,6 +119168,7 @@ testmonad.icu
 testmonod.sbs
 testnet-airdrops.pages.dev
 testnet-blockdag.network
+testnet-bridge.zkxpla.io
 testnet-edel.com
 testnet-henez-fi.pages.dev
 testnet-krnl.xyz
@@ -120356,6 +120388,7 @@ tnsr.foundation
 tnstseed.com
 tnt.offer315125.world
 tnt.offer315125.world/224012124
+to-get-free-roblox.pages.dev
 to-inv.com
 to-ke6p0zkut.info
 to-no-kyc-swap.com
@@ -121096,6 +121129,7 @@ tornadomix.link
 tornadoproxy.eth.limo
 tornadospin.cc
 tornadowap.xyz
+tornairdrop.pages.dev
 tornao.cash
 torndao.com
 torndao.com/en/home
@@ -125087,6 +125121,7 @@ tynty.site
 tyorchain.org
 type-exchange-webapps.pages.dev
 type-shit.ai-cryptolist.org
+type-souls-codes-roblox.pages.dev
 type-start-ledgr-en-usa.pages.dev
 type-uphold-----sso.typedream.app
 typeai.pages.dev
@@ -125797,6 +125832,7 @@ uniswap-interface-uniswap.vercel.app
 uniswap-invest.com
 uniswap-investor.org
 uniswap-joy.vercel.app
+uniswap-lab.xyz
 uniswap-lore-whb7.vercel.app
 uniswap-pool.com
 uniswap-refund.org
@@ -128108,6 +128144,7 @@ users-hyperbeat.xyz
 users-kamino.xyz
 users-kelpdao.com
 users-liveapp.wixstudio.com
+users-megaeth.xyz
 users-morpho.xyz
 users-thegraph.xyz
 users-verasity.com
@@ -129778,7 +129815,6 @@ verifyamlbot.com
 verifyasaps.com
 verifyawallet.online
 verifybep.org
-verifyblox.xyz
 verifybot.click
 verifybsc.com
 verifycaptcha.vercel.app
@@ -131275,6 +131311,7 @@ votes-lidofinance.com
 votes-lifi.xyz
 votes-lighter.xyz
 votes-mantle.xyz
+votes-megaeth.app
 votes-megaeth.com
 votes-mexc.fun
 votes-monad.xyz
@@ -133051,6 +133088,7 @@ web-in.comegamehub.com
 web-io-metsmask-eng.typedream.app
 web-io-trezor-sso.typedream.app
 web-ixodus-us.pages.dev
+web-jupiter-aggregator.pages.dev
 web-justl-endao-wal-let-cdn.typedream.app
 web-keplr.com
 web-kraken-do.zapier.app
@@ -134864,6 +134902,7 @@ whcio.org
 whelaxy.com
 whenareyouhitting.vercel.app
 whennot2meet.info
+where-is-utiki-in-jupiter-florida-roblox.pages.dev
 wherever-against-experiencing-washing.trycloudflare.com
 whflighting.com
 whg88634.hgweb.ru
@@ -136577,6 +136616,7 @@ wwp-whatsapp.com.cn
 wws-robloxx.com
 wwt-whatsapp.com.cn
 wwu.bnsa.click
+wwv-app-uniewap.pro
 wwv-portfolio-upheld.pro
 wwv-potok.cash
 wwv-robiox.com
@@ -136899,6 +136939,7 @@ www.airdrops.jetxlm.com
 www.airminumbiru.com
 www.airpidrop.com
 www.aivisionoptical.com
+www.akelius-math.se
 www.akoraswap.tech
 www.al-bilad-ksa.com
 www.albertdodoli.it
@@ -137050,6 +137091,7 @@ www.bifrostwalletsdesktop.store
 www.bigebp.com
 www.bighter.xyz
 www.billionaire.fxtgold.world
+www.bimarket.io
 www.binance-qw.com.cn
 www.binanceget.top
 www.binancemanagementcooperation.com.empressluxuryestate.com
@@ -137075,6 +137117,7 @@ www.bitfiz.net
 www.bitget-eu.cc
 www.bitgetapp.com
 www.bitgettradfi.com
+www.bitgetwallet.com.cn
 www.bitmart-login.at
 www.bitmexxespanol.com
 www.bitmore.global

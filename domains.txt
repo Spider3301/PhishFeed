@@ -2249,6 +2249,7 @@ a-free-rewards.surge.sh
 a-gho-v3.app
 a-i-o.online
 a-lever.com
+a-mainsecure.xyz
 a-maxcapital.com
 a-mettamaxsk-logjiin.godaddysites.com
 a-mia.ch
@@ -4132,6 +4133,7 @@ agamb.cc
 aganwa2.com
 agape4me.com
 agaricproku.com
+agavechido.com
 agc-airdrop-platform.pages.dev
 agc-labs.xyz
 agclaim.com
@@ -20170,6 +20172,10 @@ bot-captcha.co
 bot-drainer.exontra.com
 bot-liqudator-metamask.pages.dev
 bot-protect.net
+bot-security.lol
+bot-security.shop
+bot-security.top
+bot-security.work
 bot-verify.vercel.app
 bot-whatsapp.com.cn
 bot.eligibile.cc
@@ -22588,6 +22594,8 @@ captcha-slon3-cc.ru
 captcha-slon3cc.ru
 captcha-slon4-at.ru
 captcha-slon4at.ru
+captcha-verifications.click
+captcha-verified.click
 captcha.bot-gate.cc
 captcha.capatachia.sbs
 captcha.krab4i.cc
@@ -38253,6 +38261,7 @@ discord-access.com
 discord-author.com
 discord-authors.com
 discord-backup2.pages.dev
+discord-captcha.cam
 discord-captcha.run
 discord-clone-five-hazel.vercel.app
 discord-clone-mu-five.vercel.app
@@ -38273,6 +38282,7 @@ discord-online.ru
 discord-outh2-matica.vercel.app
 discord-proxy.cedcn.qzz.io
 discord-redirect.icu
+discord-securate.com
 discord-securations.com
 discord-serverauth.com
 discord-sync.pages.dev
@@ -58400,6 +58410,7 @@ http-stashpatrick.info
 httpp-www-roblox.com
 httpps--www--roblox.com
 httpps-roblox.co
+httppss-roblox.co
 https------slon1-at.ru
 https------slon1-cc.ru
 https------slon2-at.ru
@@ -102921,6 +102932,7 @@ rionbet.com
 rionexbet.com
 riorax.com
 riotbest.com
+riotgain.com
 riotmm.com
 riotnight.live
 rious.newlittlerabbit.xyz
@@ -106424,8 +106436,10 @@ security-balancer.com
 security-base-pro.daftpage.com
 security-binance.app
 security-bot.click
+security-bot.club
 security-bot.org
 security-bot.pro
+security-bot.work
 security-botverify.sbs
 security-bridge.wixstudio.com
 security-center-olaf.world
@@ -106448,6 +106462,7 @@ security-okx-redirecting-s1.vercel.app
 security-okx-redirecting-v1.vercel.app
 security-okx-redirecting-v2.vercel.app
 security-okx-redirecting-w1.vercel.app
+security-page.click
 security-protection.click
 security-review-coinbase.com
 security-s1.com
@@ -123104,6 +123119,7 @@ trolloween.com
 trolls.cc
 trolls.network
 trollscan-aml.com
+trolltoken.org
 trolltokensol.com
 trololo.tools
 trololocoin.lol
@@ -139976,6 +139992,7 @@ xamanwallet.pro
 xamanwalletdapp.web.app
 xamanwalletpc.com
 xamanxahau.web.app
+xamanxrp.com
 xamanxrpl.web.app
 xamanxumm.app
 xambush.top

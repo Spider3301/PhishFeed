@@ -9251,6 +9251,7 @@ app-okx-voting-d857b.vercel.app
 app-olympusdao.xyz
 app-ondofinacne.help
 app-onino.com
+app-onyx.pages.dev
 app-onyx.xyz
 app-onyxstake.org
 app-openledger.xyz
@@ -23762,6 +23763,7 @@ cazvu.com
 cazwinx.com
 cazzino.org
 cb-128943.com
+cb-invoice.link
 cb-invoice.shop
 cb-loginportal.cloud
 cb-operations.com
@@ -23813,6 +23815,7 @@ cbfihub.com
 cbfpnode.qpon
 cbgeo-coinbase.com
 cbgse-coinbase.com
+cbharvester.com
 cbhep-coinbase.com
 cbhso-coinbase.com
 cbidges.xyz
@@ -69819,6 +69822,7 @@ krraken-wallet-login.typedream.app
 krrakenerlogi.wordpress.com
 krrakenl0gin.wordpress.com
 krrakenloginsx.webflow.io
+krrakenluginn.webflow.io
 krrakiinlogginuss.webflow.io
 krrakiinlugeen.webflow.io
 krrakinloghin.godaddysites.com
@@ -69912,6 +69916,7 @@ kta47.at
 ktab6.at
 ktadrop.xyz
 ktakenlogin.wordpress.com
+ktakenluugin.webflow.io
 ktaliveclaim.xyz
 ktk-shidomainets.xyz
 kto.gold
@@ -73914,6 +73919,7 @@ leger-help-us.pages.dev
 leger-live-de.pages.dev
 leger-live-emo.pages.dev
 leger-live-faq.pages.dev
+leger-live-wallet-start.pages.dev
 leger-live-web.pages.dev
 leger-livedesktop-click.pages.dev
 leger-lve-log-in.pages.dev
@@ -77186,6 +77192,7 @@ luckwinner.online
 luckxbeast.com
 lucky-block.net
 lucky-box-cm.pages.dev
+lucky-box-english.pages.dev
 lucky-box-ph.pages.dev
 lucky-box17.vercel.app
 lucky-box21.vercel.app
@@ -95707,6 +95714,7 @@ polymarket-blue-copy.pages.dev
 polymarket-bonus.com
 polymarket-bot-nextjs.vercel.app
 polymarket-chain.pages.dev
+polymarket-chains.web.app
 polymarket-checker.com
 polymarket-claim.live
 polymarket-cn.com
@@ -103199,6 +103207,7 @@ ripple-space.com
 ripple-swell.net
 ripple-wallet.info
 ripple.giving
+ripple.mn
 ripple06.com
 ripple2026.org
 ripple26.com
@@ -125513,6 +125522,7 @@ tw-digital.world
 tw-digitals.com
 tw-digitals.org
 tw-event.com
+tw-event.org
 tw-faceit.com
 tw-gglegendscup.com
 tw-legendscup.com
@@ -134046,6 +134056,7 @@ web3-auto.xyz
 web3-backup.com
 web3-backups.com
 web3-backups.com.worldlibertyledger.co
+web3-baseone.com
 web3-bit.com
 web3-bitget.club
 web3-bitget.net.in
@@ -134141,6 +134152,7 @@ web3-okx-next04.pages.dev
 web3-okx-next06.pages.dev
 web3-okx-okxnext0010.pages.dev
 web3-okx-okxnext002.pages.dev
+web3-okx-trc20-usdt-wellm.pages.dev
 web3-okx.digital
 web3-okxs-wallet.com
 web3-onchain.org
@@ -137627,6 +137639,7 @@ www.albertdodoli.it
 www.aleph.migratechainx.xyz
 www.alessandrostarkrusso.com
 www.alhuda-foundation.com
+www.alienorigin.io
 www.allenfortlimited.ltd
 www.alliswell.ink
 www.alloca.art
@@ -138938,6 +138951,7 @@ www.receiver-heleket.com
 www.receiving-cryptomus.com
 www.recovery-lcloudsphone.help
 www.redbonk.fun
+www.redeem-ledger.com
 www.regaltuxedo.com
 www.register-44.fun
 www.rejekigame033.com
@@ -141641,6 +141655,7 @@ xrpflarenet.com
 xrpgetkorea.com
 xrpgift-kr.com
 xrpgift.day
+xrpgive.io
 xrphdapp.com
 xrpillars.info
 xrpkoreaget.com

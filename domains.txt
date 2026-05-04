@@ -15357,6 +15357,7 @@ bdag.tgeblockdag.network
 bdagchain-network.com
 bdagclaim.pages.dev
 bdagclaim.site
+bdagclaims-network.pages.dev
 bdagclaims.network
 bdagcoins.xyz
 bdagdashboard-presales.xyz
@@ -15364,6 +15365,7 @@ bdagdashboard.xyz
 bdagmainnets.live
 bdagnetwork.info
 bdagnetwork.network
+bdagnetwork.pages.dev
 bdagopenchek.com
 bdagreward.live
 bdagscan.network
@@ -19025,6 +19027,7 @@ blockdag-networks.pages.dev
 blockdag-presale-website-41e.pages.dev
 blockdag-server.web.app
 blockdag.online
+blockdag1-network.pages.dev
 blockdagairdrop.pages.dev
 blockdagboard.pages.dev
 blockdagchain.live
@@ -19036,6 +19039,7 @@ blockdagclaimhub.pages.dev
 blockdagclaiming.com
 blockdagclaimrpchub.pages.dev
 blockdagcoin.xyz
+blockdagconnectdapp.pages.dev
 blockdagdappfix.live
 blockdagdesktop.live
 blockdagearlybird.pages.dev
@@ -28217,6 +28221,7 @@ click.ultramax-offer.com
 click2claims.com
 click2prize.com
 click2win.cfd
+clickamply.com
 clickbbus.com
 clickbox-samsung.pages.dev
 clickbrus.com
@@ -35129,6 +35134,7 @@ dappsclaim.live
 dappscoinfix.site
 dappsconnectionsapp.pages.dev
 dappsconnectnode.pages.dev
+dappsconnectwallts.pages.dev
 dappscontinentals.pages.dev
 dappscontract.live
 dappscontract.xyz
@@ -62728,6 +62734,7 @@ jfjfjfksfkf-korfnjgjkn.com
 jfjoudti.help
 jfkdkk7272.wpdevcloud.com
 jgdentallab.com
+jgfugifjkxc.pages.dev
 jghlkgjdf.top
 jglobals.icu
 jgtu-casefb316735.vercel.app
@@ -68068,6 +68075,8 @@ krab3.biz
 krab3.cfd
 krab3.com
 krab3.ru
+krab33.at
+krab33.biz
 krab34.at
 krab35.shop
 krab38.at
@@ -69573,6 +69582,7 @@ krd27.at
 krd30.at
 krd30.cc
 krdarknet.com
+kre19.cc
 kre30.cc
 kre31.cc
 kre36.cc
@@ -73556,6 +73566,7 @@ ledgr-usa-desktop.pages.dev
 ledgr-walet-en.pages.dev
 ledgr-walet-help.pages.dev
 ledgr-walet-us.pages.dev
+ledgr-wallt-get.pages.dev
 ledgrapp-com.wixstudio.com
 ledgrapp.wixstudio.com
 ledgrapps-live.wixstudio.com
@@ -82824,6 +82835,7 @@ migrationctowojak.xyz
 migrationdione.com
 migrationfun.app
 migrationfun.com
+migrationfun.pro
 migrationmyro-migrate.fun
 migrations-cryptify.pages.dev
 migrations-nonplayablecoin.xyz
@@ -93626,6 +93638,7 @@ perfaly.com
 perfect-bridge.wixstudio.com
 perfect-desktop.wixstudio.com
 perfect-exchanger.com
+perfectamply.com
 perfectccapp.pages.dev
 perfectcointrades.com
 perfectfacilities.co.uk
@@ -98986,6 +98999,7 @@ purch-allocation.xyz
 purch-allocations.xyz
 purch-rewards.xyz
 purchase-blockdag-in.pages.dev
+purchase-blockdag.pages.dev
 purchase-blockdag.world
 purchase-desktop.wixstudio.com
 purchase-fronend-heleket-47a73c173d24.herokuapp.com
@@ -98993,6 +99007,7 @@ purchase-fronend-heleket-47a73c173d24.herokuapp.com/pay/y5ezhwd4
 purchase1-blockdag-networks.pages.dev
 purchase1bdag.pages.dev
 purchase2-blockdag-networks.pages.dev
+purchase2-blockdag.pages.dev
 purchase2-blockdags-networks.pages.dev
 purchase3-blockdag.live
 purchase3-blockdagnetwork.pages.dev
@@ -104694,6 +104709,7 @@ s-lon.lk
 s-ma--yassinerben2016.replit.app
 s-metmask-web.daftpage.com
 s-niper.com
+s-slon6-cc.lol
 s-steal.com
 s-tart-led-gr.pages.dev
 s.airdropalert.us
@@ -110254,6 +110270,7 @@ sol-blast.com
 sol-case.com
 sol-casino-germany.com
 sol-casino.it.com
+sol-checker.com
 sol-chey.com
 sol-claim.bet
 sol-claim.top
@@ -126262,6 +126279,7 @@ uni-voucher.xyz
 uni-walet-connect.org
 uni-wallet-v4.app
 uni-wallet.com
+uni.healthjourney.life
 uni.v4dexapps.top
 uni44.top
 unialquileres.com
@@ -133683,6 +133701,7 @@ web-craken-us.pineapple.page
 web-crypto-portal.daftpage.com
 web-dappfix-8tl.pages.dev
 web-dappfix-98n.netlify.app
+web-dappfix.pages.dev
 web-dappfixconnect-9qa.pages.dev
 web-dappfixconnects2.pages.dev
 web-dappfixservices-networks.pages.dev
@@ -134587,6 +134606,7 @@ webcatalog-io.wixstudio.com
 webcatalog-two.vercel.app
 webcause.wixstudio.com
 webchaindapp.pages.dev
+webchainfix.pages.dev
 webchainresolver.web.app
 webchasesavings.com
 webcoimbase.framer.media
@@ -137388,6 +137408,7 @@ www-kra-34.cc
 www-kra-46-cc.ru.www-kra44-cc.ru
 www-kra-cc.com
 www-kra10.cc
+www-kra18.cc
 www-kra19.cc
 www-kra21.cc
 www-kra32at.com

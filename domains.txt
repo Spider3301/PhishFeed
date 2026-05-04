@@ -35533,6 +35533,7 @@ dashboard.fcbarceloa.com
 dashboard.krakenapp.link
 dashboard.momentumactivity.com
 dashboard.monadscore.xyz
+dashboard.moonwell.lat
 dashboard.nova-finance.net
 dashboard.peludinhos-damel.com
 dashboard.profitbuildersteam.org
@@ -84702,6 +84703,7 @@ moonshot-picks.com
 moonshot-poll.app
 moonshot-poll.com
 moonshot-poll.fun
+moonshot-poll.live
 moonshot-poll.lol
 moonshot-poll.net
 moonshot-poll.org
@@ -109370,6 +109372,7 @@ slon5cc-slon5at.ru
 slon5cc.com
 slon5cc.net
 slon5cc5.ru
+slon5to.cc
 slon5to.com
 slon5to.ru
 slon6--c-c.ru
@@ -119947,6 +119950,7 @@ tge-edge.com
 tge-espresso.com
 tge-ethereal.trade
 tge-flare.app
+tge-flare.network
 tge-hyperlend.com
 tge-hyperlend.finance
 tge-hyperunit.xyz

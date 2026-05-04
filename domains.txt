@@ -11625,6 +11625,7 @@ ask-ldgr-wallt.pages.dev
 ask-legdrlive-desktop.pages.dev
 ask-live-ledgor.pages.dev
 ask-metmask-loginz-io.pages.dev
+ask-phantm-wlts.pages.dev
 ask-phntm-wallet.framer.ai
 ask-splat.com
 ask-trezr--suits.pages.dev
@@ -18360,6 +18361,7 @@ bitravfpro.com
 bitreds.com
 bitreem.com
 bitref.com
+bitrefili.com
 bitrena.com
 bitrenixpulse-83ai.com
 bitrenixpulse83-ai.net
@@ -62894,6 +62896,7 @@ jitosol.app
 jitosol.lol
 jitosol.top
 jitosolvalidation.pages.dev
+jitoss.pages.dev
 jitostaking.pages.dev
 jitoxai.com
 jitoyieldboost.click
@@ -92158,6 +92161,7 @@ page-connect.zapier.app
 page-defillama.typedream.app
 page-desktop-ledgre.wixstudio.com
 page-desktop.wixstudio.com
+page-en-us-ledgre.pages.dev
 page-ens-kraken.square.site
 page-exo-en.wixstudio.com
 page-exodus-io.pages.dev
@@ -102660,6 +102664,7 @@ reward-ethena.finance
 reward-etherfi.foundation
 reward-etherfi.xyz
 reward-gizatech.xyz
+reward-global.pages.dev
 reward-hyperfoundation.app
 reward-infinit.com
 reward-infinits.com
@@ -130011,6 +130016,7 @@ vdvetrm.ru
 ve.app
 veag.bet
 veapen.com
+veat-b3tr.pages.dev
 veaxgives.pages.dev
 vebeto.bet
 vebitex.com
@@ -139179,6 +139185,7 @@ www.superex-login.at
 www.superex-login.at/p/index.php
 www.supertradex.com
 www.support-tip.com
+www.support.trustswallets.org
 www.supportledger.pro
 www.supportmultiwallet.com
 www.surepex.com

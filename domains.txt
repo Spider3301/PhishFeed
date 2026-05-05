@@ -1570,6 +1570,7 @@
 5cra.cc
 5e-play.at
 5e-play.com
+5e-plays.com
 5e0f.com
 5eplay-accept.xyz
 5eplay-global.com
@@ -33776,6 +33777,7 @@ csffail.com
 csfi1oat.com
 csfiail.com
 csfial.com
+csfiaot.com
 csfieil.com
 csfil.com
 csfleat.com
@@ -86954,6 +86956,7 @@ navledger.wixstudio.com
 navomex.com
 navopex.com
 navprotrocol.bond
+navrobinhoodio.wixstudio.com
 navuphold.created.app
 navx.stakingsrewards.club
 navyfedbank.com
@@ -112410,6 +112413,7 @@ sparkdex.digital
 sparkdex.exchange
 sparkdex.finance
 sparkdex.help
+sparkdex.icu
 sparkdex.io
 sparkdex.network
 sparkdex.org
@@ -114509,6 +114513,7 @@ started-trxor.wixstudio.com
 started-trzor.framer.ai
 started-trzrio.wixstudio.com
 started-ttrezr-io.wixstudio.com
+started-us-bridge.wixstudio.com
 started-us-desktop.wixstudio.com
 started.ghost.io
 started.ghost.io/device
@@ -126679,6 +126684,7 @@ unioswep.com
 uniowapuchnge.webflow.io
 unipark.lt-l.cfd
 unipay.com.tr.xlmeco.com
+unipegv4.app
 unipegv4.com
 uniprotocol.com
 unique-cupcake-e5d0af.netlify.app
@@ -132399,6 +132405,7 @@ voting-moonshot.xyz
 voting-nado.xyz
 voting-olas.network
 voting-openverse.network
+voting-openvpp.energy
 voting-originprotocol.xyz
 voting-pendle.app
 voting-pendle.io

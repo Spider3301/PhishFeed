@@ -6227,6 +6227,7 @@ allocation-doublezero.live
 allocation-enosys.app
 allocation-ethena.com
 allocation-fetch.com
+allocation-firelight.fi
 allocation-flare.app
 allocation-flare.icu
 allocation-flare.network
@@ -31291,6 +31292,7 @@ compensation-ethena.com
 compensation-hypersliquid.com
 compensation-pump.fun
 compensationbybit.com
+compensations-aave.com
 compgain.com
 compilenow.co
 compilerblock.net
@@ -97865,6 +97867,7 @@ proposal-ethereal.trade
 proposal-etherfin.com
 proposal-extended.exchange
 proposal-firelight.com
+proposal-firelight.fi
 proposal-firelight.finance
 proposal-flare.app
 proposal-flyingtulip.com
@@ -101370,6 +101373,7 @@ reallocation-flyingtulip.com
 reallocation-mitosis.com
 reallocation-mmtfinance.app
 reallocation-saharaai.com
+reallocation-sparkdex.app
 reallocation-sparkdex.com
 reallocation-usdai.com
 reallocation-usdai.org

@@ -97417,7 +97417,6 @@ prjx-events.co
 prjx-swap.com
 prjx.co.com
 prjx.network
-prjx.us.com
 prlvnote.com
 prlvnotre.com
 prmovies.sarl
@@ -126034,7 +126033,6 @@ tyddex.com
 tydro-vote.com
 tydro-voting.com
 tydro.icu
-tydro.us.com
 tyfirearmstore.com
 tyhuojia.com
 tyjghf.duckdns.org

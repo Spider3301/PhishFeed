@@ -3915,6 +3915,7 @@ aerodrome.limo
 aerodrome.network
 aerodrome.onl.apexfix.xyz
 aerodrome.onrender.com
+aerodrome.study
 aerodrome.world
 aerodromeauthorization.com
 aerodromeaz.sbs
@@ -24997,6 +24998,7 @@ changeiiy.icu
 changeiiy.to
 changeily.at
 changeliy.at
+changellly.io
 changelly.asia
 changelly.cards
 changelly.casa
@@ -27545,6 +27547,7 @@ claimeth.vip
 claimetherfi.net
 claimetherperksrewards.xyz
 claimevivo.pages.dev
+claimfee-pump.fun
 claimfee.com
 claimfees-pump.fun
 claimfi-dapp.netlify.app
@@ -56444,7 +56447,6 @@ hardgg.pro
 hardik508.github.io
 hardrockwin.bet
 hardrockwin.top
-hardstresser.st
 hardwallstore.co.com
 hardware--en-i-o-trezo--dev.pages.dev
 hardware--en-io-trezo-desk.pages.dev

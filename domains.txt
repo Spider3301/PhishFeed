@@ -3925,6 +3925,7 @@ aerodrome.network
 aerodrome.onl.apexfix.xyz
 aerodrome.onrender.com
 aerodrome.study
+aerodrome.watch
 aerodrome.world
 aerodromeauthorization.com
 aerodromeaz.sbs
@@ -15542,6 +15543,7 @@ beastdally.com
 beastdice.me
 beastereo.com
 beasterox.com
+beastfinals.com
 beastfintrox.net
 beastgamb.at
 beastgamb.cc
@@ -16483,6 +16485,7 @@ betify-casino-france1.com
 betify-casino2.com
 betify-casino3.com
 betifyde.com
+betingot.com
 betingx.com
 betio.casino
 betiora.cc
@@ -16933,6 +16936,7 @@ betzyra.com
 betzz-game.com
 betzz.cm
 betzzgame.com
+beucux.com
 beunumaro.com
 beutiva.com
 bevexo.cc
@@ -23508,6 +23512,7 @@ casino-betlive-fr.com
 casino-betlive1.com
 casino-betlive2.com
 casino-bit.cc
+casino-bit.me
 casino-black-label.com
 casino-coin.app
 casino-coin.cc
@@ -38064,6 +38069,7 @@ diamond-incorporated.com
 diamond-win.vip
 diamondassetmagts.com
 diamondbeach.spahotel.guru
+diamondbets.online
 diamondcash.art
 diamondcash.club
 diamondcash.live
@@ -46933,6 +46939,7 @@ faceot.com
 facepunch-launch.world
 facepunch-new.org
 facepunch-promotion.world
+facepunch.cc
 facesjt.com
 faceslt.com
 facetime-join-request-apple.com
@@ -51609,6 +51616,7 @@ gaopex.com
 gaorax.com
 gaovax.com
 gaovex.com
+gaovox.com
 gaowex.com
 gapiauth.click
 gapiauth.net
@@ -52609,6 +52617,7 @@ getmysol.org
 getnovax.com
 getnow-yaa.pages.dev
 getocas.com
+getodex.com
 getolian.icu
 getorbitron.net
 getorex.com
@@ -76566,6 +76575,7 @@ loansusdt.cfd
 loarax.com
 loarex.com
 loavax.com
+loavex.com
 loawax.com
 lobbstr-walletz.webflow.io
 lobby-cambria.xyz
@@ -86230,6 +86240,7 @@ muskfoundationofficialdelivery.com
 muskfoundationpartners.org
 muskgamb.com
 muskgiveaway.vercel.app
+muskjetx.com
 muskleave.io
 muskoncas.com
 muskplay.casino
@@ -87453,6 +87464,7 @@ nelworks.com
 nemadex.com
 nemaracoast.spahotel.guru
 nembutalsouthafrica.org
+nemecaz.com
 nemesispool.xyz
 nemexbet.top
 nemo-mega.pages.dev
@@ -92289,6 +92301,7 @@ ovalwin.com
 ovandex.com
 ovaroexc.com
 ovaroexg.com
+ovawp.com
 over-bridge.wixstudio.com
 over-desktop.wixstudio.com
 over-uphlld-o-sso.daftpage.com
@@ -92358,6 +92371,7 @@ ovospinia.com
 ovospins.com
 ovostake.com
 ovostake.com/w
+ovotower.com
 ovovault.com
 ovowave.com
 ovowild.com
@@ -98957,6 +98971,7 @@ pudgyweb.com
 pudgyzpenguins.com
 pudpenguins.asia
 pudypenguin.site
+puejax.com
 puekax.com
 puemp.fun
 puermama.com
@@ -103186,6 +103201,7 @@ revoke-lidos.com
 revoke-maplefinance.com
 revoke-pendles.com
 revoke-steakhouse.app
+revoke-tydro.app
 revoke-unisap.org
 revoke-veloedrome.com
 revoke-zetachain.com
@@ -111917,6 +111933,7 @@ solix.dapps-bridge.net
 solixa.cc
 solixbet.com
 solixdepin.org
+solixway.app
 solixway.top
 soljex.top
 soljitomev-download.space
@@ -112699,6 +112716,7 @@ spaceurnex.info
 spacewarp.dev
 spacewex.com
 spacewin.casino
+spacewin.cc
 spacewin.top
 spacewin.world
 spacex-10.io
@@ -113067,6 +113085,7 @@ spinning-area-659297.framer.app
 spinningmigrate.xyz
 spinningsolana.com
 spinnvex.com
+spinoo.win
 spinoroll.com
 spinportal.me
 spinpump.fun
@@ -120904,6 +120923,7 @@ theglamscientist.com
 thegmairdrops.com
 thegoatsociety.xyz
 thegoldenbank.com
+thegrand.bet
 thegrandmirage.online
 thegraph-frontend-3f1.pages.dev
 thegraph.basecamp.sh
@@ -126327,6 +126347,7 @@ twiz-infhjjhj.onrender.com
 twlist.com
 twltch.fecepunch.pro
 two.sa.com
+twogamb.at
 twogamb.cc
 twpay.app
 twpay.cards
@@ -130466,6 +130487,7 @@ vantheon-lux.org
 vantop.click
 vantyxcapitaltd.com
 vanulynuze.digital
+vaocox.com
 vaodax.com
 vaodex.com
 vaodox.com
@@ -130782,6 +130804,7 @@ vedablabs.com
 vedowex.com
 veduu27.github.io
 vefodex.com
+vegamb.cc
 vegamb.com
 veganes-kaufhaus.org
 vegaroll.com
@@ -132505,6 +132528,7 @@ vote-raac.xyz
 vote-rapidnode.xyz
 vote-ravedao.xyz
 vote-redstones.com
+vote-relays.xyz
 vote-renzoprotocol.app
 vote-reppo.xyz
 vote-rhea.xyz
@@ -136761,6 +136785,7 @@ winer-island.com
 winer-island.net
 winer-island.org
 winer.top
+winera.cc
 winera.top
 winerisland.com
 winerisland.net
@@ -136864,6 +136889,7 @@ winora.bet
 winora.biz
 winora.cc
 winora.online
+winora.ws
 winorama-casino-aus.com
 winorama-casino-review.com
 winoramacasino-login-au.com
@@ -140601,6 +140627,7 @@ x-cas.com
 x-cas.us
 x-cash.cc
 x-casino.cc
+x-casino.win
 x-chain.pages.dev
 x-chainlink.org
 x-chat.us
@@ -144537,6 +144564,7 @@ ztx.entry-cryptolist.app
 zuadax.com
 zuadex.com
 zuche.aitrustwallet.info
+zuemux.com
 zugang-kcex-anmeldung.cc
 zugangserneuerung.info
 zuhair246.github.io

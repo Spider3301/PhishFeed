@@ -2423,6 +2423,7 @@ aave-app.xyz
 aave-bloggy.com
 aave-bonus.com
 aave-capital.com
+aave-check.app
 aave-claim.io
 aave-com-help.pages.dev
 aave-compensation.com
@@ -2443,6 +2444,7 @@ aave-defi.org
 aave-desktopwalletinstaller.com
 aave-earn.layeroffer.online
 aave-earning.com
+aave-eligibility.xyz
 aave-en-wallet.pages.dev
 aave-eta.vercel.app
 aave-eth-v3.com
@@ -2455,9 +2457,13 @@ aave-gho.com
 aave-gho.eu.com
 aave-gov.com
 aave-governance.net
+aave-interface.com
 aave-lending.com
 aave-logis.pages.dev
+aave-portals.net
+aave-pro.com
 aave-protocoll.pages.dev
+aave-snapshot.org
 aave-stake.com
 aave-stake.web.app
 aave-staking-markets-defi-v3-v2-aave-swap.com
@@ -2465,6 +2471,7 @@ aave-staking-markets-defi-v3-v2-aave-swap.net
 aave-staking-markets-defi-v3-v2-aave-swap.org
 aave-staking-markets-defi-v3-v2.net
 aave-v3-eth.cc
+aave-v3swap.com
 aave-v4.net
 aave-verification.com
 aave-voting.app
@@ -2476,6 +2483,7 @@ aave.3v-gho.it.com
 aave.aave-coin.it.com
 aave.airdropalert.cfd
 aave.aiweb3.top
+aave.arkeomarketplace.com
 aave.bet
 aave.com-api-gateway-connect-alpha.cloud
 aave.com-api-gateway-wallets-v1-edge.cloud
@@ -2537,6 +2545,7 @@ aave.exchain.it.com
 aave.exchan.it.com
 aave.gho-v3.it.com
 aave.ghosmart.it.com
+aave.global
 aave.kgen.team
 aave.life
 aave.ltd
@@ -2546,6 +2555,7 @@ aave.protocol-v3.it.com
 aave.report
 aave.report/app.html
 aave.smart-update.it.com
+aave.srvincs.com
 aave.stake-3v.it.com
 aave.stake-smart.it.com
 aave.sushistakes.biz
@@ -2556,11 +2566,14 @@ aave.v3-gho.it.com
 aave.vote
 aave.web-stake.it.com
 aave2.com
+aaveapp.club
 aaveapp.co.com
+aaveapp.pages.dev
 aavebank.net
 aavebeta.com
 aavecasifreespins.click
 aavecasinonodeposit.click
+aavechan.io
 aavechan.stkaaveclaim.com
 aaveclassic.com
 aaveclassic.org
@@ -2574,6 +2587,7 @@ aavedropslive.xyz
 aavee.at
 aavee.bet
 aavee.live
+aavee.run
 aavef.com
 aavefi.one
 aavefinance.one
@@ -2584,11 +2598,13 @@ aavegain.com
 aaveget.com
 aavegotchighst.pages.dev
 aavegotchimigrate.com
+aavegov.com
 aavegovernance.net
 aavegsystem.com
 aaveinvestment.org
 aavelab.xyz
 aavelabs.org
+aavelabs.vip
 aavelaunch.com
 aavelegacy.com
 aavelendservice.com
@@ -2620,6 +2636,7 @@ aavev4.com
 aaveve.eu.com
 aavevevev2.com
 aavewallet-dfg.pages.dev
+aavewebrewards.icu
 aaveyield.com
 aavf.app
 aavids.top
@@ -3329,6 +3346,7 @@ acessoportalpj.digital
 acessorapidotendimentosclients.netlify.app
 acessoriafeira25.sbs
 acessosc.workers.dev
+acestokens.com
 acestradex.com
 acetradevirtualpro.com
 acetrders.com
@@ -7094,6 +7112,7 @@ aml-check-wallet.com
 aml-check.asia
 aml-check.best
 aml-check.bittrade.today
+aml-check.business
 aml-check.cam
 aml-check.cfd
 aml-check.ink
@@ -7138,7 +7157,9 @@ aml-checkup.app
 aml-checkup.com
 aml-checkup.help
 aml-checkup.net
+aml-checkup.online
 aml-checkup.org
+aml-checkups.org
 aml-checkwallet.net
 aml-chek.site
 aml-clean.click
@@ -7214,6 +7235,8 @@ aml-rescan.cc
 aml-rescan.com
 aml-rescan.pages.dev
 aml-resolve.app
+aml-review.info
+aml-review.info.bb24-c.info
 aml-rf-other.outwallet.world
 aml-riskscore.com
 aml-safe.com
@@ -7262,6 +7285,7 @@ aml-status.com
 aml-status.pro
 aml-system.site
 aml-tap.com
+aml-test.info
 aml-test.org
 aml-test.pro
 aml-token.com
@@ -7341,6 +7365,7 @@ aml.top
 aml.transaction.cfd
 aml.tron-fees.com
 aml.valid-check.org
+aml.verificenter.io
 aml.vyttah.com
 aml6ot.com
 amladvisers.com.au
@@ -7360,6 +7385,7 @@ amlb0t.co
 amlbeast.com
 amlbot-ai.com
 amlbot-app.com
+amlbot-app.one
 amlbot-asia.com
 amlbot-chain.com
 amlbot-check.promo
@@ -7445,6 +7471,7 @@ amlbotguard.cfd
 amlbothelp.com
 amlbotinfo.org
 amlbotinfo.xyz
+amlbotkz.top
 amlbotmnt.com
 amlbotoffice.net
 amlbotplus.com
@@ -7617,6 +7644,7 @@ amlfast.pro
 amlfinancecheck.com
 amlfirewall.com
 amlforge.com
+amlformcheck.click
 amlforte.io
 amlforte.pro
 amlfree.icu
@@ -7808,6 +7836,7 @@ amlsecurity.world
 amlsecuritybot.com
 amlsecuritywallet.org
 amlsens.com
+amlsensor.com
 amlserve.com
 amlservice-trc20.com
 amlservice.net
@@ -7897,8 +7926,10 @@ amlverif.pages.dev
 amlverif.shop
 amlverif.top
 amlverifi.com
+amlverification.click
 amlverifier.com
 amlverifier.io
+amlverifier.live
 amlverifier.net
 amlverifier.org
 amlverifies.com
@@ -19008,6 +19039,7 @@ blockchain-bridge.pages.dev
 blockchain-centralized-trade.com
 blockchain-clone-lyart.vercel.app
 blockchain-coinbase.com
+blockchain-dapp.space
 blockchain-explorer.network
 blockchain-farm.mobiloitte.org
 blockchain-flare.pages.dev
@@ -21934,6 +21966,7 @@ bybit-9fv.pages.dev
 bybit-abgleich.com
 bybit-aml.help
 bybit-aml.org
+bybit-aml.ru
 bybit-auditor.app
 bybit-auditor.one
 bybit-bitcoin.com
@@ -21946,6 +21979,7 @@ bybit-df.com.cn
 bybit-downloads.com
 bybit-gi.com.cn
 bybit-gt.xyz
+bybit-guide.ru
 bybit-hc.xyz
 bybit-hj.com.cn
 bybit-invest.com
@@ -21981,8 +22015,10 @@ bybit-sc.com.cn
 bybit-scan.cc
 bybit-st.com.cn
 bybit-tr.com
+bybit-trade.biz
 bybit-transfer.com
 bybit-trc20.info
+bybit-up.com
 bybit-vz.xyz
 bybit-wallets.cfd
 bybit-web3.teamcopy.info
@@ -22029,6 +22065,7 @@ bybitcard.ru
 bybitcd.com.cn
 bybitce.com
 bybitcfd.com
+bybitcloud.vip
 bybitclubin.my
 bybitcm.com.cn
 bybitcoin.cc
@@ -22038,6 +22075,7 @@ bybitcoinvn.com
 bybitcopy-trade.com
 bybitdex.network
 bybitdigital.com
+bybitenphg.com
 bybitenur.com
 bybitewf.pages.dev
 bybitexchangecoin.com
@@ -22046,6 +22084,7 @@ bybitexe.com
 bybitexm.com
 bybitexp.com
 bybitfiatpay.com
+bybitfx.io
 bybitga.com
 bybitgem.live
 bybitgloba1.xyz
@@ -22055,6 +22094,9 @@ bybitgum.com
 bybitgum.org
 bybiti.com.cn
 bybitii.com.cn
+bybititent.com
+bybititjue.com
+bybititoiu.com
 bybititru.com
 bybititsr.com
 bybitiz.com.cn
@@ -22065,6 +22107,8 @@ bybitloginnn.gitbook.io
 bybitlz.com.cn
 bybitn.com.cn
 bybitnn.com.cn
+bybitones.com
+bybitosent.com
 bybitpartner.com
 bybitpayback.goksan.co.kr
 bybitperu.com
@@ -22084,7 +22128,9 @@ bybitprokg.com
 bybitproki.com
 bybitprokr.com
 bybitprokx.com
+bybitprow.com
 bybitrade.com
+bybitrally.ru
 bybitreceipt.pages.dev
 bybitrewards.digital
 bybitron.com
@@ -22100,6 +22146,7 @@ bybitterflame.com
 bybittr5678.vip
 bybittrading.goksan.co.kr
 bybittradingpk.com
+bybittrc.com
 bybittt.com.cn
 bybittt.eu
 bybittvn.com
@@ -24637,6 +24684,7 @@ cgx.info
 ch-angenow.com
 ch-angenow.org
 ch-angenw.at
+ch-google.cc
 ch-login-swisssp.serv00.net
 ch-ngely.la
 ch-nouvelle-info.surge.sh
@@ -30118,6 +30166,7 @@ coinbasex.xyz
 coinbasexnfts.com
 coinbasexten.gitbook.io
 coinbasextension.created.app
+coinbasextension.vercel.app
 coinbasextensioncloud.created.app
 coinbasextesion.gitbook.io
 coinbaseyield.com
@@ -43862,6 +43911,7 @@ ergobuik.org
 ergre.online
 ergre.site
 ergre.space
+eric-87849-brown.pages.dev
 erictrump-wlfi.info
 eriksav.com
 erion-hub.pages.dev
@@ -49514,6 +49564,7 @@ flexaciilultra.com
 flexadesktop.com
 flexbet.top
 flexcas.com
+flexcheck.top
 flexcontrol.app
 flexgame.pro
 flexget.top
@@ -50100,6 +50151,7 @@ forsemur.com
 fort-drop.com
 fort-knox.ai-cryptolist.com
 fort2026.com
+fortan.cc
 fortbh.com
 fortbid.pro
 fortbitcapital.com
@@ -50184,6 +50236,7 @@ fortnitewin.com
 fortno.com
 fortnt.com
 fortonex.com
+fortonloots.top
 fortpay.net
 fortpills.pro
 fortplay.info
@@ -58770,6 +58823,7 @@ how-minecraft.ru
 how-to-buy-trx.hovode3078.workers.dev
 how-to-download-reshade-to-roblox.pages.dev
 how-to-get-free-games-on-steam-unlocked.pages.dev
+how-to-hold-bitcoin-using-trust-wallet.webflow.io
 how-to-maximize-plume-token-airdrop.pages.dev
 how-to.buy-tron.workers.dev
 howabet.com
@@ -69913,6 +69967,7 @@ krakonl0gin.wordpress.com
 krakoventori.net
 krakphone.cc
 krakroll.cc
+krakssylka.cc
 kraksupport-cc.pages.dev
 kraksupport.cc
 krakunxlogi.godaddysites.com
@@ -76657,6 +76712,7 @@ lobstr-walle.webflow.io
 lobstr-walleetn.webflow.io
 lobstr-wallet-uss.webflow.io
 lobstr-walletm.webflow.io
+lobstr-walletx.webflow.io
 lobstraccountlogin.webflow.io
 lobstraewallet.webflow.io
 lobstrcoin-wallet.webflow.io
@@ -78497,17 +78553,22 @@ m.trustwallet-web3.com.cn
 m.trustwalletapps.com
 m.trustwalletccu.com
 m.trustwalleteoj.com
+m.trustwalletffm.com
 m.trustwalletgfl.com
 m.trustwalletgvl.com
 m.trustwalletiat.com
 m.trustwalletjvk.com
 m.trustwalletkgk.com
 m.trustwalletlnv.com
+m.trustwalletloz.com
 m.trustwalletlrg.com
 m.trustwalletpuc.com
 m.trustwallettmq.com
 m.trustwalletuyu.com
+m.trustwalletwys.com
 m.trustwalletxgt.com
+m.trustwalletxkh.com
+m.trustwalletypu.com
 m.trustwalletz.com
 m.ttkshop.cyou
 m.tyhuojia.com
@@ -87367,6 +87428,7 @@ ndaxx.webflow.io
 ndaxxlogogin.webflow.io
 ndaxxnav.wixstudio.com
 nddaxxloggin.webflow.io
+ndf48f.com
 ndkjqfsdfkjdjkf902929211093913j.pages.dev
 ndn21t.weeblysite.com
 ndox-login.com
@@ -90160,6 +90222,7 @@ officals-exouss.pages.dev
 officals-exxous.pages.dev
 officalstart.ghost.io
 officalstart.ghost.io/web
+officaltrump.live
 office-kits.net
 office.bluedoc.uk
 office.motor-ed.com
@@ -104143,6 +104206,7 @@ robllox.ch
 roblox-apk-son-surum.pages.dev
 roblox-asset-id-for-dominus-empyreus-free.pages.dev
 roblox-big-paintball-2-unlock-all-guns-script.pages.dev
+roblox-canjear.online
 roblox-coffin-dance-song-id.pages.dev
 roblox-com.de
 roblox-com.ru
@@ -108130,6 +108194,7 @@ sfund.sushiswap.onl
 sfv.efc.mybluehost.me
 sfwizpa123.com
 sfwizpa1234.com
+sfxprotocol.online
 sg-groupe.com
 sg-grouped.com
 sg04web.us
@@ -111833,6 +111898,7 @@ solclaim.cloud
 solclaim.world
 solclaimdex.top
 solcloudbot.com
+solcloudpro.cyou
 solcod.com
 solcoin.co
 solcoinsmeme.com
@@ -116010,6 +116076,7 @@ strawberita.xyz
 strawberry-in-bloom.entrance-cryptolist.com
 strawberry-in.web.app
 straydogcoin.com
+streakk.io
 stream-chrome-azure.vercel.app
 stream-ciproai.com
 stream-demo-kraken.pages.dev
@@ -124234,6 +124301,7 @@ tron-claim.xyz
 tron-coin.pro
 tron-convert.homes
 tron-convert.sbs
+tron-cs.cc
 tron-drop.com
 tron-ekovirta-app.com
 tron-ems.lv
@@ -124248,6 +124316,7 @@ tron-guard.com
 tron-impact.org
 tron-jst.com
 tron-link.online
+tron-links.xyz
 tron-list.com
 tron-mixer.com
 tron-mixer.top
@@ -124260,6 +124329,7 @@ tron-qr-code-generator.com
 tron-quality.com
 tron-scan.to
 tron-scan.us
+tron-skan.com
 tron-swap.io
 tron-swap.org
 tron-swap.pages.dev
@@ -124280,7 +124350,9 @@ tron.deals
 tron.farm
 tron.faucetminer.cloud
 tron.gd
+tron.my-card.icu
 tron.pordoin.com
+tron.townmanage.com
 tron.transits.cc
 tron.trustscan.eu
 tron.trustscan.info
@@ -125069,6 +125141,7 @@ trustcards.space
 trustcardsnow.com
 trustcardspay.com
 trustcardswallet.com
+trustcardsx.com
 trustcardvip.com
 trustcardvip.space
 trustcardwallet.com
@@ -125206,6 +125279,7 @@ trustpriceaction.live
 trustpro.live
 trustprod.com
 trustprod.com/main.html
+trustprods.fi
 trustproduction.club
 trustproducts.fi
 trustproducts.live
@@ -125485,6 +125559,7 @@ trustwalletdrainer.pages.dev
 trustwalleteoj.com
 trustwalleteto.com
 trustwalletexchange.net
+trustwalletextension-auth.framer.ai
 trustwalletextensions.framer.ai
 trustwalletfees.com
 trustwalletffm.com
@@ -125573,6 +125648,7 @@ trustwallett.xyz
 trustwalletteam.us
 trustwalletthk.com
 trustwallettmq.com
+trustwallettokens8.wordpress.com
 trustwalletuec.com
 trustwalleturkish.com
 trustwalletus.at
@@ -140094,6 +140170,7 @@ www.store.communitymarketgames.com
 www.store.communityuserdev.com
 www.store.workshopartistcontent.com
 www.stores.astonptech.com.ng
+www.stpatty.xyz
 www.strategic-solana-reserve.com
 www.streamprotocol.app.multiupdate.live
 www.strtaz.com

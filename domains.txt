@@ -8984,6 +8984,7 @@ app-falconsfinance.com
 app-firelight.xyz
 app-firelightfinances.com
 app-flaremainnet-portal.com
+app-flarenetworks.xyz
 app-flyingtulip.com
 app-flyngtuilp.com
 app-fogo.xyz
@@ -24759,6 +24760,7 @@ chain-nodes.com
 chain-operai.net
 chain-pay.org
 chain-query.net
+chain-rise.ltd
 chain-robinhood.io
 chain-shield.com
 chain-smartprotrader.pages.dev
@@ -54857,6 +54859,7 @@ grinchsolairdrop.pages.dev
 grindery-claim.com
 grindery-claims.io
 grinderysol.com
+grindsmarthq.xyz
 grindtechiei.net
 griont665.shop
 griovi.org
@@ -98283,6 +98286,7 @@ project-promintings06.vercel.app
 project-promintings07.vercel.app
 project-protocol.pages.dev
 project-savers.pages.dev
+project-spacex.com
 project-suite-io.pages.dev
 project-swap-raydium.pages.dev
 project-tokenmints30.vercel.app
@@ -113149,6 +113153,8 @@ spax20r.icu
 spax24k.com
 spax27k.com
 spax30t-cointelegraph.com
+spax30t.icu
+spax30t.pro
 spax40b-cointelegraph.com
 spax40b-fxempire.com
 spax40b.com

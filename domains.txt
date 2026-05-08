@@ -25464,6 +25464,7 @@ checked-played.vip
 checked.ads-program-agency.com
 checkeigen.byz.tools
 checkeligibility-meteora.xyz
+checker-aave.app
 checker-ai.com
 checker-aml-bot.com
 checker-aml-bot.pro
@@ -46960,11 +46961,13 @@ faceiet.com
 faceiil.com
 faceit-clubsverify.com
 faceit-confirms.com
+faceit-connection.g2sh-league.pro
 faceit-cs.ru
 faceit-events.com
 faceit-get-verify.com
 faceit-status-verify.com
 faceit-verify-clubs.com
+faceit-verify.rushplus.top
 faceit-verify.rushx.top
 faceit-verifyclubs.com
 faceit-verifyclubs.xyz
@@ -116083,6 +116086,7 @@ store.workshopconnecskin.com/sharedfiles/filesdetails/carved_arabesque
 store.workshopcontenthub.com
 store.workshopcontentvote.com
 store.workshopcontentvote.com/sharedfiles/filesdetails/carved_arabesque
+store.workshopcosmeticpower.com
 store.workshopcreatedmods.com
 store.workshopcreatormod.com
 store.workshopcreatorpage.com

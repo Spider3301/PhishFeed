@@ -849,6 +849,7 @@
 1ogin7.am.coinbase.com.ph
 1onewinbet.com
 1play.cc
+1pointsurvey.com
 1polkadot-5x1e.js.org
 1raabbe3wkd.pages.dev
 1rch.com
@@ -7584,6 +7585,7 @@ amlchecktether.pro
 amlcheckton.com
 amlchecktrust.com
 amlchecktrx.org
+amlcheckup.com
 amlcheckvault.com
 amlcheckwallet.cc
 amlcheckwallet.com
@@ -8261,6 +8263,7 @@ anonymixer.app
 anonymixer.biz
 anonymixer.ch
 anonymixer.co
+anonymixer.com
 anonymixer.net
 anonymixer1.com
 anonymixerbitcoin.com
@@ -20468,6 +20471,7 @@ bounty-etc.com
 bounty-internal.xyz
 bounty-llnk.com
 bounty-nanoeth.com
+bounty-shib.com
 bounty-shibinu.com
 bounty60.com
 bounty60.com/connect/eglu0ntxix4yxhqjapzogtoi2i5l5vv9ki
@@ -21717,6 +21721,7 @@ burncrow.live
 burner-wallet.xyz
 burnforsol.com
 burniesender-rewards.xyz
+burniesenders.live
 burniesenders.sbs
 burnitlive.app
 burnledger.space
@@ -24299,6 +24304,7 @@ ceidax.com
 ceinax.com
 ceivax.com
 ceiwax.com
+ceiwex.com
 cek-profil-facebook-com1fgv234vdxytr6.blogspot.com
 cek1k.9jt.web.id
 cekhasofficialjob.online
@@ -33842,6 +33848,7 @@ cryptowalletsx.com
 cryptowalletsx.com/megaeth
 cryptowavex.com
 cryptowealthtradings.com
+cryptoweb3.app
 cryptoweb3.life
 cryptoweb3connects.com
 cryptoweb3encrypt.com
@@ -37823,6 +37830,7 @@ dexbeto.com
 dexbix.com
 dexblocknodes.pages.dev
 dexboost.net
+dexbridge.app
 dexbridge.io
 dexbridgers.com
 dexbrokerage.com
@@ -44465,6 +44473,7 @@ ethenagovernance.com
 ethenaproject.xyz
 ethenarewards.com
 ethenario.pro
+ethenas.com
 ethenas.icu
 ethenaud.pro
 ethenterjkrykmxr.pages.dev
@@ -46835,6 +46844,7 @@ fabrica.blue
 fabricffoundation.xyz
 fabricfoundation.live
 fabricofurnitures.com
+fabrics.lat
 fabstcup.com
 fabtcup.com
 fabulous-akita-283.convex.app
@@ -47561,6 +47571,7 @@ fartcoinairdrop.live
 fartcoinevent.com
 fartcoup.com
 fartcsup.com
+fartcup.com
 fartcuup.com
 fartcyup.com
 fartdaddy.ai-cryptolist.net
@@ -50188,7 +50199,14 @@ foreverplus.net
 forewex.com
 forex-mining.com
 forexaisignals2-0.systeme.io
+forexcapitals1.com
+forexcapitals10.com
+forexcapitals11.com
 forexcapitals12.com
+forexcapitals13.com
+forexcapitals16.com
+forexcapitals2.com
+forexcapitals21.com
 forexcapitals5.com
 forexexperttrades.com
 forexmining.uk
@@ -55031,6 +55049,7 @@ gro82x.com
 gro82x.net
 gro82x.org
 gro83k.icu
+gro83k.net
 gro87.net
 gro87x-cointelegraph.com
 gro87x-cryptoslate.com
@@ -63553,6 +63572,7 @@ jlp-rewards.org
 jlp.ag
 jlrandsons.co.uk
 jlto.cc
+jmbullion.online
 jmioksd.ddns.net
 jmkw.store
 jmlkjidsummer-conference-2026.mario-s-event-organization.fullsailevents.com
@@ -63843,6 +63863,7 @@ journalplus.info
 jovexira.com
 jovial-mar-525e4d.netlify.app
 jovielogin.vercel.app
+jowatu.com
 joxboom.com
 joxboom.top
 joxywin.pro
@@ -66885,6 +66906,7 @@ kra-b4--cc.ru
 kra-b4-cc.ru
 kra-b5-cc.ru
 kra-b5.cc
+kra-b5cc.ru
 kra-b8.cc
 kra-b9.cc
 kra-cc-46.ru
@@ -91369,6 +91391,7 @@ onesourcedists.com
 onestable-usdce.bridgekey.io
 onestopchemist.com
 onesystemguru.space
+onetake-cs2.com
 onetake-cs2.net
 onetake-cs2.org
 onetakecs2.com
@@ -97290,6 +97313,7 @@ portalbridge.app
 portalbridge.cc
 portalbridge.live
 portalbridge.net
+portalbridge.org
 portalbridge.sbs
 portalbridge.xyz
 portalcarrosbrasil.com
@@ -102822,6 +102846,7 @@ register-midnight.network
 register-mobpsycho.fun
 register-momentum.app
 register-monad.com
+register-monad.xyz
 register-monads.xyz
 register-moonshot.com
 register-moonshot.org
@@ -112287,6 +112312,7 @@ solflare.group
 solflare.lat
 solflare.lol
 solflare.sale
+solflare.site
 solflare.web-sys.at
 solflare.websys.at
 solflare.wixstudio.com
@@ -121701,6 +121727,7 @@ thoughtful-cues-099486.framer.app
 thprchain.org
 thq.stakingsreward.org
 thq.stakingsrewards.club
+thrchain.org
 threatslayerai-by-virtuals.entry-cryptolist.app
 threeprotocol.co
 threewin.top
@@ -124510,6 +124537,7 @@ tripscans.icu
 tripscans.online
 tripskan.xyz
 tripskans.cc
+tripskans.online
 triptrip24.biz
 trise-srv2.pages.dev
 trisigmarpc.live
@@ -130026,6 +130054,7 @@ user-liveapp.wixstudio.com
 user-logln.net-protected.net
 user-logn-ledgr.weebly.com
 user-meta.invoice-ads-manager.com
+user-monad.xyz
 user-paradex.xyz
 user-permit-connect.cc
 user-powerprotocol.xyz
@@ -131608,6 +131637,7 @@ venomperf.click
 venomsnipe.xyz
 venomwallet.com
 venoria.top
+venowin.com
 venplays.com
 vensure.website
 ventajo.sbs
@@ -136850,6 +136880,7 @@ whalegurucoin.lol
 whalegurudrop.top
 whalegurusol.fun
 whalegurusol.lol
+whalegurusol.xyz
 whaleholdings.uk
 whalememe-claim.live
 whalepool.org
@@ -141467,6 +141498,7 @@ xa20n.net
 xa20n.org
 xa20r-gateway.com
 xa20r.com
+xa20r.net
 xa21p-cointelegraph.com
 xa21p.com
 xa21p.icu
@@ -141628,6 +141660,7 @@ xa81p-fxempire.com
 xa81p.com
 xa81p.pro
 xa900k.com
+xa900k.org
 xa909k-cointelegraph.com
 xa909k.com
 xa909k.info
@@ -143430,6 +143463,7 @@ xyz-hypperliqued-access.pages.dev
 xyz-wallet-connect-app.com
 xyzverse-claim.io
 xyzverse-claim.web.app
+xyzverse-claims.io
 xyzverse-in.web.app
 xyzverse-io.app
 xyzverse.click

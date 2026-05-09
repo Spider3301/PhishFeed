@@ -7459,6 +7459,7 @@ amlbot.run
 amlbot.services
 amlbot.shop
 amlbot.software
+amlbot.store
 amlbot.su
 amlbot.uk
 amlbot.uno
@@ -12962,6 +12963,7 @@ aura.sushis.ninja
 aurabtc.com
 auracards.org
 auracas.com
+auradrpsol.com
 auraestes.shop
 aurafinance.live
 aurafinance.xyz
@@ -23048,6 +23050,7 @@ carnavalwlfi.com
 carnavalworldliberty.com
 carnetrevieew-auth.icu
 carnovalog.com
+carobra.xyz
 carolyntiffany1983.silverpamp.com
 carousell.hk-money.click
 carousell.paynow-hk.lol
@@ -40828,6 +40831,7 @@ dydx-trade-exchange-es.typedream.app
 dydx-trade-exchangeen.typedream.app
 dydx-trade-market.pages.dev
 dydx-trade-net.pages.dev
+dydx-trade.com
 dydx-trade.xyz
 dydx-trades.online
 dydx-trading-competition-frontend-for-cdcwallet-campaign-p.pages.dev
@@ -42463,6 +42467,7 @@ em-upheld-dev.pages.dev
 em2djt.com
 emaar123.pages.dev
 emaarpass.com
+emaarpass.xyz
 emaartoken.com
 emaartoken.xyz
 emaartokens.xyz
@@ -44515,6 +44520,7 @@ ethena.trade
 ethenadesktop.app
 ethenadesktop.com
 ethenadesktop.xyz
+ethenadex.biz
 ethenadrop.com
 ethenadrop.digital
 ethenafi.cyou
@@ -49373,6 +49379,7 @@ fivegamb.com
 fivelox.com
 fivepillarstoken.com
 fivexcals.com
+fivexs.com
 fivoraviks-kripto.net
 fiw9fksk-333.xyz
 fiwnfa.cc
@@ -49677,6 +49684,7 @@ flashusdt.site
 flashusdt.software
 flashusdt.uk
 flashusdt.yzy-money.org
+flashusdt1.shop
 flashusdtapp.com
 flashusdtbuy.com
 flashusdtchecker.in
@@ -63260,6 +63268,7 @@ jdihnasipadangnampol.pages.dev
 jdizon-tech.github.io
 jdmarketes.top
 jdsfksjdhsajfjsadjsafjsajdsaasd.site
+jdsnlfd.cfd
 jdudkcjfu737.top
 jdyy.xyz
 je-t.online
@@ -65292,6 +65301,7 @@ kcoin-app.com
 kcoin-us.pages.dev
 kconlogan.webflow.io
 kconnlign.webflow.io
+kcosta.top
 kcpinfo.com
 kcra33.cc
 kcrakaenloegin.gitbook.io
@@ -75330,6 +75340,7 @@ lidrtrust.com
 lidzer-com-learn.pages.dev
 liedoeofinance.gitbook.io
 liegepool.com
+lienfj.com
 lienhage.us
 lievec.com
 life-for-health.net
@@ -83667,6 +83678,7 @@ migrate-ixsfinance.xyz
 migrate-kgen.xyz
 migrate-kin.live
 migrate-leash.com
+migrate-lemon.online
 migrate-luksonetworkfkj.xyz
 migrate-mantrachain.app
 migrate-michi.pro
@@ -83698,6 +83710,7 @@ migrate-seedify.claims
 migrate-slerf.info
 migrate-solaxy.com
 migrate-solvfinance.com
+migrate-solvfinance.info
 migrate-stakelink.com
 migrate-token.xyz
 migrate-trustwallet.com
@@ -83940,6 +83953,8 @@ mindbridgeqatar.icu.s-italiano.store
 mindbridgetech.to
 mindesk3-atg3bgfefubtbqdr.z03.azurefd.net
 mindgain-trades.pages.dev
+mindnetwork-vote.xyz
+mindnetwork-xyz.xyz
 mindnetworkrewards.xyz
 mindoaipresale.xyz
 mindof-pepe.pages.dev
@@ -96404,6 +96419,7 @@ pn1kzvci.alliegro.shop
 pnbahiadecadiz.es
 pnbyqkqc.click
 pnc-secureauth-com.at
+pnckswqpwks.com
 pncrdnsnvehrz.careermpkp.com
 pncrdnsnvehrz.wordfund-wealth.com
 pncrpc.top
@@ -99683,6 +99699,9 @@ pump-hub.fun
 pump-hunt.com
 pump-ie.pages.dev
 pump-livestream.fun
+pump-livestreamers.fun
+pump-livestreaming.fun
+pump-livestreamings.fun
 pump-livestreams.fun
 pump-memes.com
 pump-off.fun
@@ -100218,6 +100237,7 @@ purfinrevouxpro.net
 purifier-arrogant.defex.cc
 puripatches.shop
 purmp.fun
+purnp-fun.com
 purnp.com
 puro-bitelix.net
 puro-paycore.com
@@ -101514,6 +101534,8 @@ rainbow-tge.com
 rainbow-tge.pages.dev
 rainbow-token.com
 rainbow-v2.com
+rainbow-vote.com
+rainbow-vote.xyz
 rainbow-wallet-review.com
 rainbow-wallet.at
 rainbow-wallet.org
@@ -103515,6 +103537,7 @@ reservation-id34611.help
 reservation-status-id532632337.com
 reservation.abkabane.digital
 reservationcarbone.com
+reserve-chain.link
 reserve-squill.xyz
 reserve-usor.com
 reservecertitude.com
@@ -103648,6 +103671,7 @@ restore-kraken.com
 restore-my-applepay.com
 restore-propy.pages.dev
 restore-wallet.com
+restoreallwallet.com
 restoredappnode.com
 restoredappsmodal.com
 restoredappstoolkit.xyz
@@ -107164,6 +107188,7 @@ schismaticshiba-claim.xyz
 schismaticshiba-claims.xyz
 schiwzer-sbb-cffr66.info
 schizo-terminal.entrance-cryptolist.com
+schizoyuppiecorp.com
 schmeckles.info
 schneider-lekaren.com
 schneidergroup.live
@@ -109074,6 +109099,7 @@ shiwa24.getbot.gg
 shizukusol.com
 shkolik.ru
 shkp.pw
+shlb-io.com
 shlb24.biz
 shlbamanyu.com
 shlbswap.github.io
@@ -110074,6 +110100,7 @@ skycannerbr.com
 skycrowns-casino.net
 skydogeassets.com
 skyeco-vote.com
+skyeco-vote.xyz
 skyeco-votephase.com
 skyecosystem-vote.com
 skyecrduno.com
@@ -110103,6 +110130,7 @@ skypointcargo.online
 skyprotocol-vote.com
 skyren.io
 skyrewards.money
+skyrocketfxt.live
 skyroute-express.com
 skyrushlogistics.com
 skyrushslots.us
@@ -112740,6 +112768,7 @@ solscan.space
 solscanc.github.io
 solscann.github.io
 solscann.webflow.io
+solscans-io.com
 solscantools.xyz
 solscanwalletfix.pages.dev
 solscanxplorer.github.io
@@ -126775,6 +126804,7 @@ tsijhd02729.cn
 tslatrade.smcxh.com
 tslglobaltrading.com
 tslqtmvest.com
+tslverionmarkets.com
 tso.cd
 tsor.info
 tsotchkemigrate.xyz
@@ -131086,6 +131116,7 @@ v6nvec5.sbs
 v7-collab.land
 v7-ledger-live.pages.dev
 v8plx.vip
+v9-collab.land
 v9.stromxprotocols.com
 v9drop.ddns.net
 va-inv.com
@@ -143795,6 +143826,7 @@ yafin.top
 yafossote-dagreicro-f2d178.pages.dev
 yaggiesoldrainer.pages.dev
 yahoo-service-108844-102825.weeblysite.com
+yahoo-user-request.com
 yahoojkj.github.io
 yahoomail2.godaddysites.com
 yahoooo.at
@@ -143907,6 +143939,7 @@ yeehagames.live
 yeehagames.xyz
 yeet-educkcoin.com
 yeetdao.com
+yeetoken.xyz
 yeezy-hyperliquid.com
 yeezycas.com
 yeezystream.tv

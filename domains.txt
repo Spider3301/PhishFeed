@@ -49684,10 +49684,12 @@ flare-networks.app
 flare-networks.top
 flare-networks.xyz
 flare-networkxrpclaim.com
+flare-phase2.info
 flare-portal-claim.com
 flare-rewardclaim.com
 flare.airdropsalert.life
 flare.claims
+flare.governance.live
 flare.linkportalnet.com
 flare.portalsnet.com
 flare.selfhosted.social
@@ -54695,6 +54697,7 @@ governance-dreamcash.xyz
 governance-ethena.finance
 governance-etherfi.com
 governance-etherfi.xyz
+governance-flare.info
 governance-flyingtulip.com
 governance-gho.network
 governance-grovefinance.xyz
@@ -117131,6 +117134,7 @@ stroygarant2012.ru
 strratz.com
 strrt-en-ledg-us.pages.dev
 strrt-ledgor-io.pages.dev
+strsemakan.rojapk.com
 strss.sbs
 strszn-allocation.xyz
 strszn-allocations.xyz
@@ -126400,6 +126404,7 @@ trustwallet-community.digital
 trustwallet-connect.com
 trustwallet-connection.com
 trustwallet-contract.com
+trustwallet-crypto.net
 trustwallet-cybersecurity.com
 trustwallet-digital.com
 trustwallet-djy.com
@@ -137817,6 +137822,7 @@ whitelist-bettermoney.com
 whitelist-billions.network
 whitelist-blackwhale.com
 whitelist-bonkboxes.web.app
+whitelist-btrump.pages.dev
 whitelist-canton.network
 whitelist-falcon.com
 whitelist-flyingtulip.com
@@ -140752,6 +140758,7 @@ www.lafalladelsistema.com
 www.lafalladelsistema.com/optin-organic
 www.lagofastbooster.ru
 www.laieth.xyz
+www.laquncideboyeltd.com
 www.larabi.gcpro-cloud.com
 www.launchtool.live
 www.lawsgrouponline.com
@@ -142018,6 +142025,7 @@ x-casino.win
 x-chain.pages.dev
 x-chainlink.org
 x-chat.us
+x-claim-status.pages.dev
 x-claimasset.com
 x-collab.land
 x-complaint.com

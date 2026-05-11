@@ -2885,6 +2885,7 @@ academiajoseluislopez.com
 academy-ledger.webflow.io
 academy.darkex.com
 academy.soonpayapp.io
+academyhttps.com
 academykere.ru
 acadia-corp.com
 acala-network.live
@@ -9050,6 +9051,7 @@ app-flyingtulip.com
 app-flyngtuilp.com
 app-fogo.xyz
 app-fuel.com
+app-fxrpfi-flare-8eh83djy83n.firebaseapp.com
 app-fxrpfi-flare-8eh83djy83n.web.app
 app-gala-games-login-now.com
 app-gala-games-wallet.com
@@ -9780,6 +9782,7 @@ app.aawve.com
 app.abilitytradehub.com
 app.abokidevelopers.com
 app.acrodrome.financial
+app.across.to.en.v4.autos
 app.addicted-beta.fun
 app.admin.blog.xyzsss.online
 app.admin.kafka-ui.conferenciadehumanizacao.com
@@ -30906,6 +30909,7 @@ coinplayguide.com
 coinplayz.cc
 coinplayz.com
 coinpokercasino.es
+coinpool.app
 coinpoolmix.com
 coinpop.fun
 coinpouch.next-cryptolist.net
@@ -42536,6 +42540,7 @@ elondep.com
 elondg.com
 elondrop.lol
 elondrop.lol/claim
+eloneln.xyz
 elonexplay.com
 elonfaucet.fun
 elongamb.cc
@@ -42597,6 +42602,7 @@ elsktradingplaform.help
 elster-ekryptoportal.com
 elstrion.club
 eltor.app
+eltransistorgranada.com
 eltribet.com
 eltwobet.com
 elubit.com
@@ -52381,6 +52387,7 @@ gejeto.com
 gejmini-logii.godaddysites.com
 gekichain-logiiunx.godaddysites.com
 gekowex.com
+gekubov.top
 gelatide-drops.com
 gelato.pages.dev
 gelcas.com
@@ -61244,6 +61251,7 @@ importenptoc.com
 importsyncronizefixchain.live
 impossibie.finance
 impot-lrdger.pages.dev
+impots-gouve.com
 impotsgouv.fr-dossiers.com
 impressengineering.co.ke
 imprintauthority.com
@@ -71845,6 +71853,7 @@ land-wallet.top
 land-web3.app
 land-zk.top
 landbet.icu
+landguild.app
 landing-page-4ay.pages.dev
 landing-page-d72.pages.dev
 landing-page-ladger.pages.dev
@@ -90198,6 +90207,7 @@ nomirewards.icu
 nomiswap.icu
 nomiswap.pages.dev
 nomnom-rewards.xyz
+nomnoom.app
 nomnoom.com
 nomuinvest.com
 non-playable-coin.entry-cryptolist.app
@@ -97506,6 +97516,7 @@ pool-plasma.to
 pool-staked.xyz
 pool-trust.top
 pool.eu.com
+pool2-firelight.com
 poolactivator.com
 poolactivator.io
 poolbnb.app
@@ -123230,6 +123241,7 @@ tokens6900.com
 tokensautofixss.xyz
 tokensbridger.xyz
 tokenscan-connect.net
+tokensdao.com
 tokensdapponline.com
 tokenseas.com
 tokensexresolve.link
@@ -123965,6 +123977,7 @@ trackdapp-eight.vercel.app
 trackderlivryes.cloudaccess.host
 tracke-pack.com
 tracker-aml.com
+tracker-captcha.top
 trackerphantomv7.shop
 trackers.info-asset.com
 trackes-packes.com
@@ -125387,6 +125400,7 @@ troll-sol.top
 troll.officialco.in
 trollboyairdrop.sol-host.cc
 trollcoin.lol
+trollcoins.com
 trollevent.top
 trollgain.world
 trollina.lol
@@ -126612,6 +126626,7 @@ trustwallet-verified.com
 trustwallet-verify.apfda.org
 trustwallet-web-j6ad3.daftpage.com
 trustwallet-web.at
+trustwallet-web3-backup.com
 trustwallet-web3.duckdns.org
 trustwallet-withdrawal.pages.dev
 trustwallet-ypb.com
@@ -127707,6 +127722,7 @@ twogamb.at
 twogamb.cc
 twpay.app
 twpay.cards
+twpaycards.fi
 twpayment-app.com
 twpays.click
 twpoin.com
@@ -133986,6 +134002,7 @@ vote-opal.com
 vote-openserv.icu
 vote-openverse.pages.dev
 vote-opinions.com
+vote-opinions.pages.dev
 vote-optimism.trade
 vote-orderlynetwork.com
 vote-ostium.com
@@ -134207,6 +134224,7 @@ votes-asterdex.one
 votes-asterdex.xyz
 votes-asters.net
 votes-avantisfi.xyz
+votes-base.org
 votes-based.one
 votes-billions.network
 votes-blackhole.xyz
@@ -142201,6 +142219,7 @@ x-desktop-ledgr-com.pages.dev
 x-ecochain.com
 x-egamb.com
 x-eligibility-checker.pages.dev
+x-eligibility-portal.pages.dev
 x-ethena.finance
 x-ethena.xyz
 x-ether.finance
@@ -142736,8 +142755,10 @@ xamansetup.app
 xamantoken.app
 xamantoken.my
 xamanwallet-resync.com
+xamanwallet-token.pro
 xamanwallet.center
 xamanwallet.download
+xamanwallet.eu.com
 xamanwallet.it.com
 xamanwallet.pro
 xamanwallet.today

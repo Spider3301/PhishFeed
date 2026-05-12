@@ -104504,6 +104504,7 @@ rewards-ethereal.trade
 rewards-ethgas.com
 rewards-firelight.com
 rewards-firelight.finance
+rewards-firelight.foundation
 rewards-flare.foundation
 rewards-flare.network
 rewards-flash.trade
@@ -124524,6 +124525,7 @@ treasury-eigencloud.com
 treasury-ethena.foundation
 treasury-ethena.live
 treasury-farcaster.com
+treasury-firelight.com
 treasury-gohometoken.com
 treasury-humidifi.com
 treasury-hyperfoundation.com
@@ -142309,6 +142311,7 @@ x-surge.icu
 x-swap.org
 x-titan.icu
 x-token-claim-portal.pages.dev
+x-token-eligibility-check.pages.dev
 x-token.click
 x-tokenx.com
 x-upshift.xyz
@@ -142801,6 +142804,7 @@ xamanwallet.center
 xamanwallet.download
 xamanwallet.eu.com
 xamanwallet.it.com
+xamanwallet.money
 xamanwallet.pro
 xamanwallet.today
 xamanwalletdapp.web.app

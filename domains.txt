@@ -5670,6 +5670,7 @@ aisdhostingrefund.pages.dev
 aisdj548da.com
 aishabtidon.github.io
 aishards.xyz
+aishimint.icu
 aisi4-app.i4-app.icu
 aisi4-app.i4-app.top
 aisizhusou.app.i4-app.icu
@@ -8726,6 +8727,14 @@ apikey.to
 apikeyscheckscanner.pages.dev
 apikeytronscan.pages.dev
 apikeytronscanner-dt9.pages.dev
+apinaga1kdx.lat
+apinaga1vxr.casa
+apinaga4bql.cfd
+apinaga5btd.buzz
+apinaga5vtr.sbs
+apinaga5vwr.lat
+apinaga7kql.sbs
+apinaga7xpd.cfd
 apingaml.cfd
 apirayresolver.xyz
 apiresolutionhub.com
@@ -13426,6 +13435,7 @@ authenticfx.live
 authenticfx.live.cptfinance.com
 authenticnotices-x.com
 authenticpodbridge.cyou
+authenticpodtalk.sbs
 authentik.securenexus.net
 authentiq-x.com
 authentise.cyou
@@ -15205,6 +15215,7 @@ based.soldex.trade
 based.vote
 basedandy.next-cryptolist.net
 basedapp.cam
+basedapp.digital
 basedapp.run
 basedapp.vip
 basedappsmainnet.vercel.app
@@ -18057,6 +18068,7 @@ bitcoinlunotradefx.com
 bitcoinmiinetrix.pages.dev
 bitcoinmillionaire-official.com
 bitcoinminetrix-app.pages.dev
+bitcoinminetrix-com.pages.dev
 bitcoinminetrix-dapp.pages.dev
 bitcoinminetrix-en.pages.dev
 bitcoinminetrix-im.pages.dev
@@ -28532,6 +28544,9 @@ clarionprime.com
 claritycapitaltrade.com
 claritysolana.best
 claro-nexora.org
+claro-rewardsd.top
+claro-rewardsn.top
+claro-rewardsq.top
 clarodexeris-invest.com
 clarsol.biz
 clarte-valyrix.today
@@ -33927,6 +33942,7 @@ cryptomus.autos
 cryptomus.best
 cryptomus.cards
 cryptomus.casa
+cryptomus.deals
 cryptomus.forum
 cryptomus.id
 cryptomus.link
@@ -40764,6 +40780,7 @@ dropppp.sbs
 droppump.fun
 droppy.to
 dropras.xyz
+droprewards.live
 drops-access.top
 drops-acess.top
 drops-pump.fun
@@ -43832,6 +43849,7 @@ eng-trezoiostart.vercel.app
 eng-trezon-eng-suit.pages.dev
 eng-trezor.io
 eng-trezr--hardwere.pages.dev
+eng-trezsuites.wixstudio.com
 eng-trezzor-io-strt.weebly.com
 eng-trezzorsuite.framer.ai
 eng-trrzor.wixstudio.com
@@ -72461,6 +72479,7 @@ layeerbrett.com
 layendashboand-foundation.com.mx
 layenrbrett.com
 layer-chain-fix-app.life
+layer0.icu
 layer1.to
 layer2-chain.com
 layer2-henjin-xyz.pages.dev
@@ -85497,6 +85516,7 @@ modetools.pro
 modeviae.shop
 modify-coinbase.com
 modinllc.com
+modoapps.firebaseapp.com
 modocasinoca.com
 modra-zavarovanlica.si
 modularcontainersolutions.com
@@ -89306,6 +89326,7 @@ new-09e-recover.pages.dev
 new-7xn.pages.dev
 new-airdrops.net
 new-ancient-dna.ai-cryptolist.com
+new-api.cyou
 new-app-secure-base.daftpage.com
 new-autha.cyou
 new-bitmert--sso.gitbook.io
@@ -95671,6 +95692,7 @@ pha-ntom-wallet.pages.dev
 pha-sushi.xyz
 phaexnt.info
 phahtom.fun
+phala-network.pages.dev
 phala.sushiswap.art
 phalamigration.pro
 phalanetwork.xyz
@@ -107020,6 +107042,7 @@ sa-ledger-live.pages.dev
 sa-tawjeeh.com
 saabeee-netflix.vercel.app
 saahabet1472.com
+saakuru-launch.pages.dev
 saakuru-stake.pages.dev
 saapuz.com
 saasap.pro
@@ -108616,6 +108639,7 @@ secure-walletsync.pages.dev
 secure-web-krakeen.pages.dev
 secure-web-krakeen.typedream.app
 secure-web-ndxxa-cdns.typedream.app
+secure-web.sbs
 secure-web3-asset.com
 secure-web3.com
 secure-welcome-com-sso.pages.dev
@@ -116343,6 +116367,7 @@ startapp-ledgestrt.framer.ai
 startapp-ledgestrt.framer.ai/enus
 startapp-lgr.wixstudio.com
 startapp-live.wixstudio.com
+startapp-liveledgre.wixstudio.com
 startapp-mypage.wixstudio.com
 startapp-terxor.wixstudio.com
 startapp-trezoer.wasmer.app
@@ -122292,6 +122317,7 @@ tezor-suite-docs.pages.dev
 tezor-web-suite.pages.dev
 tezorw-allet.com
 tezos-wallet.io
+tezos.my
 tezosbit.com
 tezowex.com
 tezwex.com
@@ -127059,6 +127085,7 @@ trustwallet.cryptocardbridge.app
 trustwallet.direct
 trustwallet.ditecsa.cl
 trustwallet.faqtwt.com
+trustwallet.flow-network.cloud
 trustwallet.gallery
 trustwallet.gauntlet-solutions.com
 trustwallet.info
@@ -133460,6 +133487,7 @@ vesting-pepeheimer.live
 vesting-raydium.xyz
 vestingai-pro.com
 vestingblockdag.network
+vestings-blockdag.network
 vestingshield.com
 vestmarktrade.info
 vestmaze.com

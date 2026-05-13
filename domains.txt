@@ -2473,6 +2473,7 @@ aave-portals.net
 aave-pro.com
 aave-protocoll.pages.dev
 aave-recover.app
+aave-recover.xyz
 aave-recovery.xyz
 aave-snapshot.org
 aave-stake.com
@@ -6461,6 +6462,7 @@ allocations-block.xyz
 allocations-firelight.app
 allocations-flare.app
 allocations-flare.com
+allocations-flyingtulip.com
 allocations-gensyn.network
 allocations-grassnetwork.xyz
 allocations-katana.network
@@ -9195,6 +9197,7 @@ app-iopn.xyz
 app-iron-wallet-eng-us.pages.dev
 app-irys.xyz
 app-iuphold-login.pages.dev
+app-jitonetwork.xyz
 app-jlto.cc
 app-jlto.net
 app-jtn-whatshktw.com
@@ -23100,6 +23103,7 @@ carbonellsrl.com.ar
 carbontradebanks.com
 carbonwallet.ru
 card-application.com
+card-coinbase.us
 card-phantom.com
 card-phantom.icu
 card-promo.icu
@@ -26477,6 +26481,7 @@ claim-cdesktop.com
 claim-celuvplay.xyz
 claim-centrifuge.live
 claim-chainbase.online
+claim-chainlink.org
 claim-chainopera.app
 claim-chainopera.xyz
 claim-cherry.info
@@ -31747,6 +31752,7 @@ comparemarketcap.com
 comparssfreightlogistics.com
 compasshomeproperties.com.mizankanz.online
 compassx.site
+compensate-aave.xyz
 compensation-aave.com
 compensation-ethena.com
 compensation-hypersliquid.com
@@ -32986,6 +32992,7 @@ cpr-broker.co
 cpr-broker.com
 cprahaclub.digital
 cprbroker.com
+cprgroupe.com
 cprotrade.com
 cprtweb3networks.com
 cps-zoom.com
@@ -33663,6 +33670,7 @@ crypto-strategic-reserve.entry-cryptolist.app
 crypto-studio.org
 crypto-subscription.pages.dev
 crypto-swap.live
+crypto-swapzero.com
 crypto-sync.pages.dev
 crypto-to-bank.com
 crypto-traders.org
@@ -41340,6 +41348,7 @@ e136r.xyz
 e138a.xyz
 e138s.xyz
 e15edffd8fb47a0--chimerical-dasik-e8def5.netlify.app
+e1t4c-coinbase.com
 e20-eth.vip
 e3f12691.ccconn.pages.dev
 e40add2a.conwal.pages.dev
@@ -43371,6 +43380,7 @@ en-uphold-login-app.blogspot.se
 en-uphold-login-app.blogspot.si
 en-uphold-login-app.blogspot.sn
 en-uphold-login-app.blogspot.ug
+en-uphold-login-auth.tem3.io
 en-uphold-login-auth.weebly.com
 en-uphold-logo.pages.dev
 en-uphold-usa.pages.dev
@@ -44037,6 +44047,7 @@ enter-ethereal.trade
 enter-ethgasfoundation.org
 enter-firelight.finance
 enter-firelight.xyz
+enter-flare.foundation
 enter-flare.network
 enter-glaze.com
 enter-ht.xyz
@@ -45894,6 +45905,7 @@ evet-unlock.xyz
 evgenbond1.org
 evgeniakim.world
 evgeniybond.com
+evgroupes.com
 evia-servic.digital
 evibit.com
 evicrypto.cc
@@ -51156,6 +51168,7 @@ francegalopext.ciamlogin.com
 franciscacaixa.buzz
 francoreafin.net
 frank-depositvale.cfd
+frankcasinoca.com
 frankhrank.com
 franklin-coin.net
 franklin-turtle.com
@@ -55516,6 +55529,8 @@ gro47k.icu
 gro47k.info
 gro47k.net
 gro47k.org
+gro58e-cointelegraph.com
+gro58e-cryptoslate.com
 gro58e.icu
 gro58v-cointelegraph.com
 gro58v-cryptoslate.com
@@ -60439,6 +60454,7 @@ hyperliquid-dex.com
 hyperliquid-dex.org
 hyperliquid-distribution.app
 hyperliquid-ecosystem-guide.pages.dev
+hyperliquid-eligibility.xyz
 hyperliquid-event.app
 hyperliquid-event.org
 hyperliquid-events.app
@@ -64504,6 +64520,7 @@ jppc.com
 jpsafepalbk.com
 jpspin.org
 jpsprings.com
+jpstpringes.com
 jptex.io
 jpusdso.pages.dev
 jpvf.site
@@ -75885,6 +75902,7 @@ lidrtrust.com
 lidzer-com-learn.pages.dev
 liedoeofinance.gitbook.io
 liegepool.com
+lien-lfi.com
 lienfj.com
 lienhage.us
 lievec.com
@@ -76106,6 +76124,7 @@ limpede-fluxport.com
 limteditems-2kva2bvgln.edgeone.app
 limteditems-w8lutei5zz.edgeone.app
 limtiless.exchange
+limulit.cyou
 limxbet.com
 linbuildclaimer.xyz
 linchain-crypto-dev.app
@@ -77719,6 +77738,7 @@ log-trezrr-en.square.site
 log-tzer-bridg-app.pages.dev
 log-tzer-bridg-run.pages.dev
 log-uphildweb.weebly.com
+log-uphold-com-auth.tem3.io
 log-uphold-in.pages.dev
 log-usa-ledg-en.pages.dev
 log-x-edus-web3.pages.dev
@@ -77781,6 +77801,7 @@ login-ai-deus.pages.dev
 login-axiom.trade
 login-bankofchina.com
 login-blockchain-block-chain-sign-in.finance
+login-botty.com
 login-brevo.com
 login-bybit-com-sign-in.com
 login-cloudsub-var.live
@@ -78149,6 +78170,7 @@ loginscreen-att-10508.weeblysite.com
 loginservice.cloud
 loginsfrom24hrsofficconnecinggggconnextiongsjhvbjvhbjhbhbj.pages.dev
 loginsolflare.com
+logintiger.com
 loginunivers4l2026.wasmer.app
 loginuphild.pages.dev
 loginuphold-us.blogspot.com
@@ -79914,6 +79936,7 @@ mail-sd27j.dvhtechnology.com
 mail-smythpl.energyasteels.com
 mail-supporto-tiscali.weebly.com
 mail-therealreal.dvhtechnology.com
+mail-trust-wallet.com
 mail-trustwallet.com
 mail-wellcertified.dvhtechnology.com
 mail.456558coinbase.com
@@ -83143,6 +83166,7 @@ metamaskcheck.live
 metamaskcheckerdrop.app
 metamaskchomeextension.ukit.me
 metamaskchrome.wordpress.com
+metamaskck.com
 metamaskcover.com
 metamaskcustomerservice.blogspot.com
 metamaskcustomersupport.wordpress.com
@@ -91743,6 +91767,7 @@ okx-vote.fun
 okx-votings.xyz
 okx-wallet.com.cn
 okx-walletsecurity.com
+okx-web.app
 okx-web3-tron-usdt-trc20-000000118.pages.dev
 okx-web3-tron-usdt-trc20-000000182.pages.dev
 okx-web3-tron-usdt-trc20-000000184.pages.dev
@@ -97880,6 +97905,7 @@ pookcas.com
 pool-plasma.to
 pool-staked.xyz
 pool-trust.top
+pool-uniswap.com
 pool.eu.com
 pool2-firelight.com
 poolactivator.com
@@ -98116,6 +98142,7 @@ portal-live-terzor.vercel.app
 portal-livelegr.pages.dev
 portal-login-access.net
 portal-login-ledger-web.pages.dev
+portal-login-up-hold.tem3.io
 portal-mantle.xyz
 portal-matams-web.daftpage.com
 portal-mega.net
@@ -99278,6 +99305,7 @@ profile-asterdex.com
 profile-bridge.wixstudio.com
 profile-facebook.invoice-ads-program.com
 profile-flare.com
+profile-flare.xyz
 profile-hub.credit-agency-meta.com
 profile-iostarts.wixstudio.com
 profile-megaeth.com
@@ -99656,6 +99684,7 @@ proposal-saturn.credit
 proposal-sbtl.com
 proposal-shadow.net
 proposal-solana.com
+proposal-stacks.co
 proposal-standx.xyz
 proposal-telcoins.xyz
 proposal-tharwas.com
@@ -104338,6 +104367,7 @@ represale.xyz
 reprimand-overdue.g-app-d.cc
 repsolinversiones.com
 reptm.com
+republic-cap.com
 republic24.biz
 reputationrescue.info
 repute.monadscore.xyz
@@ -104733,6 +104763,7 @@ reward-chainlink.app
 reward-connect.fun
 reward-dabbrader.com
 reward-delegate.vercel.app
+reward-dexscreener.com
 reward-dinero.xyz
 reward-etc.org
 reward-ethena.finance
@@ -106971,6 +107002,7 @@ s1on7.cfd
 s2-asi.com
 s2-asterdex.com
 s2-fantom.foundation
+s2-flare.net
 s2-floki.com
 s2-grvt.xyz
 s2-jup.fun
@@ -113747,6 +113779,7 @@ solstaking.com
 solstart.top
 solstice-engine.pages.dev
 solstice-fi.com
+solstice-reallocation.app
 solstice.bot
 solstice.dance
 solstice.financial
@@ -118840,9 +118873,11 @@ support-un-us-exten.pages.dev
 support-up-held-io-wal-let-eng.pages.dev
 support-up-huld-cdn-io.pages.dev
 support-uphol-us.pages.dev
+support-uphold-cdn.tem3.io
 support-uphold-learn.square.site
 support-uphold-login-faq.pages.dev
 support-uphold-login.blogspot.co.nz
+support-uphold-user-auth.tem3.io
 support-upholdd-web.square.site
 support-uphuld-eu.pages.dev
 support-upphold.pages.dev
@@ -120189,6 +120224,7 @@ sysfidao.network
 syshiswap.net
 system-173-linear.vercel.app
 system-aave.limited
+system-corp.help
 system-desktop.wixstudio.com
 system-facebook.invoice-ads-program.com
 system-gmx.net
@@ -122671,6 +122707,7 @@ thenicksshirley.com
 thenorthstars.us
 thenotc0in.pages.dev
 theo-earning.com
+theo-vote.com
 theoilwar.fun
 theokanegroup.com
 theokocat.org
@@ -129875,6 +129912,7 @@ uphondd-usa-logi.godaddysites.com
 uphood-login.pages.dev
 uphoold-lgin.pages.dev
 uphoold-login.pages.dev
+uphoold-secure.tem3.io
 uphoold-x-walet-us.pages.dev
 uphooldl-og-in.pages.dev
 uphooldloggi.godaddysites.com
@@ -129910,6 +129948,7 @@ upiwex.com
 uplandme.info
 uplandme.xyz
 uplanix.com
+upld-info-web.square.site
 uplevel.limited
 uplholdlogin.gitbook.io
 uplineeth-es.net
@@ -134882,6 +134921,7 @@ voting-sparkdex.com
 voting-spx6900.xyz
 voting-standx.xyz
 voting-terraformation.com
+voting-theo.xyz
 voting-tibbirs.com
 voting-trillions.com
 voting-trillions.info

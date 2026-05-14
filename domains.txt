@@ -11005,6 +11005,7 @@ appssensei.cyou
 appsstart-ledgr.wixstudio.com
 appsstarted.ghost.io
 appsstarted.ghost.io/suite-en-us
+appssuite-trexo.wixstudio.com
 appssuite.wixstudio.com
 appssuiteeseng.wixstudio.com
 appssuites-trexor.wixstudio.com
@@ -11084,6 +11085,7 @@ appsuite.free.site.pro
 appsuiteen.wixstudio.com
 appsuiteio.wixstudio.com
 appsuites-trexor.wixstudio.com
+appsuites-trexrr.wixstudio.com
 appsuites-trezro.wixstudio.com
 appsuites.framer.ai
 appsuitetreizo.wixstudio.com
@@ -13517,6 +13519,7 @@ authsign.limited
 authsolved.pages.dev
 authsprotocol.pages.dev
 authsso.productoselbosque.com
+authstart-ledgar.wixstudio.com
 authstart-terezor-web-dxg.pages.dev
 authstart-terezor.github.io
 authstep-x.com
@@ -37779,6 +37782,7 @@ desktop-ledggr.framer.media/us-eng
 desktop-ledgjrr.pages.dev
 desktop-ledglive-cdn.pages.dev
 desktop-ledgor-lives.pages.dev
+desktop-ledgor.wixstudio.com
 desktop-ledgr-co.pages.dev
 desktop-ledgr-en.wixstudio.com
 desktop-ledgr-ion.pages.dev
@@ -37851,6 +37855,7 @@ desktop-unknown.wixstudio.com
 desktop-us-en.wixstudio.com
 desktop-us-ledgre.wixstudio.com
 desktop-us-ledzr.wixstudio.com
+desktop-us-lgr.wixstudio.com
 desktop-used.wixstudio.com
 desktop-user.wixstudio.com
 desktop-uslive.wixstudio.com
@@ -40330,6 +40335,7 @@ downloadledgerlive.created.app
 downloadliveledger.wixstudio.com
 downloadsapp.ghost.io
 downloadsapp.ghost.io/app-en
+downloadtrezor.wixstudio.com
 downnew.coinbaseai.bar
 downstreamscientific.ae
 dowza.xyz
@@ -43068,6 +43074,7 @@ en-dbnk.com
 en-defillama-swaap.pages.dev
 en-dekstop.framer.ai
 en-desktop-ldgar.wixstudio.com
+en-desktop-ldger.wixstudio.com
 en-desktop-ldgre.wixstudio.com
 en-desktop-ledge.framer.ai
 en-desktop-ledge.framer.ai/desktop
@@ -55228,6 +55235,7 @@ grandfortune.bet
 grandfortunecrest.com
 grandfxtraders.com
 grandhash.cc
+grandleagueinfo.online
 grandline.run
 grandluck.us
 grandluxe.live
@@ -59273,6 +59281,7 @@ homepage-ledger-us.pages.dev
 homepage-ledgre.wixstudio.com
 homepage-ledgrecdn.wixstudio.com
 homepage-ledgrelive.wixstudio.com
+homepage-ledzercdn.wixstudio.com
 homepage-live.pages.dev
 homepage-live.wixstudio.com
 homepage-liveapps.wixstudio.com
@@ -59322,6 +59331,7 @@ homepage-trzzors.pages.dev
 homepage-tzrsuite.pages.dev
 homepage-upheld.pages.dev
 homepage-us-bridges.wixstudio.com
+homepage-us-desktop.wixstudio.com
 homepage-velodrome.wixstudio.com
 homepageapp.wixstudio.com
 homepagebhd0.iceiy.com
@@ -59364,7 +59374,9 @@ homestart-extensions.wixstudio.com
 homestart-startapps.wixstudio.com
 homestart-suiteapp.wixstudio.com
 homestartapps.wixstudio.com
+homestartd-ledzercdn.wixstudio.com
 homestarted-desktop.wixstudio.com
+homestarted-ledgrcum.wixstudio.com
 homestarten.wixstudio.com
 homestartio-trexio.wixstudio.com
 homestarts-ledzercdn.wixstudio.com
@@ -59376,6 +59388,7 @@ homesuiteapps.wixstudio.com
 homesuiten.wixstudio.com
 homesuites.wixstudio.com
 homesuitsapp.wixstudio.com
+hometrazr.wixstudio.com
 homeuobodjsads.pages.dev
 homeweb-suiteapp.zapier.app
 homeweb.framer.media
@@ -63082,6 +63095,7 @@ io.hbqxwl.cn
 io.proxy.openvpn-ssh.com
 io2k-bmmanager762863.vercel.app
 ioapp-trezo.framer.ai
+ioapps-trzor.wixstudio.com
 ioatomicwallextensio.wixstudio.com
 iobbank.com
 iobridge-startapp.wixstudio.com
@@ -73427,6 +73441,7 @@ ledegr-live.wixstudio.com
 ledegr-liveapp.pages.dev
 ledegr-liveapp.wixstudio.com
 ledegr-livedesktop-info.pages.dev
+ledegr-started.wixstudio.com
 ledegrlive-download.pages.dev
 ledegrus-desktop.wixstudio.com
 leder--live-usa.pages.dev
@@ -76146,6 +76161,7 @@ liiv-ledger.pages.dev
 liive-apps.wixstudio.com
 liivoe.com
 lijunxt-wallet8.com
+like-bridge.wixstudio.com
 like-kreken.pages.dev
 like.userdesk-en.com
 likebet.top
@@ -77313,6 +77329,7 @@ liveevolution.pro
 liveexoodus.pages.dev
 livefans.sbs
 livefeed.fun
+liveg-live-eng.wixstudio.com
 liveglobalsinvestment.com
 livehelp.ghost.io
 livehelp.solutions
@@ -81026,6 +81043,7 @@ marvelous-sfogliatella-f320f8.netlify.app
 marvelous-software-255300.framer.app
 marvelous-state-083672.framer.app
 marvelshoes.com
+marverickfxt.pro
 marvin-the-martian.entry-cryptolist.app
 marvotex.cfd
 maryacademy.cyou
@@ -87336,6 +87354,7 @@ mulavarunreddy.github.io
 mulicangzuzizhixian.pilot45.com
 mulit-launchpads.pages.dev
 mulitchain.xyz
+mullerpay.com.ng
 mulletpunks.xyz
 mullvadd.com
 mult-ichain.github.io
@@ -112588,6 +112607,7 @@ soawin.com
 sobaka-sobaka.xyz
 sobiznet.com
 sobull.top
+socaillogstore.com
 soccer-jersey-yupoo.com
 socdigest.org
 social--social-8b962.us-central1.hosted.app
@@ -116566,6 +116586,7 @@ startaap-comledgr.wixstudio.com
 startabove.ghost.io
 startabove.ghost.io/suite-en
 startapp-homepages.wixstudio.com
+startapp-ldger.wixstudio.com
 startapp-ledge.framer.ai
 startapp-ledge.framer.ai/en-us
 startapp-ledgestrt.framer.ai
@@ -116870,6 +116891,7 @@ starts-desktop.wixstudio.com
 starts-desktoplive.wixstudio.com
 starts-en-ledgecom-auths.pages.dev
 starts-home.wixstudio.com
+starts-io-trexorcdn.wixstudio.com
 starts-ldger-en.wixstudio.com
 starts-ldger.wixstudio.com
 starts-ledagercom.wixstudio.com
@@ -118382,6 +118404,7 @@ suiteapp--trexo.wixstudio.com
 suiteapp-eng.wixstudio.com
 suiteapp-intro.wixstudio.com
 suiteapp-io.wixstudio.com
+suiteapp-pub-learn.wixstudio.com
 suiteapp-started.wixstudio.com
 suiteapp-trazio.wixstudio.com
 suiteapp-tre.wixstudio.com
@@ -118408,6 +118431,7 @@ suiteapps-starts.wixstudio.com
 suiteapps-trejo.wixstudio.com
 suiteapps-trez.wixstudio.com
 suiteapps-trezer.wixstudio.com
+suiteapps-trezrr.wixstudio.com
 suiteapps-trsexzo.wixstudio.com
 suiteapps-trzre.wixstudio.com
 suiteappss-trezer.wixstudio.com
@@ -118418,6 +118442,7 @@ suited-trazo.wixstudio.com
 suited.framer.ai
 suitee-trezo.wixstudio.com
 suitee-trezorrsuite.com
+suiteen-tzorx.wixstudio.com
 suiteen-tzorxe.wixstudio.com
 suiteen.wixstudio.com
 suitehomepage-trezr.wixstudio.com
@@ -125057,6 +125082,7 @@ trazore-suites.framer.ai
 trazorewallet.webflow.io
 trazorstart.wixstudio.com
 trazorsuite.pages.dev
+trazorsuite.wixstudio.com
 trazosuite-trexo.wixstudio.com
 trazourwollets.webflow.io
 trazr-logn-hub.pages.dev
@@ -125800,6 +125826,7 @@ trezr-ridge.pages.dev
 trezr-star.pages.dev
 trezr-suit-en.framer.ai
 trezr-suit-eo.framer.ai
+trezr-suitapps.wixstudio.com
 trezr-suite-alc.pages.dev
 trezr-suite-ensio.pages.dev
 trezr-suitee-app.webflow.io

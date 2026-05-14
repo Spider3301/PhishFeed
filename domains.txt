@@ -8295,6 +8295,7 @@ anniversary-ethereum.com
 anniversaryclaim.dpdns.org
 annouce-ads-case.vercel.app
 announce-trump.com
+announce-xaman.app
 announcement-aave.app
 announcements-bybit-listings.com
 annprojectplan.weebly.com
@@ -10982,6 +10983,7 @@ apps.userverifylogin.com
 apps.wisertecnologia.com.br
 appsdebugresolve.pages.dev
 appsdesktop-lives.wixstudio.com
+appsdesktop.wixstudio.com
 appsdownload-suites.framer.media
 appsegurozoom.com
 appsextension.live
@@ -17940,6 +17942,7 @@ bitcmart.com
 bitco-claim.com
 bitcobase.com
 bitcodenexora.com
+bitcodexer.com
 bitcogain.com
 bitcoguru.com
 bitcohub.com
@@ -21036,6 +21039,7 @@ bridge-user.wixstudio.com
 bridge-uses.wixstudio.com
 bridge-ustrezer.pages.dev
 bridge-velar.pages.dev
+bridge-visible.wixstudio.com
 bridge-whatsapp.hl.cn
 bridge.airdropalerts.pro
 bridge.arbtirum.guru
@@ -35203,6 +35207,7 @@ daily-posterity-319735.framer.app
 daily-usdt.com
 dailybest.pro
 dailycountinvestment.org
+dailyfarm.live
 dailyfreshxpress.com
 dailyhatchup.com
 dailyproinvest.com
@@ -37492,6 +37497,7 @@ demosite026.xyz
 demotestgori.com
 demowex.com
 demurio.com
+denadex.com
 dendvay.com
 denemehediye.com
 denevex.com
@@ -46016,6 +46022,7 @@ evmlab.cc
 evmlab.info
 evmlayer.com
 evmminer.net
+evmnet.info
 evmnode.pages.dev
 evmonchain.com
 evmpoll.cc
@@ -63154,6 +63161,7 @@ iostartledger.wixstudio.com
 iostarts-apps.wixstudio.com
 iostarts-eng.ghost.io
 iostarts-eng.ghost.io/bridge
+iostarts-trexorcdn.wixstudio.com
 iosuite-eng.wixstudio.com
 iosuite-trezo.wixstudio.com
 iosweb.pages.dev
@@ -76964,6 +76972,7 @@ live-endesktop.wixstudio.com
 live-eng-ledgr.pages.dev
 live-eng-legr.pages.dev
 live-eng-us.wixstudio.com
+live-eng-uss.wixstudio.com
 live-enledgr.wixstudio.com
 live-enlegder.pages.dev
 live-enstartted.wixstudio.com
@@ -123750,6 +123759,7 @@ token-sweeper-eip-7702-qn.vercel.app
 token-tenstorrent.com
 token-unich.app
 token-website-im.com
+token-xamanwallet.pro
 token.antix.in
 token.apple.insms.chat
 token.pamp.plus
@@ -133324,6 +133334,7 @@ verified-facebook.invoice-ads-program.com
 verified-ledgerlink-check.com
 verified-migrating.xyz
 verified.invoice-partners-agency.com
+verifiedbulecheckmark2026.vercel.app
 verifiedhackers.com
 verifiedjets.com
 verifiedkeyring-beta.icu

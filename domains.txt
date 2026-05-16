@@ -3531,6 +3531,7 @@ ad-eth-usdc1.top
 ad-eth-vip10.top
 ad-observe-hub.pages.dev
 ad-phantom.com
+ad-tw-card.com
 ad-violation-monitor-hub-8hc.pages.dev
 ad.bitskya.com
 ad.coinbasecn.xyz
@@ -15652,6 +15653,7 @@ bc.poker
 bc.site
 bc1recovery.com
 bc3650099.com
+bc6.ehubarena.info
 bcabusinessschool.com
 bcap.cc
 bcasino1.com
@@ -19098,6 +19100,7 @@ black-ripple.com
 black-rock-investment.com
 black-whale.fun
 black-xrp.com
+black.trust-promo.online
 blackads.biz
 blackbeanjon.com
 blackbones.net
@@ -46294,7 +46297,9 @@ evmlab.cc
 evmlab.info
 evmlayer.com
 evmminer.net
+evmnet.cc
 evmnet.info
+evmnet.live
 evmnode.pages.dev
 evmonchain.com
 evmpoll.cc
@@ -88095,6 +88100,7 @@ mun16.org
 muncaso.com
 muncat.info
 mundobitcoin.net
+mundoofertas.store
 munepex.com
 muniraattar3.github.io
 munjex.com
@@ -92040,6 +92046,7 @@ oct.maxtopprohub.xyz
 octadigitalasset.com
 octaexpress.xyz
 octafxtradingbroker.com
+octaglobal.top
 octalbitmine.com
 octalbitmine.shop
 octalsecurefunds.live
@@ -98629,6 +98636,7 @@ polyoptions.xyz
 polypanel.live
 polypoker.club
 polyprediction.xyz
+polyprime.live
 polyrank.xyz
 polyreg.icu
 polyrel.com
@@ -106752,6 +106760,7 @@ rodoviasmb.top
 rodoviaspedagiobrasil.com
 rodoviassulnortebr.com
 rodovod.family
+rodtoken.com
 roewux.com
 rofumex.com
 rofwin.com
@@ -111188,6 +111197,7 @@ sign.webaccess-alert.com
 signa-tek.com
 signal-beboundless.com
 signal-layered-circuit.com
+signal-trade.xyz
 signal.beboundles.xyz
 signal.beboundless.us
 signalai-binance.com
@@ -127734,6 +127744,7 @@ trust-payments-cards.com
 trust-pro.vip
 trust-products.live
 trust-products.org
+trust-promo.online
 trust-receive-money.icu
 trust-receive.com
 trust-return.com
@@ -129224,6 +129235,7 @@ tw-order.live
 tw-payment.com
 tw-payment.org
 tw-product.cc
+tw-promo.com
 tw-promote.com
 tw-provider.com
 tw-provider.one
@@ -129776,6 +129788,7 @@ uksportylive.blogspot.com
 ukweb30.us
 ula.spa
 ulala.booksvala.in
+ulalatraff.xyz
 ulckevet.xyz
 uldsin.eu
 ulexadarin.com
@@ -140138,6 +140151,7 @@ winnia.net
 winnia.us
 winnieswap.xyz
 winningassistantszoom.org
+winningfnd.space
 winningtradingplatforms.xyz
 winningtradingtestimony.xyz
 winnix.biz
@@ -143640,6 +143654,7 @@ www.westrustbankintl.us.novatransporte.com
 www.wethenorth.markets
 www.whaleairdrops.virtulmart.shop
 www.whirlpolrefrigerateur.site
+www.white.trust-promo.online
 www.whitelist-plasma.com
 www.whitelisted-plasma.com
 www.whlteblt-dashboard.at

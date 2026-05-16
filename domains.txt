@@ -19772,6 +19772,7 @@ bloximity.com
 bloxlab.st
 bloxlink.bio
 bloxlink.pw
+bloxlink.tech
 bloxlink.us
 bloxlink.web.id
 bloxlinks.com
@@ -107184,6 +107185,7 @@ rover-link.plus
 rover-web.pages.dev
 rover.ltd
 rover.mq
+rover.pk
 rover.st
 roverapp.link
 roverauthorize.link

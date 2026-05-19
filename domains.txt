@@ -6675,6 +6675,7 @@ alpha-code.fun
 alpha-drop.fun
 alpha-financeltd.com
 alpha-land.fun
+alpha-primefx.com
 alpha-route.fun
 alpha-sale.pages.dev
 alpha-solana.com
@@ -41268,6 +41269,7 @@ dreamland-bond-timer.pages.dev
 dreamlm.cyou
 dreampubg.com
 dreams13570864.com
+dreamscapellc.top
 dreamsfunmigration.xyz
 dreamsmart.pl
 dreamsole.net
@@ -48167,6 +48169,8 @@ facedook.services
 faceetlt.com
 faceiet.com
 faceiil.com
+faceit-club-verify.com
+faceit-clubs-verify.com
 faceit-clubsverify.com
 faceit-confirms.com
 faceit-connection.g2sh-league.pro
@@ -48177,6 +48181,7 @@ faceit-status-verify.com
 faceit-verify-clubs.com
 faceit-verify.rushplus.top
 faceit-verify.rushx.top
+faceit-verifyauth.com
 faceit-verifyclubs.com
 faceit-verifyclubs.xyz
 faceit.5v5room.com
@@ -48187,6 +48192,7 @@ faceit.auth-vertexclub.com
 faceit.auth-vexarena.com
 faceit.auth-victory-hub.com
 faceit.auth-victoryhub.com
+faceit.auth2fa-connect.com
 faceit.authdiscordconnect.com
 faceit.clsseason.com
 faceit.connect-discord.com
@@ -48258,6 +48264,7 @@ faceit.zeropoint-cs.com
 faceit.zeropointcs.com
 faceitauditv2.com
 faceitauditv2.com/skin'club.voting
+faceitdota2.com
 faceithome.auth-vex-arena.com
 faceitie.com
 faceitmverify.com
@@ -51223,6 +51230,7 @@ fntm.org
 fntracker.net
 fnv3.pages.dev
 fnvalue.com
+fnview.cc
 fnxx.info
 fnzone.top
 fo-meme.pages.dev
@@ -51535,7 +51543,9 @@ forteprotocol.top
 forterichvere-fr.com
 fortex.network
 fortexo.top
+fortexployer.com
 fortflarefn.github.io
+fortgame.cc
 fortgame.info
 fortgiv.com
 fortgraal.pro
@@ -51633,6 +51643,7 @@ fortnitewin.com
 fortnitex.org
 fortno.com
 fortnoth.info
+fortnows.top
 fortnt.com
 fortonex.com
 fortonloots.top
@@ -51656,6 +51667,7 @@ fortrev.vu
 fortrone.com
 fortrush.info
 fortrx.cc
+fortsa.skin
 fortscore.org
 fortskoop.com
 fortso.com
@@ -51663,6 +51675,7 @@ fortsta.com
 fortstash.com
 fortstash.lol
 fortstat.info
+fortstats.help
 fortstats.info
 fortstats.lol
 fortstats.skin
@@ -51738,6 +51751,7 @@ fortunx-h.com
 fortunx-i.com
 fortunx-k.com
 fortup.live
+fortup.shop
 fortuquest.com
 fortuviva.com
 fortv-b.top
@@ -51762,6 +51776,7 @@ fortworm.com
 fortws.lol
 fortxa.info
 fortxmoney.com
+fortylocker.life
 fortyz.info
 fortzz.com
 foru-airdrop-test.pages.dev
@@ -63393,6 +63408,7 @@ interactivetrader-ai.com
 interactlvetradlngbroker.com
 interassetb.com
 interbank.mobi
+interbfacilities.online
 intercambio.exchange
 intercitymf.com
 intercoin.app
@@ -76157,6 +76173,7 @@ ledgrenconnect.wixstudio.com
 ledgrer-live--o.pages.dev
 ledgrerrstart.wixstudio.com
 ledgres-live-s8u.pages.dev
+ledgrestart-io.wixstudio.com
 ledgrestart.com
 ledgrestart.com/en-us
 ledgrestart.wixstudio.com
@@ -93178,6 +93195,7 @@ oginnigideon18-tech.github.io
 oglayer-dapp.pages.dev
 oglifeai.projecteligiblity.space
 oglocker.cc
+oglocker.life
 oglong.next-cryptolist.net
 ogmonad.xyz
 ogomo.ru
@@ -100658,6 +100676,7 @@ primequotex.com
 primerelays.com
 primeserp.cfd
 primesite-desktop.wixstudio.com
+primeskywing.com
 primestake.io
 primestonebridgentwk.com
 primesviewinvestments.com
@@ -108555,6 +108574,7 @@ rustpayload.com
 rustplus.configpluse.com
 rustplus.showplusath.com
 rustplus.showplusauth.com
+rustplusverify.com
 rustpurse.com
 rustqueue.com
 rustqueue.net
@@ -111572,6 +111592,7 @@ shadowsniper.world
 shadowswap.fun
 shaggy-variation-568526.framer.app
 shahariar-dip.github.io
+shaheenadv2.com
 shahidsattar.ca
 shahzebjan45.github.io
 shaikafrid1.github.io
@@ -111875,6 +111896,7 @@ shinywilds-france1.com
 shipments-opensea.idcapital.top
 shippingagreementdocuslgn.appwrite.network
 shippingcontinental.com
+shipszeno.com
 shipun.top
 shiro-pet.entry-cryptolist.app
 shisan-quant.com
@@ -124373,6 +124395,7 @@ testingtest0021domain.com
 testinter.pages.dev
 testkja.pages.dev
 testlanigs.blogspot.com
+testmeqwidmimqw.shop
 testmonad-faucet.pages.dev
 testmonad.icu
 testmonod.sbs
@@ -140993,6 +141016,7 @@ whitecattoken.com
 whitecollarlawgrp.com
 whitehousecoin.lat
 whitehousecoin.lol
+whiteless.icu
 whitelist-alt.fun
 whitelist-astranova.world
 whitelist-bettermoney.com
@@ -142089,6 +142113,7 @@ wonned.bet
 wonplex.com
 wonraise.com
 wonstreak.com
+wonta.lat
 wontether.to
 wontowns.com
 wonwinguncel2026.icu

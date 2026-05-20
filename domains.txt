@@ -3758,6 +3758,7 @@ admin.krakenaaspdd.com
 admin.krakenapi.com
 admin.legendsnt.xyz
 admin.legendsnt.xyz/admin
+admin.morphocoin.org
 admin.mypayship.com
 admin.partner-agency-network.com
 admin.phantom-bot.com
@@ -6555,6 +6556,7 @@ allocations-gensyn.network
 allocations-grassnetwork.xyz
 allocations-katana.network
 allocations-keeta.network
+allocations-mecom.pages.dev
 allocations-megaeth.xyz
 allocations-monad.xyz
 allocations-noble.xyz
@@ -12091,6 +12093,7 @@ asscoin.ai-cryptolist.com
 assemblev2.online
 assentviolation-x.com
 assest-brdge-en-learn.pages.dev
+asset-ai-recovery.org
 asset-auth.io
 asset-auth.xyz
 asset-bridge.wixstudio.com
@@ -12219,6 +12222,7 @@ aster-6s0.pages.dev
 aster-airdrop.info
 aster-airdrop.org
 aster-allocation.com
+aster-allocation.xyz
 aster-b1x.pages.dev
 aster-bd.com
 aster-chain.net
@@ -16600,6 +16604,7 @@ best-au-onlinecasino.com
 best-coin-mixers.com
 best-crypto-invest.today
 best-darknet-markets.net
+best-darknet-markets.xyz
 best-domain-authority-io.xyz
 best-ldger-live-io.pages.dev
 best-ldger-lives.pages.dev
@@ -22843,6 +22848,7 @@ bytqore.com
 bytradeoptions.com
 bytrx.org
 byvote.xyz
+byvotes-bybit.live
 byvotes.exchange
 byvotes.live
 byvotes.online
@@ -23576,6 +23582,7 @@ cards-tw.space
 cards-verif.weebly.com
 cards.cordialities.workers.dev
 cards2read.com
+cardsmart.one
 cardsolana.xyz
 cardstrust.com
 cardstrust.org
@@ -25846,6 +25853,7 @@ changelly.pics
 changelly.quest
 changellydex.com
 changellyhelp.live
+changellys.co.com
 changelmy.com
 changeloogs.com
 changely.at
@@ -26236,6 +26244,7 @@ checkerapps.netlify.app
 checkerbxtnetwork.fun
 checkerchain-2.entry-cryptolist.app
 checkercyberkongz.com
+checkerfinance.com
 checkerjitoast.xyz
 checkers-billions.network
 checkers-plasma.com
@@ -29662,6 +29671,8 @@ coaakoob.top
 coaakrbn.top
 coach-jv-net-worth.pages.dev
 coachela-official.com
+coachjv.net
+coachjvinvest.com
 coachkaro.com
 coainbasepro.pages.dev
 coan-baase-walat-xtenson-us.pages.dev
@@ -30637,6 +30648,7 @@ coinbase.i-j.llc
 coinbase.interface-secure2u.com
 coinbase.ir
 coinbase.jiashuohongxin.com
+coinbase.jmx.de
 coinbase.kongjs.jp
 coinbase.meku.app
 coinbase.minehardware.com
@@ -36506,6 +36518,7 @@ darixz.com
 dark-forest.pages.dev
 dark-kraken.shop
 dark-matter-darknet.com
+dark-matter-link.xyz
 dark-matter-market-link.cc
 dark-matter-market-url.com
 dark-matter-market-url.xyz
@@ -36544,6 +36557,7 @@ darkmatter-darknetmarket.top
 darkmatter-dnm.com
 darkmatter-link.org
 darkmatter-marketdarknet.com
+darkmatter-marketlink.shop
 darkmatter-mirror-link.cc
 darkmatter-mirror-onion.cc
 darkmatter-onion-url.cc
@@ -36576,6 +36590,7 @@ darknet-news.com
 darknet-official.app
 darknet-ssilka.icu
 darknet-torzon.org
+darknetaggregator.cc
 darknetfaq.com
 darknetking.com
 darknetlive.cc
@@ -47434,6 +47449,7 @@ exodus.ac
 exodus.activity-verify.com
 exodus.check-active.com
 exodus.cm
+exodus.co.mz
 exodus.com.ag
 exodus.com.amazon-holding.com
 exodus.com.merge.gcasociados.com.mx
@@ -62628,6 +62644,7 @@ immokaution.online
 immortal.ad
 immortal.rs
 immortalpos.co.za
+immuai.live
 immueble.us
 immunefi.grookcon.click
 immunity.ai-cryptolist.net
@@ -66300,6 +66317,7 @@ jupiter-nftutn.pages.dev
 jupiter-on.pages.dev
 jupiter-org.pages.dev
 jupiter-painting-services-inc.webgroove.io
+jupiter-payment-exchange.vercel.app
 jupiter-portfolio.pages.dev
 jupiter-portfolio.top
 jupiter-portfolio.xyz
@@ -73429,6 +73447,7 @@ laksanavaltrixai.com
 lakvision.com
 lalitresort.com
 lalkabit.com
+laluggage.com
 lamaspin.com
 lamb276-claim.org
 lambes.com
@@ -80373,6 +80392,7 @@ lumwax.com
 luna-app.icu
 luna-app.run
 luna-coin.com
+luna-community.com
 luna-deploy.cc
 luna-deploy.net
 luna-finance.net
@@ -80431,6 +80451,7 @@ lunadefi.net
 lunadeploy.com
 lunadeploy.net
 lunadeployit.com
+lunafinance.ltd
 lunafinance.net
 lunakai.net
 lunaland.app
@@ -89131,6 +89152,7 @@ muskbetting.com
 muskbetx.cc
 muskbetx.com
 muskbon.top
+muskbtc-allocation.xyz
 muskcasino.cc
 muskcasino.com
 muskcasino.us
@@ -93511,6 +93533,7 @@ okqopq.cc
 okqops.shop
 okrex.com
 okrwxlink.com
+oks.morphocoin.org
 oksol.co
 oktan.com
 oku-best-rates-onchain.vercel.app
@@ -99733,6 +99756,7 @@ polymarketwhales.xyz
 polymarketx.com
 polymarkety-blue-copy.pages.dev
 polymarkt.cc
+polymartconnect.pages.dev
 polymcrket.com
 polymelody.com
 polymerkat.com
@@ -105465,6 +105489,7 @@ recovery-ledgerlivecheck.com
 recovery-legderlive.run.place
 recovery-legderlive.run.place/sync.php
 recovery-on-lost-or-unauthorized.com
+recovery-pump.fun
 recovery-services-ru.invierteseguro.lat
 recovery-trezor.net
 recovery-trust-wallet.com
@@ -106972,6 +106997,7 @@ rewards-curve.app
 rewards-dege.net
 rewards-degecoin.co
 rewards-degenin.xyz
+rewards-dexscreener.com
 rewards-dji6930.com
 rewards-dokween.com
 rewards-ens.org
@@ -109365,6 +109391,7 @@ safepal-ai.com
 safepal-ai.shop
 safepal-ai.xyz
 safepal-app.at
+safepal-app.co.com
 safepal-app.org
 safepal-checker.ru
 safepal-checker.store
@@ -116765,6 +116792,7 @@ spbetbrazil.com
 spc-free-zone.com
 spc-freezone.com
 spc-renewals.com
+spcx-communities.xyz
 spdwin.cc
 spdwin.com
 speak.careers
@@ -118354,6 +118382,7 @@ stargate.finance-waliets-v3-connect-api.com
 stargate.finance-wallets-v2-connect-api.app
 stargate.finance-world-walletv2.com
 stargate.fluxaccess.xyz
+stargatefix.xyz
 stargatevet.top
 stargayte.org
 stargaze-zone.xyz
@@ -123807,6 +123836,7 @@ tanishk404.github.io
 tanishr28.github.io
 tanjatrades.app
 tanjungboulevard.com
+tankdepot-europoortbv.nl
 tanniapetro.com
 tanssinetwork.xyz
 tanssirewards.network
@@ -124075,6 +124105,7 @@ teamnime.com
 teams-app.run
 teams-com.live
 teams-connect-voice.online
+teams-desk.live
 teams-download.com
 teams-gglegendscup.com
 teams-live.info
@@ -126734,6 +126765,7 @@ toqskin.com
 tor-darkmarkets-online.com
 tor-marktplace.net
 tor-mart.pro
+tor-match.info
 tor-mtplace.net
 tor-mtplace.org
 tor-mtplace.xyz
@@ -130847,6 +130879,7 @@ tw-order.live
 tw-payment.com
 tw-payment.org
 tw-product.cc
+tw-product.org
 tw-promo.com
 tw-promote.com
 tw-protocol.org
@@ -135232,6 +135265,7 @@ vantage-tw.top
 vantageagents.app
 vantagebet.live
 vantagecapital.live
+vantagefinacials.com
 vantagelux-trade.cc
 vantagensappx.com
 vantagepointbooks.com
@@ -140093,6 +140127,7 @@ web3cryptovault.com
 web3cryptovaultappsecurewallet.com
 web3cta.com
 web3ctawallet.com
+web3cybersecurity.org
 web3dance.com
 web3dapp-radarr.pages.dev
 web3dapp-remote-solution-protocol.pages.dev
@@ -142515,6 +142550,7 @@ wolviey.com
 woman-backpack.webflow.io
 womanadla.org.za.xconnexion.co.za
 womeluxuryhotels.com
+wompstores.lat
 womtex.com
 womtexx.com
 won333.net
@@ -142668,6 +142704,7 @@ worldcup-careers.com
 worldcupcases.com
 worldcupcoin.sbs
 worldcupfifa-careers.com
+worldcupvote.live
 worlddivest-trade.com
 worldearch.io
 worldelibertyfinancial.com
@@ -145273,6 +145310,7 @@ www.ttenergywallet.com
 www.tujuegoflip.online
 www.tuvimsa.com.mx
 www.tw-cards.com
+www.twcard.link
 www.uafhk.cfd
 www.ubereat.meme
 www.ufabet123.me
@@ -146634,6 +146672,7 @@ xgrowl.app
 xgt.pages.dev
 xgurunetwork.co
 xhamsternft.com
+xhares.live
 xhex.com
 xhhanjie.top
 xhodes.com

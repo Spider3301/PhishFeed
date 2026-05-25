@@ -4056,6 +4056,7 @@ aerodrome-slipstream-us-en.pages.dev
 aerodrome-slipstream.pages.dev
 aerodrome-snapshot.xyz
 aerodrome-swap.app
+aerodrome-vote.com
 aerodrome.best
 aerodrome.box
 aerodrome.cafe
@@ -7942,6 +7943,7 @@ amlmonetory.com
 amlmonetory.org
 amlnetwork.info
 amlnex.com
+amlnode.icu
 amlnode.live
 amlnotify.one
 amlofficer.org
@@ -21497,6 +21499,7 @@ bridge-ordeez.com
 bridge-ordeez.io
 bridge-pages.wixstudio.com
 bridge-platform.wixstudio.com
+bridge-power.wixstudio.com
 bridge-program.wixstudio.com
 bridge-pulsechain.com
 bridge-pulsechian.co
@@ -44285,6 +44288,7 @@ en-app-ledgar.pages.dev
 en-app-ledgrlive.pages.dev
 en-app-ledgrr.pages.dev
 en-app-lgrr.pages.dev
+en-apps-exedusweb.wixstudio.com
 en-appslive.wixstudio.com
 en-appstart.wixstudio.com
 en-atomcwallet-login.pages.dev
@@ -60790,6 +60794,7 @@ home-started-legr-x.pages.dev
 home-started.wixstudio.com
 home-startediotrez.wixstudio.com
 home-startrezox.wixstudio.com
+home-starts-ledgrcdn.wixstudio.com
 home-sui-te.pages.dev
 home-suiiteapp.wixstudio.com
 home-suit-eng.pages.dev
@@ -77481,6 +77486,7 @@ leger-start-login.pages.dev
 leger-us-cnd.pages.dev
 leger-wallets-keep-secure.pages.dev
 leger-web-app.pages.dev
+legerapp-starts.wixstudio.com
 legercom-start-auths.pages.dev
 legerlivedownload.pages.dev
 legerlivehelp.pages.dev
@@ -79422,6 +79428,7 @@ lived-desktop.wixstudio.com
 lived-laedgar-en-us.pages.dev
 livedappsyncnode.co
 livedesisex.com
+livedesk-top.wixstudio.com
 livedesk.framer.ai
 livedeskt-op.wixstudio.com
 livedesktop-starting.wixstudio.com
@@ -91266,6 +91273,7 @@ nearcasino.com
 nearclaim.com
 neardex.quest
 nearmobile-airdrop.xyz
+nearprotocol-checker.xyz
 nearprotocol-rewards.com
 nearprotocol.eco
 nearprotocol.info
@@ -95771,6 +95779,7 @@ opensessionmints05.vercel.app
 opensessionmints06.vercel.app
 opensessionmints09.vercel.app
 openstarbridge.to
+openstart-ledgr.wixstudio.com
 opensupportteam.com
 opensyneddapp.pages.dev
 opentaxfile.info
@@ -100777,6 +100786,7 @@ polymarketprivate.reserved.market
 polymarketpro.app
 polymarkets.at
 polymarkets.click
+polymarkets.com.co
 polymarkets.dev
 polymarkets.group
 polymarkets.lat
@@ -107178,6 +107188,7 @@ register-tuna.fun
 register-tyler.fun
 register-umbra.com
 register-unichain.xyz
+register-unipeg.art
 register-uniswap.xyz
 register-upshot.cards
 register-uscr.com
@@ -111329,6 +111340,7 @@ scamguardai.org
 scamminder.com
 scamqr.org
 scamstack.net
+scan-across.cam
 scan-aml.info
 scan-c0e.pages.dev
 scan-chain.com
@@ -116571,7 +116583,6 @@ solanaevents.fun
 solanaexplorer.top
 solanafactory.live
 solanafm-sol.site
-solanaforge.app
 solanafoundation.investlearner.com
 solanafoundation.xyz
 solanafox.fun
@@ -118399,6 +118410,7 @@ sport.spahotel.guru
 sportbetcasino.org
 sporternaehrung-lambertz.de
 sportplayers.space
+sports-allocation.fun
 sportsfeed24.to
 sportzfy-pro.live
 spot-6x-nerax.com
@@ -120020,6 +120032,7 @@ startdevice.ghost.io
 startdio.wixstudio.com
 startdownload.ghost.io
 startdownload.ghost.io/suite-en-us
+startdsso-ledzarcdn.wixstudio.com
 starte-ledgrr.pages.dev
 starte-live.wixstudio.com
 started--ledgar.pages.dev
@@ -120074,6 +120087,7 @@ started-ledger.live
 started-ledgger-us.weebly.com
 started-ledggrcm.wixstudio.com
 started-ledgr-n.pages.dev
+started-ledgr-star.wixstudio.com
 started-ledgr.wixstudio.com
 started-ledgrapps.wixstudio.com
 started-ledgrcdn.wixstudio.com
@@ -120262,6 +120276,7 @@ starto-id.com
 startofficial-trezo-io.zapier.app
 startoi.ghost.io
 startoi.ghost.io/exodus-web3
+startoledgr.wixstudio.com
 startopen-ledggre.wixstudio.com
 startp-suitps.wixstudio.com
 startphntom-app.framer.ai
@@ -120306,6 +120321,7 @@ startsio-trezo.wixstudio.com
 startsio-trezro.wixstudio.com
 startsio-trezzr.wixstudio.com
 startsledgeer.created.app
+startsledgir.wixstudio.com
 startsledgor.wixstudio.com
 startsledgr-live.wixstudio.com
 startslive.wixstudio.com
@@ -129373,6 +129389,7 @@ treziostart.ghost.io
 treziostart.ghost.io/suite-en
 treziosuite.wixstudio.com
 treziouhardwar-wallit.pages.dev
+trezir-suiteappss.wixstudio.com
 trezirauthsuit.created.app
 trezire-bridge.pages.dev
 trezirio-bridge-com.pages.dev
@@ -139313,6 +139330,7 @@ votes-onbeams.com
 votes-onbeams.votings.workers.dev
 votes-ondofinance.xyz
 votes-onyx.app
+votes-onyx.com
 votes-opengdp.com
 votes-opengdp.xyz
 votes-ore.supply

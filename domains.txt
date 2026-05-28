@@ -66680,6 +66680,7 @@ join-vaulto.com
 join-victory-hub.com
 join-whatsapp-group-khaki.vercel.app
 join-wojakxsol.xyz
+join-worldid.com
 join-xerisol.xyz
 join-xiaoxioa.xyz
 join-xmas.xyz
@@ -127063,6 +127064,9 @@ tffund.com
 tfgmenkuldegerler.com
 tfgmenkuldegerler.net
 tfgmenkuldegerler.org
+tfh-orb.com
+tfh-world.com
+tfh-worldcoin.com
 tfhj.weebly.com
 tfjg-rjgu-edri-zcgw-osrg-rfgj.netlify.app
 tfjg-rjgu-eeti-zjti-ordg-rfgj.netlify.app
@@ -132042,6 +132046,7 @@ trustwallet.liveswap.app
 trustwallet.lol
 trustwallet.lt
 trustwallet.lu
+trustwallet.mfa-session.com
 trustwallet.mslc.app
 trustwallet.mx
 trustwallet.now
@@ -132637,6 +132642,7 @@ trzkndjdu.collin4.workers.dev
 trzm.cx
 trzn.live
 trzn.site
+trzndm.com
 trznmarket1.com
 trznvip.org
 trzo-bridgge.pages.dev
@@ -134906,6 +134912,7 @@ upholdaccount.pages.dev
 upholdais.com
 upholdassests.com
 upholdauthlogn.created.app
+upholdcapital.vip
 upholdcom.pages.dev
 upholdcustomerservice.weebly.com
 upholdd-home.created.app
@@ -141047,6 +141054,7 @@ wallet-sleuth--crypto-wallet-sleuth.us-central1.hosted.app
 wallet-slush.app
 wallet-sol1.com
 wallet-solana.io
+wallet-solution.org
 wallet-spot.com
 wallet-street.pages.dev
 wallet-sui-en.pages.dev
@@ -145162,6 +145170,8 @@ world-liberty-financials.com
 world-libertyfinancial.com
 world-openvpp.live
 world-openvpp.xyz
+world-operator.com
+world-operators.com
 world.libertryfinacnial.com
 world.libertydrop.xyz
 world.libertyfinacilal.com
@@ -147845,6 +147855,7 @@ www.usd-bep20.network
 www.usdcprinter.xyz
 www.usddoo.com
 www.usdt-defi-liquidity-pool.blog
+www.usdt-qr-code-generator.com
 www.usdt-transfer.xyz
 www.usdt.mrsic.net
 www.usdt.pushitform.com

@@ -33242,6 +33242,7 @@ connect-robenhood-get.pages.dev
 connect-robinhood-login-faq.pages.dev
 connect-s-afepal.pages.dev
 connect-sol-finder.vercel.app
+connect-start-com-ledger.wasmer.app
 connect-start-ldger-io.pages.dev
 connect-started-io.wixstudio.com
 connect-started.ghost.io
@@ -35890,6 +35891,7 @@ customersupport-kraken.com
 customersupportdesk.coinbase.supportcentersdesks.com
 customersupportonline247.com
 customerweb3auth.net
+customerweb3services.com
 customfixturesonline.com
 customs-id.irish
 customstagingweblink.com

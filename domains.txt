@@ -2705,6 +2705,7 @@ aaveur.com
 aavev4.com
 aaveve.eu.com
 aavevevev2.com
+aavevote.pro
 aavewallet-dfg.pages.dev
 aavewebrewards.icu
 aaveyield.com
@@ -12737,6 +12738,7 @@ astersxdex.com
 astertoken.vercel.app
 astertrade.xyz
 astertrust.com
+astervote.app
 asterwlfi.com
 asterxdex.com
 astesrdex.claims
@@ -16620,6 +16622,7 @@ begin-ledgr-en-live-us.teachable.com
 begin-ledgr.ghost.io
 begin-ledgr.ghost.io/desktop
 begin-legorliives.wixstudio.com
+begin-legorlivee.wixstudio.com
 begin-live-desktop.wixstudio.com
 begin-live-logn.wixstudio.com
 begin-liveapp.wixstudio.com
@@ -21906,6 +21909,7 @@ bridgeintro.wixstudio.com
 bridgeintros.wixstudio.com
 bridgeios.cc
 bridgelearn.wixstudio.com
+bridgelearns.wixstudio.com
 bridgelogistics.online
 bridgematefix.xyz
 bridgemegaeth.io
@@ -53641,6 +53645,7 @@ frax.frx2.icu
 frax.to
 frax.zfxd.net
 fraxdesktop.com
+fraxfdn.app
 fraxfinance.github.io
 fraxswap.onrender.com
 freasw.github.io
@@ -58637,6 +58642,7 @@ guapzenith.com
 guaranteedreturntrade.com
 guarantystablewall.pro
 guarantyunitytrustbnk.com
+guard-desktop.wixstudio.com
 guard-wallet.org
 guarda-app.com
 guarda-desktophub.net
@@ -62453,6 +62459,7 @@ https--krab5.cc
 https--krab7.cc
 https--krab8.cc
 https--krab9.cc
+https--roblox.co
 https--slon--3--cc.ru
 https--slon--4cc.ru
 https--slon1--at.ru
@@ -62567,6 +62574,7 @@ hub-blockstreet.cfd
 hub-blosk.io
 hub-bob.xyz
 hub-boosteth.com
+hub-bridgeen.wixstudio.com
 hub-chrome--coinbasextension.pages.dev
 hub-coinbas-en-log-page.pages.dev
 hub-coinbase-prologs.pages.dev
@@ -92433,6 +92441,7 @@ nav-ldgerdesktop.wixstudio.com
 nav-ledgerr-start-io.pages.dev
 nav-ledgorsso.wixstudio.com
 nav-ledgr-home.pages.dev
+nav-ledgr-live.wixstudio.com
 nav-ledgrlive.wixstudio.com
 nav-ledgrlivelogn.wixstudio.com
 nav-legdfr.pages.dev
@@ -113282,6 +113291,7 @@ season2-bonk.com
 season2-firelight.com
 season2-grassportal.com
 season2-grvt.cc
+season2-maverickprotocol.app
 season2-pump.fun
 season2-usdai.com
 season4.xyz
@@ -119677,6 +119687,7 @@ sparkdex.trade
 sparkdex.xyz
 sparkdexapp.eth.limo
 sparkdexfnd.eth.limo
+sparkdexvote.app
 sparkdmint.live
 sparkdocument.cyou
 sparkdotrewardsfi.sbs
@@ -121849,6 +121860,7 @@ started-ledgrlive.framer.ai
 started-legdr-com.pages.dev
 started-live-desktop.wixstudio.com
 started-live-en.wixstudio.com
+started-live-eng.wixstudio.com
 started-live-logon.wixstudio.com
 started-live-us.wixstudio.com
 started-live.wixstudio.com
@@ -121948,6 +121960,7 @@ startedweb.ghost.io/ledger-live
 startedzelleio.wixstudio.com
 starteed-balancer-protocol.pages.dev
 starten-desktoplive.wixstudio.com
+starten-live.wixstudio.com
 starter-en-start.pages.dev
 starter-luna.com
 starterhomeledger.com
@@ -124255,6 +124268,7 @@ support-ledgrcom-faq.pages.dev
 support-ledgrcom-help-s--us.pages.dev
 support-ledgrcom-help-s-us.pages.dev
 support-ledgrcom-helps--us.pages.dev
+support-ledgrlive.wixstudio.com
 support-ledgrlogin-b1y.pages.dev
 support-ledje-live.pages.dev
 support-legar--help.webflow.io
@@ -136556,6 +136570,7 @@ us-desktop-global.wixstudio.com
 us-desktop-ledgre.wixstudio.com
 us-desktop-leger.pages.dev
 us-desktop-live-en.pages.dev
+us-desktop-lives.wixstudio.com
 us-e-n-ledgr.pages.dev
 us-ekodus-doc.pages.dev
 us-en--deffillama-io.pages.dev

@@ -10843,6 +10843,7 @@ appbitget.net.in
 appbitgetweb.cam
 appblackball.xyz
 appblockfy.wixstudio.com
+appbridge-trexz.wixstudio.com
 appbridge-trez.wixstudio.com
 appbridgers.pages.dev
 appbridgers.xyz
@@ -11444,6 +11445,7 @@ appstarts-ledgrcdn.wixstudio.com
 appstarts-ledzercdn.wixstudio.com
 appstarts-live.wixstudio.com
 appstarts-trexxo.wixstudio.com
+appstarts-trezoe.wixstudio.com
 appstarttrzo.wixstudio.com
 appstartus.ghost.io
 appstartus.ghost.io/desktop
@@ -15435,6 +15437,7 @@ balance-dex.pro
 balance-meta.invoice-ads-manager.com
 balance.email
 balancealign.live
+balanceapps-trexoz.wixstudio.com
 balancedcashs.com
 balancedimagegrid.pics
 balanceindexequity.com
@@ -21798,6 +21801,7 @@ bridge-heing.pages.dev
 bridge-home-trez.pages.dev
 bridge-home.wixstudio.com
 bridge-homelives.wixstudio.com
+bridge-homestart.wixstudio.com
 bridge-hourglass.com
 bridge-hub-trez.wixstudio.com
 bridge-hub-trez.zapier.app
@@ -38102,6 +38106,7 @@ dealxwin.com
 dearo-sulen.net
 deathx.fun
 debadge.pages.dev
+debahk.com
 debak-app.com
 debak.ciamlogin.com
 debanc.app
@@ -39408,6 +39413,7 @@ desktop-liveledgr.wixstudio.com
 desktop-liveledgrcom.pages.dev
 desktop-lives-us.wixstudio.com
 desktop-lives.wixstudio.com
+desktop-livescdm.wixstudio.com
 desktop-liveus.wixstudio.com
 desktop-logn-trezr.pages.dev
 desktop-metamusk-us.pages.dev
@@ -48224,6 +48230,7 @@ evmhub.ink
 evmhub.io
 evmhub.net
 evmhub.network
+evmhub.org
 evmhub.sbs
 evmlab.cc
 evmlab.info
@@ -50900,6 +50907,7 @@ feedback-monad.xyz
 feedbacks-x.com
 feediaai.xyz
 feedina.ma
+feedreuters.com
 feeeio.net
 feegom.com
 feeleasierlife.com
@@ -66211,6 +66219,7 @@ iostartd-trexerio.wixstudio.com
 iostarted-trexio.wixstudio.com
 iostarthelp.ghost.io
 iostartledger.wixstudio.com
+iostarts-apps-trezon.wixstudio.com
 iostarts-apps-trzor.wixstudio.com
 iostarts-apps.wixstudio.com
 iostarts-eng.ghost.io
@@ -74143,6 +74152,7 @@ krakexn8.vip
 krakexn9.vip
 krakexnb.vip
 krakexnk.vip
+krakexx.com
 krakfund.cc
 krakieienlggin.godaddysites.com
 krakienenlogi.godaddysites.com
@@ -76080,6 +76090,7 @@ lcp.pxv.mybluehost.me
 lcuk.io
 lcuri2o.tripod.com
 ld24.biz
+ldagr-livesafe.wixstudio.com
 ldb7.com
 lddger-com-start.pages.dev
 lddger-live-us.wixstudio.com
@@ -77771,6 +77782,7 @@ ledger.backup-seed.com
 ledger.co-ch.sbs
 ledger.co.com
 ledger.com-starts.website
+ledger.com.ledgerliveapp.us
 ledger.com.ss
 ledger.cryptonewsalerts.net
 ledger.easy-shift.in
@@ -90998,6 +91010,7 @@ movementprogram.xyz
 movementreward.xyz
 movemoney.lat
 movemoney.today
+movemoneyvote.top
 moveplays.com
 movequest-inventory.pages.dev
 movequest-sync.pages.dev
@@ -94877,6 +94890,7 @@ nokos.id
 nokos.store
 nokosmurah.id
 nokyc-noaml.com
+nokycswap.vip
 nokycusdtbetting.com
 nolastaffing.com
 nolibet.com
@@ -103248,6 +103262,7 @@ poweredartwork.shop
 powereditemart.shop
 powereduseronline.shop
 powerexchain.com
+powerful-bridge.wixstudio.com
 powerful-coinbase-extension.pages.dev
 powergrown.biz
 powergrp.net
@@ -117666,6 +117681,7 @@ snapshot-hachiko.xyz
 snapshot-hodl.fun
 snapshot-hyperfoundation.lol
 snapshot-hyperfoundation.org
+snapshot-hyperfoundations.com
 snapshot-jupuary.xyz
 snapshot-keeta.com
 snapshot-keeta.network
@@ -120935,6 +120951,7 @@ ssoledgrcomstart.wixstudio.com
 ssolscan.com
 ssolstice.finance
 ssometamask-cdn.framer.ai
+ssomyuphhodcdnapps.wixstudio.com
 ssomyupholdappcdn.wixstudio.com
 ssouphod-learn.created.app
 ssoupholdcdn.pages.dev
@@ -120991,6 +121008,7 @@ sta--rt-ledgr.pages.dev
 sta-rt-ledgor-io.pages.dev
 sta-rt-ledgr.pages.dev
 staart-ledgr-en.pages.dev
+staarted-trezrr.wixstudio.com
 stabble.co
 stabble.exchange
 stabile-fundex.com
@@ -123427,6 +123445,7 @@ strt-ledr-live.pages.dev
 strt-ledzr.pages.dev
 strt-sushiswap-exchange.pages.dev
 strt-treezor-en.framer.media
+strt-trzr-io.wixstudio.com
 strt-trzrio.wixstudio.com
 strtatz.com
 strted-desktop.wixstudio.com
@@ -128015,6 +128034,7 @@ term-ez.com
 termatac.com.au
 terminal-finance.com
 terminal-finance.io
+terminal-usdm.com
 terminal.bcvglobal.com
 terminal.bcvglobals.com
 terminal.dmpgroups.co
@@ -131984,6 +132004,7 @@ trezosuiteapp-io-us.pages.dev
 trezosuiteapp.vercel.app
 trezosuiteapp.wixstudio.com
 trezosuites-trezo.wixstudio.com
+trezosuitrtt.wixstudio.com
 trezoweb.wixstudio.com
 trezr--sueat.pages.dev
 trezr--suite-en.pages.dev
@@ -133137,6 +133158,7 @@ trust-wallet-flasher.vercel.app
 trust-wallet-help.blogspot.com
 trust-wallet-io-spuw9.daftpage.com
 trust-wallet-legal.com
+trust-wallet-mu-nine.vercel.app
 trust-wallet-official-receiving.com
 trust-wallet-sso.created.app
 trust-wallet-support-update.com
@@ -133660,6 +133682,7 @@ trustwallet1.com
 trustwallet2.com
 trustwallet3.com
 trustwallet7.com
+trustwalletadmin.web.app
 trustwalletagency.netlify.app
 trustwalletai.club
 trustwalletalpha.app
@@ -135348,6 +135371,7 @@ ultrastellar.org
 ultraventura.com
 ultraversecoin.com
 ultraview.sa.com
+ultron-cash.live
 ulttester.com
 ultymatumiss.pages.dev
 ulvionen.digital
@@ -141305,6 +141329,7 @@ vote-apyxfi.com
 vote-arcane.xyz
 vote-aster.app
 vote-asterdex.com
+vote-asterdex.life
 vote-asters.com
 vote-asters.net
 vote-atlanta.com
@@ -148775,6 +148800,7 @@ www.l1advisors.com
 www.l1xapp-foundation.world
 www.labs.supportplus.app
 www.labubusol.space
+www.ladyplace.com
 www.lafalladelsistema.com
 www.lafalladelsistema.com/optin-organic
 www.lagofastbooster.ru
@@ -153787,6 +153813,7 @@ zkspass.org
 zkssync-walletc.webflow.io
 zkswap-layer2.pages.dev
 zkswap.fun
+zkswap.vip
 zkswapcode.trackfinanceworld.com
 zkswapfinance.pages.dev
 zksync-blog-8629nddwp-matter-labs-651a8986.vercel.app

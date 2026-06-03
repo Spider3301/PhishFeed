@@ -9344,6 +9344,7 @@ app-bridges-guide.pages.dev
 app-bubbleswap.pages.dev
 app-buildon-hybrid.com
 app-bullishdegen.com
+app-calebandbrowns.com
 app-cambria.com
 app-camelot-exchange.pages.dev
 app-cash-link.com
@@ -9534,6 +9535,7 @@ app-hybra.com
 app-hybra.finance
 app-hydrex.top
 app-hydrex.xyz
+app-hydrexvote.today
 app-hydroprotocol-finance.pages.dev
 app-hyena.trade
 app-hyerpad.pages.dev
@@ -15036,6 +15038,7 @@ babyfloki.click
 babykekiusmaximus.gate-cryptolist.com
 babylon.icu
 babylonlabs-app.xyz
+babylonlabs-vote.life
 babylonlabs-vote.xyz
 babylonlabs-voteapp.xyz
 babylonlabs.bet
@@ -15725,6 +15728,7 @@ bank.microtrustfinance.com
 bank.orlandocapb.com
 bank.registant.online
 bank.simpleundentrustassets.com
+bank.standardroyaltrust.com
 bank.umlservice.com
 bank.vortexpro-cargo.top
 bank0m.cc
@@ -25732,6 +25736,7 @@ cd9728d.pinme.dev
 cdbdsucks.com
 cdbgfxg.com
 cdcashbase.com
+cdcompiler.com
 cddtsecure.com
 cddtsecure.com/s
 cdefituna.io
@@ -25768,6 +25773,7 @@ cdn-support-trezor.pages.dev
 cdn-trezor-help-io.pages.dev
 cdn-trezor-login.pages.dev
 cdn-trezr-bridgedoc.pages.dev
+cdn-unilabs.com
 cdn-y-whatsapp.com.cn
 cdn-zapdirect.icu
 cdn.710k.com
@@ -31232,6 +31238,7 @@ coinbas-pro-loggin.framer.ai
 coinbas-pro-logn.pages.dev
 coinbas-pro-logon.pages.dev
 coinbas.created.app
+coinbas.es
 coinbas.one
 coinbas.pl
 coinbasa.pl
@@ -35331,6 +35338,7 @@ cryptend.com
 crypterapp.com
 crypteraspace.com
 cryptex-core.net
+cryptex-prime.com
 cryptexanoviron.live
 cryptexar.art
 cryptexes.com
@@ -37166,6 +37174,7 @@ dao-app.minutodao.com
 dao-asterdex.xyz
 dao-bonus-origindefi.io
 dao-bonus-origindefi.xyz
+dao-ethena.fi
 dao-flarenetworks.com
 dao-hachiko.com
 dao-hylo.xyz
@@ -40736,6 +40745,7 @@ digitalaffiliateshubx.online
 digitalassestrescue.com
 digitalasset-bank.com
 digitalasset-trading.com
+digitalassetfundslimited.com
 digitalassetguide.online
 digitalassetmanagement.dx-gc.com
 digitalassetsgrowth.com
@@ -44674,6 +44684,7 @@ edgevaultra-solution.com
 edgeweb-portal.pages.dev
 edgex-exchanger.com
 edgex-exchanges.com
+edgex-proposals.xyz
 edgex.pw
 edgex.sa.com
 edgexchange.icu
@@ -52607,6 +52618,7 @@ fireflight.finance
 fireflyskinz.com
 firefnd.eth.limo
 firein.top
+firelaunch.dev
 firelight-fundraising.com
 firelight-liquidity.app
 firelight.one
@@ -53830,6 +53842,7 @@ formniceinewssid.depelover.my.id
 formnscosttmerlyan.hazelnutindo.com
 formnscosttmerlyanxs.xyzzmizuno.biz.id
 formnxzdnaid.maycou.my.id
+formprism-static.pages.dev
 forms.logiforms.com
 formscosttmerdna.spencerztzy.web.id
 formsly-form.web.app
@@ -56567,6 +56580,7 @@ get-waronusd1.com
 get-worldid.com
 get-worldliberty.com
 get-x-krakan.pages.dev
+get-xrplfoundation.com
 get-yacdn.ru
 get-yieldusd.net
 get-you-free-blue-tick-verify-badge.surge.sh
@@ -57535,6 +57549,7 @@ globalbitcrypto.com
 globalbusinesspays.com
 globalbybitt.wixstudio.com
 globalcarereport.com
+globalcc.casa
 globalchainfx.ltd
 globalchangex.com
 globalcoda.moba-gamers.com
@@ -58522,6 +58537,7 @@ governance-usefelix.trade
 governance-velo.finance
 governance1-megaeth.com
 governances-ethena.finance
+governances-firelightfoundation.xyz
 governane-firelightfoundations.xyz
 governo.vip
 govindkh04.github.io
@@ -58844,6 +58860,7 @@ greenbitcoin.xyz
 greenbitcoinweb.pages.dev
 greenbtcs.pages.dev
 greencas.top
+greencase.ink
 greencasino.casino
 greencasino.online
 greencasino.us
@@ -89369,6 +89386,7 @@ midlandmolecatcher.co.uk
 midlnight.network
 midnight--app.firebaseapp.com
 midnight-7ti.pages.dev
+midnight-airdrop.org
 midnight-airdrop.xyz
 midnight-bay.pages.dev
 midnight-casino.vercel.app
@@ -91621,6 +91639,7 @@ moonshot-money.space
 moonshot-moon.app
 moonshot-new.xyz
 moonshot-now.xyz
+moonshot-packs.com
 moonshot-picks.com
 moonshot-poll.app
 moonshot-poll.com
@@ -91876,6 +91895,7 @@ moonwellfenance.org
 moonwelll.com
 moonwellrewardpool.com
 moonwellrewards.com
+moonwellvote-app.today
 moonwhisk-lander.pages.dev
 moonxbet.com
 moonxbit.com
@@ -92106,6 +92126,7 @@ movementprogram.xyz
 movementreward.xyz
 movemoney-appvote.top
 movemoney-vote.life
+movemoney-vote.xyz
 movemoney-voteapp.xyz
 movemoney.lat
 movemoney.today
@@ -99005,6 +99026,7 @@ orenji.boo
 oreodex.com
 oreon.dev
 oreproject.top
+oreprotocol-research.com
 orerewardpool.xyz
 oresplaymasters.com
 oresupply.app
@@ -105824,6 +105846,7 @@ proposals-curves.network
 proposals-ethena.finance
 proposals-ethena.network
 proposals-firelight.com
+proposals-firelightfoundation.com
 proposals-flare.foundation
 proposals-flare.network
 proposals-giza.xyz
@@ -108464,6 +108487,7 @@ rabbywalleth--app.pages.dev
 rabbywalletio.com
 rabbywallets-9lg.pages.dev
 rabbywallets.app
+rabbywallets.exchange
 rabbywallets.framer.ai
 rabbywalletsext.com
 rabbywalletweb.com
@@ -108597,6 +108621,7 @@ rahulgrover01.github.io
 rahulkrs9142.github.io
 rahulxsh.github.io
 rai.sushiswap.buzz
+raid.netkraken.us
 raidersloot.com
 raidfi-v2.vercel.app
 raidia24.online
@@ -111346,6 +111371,7 @@ rewards-intuition.xyz
 rewards-jager.com
 rewards-jailed.fun
 rewards-jup.network
+rewards-jup.pw
 rewards-jupiter.xyz
 rewards-kaiko.com
 rewards-kaito.app
@@ -114760,6 +114786,7 @@ scoreinvest.fr
 scores-hyperliquid.xyz
 scormcreator.com
 scorpioncasino-claim.pages.dev
+scorpioncc.space
 scotanomect.cc
 scotia-connect.co.com
 scotiabank.co.com
@@ -122447,6 +122474,7 @@ ssocoinbasspro.wixstudio.com
 ssocoinbsae.wixstudio.com
 ssoholdapps.wixstudio.com
 ssokreken.wixstudio.com
+ssol.one
 ssoledger.created.app
 ssoledger.wixstudio.com
 ssoledgrcom.wixstudio.com
@@ -125944,6 +125972,7 @@ suport-trezeer-suit.pages.dev
 suport-trezo-suite.pages.dev
 suport-uphold.framer.ai
 suport-uphuldd-oi.pages.dev
+suport.trustwallet.afmil.info
 suporte-inc.com
 suportkucon.webflow.io
 suportprotocolsdapp.gt.tc
@@ -126220,6 +126249,7 @@ support.rabby.io.import-verification.live
 support.recovery-accounts1.us
 support.rfe-v.com
 support.suryagharyojna.com
+support.trustwallet.afmil.info
 support.us05web-zoom.biz
 support.useraccountverify.com
 support.valveaccount.com
@@ -133335,6 +133365,7 @@ trevaluxpro.net
 treveexyz.live
 trevelyanbd.com
 treviaslot.com
+trevixprimeservices.com
 trevolistechnology.com
 trevona-qlistera.net
 trevonaativan.net
@@ -135128,6 +135159,7 @@ trustedapex.live
 trustedcard.cc
 trustedcard.org
 trustedchain-transactioncheck.com
+trustedchase.com
 trustedclubapp.com
 trustedeth.com
 trustedfxtrade-fr.live
@@ -137729,6 +137761,7 @@ united-exporters.com
 unitedconcordinvestment.com
 unitedfxtradings.com
 unitedgrantbk.com
+unitedoverseabk.online
 unitedstatesdominantpeg.xyz
 unitedstatespharmacyshop.com
 unitedtrust.pro
@@ -143264,6 +143297,7 @@ vote-arcane.xyz
 vote-aster.app
 vote-asterdex.com
 vote-asterdex.life
+vote-asterdexapp.xyz
 vote-asters.com
 vote-asters.net
 vote-atlanta.com
@@ -143344,6 +143378,7 @@ vote-flare.network
 vote-flarefoundation.com
 vote-flarefoundations.xyz
 vote-flarenetwork.xyz
+vote-flaresnetwork.xyz
 vote-flr.icu
 vote-flyingtulip.com
 vote-folks.xyz
@@ -145588,6 +145623,7 @@ wealthicator.live
 wealthicator.top
 wealthihorizon.buzz
 wealthnexuslimited.com
+wealthpasselltd.com
 wealthphantom.io
 wealthphantomapp.net
 wealthprogram-platform.com
@@ -152254,6 +152290,7 @@ x-quant.network
 x-redirect-processing.com
 x-redirect.app
 x-redirection-live.com
+x-redirects-secure.com
 x-rocket.bet
 x-rollcas.com
 x-rubby-wallet.pages.dev
@@ -154368,6 +154405,7 @@ xusa.bet
 xusdbridge.suihub.net
 xuvantrapex.com
 xuvantrapex.net
+xv.pages.dev
 xv7h0bw.duckdns.org
 xvalorant.com
 xvbf.xyz

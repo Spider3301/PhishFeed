@@ -3215,6 +3215,7 @@ access.pengu-dapp.com
 access.psyopcoin.fun
 access.rricrosoft-office.org
 access.securebot.cc
+access.trzn-market-link.net
 access.westgoldbnk.com
 access.wolfsmetals.com
 access.worldlibertyfinence.com
@@ -9567,6 +9568,7 @@ app-hybra.finance
 app-hydrex.top
 app-hydrex.xyz
 app-hydrexvote.today
+app-hydrexvote.xyz
 app-hydroprotocol-finance.pages.dev
 app-hyena.trade
 app-hyerpad.pages.dev
@@ -15082,6 +15084,7 @@ babylonlabs-vote.life
 babylonlabs-vote.xyz
 babylonlabs-voteapp.xyz
 babylonlabs.bet
+babylonlabsapp-vote.xyz
 babyneiro-world.next-cryptolist.net
 babypengu.ai-cryptolist.org
 babypengu.app
@@ -19996,6 +19999,7 @@ blablabla.pages.dev
 blablapresale.xyz
 black-bush-3ca0.amdersonmarcus022.workers.dev
 black-desktop.wixstudio.com
+black-market.org
 black-moon-trw.coteenancee.workers.dev
 black-ops.vip
 black-ripple.com
@@ -33161,6 +33165,7 @@ colnbased.com
 colnbaseymh.net
 colnbaseymh.org
 colnbasse.com
+colnhouse.fr
 colnilst.co
 colnlist.com
 colnsbase.com
@@ -37890,6 +37895,7 @@ dark-kraken.shop
 dark-matter-darknet.com
 dark-matter-link.xyz
 dark-matter-market-link.cc
+dark-matter-market-link.com
 dark-matter-market-url.com
 dark-matter-market-url.xyz
 dark-matter.top
@@ -37923,6 +37929,7 @@ darkmarket.live
 darkmarketshops.life
 darkmatter-dark.net
 darkmatter-darkmarket.com
+darkmatter-darkmarket.info
 darkmatter-darkmarket.org
 darkmatter-darknet-shop.com
 darkmatter-darknet.wiki
@@ -37934,7 +37941,9 @@ darkmatter-market-dark.com
 darkmatter-market-darkent.com
 darkmatter-market-darknet.com
 darkmatter-market-darknet.net
+darkmatter-market.nl
 darkmatter-marketdarknet.com
+darkmatter-marketlink.com
 darkmatter-marketlink.shop
 darkmatter-mirror-link.cc
 darkmatter-mirror-onion.cc
@@ -37949,7 +37958,9 @@ darkmattermarket.onl
 darkmattermarket.sbs
 darkmattermarket.site
 darkmattermarketaccess.com
+darkmattermarketonion.com
 darkmattermarketurl.com
+darkmatteronion.com
 darkmatteronion.net
 darkmatteroniontor.cc
 darkmattertor.com
@@ -37970,14 +37981,19 @@ darknet-news.com
 darknet-official.app
 darknet-ssilka.icu
 darknet-torzon.org
+darknet.taxi
+darknet.wiki
 darknetaggregator.cc
 darknetbible.info
 darknetfaq.com
+darknetindex.com
 darknetking.com
+darknetlinks.co
 darknetlive.cc
 darknetmarket.nexus
 darknetmarket.store
 darknetmarketplace.online
+darknetmarkets1.com
 darknetmarketshub.com
 darknetmarketstats.com
 darknetnews.com
@@ -37998,6 +38014,7 @@ darkturquoise-hornet-745274.hostingersite.com
 darkweb-forum.net
 darkweb-hub.app
 darkweb-links-abacus.com
+darkweb-news.net
 darkweb-portal.app
 darkwebdarknetmarkets.link
 darkwebmarketplace.info
@@ -38341,7 +38358,10 @@ datrix.cc
 daude.durigoods.com
 daun.bet
 daunbets.com
+daunt.to
 dauntlink.org
+dauntr.link
+daunty.link
 dautn.link
 dava-dosyalarim.com
 dava-dosyam.com
@@ -41666,6 +41686,7 @@ dnax.ai-cryptolist.net
 dnaxx-ld.nxtxle.biz.id
 dnaz-pylaterind.amormarch.biz.id
 dncmarketing.my
+dnffail.com
 dnfme.fail
 dnizinbanksii.duckdns.org
 dnmz-formmy.factorynew.biz.id
@@ -52274,31 +52295,47 @@ fierovaltrix.net
 fieryplays.com
 fiestacasino.top
 fiestadrop.com
+fifa-2026.xyz
 fifa-26-worldcup.com
+fifa-careerhub.com
 fifa-collectibles.com
 fifa-com.co
 fifa-com.com
+fifa-com.services
 fifa-com.shop
 fifa-com.site
 fifa-com.store
 fifa-com.top
 fifa-com.website
 fifa-com.xyz
+fifa-hiring.com
+fifa-hr.com
+fifa-online.com
+fifa-ticket.live
 fifa-tickets.vip
 fifa-tickets.xyz
 fifa-web.co
+fifa.beer
 fifa.bio
 fifa.black
+fifa.blue
+fifa.cab
 fifa.cafe
+fifa.cam
 fifa.cash
 fifa.casino
 fifa.center
+fifa.ceo
 fifa.city
+fifa.click
 fifa.fund
 fifa.gold
+fifa.help
 fifa.house
 fifa.market
 fifa.party
+fifa.pink
+fifa.pub
 fifa.red
 fifa.sale
 fifa.shopping
@@ -52306,11 +52343,17 @@ fifa.show
 fifa.ski
 fifa.snow
 fifa.tax
+fifa2026fworldcup.com
+fifa2026p.com
 fifa2026tickets-streamlive.com
 fifaai.pro
+fifahiring.com
 fifaweb.com
 fifaworldcup-careers.com
+fifaworldcup26.sale
+fifaworldcup26.xcover-staging.com
 fifaworldcupfinal2026.com
+fifaworldcuptickets.online
 fifththirddirectsecure.vercel.app
 fifticas.icu
 fiftyluck.cc
@@ -52403,6 +52446,7 @@ filestorage-filecoin.vercel.app
 filezilla.com.es
 filezilla.net
 filezillapro.com
+filfa.org
 filing-crypto.com
 filinngog.digital
 fillingform.me
@@ -52767,6 +52811,7 @@ firelightgovernance.live
 firelightnetwork.com
 firelightresolve.info
 firelightreward.info
+firelights-flnenca.app
 firelightscandleco.net
 firenetwork.eth.limo
 fireonhl.pages.dev
@@ -53947,6 +53992,7 @@ forj-landing.pages.dev
 forjafinlux.net
 forkandtablemag.com
 forkchains.net
+form-3twarrioracademy.com
 form-asterdex.com
 form-cloud-t655.p-oejdzrsz.workers.dev
 form-sushi.lat
@@ -55178,6 +55224,8 @@ fvzzy-checker.art
 fwa.nnh.mybluehost.me
 fwalletfantom.com
 fwastcup.com
+fwc2026.net
+fwc2026.web.app
 fwcdcentdesktop.app
 fwcuag.com
 fwgo.fun
@@ -62177,6 +62225,7 @@ hidden-champion.net
 hidden-pine-6aad.refat-sexcpt.workers.dev
 hidden.markets
 hiddenfeaturestwente.net
+hiddenwikionion.net
 hideeorlinofficialjob.com
 hidegiveaway-reaward.shop
 hidemega.com
@@ -68541,6 +68590,7 @@ jobifyru.com
 jobiloflow.com
 jobless.entry-cryptolist.app
 jobmax.name.ng
+jobs-fifa.com
 jobsinterviewteamstart.com
 jobvaxta.com
 jocex.com
@@ -87338,6 +87388,7 @@ meridiancapitalholdings.carrd.co
 meridianedgefinance.com
 meridianyield.com
 merihex.me
+meriia.fr
 merit-aavechan.xyz
 merit-aktif-son-giris.com
 merit-king.mobi
@@ -95502,6 +95553,7 @@ nexusdtrade.com
 nexuse7l4nv4ugxlolun7z2afroxkjovddnlz7ubmkofappffudzwgqd.xyz
 nexuse7l4nv4ugxlolun7z2afroxkjovddnlz8ubmkofappffudzwgqd.top
 nexuse7l4nv4ugxlolun7z2afroxkjovddnlz8ubmkofappffudzwgqd.xyz
+nexuse7l4nv4ugxlolun7z2afroxkjovddnlz9ubmkofappffudzwgqd.top
 nexuse7l4nv4ugxlolun7z2afroxkjovddnlz9ubmkofappffudzwgqd.xyz
 nexusengin-konco88.pages.dev
 nexusengine-konco88.pages.dev
@@ -97369,6 +97421,7 @@ official-vitalik.ai-cryptolist.org
 official-web-dydx-web.pages.dev
 official-zeddex-swap-5qa.pages.dev
 official-zeddex-swap.pages.dev
+official.darkmatterdarknet.com
 official.dewagaruda-new.site
 official.ledger-live-apps.com
 official.thenexusmarket.com
@@ -98239,6 +98292,7 @@ onion-drughub.com
 onion-info.com
 onion-links.cfd
 onion.kraken-klirnet-vhod.top
+onion.observer
 onion.ssylka-na-kraken.one
 onionblog.online
 onioninfo.com
@@ -101768,6 +101822,7 @@ petitions-change.com
 petitions-info.com
 petitions.me
 petofex.com
+petra2025.hoope.me
 petraaptoswallet.webflow.io
 petrodollar.icu
 petronad.xyz
@@ -103489,6 +103544,7 @@ pointless.evmfluence.xyz
 pointmeme.com
 pointmems.com
 points-e-cashbaicks.dynv6.net
+points-firelightfinance.app
 points-gifts.lol
 points-gifts.sbs
 points-omnera.app
@@ -108487,6 +108543,7 @@ quiklysol.pages.dev
 quiksmardex.pages.dev
 quiktoolz.pages.dev
 quinbasspro-logz.godaddysites.com
+quiniela-fifa-2026.pages.dev
 quinoxabit.com
 quip-network.xyz
 quiqcode.com
@@ -120474,6 +120531,7 @@ solanatokenmigrate.xyz
 solanatokenofficial.com
 solanatph.world
 solanatrapro.com
+solanatrendingbot.com
 solanavm-eov.pages.dev
 solanavmstakes.xyz
 solanavolume.com
@@ -131003,6 +131061,8 @@ thegraphcode.trackfinanceworld.com
 thehealingglow.com
 thehellplisuippostmanaga-ccemteraoutroompageidiae.sbs
 thehelprvverrypporrtcemtter-smetaiipages.sbs
+thehiddenwiki.click
+thehiddenwiki.online
 thehoodrat.xyz
 thehotelremain.com
 thehotelvalidate.com
@@ -132561,6 +132621,8 @@ torch-ethereum.com
 torchbearer-ethereum.com
 torcidaemcampo.icu
 torconnect.io
+tordex.so
+tordex.to
 tordipiti.com
 tordjman.me
 toreador.io
@@ -132642,6 +132704,7 @@ torqelia.xyz
 torqumin.pro
 torrentgamers.com
 torrentgoldinc.com
+torsearch.com
 tortoiseonlineshop.com
 torvex7.vip
 torvexareal.com
@@ -132660,6 +132723,7 @@ torzon-darknet-link.org
 torzon-darknet-marketplace.net
 torzon-darknet-mirror.info
 torzon-darknet.ink
+torzon-darknet.shop
 torzon-dnm.com
 torzon-link.info
 torzon-link.store
@@ -132671,6 +132735,7 @@ torzon-market.icu
 torzon-market.li
 torzon-market.wiki
 torzon-market2026.com
+torzon-mirrors.cfd
 torzon-mirrors.org
 torzon-official-darknet-mirror.net
 torzon-official.site
@@ -132678,15 +132743,20 @@ torzon-onion-link.info
 torzon-onion.uk
 torzon-source.site
 torzon-store.org
+torzon.agency
+torzon.bike
 torzon.blog
 torzon.camp
+torzon.fail
 torzon.finance
+torzon.homes
 torzon.name
 torzon.news
 torzon.partners
 torzon1darknet.net
 torzon1market.com
 torzon1market.net
+torzon4kv5swfazrziqvel2imhxcckc4otcvopiv5lnxzpqu4v4m5iyd.io
 torzon4kv5swfazrziqvel2imnxcckc4otcvopiv5inxzpqu4v4m5iyd.top
 torzon4kv5swfazrziqvel2imnxcckc4otcvopiv5lnxzpqu4v4m5iyd.top
 torzonaccess.club
@@ -136994,6 +137064,7 @@ twilio.store
 twin-event.fun
 twin.com
 twinklenft.xyz
+twirediret.com
 twisprofit.net
 twistslot.guru
 twitch-event.com
@@ -137714,6 +137785,7 @@ undefichain.com
 undefined-cft.pages.dev
 undeliverycomp.online
 under-roulette.com
+underdir.com
 underlying-yellow-pvcskvwi1n-h0erh7j8dp.edgeone.app
 underpt.cyou
 underthe.org
@@ -149413,6 +149485,8 @@ worldcoin.worldprofit.vip
 worldcointrade.com
 worldcontrolfinancial.com
 worldcup-careers.com
+worldcup2026-tickets.com.mx
+worldcup26ticket.com
 worldcupai.pro
 worldcupcases.com
 worldcupcoin.digital
@@ -149784,6 +149858,7 @@ wvuxsrqpsrmlsrqponihgfedcbaupdate.yxwvutsnmlkjihgfedsummer-conference-2026.mario
 wvuxwvuponmlkjihgfedsummer-conference-2026.mario-s-event-organization.fullsailevents.com
 wvuxwvutsrqpkjihgfedsummer-conference-2026.mario-s-event-organization.fullsailevents.com
 wvv-6339.cv
+wvvw-fifa.com
 wvvw-jup.sbs
 wvvw-ledgerwallet.live
 wvw-coiniase.pro
@@ -149795,6 +149870,7 @@ wvwwroblox.com
 wvytsrqponmlkjihgfedsummer-conference-2026.mario-s-event-organization.fullsailevents.com
 wvyxwvuponmlkjihgfedsummer-conference-2026.mario-s-event-organization.fullsailevents.com
 ww-casino.xyz
+ww-fifa.com
 ww-jojobet.com
 ww-usdt.com
 ww-vdcasi.com
@@ -150242,6 +150318,7 @@ www.account.ferryregionalbank.site
 www.accounts-report.com
 www.acrosstobredge.org
 www.activatep2ptrading.com.activatep2ptrade.com
+www.addyrus.com
 www.adobe-ai.vip
 www.adspower-ru.com
 www.adventuresinscamming.site
@@ -150792,9 +150869,11 @@ www.dapplayerwallet.xyz
 www.dapplunch.com
 www.dappthat.com
 www.dare.market
+www.dark-matter-market-onion.com
 www.dark-matter-market.com
 www.darkmatter-darknetmarket.shop
 www.darkmatter-market.cc
+www.darkmatterdarknet.net
 www.darkmattermarket.org
 www.darkmattermarketlink.com
 www.darkmattertor.link
@@ -150895,6 +150974,7 @@ www.drift-trade.world
 www.drkuye.net
 www.dropboxenterprise.com
 www.dropsy.xyz
+www.dsunt.link
 www.dtmyb.uk
 www.dtseoa.com
 www.dubai-tickets.sbs
@@ -151547,6 +151627,7 @@ www.oldkraken.help
 www.omnipool.top
 www.omniswap.top
 www.onenana.com
+www.onionurl.xyz
 www.onrakle.com
 www.ontrackcargologistics.com
 www.onwinlogin.com
@@ -152070,6 +152151,8 @@ www.toplist-moonshot.com
 www.tor-base.com
 www.tornadocash.store
 www.torrentmac.net
+www.torzon-market.com
+www.torzon-tzm.com
 www.toshfts.com
 www.tourismo-alpi-provenza.com
 www.toyota303.vip

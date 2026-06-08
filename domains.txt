@@ -11393,10 +11393,12 @@ apps-arbitrum.xyz
 apps-asterdex.com
 apps-believe.com
 apps-bitunixin.wixstudio.com
+apps-blofen.wixstudio.com
 apps-bridge.wixstudio.com
 apps-celus.zone
 apps-chnagelly.wixstudio.com
 apps-claim-monad.xyz
+apps-coentrcker.wixstudio.com
 apps-coin-ext.wixstudio.com
 apps-coinext.wixstudio.com
 apps-coinsext.wixstudio.com
@@ -11468,6 +11470,7 @@ apps-ledgre-cdm.wixstudio.com
 apps-ledgrecdn.wixstudio.com
 apps-ledgrelive.wixstudio.com
 apps-ledgrr-live.wixstudio.com
+apps-ledgure.wixstudio.com
 apps-ledzarcdn.wixstudio.com
 apps-live-app.pages.dev
 apps-live-ledge-x.pages.dev
@@ -11487,6 +11490,7 @@ apps-meixcio.wixstudio.com
 apps-merchant.xyz
 apps-meta.com
 apps-meteora.org
+apps-metmsaks.wixstudio.com
 apps-mexcio.wixstudio.com
 apps-migratesfun.live
 apps-monads.xyz
@@ -18939,6 +18943,7 @@ biropay28-bb.com
 birowex.com
 birrbit.com
 birtemrtlogin.webflow.io
+birthday-cultxrp.com
 birthdaypinet.com
 birttmertlogin.webflow.io
 biscoins.com
@@ -19988,6 +19993,7 @@ bituniswap.com
 bitunisweb.com
 bitunix-login.org
 bitunix-portal.at
+bitunixx.wixstudio.com
 bitupchange.io
 bitupdate.live
 bitv3.ai
@@ -33994,6 +34000,7 @@ connect-bridge.wixstudio.com
 connect-bridgeapp.wixstudio.com
 connect-bridged.wixstudio.com
 connect-bridgge.wixstudio.com
+connect-changnew.wixstudio.com
 connect-claim-airdrop-rwa-trump-coin-meme-btc-eth-usdt.pages.dev
 connect-claim-airdrop-trump-coin-meme-btc-eth-usdt-ai.pages.dev
 connect-claim-airdrop-trump-coin-meme-btc-eth-usdt-rwa.pages.dev
@@ -35731,6 +35738,7 @@ crypto-jwv.pages.dev
 crypto-lake.org
 crypto-ledger-desktop-eng.pages.dev
 crypto-ledger-live.pages.dev
+crypto-ledger-official.com
 crypto-ledgr-com.pages.dev
 crypto-luxury.io
 crypto-metamsk-login.pages.dev
@@ -37437,6 +37445,7 @@ danawhitememe.com
 danazxpayllaters.sekainou.biz.id
 dancing-raindrop-014955.netlify.app
 dancing-souffle-bd19d9.netlify.app
+dancing-tapioca-a460d0.netlify.app
 dandans1.com
 dandans10.com
 dandans3.com
@@ -40118,6 +40127,7 @@ desktop-ledgre-us.wixstudio.com
 desktop-ledgre.zapier.app
 desktop-ledgrelives.pages.dev
 desktop-ledgrer.pages.dev
+desktop-ledgrs.wixstudio.com
 desktop-ledigr-com.pages.dev
 desktop-ledrr-com.pages.dev
 desktop-ledxercdn.wixstudio.com
@@ -44875,6 +44885,7 @@ echochainparcel.com
 echocoin.kivyetu.com
 echocrestcu.com
 echodeck.space
+echodigital.app
 echoes-of-valor.com
 echoh5.gemini-ex.com
 echoh5.gemini-hk.com
@@ -49636,6 +49647,7 @@ exeod-us-web3.pages.dev
 exeodusweb.pages.dev
 exeodusweb3-us.pages.dev
 exerot.com
+exeroyals.org
 exesdeusweb.pages.dev
 exevora.com
 exexdusweb.pages.dev
@@ -59006,6 +59018,7 @@ governance-dreamcash.xyz
 governance-ethena.finance
 governance-etherfi.com
 governance-etherfi.xyz
+governance-firelights.xyz
 governance-flare.info
 governance-flyingtulip.com
 governance-gho.network
@@ -70465,6 +70478,7 @@ kanakec.github.io
 kanavabot.pages.dev
 kandrlearning.com
 kangadesktopwallet.app
+kangai.lat
 kangamoon-claim.pages.dev
 kangamoons.web.app
 kangaroo-card-static.pages.dev
@@ -71424,6 +71438,7 @@ kitkat-allocations.xyz
 kitkat.allocation.finance
 kitlv.cc
 kitseramc.com
+kitteehdesign.wixstudio.com
 kittenswap-finance.net
 kittenswap.fi
 kittenswap.info
@@ -78060,6 +78075,7 @@ leaguelens.com
 leagueoflegends.verifytoken.com
 leagueoftraders-airdrop.io
 leakbreach.com
+leaksarchive.com
 leakshub.info
 leakwallet.com
 leal-torlian.com
@@ -78324,6 +78340,7 @@ learn-upholld-auth.pages.dev
 learn-us-coinbse.pages.dev
 learn-us-iron-crypo-wallet.pages.dev
 learn-us-sushiswap.pages.dev
+learn-velodrm.wixstudio.com
 learn-version-pro-access.square.site
 learn-wallet-rabby-x.pages.dev
 learn-wlletconnet.webflow.io
@@ -81787,6 +81804,7 @@ liquidswap.apt-swap.com
 liquidswap.net
 liquidupdate.live
 liquidx.top
+liquiformdesigns.wixstudio.com
 liquild.xyz
 liquilty.org
 liquity-bounty.com
@@ -88796,6 +88814,7 @@ metamask-docs-git-feat-ew-signer-consensys-ddffed67.vercel.app
 metamask-docs-hyzgip64h-consensys-ddffed67.vercel.app
 metamask-docs-ob61tal65-consensys-ddffed67.vercel.app
 metamask-docs-p13jojaa8-consensys-ddffed67.vercel.app
+metamask-docs-qn2sh8fmf-consensys-ddffed67.vercel.app
 metamask-dynamic-demo.vercel.app
 metamask-en-us.pages.dev
 metamask-eng.wixstudio.com
@@ -90650,6 +90669,7 @@ minexc.com
 minflare.com
 minfogbo-cctv.bet
 minggu.dralejandrourrutia.com
+minglo.cc
 minhanauto.com
 mini-ledger.live
 mini-test2025-bonk.pages.dev
@@ -92379,6 +92399,7 @@ moonshot-coins.fun
 moonshot-coins.top
 moonshot-community.com
 moonshot-community.xyz
+moonshot-enter.community
 moonshot-find.com
 moonshot-fomo.com
 moonshot-gem.money
@@ -94603,6 +94624,7 @@ nav-kraken-ca-learn.daftpage.com
 nav-kucainai.wixstudio.com
 nav-kucoiins-apps.wixstudio.com
 nav-laceapps.wixstudio.com
+nav-lacecdn.wixstudio.com
 nav-ldgerdesktop.wixstudio.com
 nav-ledgerr-start-io.pages.dev
 nav-ledgorsso.wixstudio.com
@@ -95665,6 +95687,7 @@ new-meetamarks.pages.dev
 new-metamaskapp.wixstudio.com
 new-metamasklogin-us.pages.dev
 new-midas.event-zones.com
+new-moon-peye.wixstudio.com
 new-moviewebapp.netlify.app
 new-official-zeddex-swap.pages.dev
 new-pope.ai-cryptolist.com
@@ -101524,6 +101547,7 @@ payback.com
 paybackcapitals.com
 paybackcrypto.com
 paybackpump.fun
+paybiescdn.wixstudio.com
 paybill.uhuhyeereuii.com
 paybill.uiayereasreas.com
 paybit.nexus
@@ -105848,6 +105872,7 @@ presales3blockdag.xyz
 presalespacepay.info
 presaletest-chi.vercel.app
 presalewagered.xyz
+presapexmarkets.com
 prescotthale.com
 present-exten-coin.pages.dev
 present-extension-coin-en.pages.dev
@@ -117424,6 +117449,7 @@ seven-promo.com
 seven7.to
 seven7.vip
 sevencasino.ltd
+sevencasino.top
 sevendragons.knightfury.io
 sevenincome.com
 sevenk-partners.com
@@ -125434,6 +125460,7 @@ steks.cc
 stelaroxtradev9.co.uk
 stella.a2f-livraison.com
 stellaflare.org
+stellapluss.netlify.app
 stellar-2-0.webflow.io
 stellar-allowance-revoker.pages.dev
 stellar-astroport.xyz
@@ -127264,6 +127291,7 @@ support-home.pages.dev
 support-home.wixstudio.com
 support-htx-io-cdns.pages.dev
 support-htxx--io-en.pages.dev
+support-htxx-cd.wixstudio.com
 support-hyperliquid-xyz-en.pages.dev
 support-idcase.com
 support-io-ddx-trade.pages.dev
@@ -140611,6 +140639,7 @@ usdc.multibridge.foo
 usdc.name
 usdc.org
 usdc.snddapp.vip
+usdc.ssolaanaa.click
 usdc.sssd.cyou
 usdc.ssse.cyou
 usdc.ssse.top
@@ -143929,6 +143958,7 @@ view-conbase-chrome.pages.dev
 view-desktop-us.wixstudio.com
 view-doc-g5mz.sandyroby1985.workers.dev
 view-e-start-ledgor-io.pages.dev
+view-ettore-apps.wixstudio.com
 view-exodus-doc.pages.dev
 view-exodus-web.pages.dev
 view-exoodss-net.pages.dev
@@ -145120,6 +145150,7 @@ votes-4meme.com
 votes-aerodrome.xyz
 votes-aerodromefinance.xyz
 votes-aethircloud.xyz
+votes-apyx-fi.com
 votes-apyxfi.xyz
 votes-aster.com
 votes-aster.net

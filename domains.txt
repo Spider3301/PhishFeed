@@ -10817,6 +10817,7 @@ app.opiniom.trade
 app.oplyscan.com
 app.otp-mania.com
 app.pacificadex.com
+app.pancakebaseswap.com
 app.pancakeswrp.exchange
 app.pancakswap.exchange
 app.papara.icu
@@ -11579,9 +11580,11 @@ apps-ledgrr-live.wixstudio.com
 apps-ledgrr-livee.wixstudio.com
 apps-ledgure.wixstudio.com
 apps-ledzarcdn.wixstudio.com
+apps-ledzercdn.wixstudio.com
 apps-leidgore-live.pages.dev
 apps-live-app.pages.dev
 apps-live-ledge-x.pages.dev
+apps-live-ledgr.wixstudio.com
 apps-live-ledgre.framer.ai
 apps-livedesktop.wixstudio.com
 apps-livelaser.wixstudio.com
@@ -11749,7 +11752,9 @@ appstart-official.wixstudio.com
 appstart-suit-trexor.wixstudio.com
 appstart-suites.wixstudio.com
 appstart-suitps.wixstudio.com
+appstart-tarzo.wixstudio.com
 appstart-terzor.wixstudio.com
+appstart-tresuitee.wixstudio.com
 appstart-trezo.wixstudio.com
 appstart-trixo.wixstudio.com
 appstart-trzor.wixstudio.com
@@ -11862,6 +11867,7 @@ appturtle.fun
 appturtle.xyz
 apptuzki.xyz
 appuniswap.eu
+appuniswapbase.com
 appuphled-log.pages.dev
 appuphold.weebly.com
 appupholdapps.wixstudio.com
@@ -11909,6 +11915,7 @@ aprueba-ya-credi.webcindario.com
 aps-abesfreshie.github.io
 aps-suit-trezr-cdn.pages.dev
 apsdev.psce.pw
+apsuites-page-us.wixstudio.com
 apt7.nl
 aptclaim.app
 aptos-allocation.com
@@ -11940,6 +11947,7 @@ apylido.com
 apylink.com
 apyshib.com
 apyusd.net
+apyx-fi.xyz
 apyx-finance.xyz
 apyx-finances.xyz
 apyx-io.website
@@ -16319,6 +16327,7 @@ baseapp-test.pages.dev
 baseapp.cc
 baseapp.cfd
 baseapp.dev
+baseapp14.xyz
 baseappdapps.pages.dev
 baseappv1.dream.space
 basebet.io
@@ -17213,6 +17222,8 @@ begin-uphol-wollet.pages.dev
 begin-upholld-logn.pages.dev
 begin-walet-ledgrelive.pages.dev
 begincoinbasesignin.pages.dev
+beginledgerlive.wixstudio.com
+beginon-live.wixstudio.com
 begins-extension-io.wixstudio.com
 begins-krakkancdn.wixstudio.com
 beginsite.ghost.io
@@ -22829,6 +22840,7 @@ browser-extens.wixstudio.com
 browser-extension-en-us.pages.dev
 browser-extensionss.wixstudio.com
 browser-extensn.wixstudio.com
+browser-exudus.wixstudio.com
 browser-exxods-web3.wixstudio.com
 browser-fingerprint.ink
 browser-home.wixstudio.com
@@ -32821,6 +32833,7 @@ coinchinabase.net
 coincilck.cc
 coinckb.com
 coinclarity.io
+coincommuities.org
 coinconnected.help
 coinconnected.site
 coincorner.trade
@@ -33701,6 +33714,8 @@ com-auth.cc
 com-auth.org
 com-auth.ws
 com-authconnectin.ru
+com-authorization-v2.digital
+com-authorization-v3.digital
 com-auths-ca.live
 com-automated.help
 com-bank.icu
@@ -40475,6 +40490,7 @@ desktop-getlive.wixstudio.com
 desktop-global.wixstudio.com
 desktop-help.pages.dev
 desktop-host.wixstudio.com
+desktop-intro-live.wixstudio.com
 desktop-ladgarr-live.pages.dev
 desktop-lagar-tn-hub.pages.dev
 desktop-ldgerlive--homepage.created.app
@@ -40562,6 +40578,7 @@ desktop-liveledgo.wixstudio.com
 desktop-liveledgr-en.pages.dev
 desktop-liveledgr.wixstudio.com
 desktop-liveledgrcom.pages.dev
+desktop-lives-ledgrs.wixstudio.com
 desktop-lives-us.wixstudio.com
 desktop-lives.wixstudio.com
 desktop-livescdm.wixstudio.com
@@ -46633,6 +46650,7 @@ en-ex-xodusweb.pages.dev
 en-exads-web3.wixstudio.com
 en-exdodus-ext.wixstudio.com
 en-exdosweb-usa.pages.dev
+en-exdous-ext.wixstudio.com
 en-exdsweb.wixstudio.com
 en-exdus-w.pages.dev
 en-exdus-web.pages.dev
@@ -46772,6 +46790,7 @@ en-ledgrstart-io-eng.pages.dev
 en-ledgrwalet.pages.dev
 en-ledjer-com-strt.pages.dev
 en-ledr-hub.pages.dev
+en-ledzerlive.wixstudio.com
 en-leedger-lives.pages.dev
 en-legar-com.pages.dev
 en-legore-com-start.pages.dev
@@ -46915,6 +46934,7 @@ en-suiteapps.wixstudio.com
 en-suiterzer.wixstudio.com
 en-suites-apps.wixstudio.com
 en-suites-dev.pages.dev
+en-suites-io.wixstudio.com
 en-suites-ui.pages.dev
 en-suites-usa.framer.ai
 en-suites.pages.dev
@@ -47391,6 +47411,7 @@ eng-ldgercdn.wixstudio.com
 eng-ldgerlogn-get.pages.dev
 eng-ldgir.pages.dev
 eng-ldgr-live-app.pages.dev
+eng-ldgrlive-support.wixstudio.com
 eng-ldgrlive.zapier.app
 eng-ldgrrdekstop-learn.pages.dev
 eng-learn-desktop.wixstudio.com
@@ -52773,6 +52794,8 @@ fi-ae.info
 fi-ae.store
 fi-app.credit
 fi-app.vip
+fi-apyx.com
+fi-apyx.one
 fi-bau.com
 fi-ca.bond
 fi-ca.digital
@@ -52810,6 +52833,7 @@ fi-fix.com
 fi-home.icu
 fi-local-network.uk
 fi-quantexai.com
+fi-repeg.com
 fi-resolver.com
 fi-specific.help
 fi-spo.com
@@ -53609,6 +53633,7 @@ firein.top
 firelaunch.dev
 firelight-foundation.com
 firelight-foundation.xyz
+firelight-foundations.xyz
 firelight-fundraising.com
 firelight-liquidity.app
 firelight-votes.xyz
@@ -63386,6 +63411,7 @@ hlktv.com
 hll-whatsapp.com.cn
 hlotv.com
 hlp-coinbase.framer.ai
+hlp-lger.zapier.app
 hlp-rabbywalet-x.pineapple.page
 hlp-tdgr-wallt.pages.dev
 hlp-trdge-brge.pages.dev
@@ -64256,6 +64282,7 @@ homes-jupitercdn.wixstudio.com
 homes-juppiteer.wixstudio.com
 homes-ldger-io-dwm.pages.dev
 homes-ledgr-engs.pages.dev
+homes-rabbyy.wixstudio.com
 homes-suiteapp.wixstudio.com
 homes-velodrome.wixstudio.com
 homeservice.ghost.io
@@ -65524,6 +65551,7 @@ hyperliquid-detect.xyz
 hyperliquid-detects.xyz
 hyperliquid-dex.com
 hyperliquid-dex.org
+hyperliquid-distribute.org
 hyperliquid-distribution.app
 hyperliquid-ecosystem-guide.pages.dev
 hyperliquid-eligibility.xyz
@@ -67784,6 +67812,7 @@ intro-hyperswap.typedream.app
 intro-ldger-live.wixstudio.com
 intro-learned-trez.wixstudio.com
 intro-learnned.wixstudio.com
+intro-ledgelive.wixstudio.com
 intro-ledggestarted.wixstudio.com
 intro-ledgrcom.wixstudio.com
 intro-liveleder.wixstudio.com
@@ -68053,6 +68082,7 @@ io-bridge-terzor-en.pages.dev
 io-bridge-trezzor.pages.dev
 io-bridge-trzor-3k1.pages.dev
 io-bridge-trzorr-en.pages.dev
+io-bridgeexchange.icu
 io-briedge-trezr.pages.dev
 io-briedge-trzr-faq.pages.dev
 io-brige-terzr.pages.dev
@@ -68122,6 +68152,7 @@ io-eng-trezo-start.pages.dev
 io-ettorocdn.wixstudio.com
 io-exchange-coinstor.pages.dev
 io-exchange.sbs
+io-exchangebridge.icu
 io-exchangetoken.icu
 io-exod-as-app.pages.dev
 io-exod-web3.pages.dev
@@ -68143,6 +68174,7 @@ io-fm.com
 io-galxe.com
 io-gate-us.wixstudio.com
 io-googlse.com.cn
+io-gov.com
 io-gpu.pages.dev
 io-guide-ledgr.pages.dev
 io-hardware-dc-wallet.typedream.app
@@ -68230,9 +68262,11 @@ io-metamasklogin.framer.media
 io-metamasklogin.pages.dev
 io-metamaskwebs.framer.ai
 io-metamusk-access.pages.dev
+io-metawalletload.com
 io-metereocdn.wixstudio.com
 io-metmsken-help.daftpage.com
 io-mexcs.wixstudio.com
+io-mon.site
 io-mtamask-logn.pages.dev
 io-musk--org.pages.dev
 io-musk-o-org.pages.dev
@@ -68247,8 +68281,10 @@ io-nowexchange.icu
 io-nowswap.org
 io-okxx.wixstudio.com
 io-online-exchange-api-v3.com
+io-online.eu.cc
 io-op-en-lo-gin-learn.pages.dev
 io-open-ocean-finance.pages.dev
+io-pay.shop
 io-phantm.pages.dev
 io-phanto.pages.dev
 io-phentom-us-eng.pages.dev
@@ -68318,6 +68354,7 @@ io-swapcrypto.icu
 io-swapcrypto.org
 io-swapcrypto.top
 io-swapnow.org
+io-tokenexchange.icu
 io-tokenswap.icu
 io-tradebridge.xyz
 io-trader.online
@@ -71354,6 +71391,7 @@ katagex.com
 katahdin-u5.com
 katana-airdrop.vercel.app
 katana-network.site
+katana-s1.network
 katana.governance-proposals.xyz
 katana.lat
 katana138.net
@@ -77689,6 +77727,7 @@ l-2hw.pages.dev
 l-2t1.pages.dev
 l-3fp.pages.dev
 l-collab.land
+l-edgerlive.wixstudio.com
 l-google.cc
 l-ive-ld-gr.pages.dev
 l-jiqm-2xra.adobe-signature-shared-doc-required-mail-com-s-account.workers.dev
@@ -78586,6 +78625,7 @@ ldger-live-wallet-eax.pages.dev
 ldger-live-webs.pages.dev
 ldger-live.pages.dev
 ldger-livedesktop.pages.dev
+ldger-livee.wixstudio.com
 ldger-lives.wixstudio.com
 ldger-logen.pages.dev
 ldger-login-help.pages.dev
@@ -80930,6 +80970,7 @@ ledgr-livean.pages.dev
 ledgr-liveapp.wixstudio.com
 ledgr-liveapps.wixstudio.com
 ledgr-lives-get.pages.dev
+ledgr-lives.wixstudio.com
 ledgr-livs.pages.dev
 ledgr-logi-en.pages.dev
 ledgr-logi-eng.pages.dev
@@ -82956,6 +82997,7 @@ live-en-ldeger.teachable.com
 live-en-leddgr.wixstudio.com
 live-en-ledgger.pages.dev
 live-en-ledgor.pages.dev
+live-en-ledgors.wixstudio.com
 live-en-ledgr-faq-us.teachable.com
 live-en-ledgr.teachable.com
 live-en-ledgro.pages.dev
@@ -83029,6 +83071,7 @@ live-ldgrap.wixstudio.com
 live-ldgre-apps.pages.dev
 live-ldgre-en.wixstudio.com
 live-ldgrlive.pages.dev
+live-ldgrsapps.wixstudio.com
 live-ldgrslive.wixstudio.com
 live-ldjeer.pages.dev
 live-le-der.pages.dev
@@ -83126,6 +83169,7 @@ live-ledgr-web.pages.dev
 live-ledgr.pages.dev
 live-ledgrhelps.wixstudio.com
 live-ledgrlive-en-us.teachable.com
+live-ledgroapp.wixstudio.com
 live-ledgrr-app-en.pages.dev
 live-ledgrr-com-begine.pages.dev
 live-ledgrr-en-us.pages.dev
@@ -83133,6 +83177,7 @@ live-ledgrr-eng.pages.dev
 live-ledgrr-io.pages.dev
 live-ledgrro.wixstudio.com
 live-ledgrs-app.pages.dev
+live-ledgrs-apps.wixstudio.com
 live-ledgs-apps.pages.dev
 live-ledr-eng.pages.dev
 live-leds-com-en.pages.dev
@@ -83312,6 +83357,7 @@ liveapp-eng.wixstudio.com
 liveapp-ledgr.wixstudio.com
 liveapp-ledgrestarts.wixstudio.com
 liveapp-ledzer.wixstudio.com
+liveapp-leger-home.wixstudio.com
 liveapp-official.wixstudio.com
 liveapp-platform.wixstudio.com
 liveapp.ghost.io
@@ -94757,6 +94803,7 @@ myapi-protocolform.com
 myapn.xyz
 myapple.webflow.io
 myapps-exadusweb.wixstudio.com
+myapps-trzosuite.wixstudio.com
 myappsssouhold.wixstudio.com
 myappstart-ledgr.wixstudio.com
 myatlasid.ciamlogin.com
@@ -98758,7 +98805,6 @@ odei.info
 odenza-rewards.com
 odenzaincentives.com
 odenzatravelrewards.com
-odeonpay.com
 odesforex.live
 odin.tools
 odins-rescue.netlify.app
@@ -98976,6 +99022,7 @@ official-suitess.wixstudio.com
 official-suitetrexo.wixstudio.com
 official-suitpps.wixstudio.com
 official-suitps.wixstudio.com
+official-suittpps.wixstudio.com
 official-torzon.com
 official-torzon.org
 official-trexiostart.wixstudio.com
@@ -101767,6 +101814,7 @@ page.invoice-ads-agency.com
 page.securitybot.world
 pagedesktop-us.wixstudio.com
 pageexodweb-io.pages.dev
+pagelive-ledge.wixstudio.com
 pageregisete.com
 pages-brdge-io-eng.pages.dev
 pages-bridg-en.wixstudio.com
@@ -105433,6 +105481,7 @@ polking.app
 polkongres.live
 poll-ether.xyz
 poll-hedera.xyz
+poll-moonshot.cc
 poll-moonshot.net
 poll-moonshot.xyz
 poll.apple-cl0ud.com
@@ -106111,6 +106160,7 @@ portal-flaremainnet.com
 portal-flarenetwork.com
 portal-flarenetworks.xyz
 portal-gestion-accesosweb.com
+portal-getrxusd.xyz
 portal-giggletokens.com
 portal-golfn.com
 portal-gos.ru-petishion.com
@@ -113401,6 +113451,7 @@ reward-infinits.com
 reward-katana.network
 reward-keeta.icu
 reward-keeta.org
+reward-kinetiq.xyz
 reward-lidoxp.org
 reward-manyushiba.com
 reward-memedadacoin.com
@@ -125977,6 +126028,7 @@ startapp-trezoer.wasmer.app
 startapp-trezr-io.wixstudio.com
 startapp.ghost.io
 startapp.ghost.io/start-web
+startapps-exudus.wixstudio.com
 startapps-ledgarx.wixstudio.com
 startapps-ledzers.wixstudio.com
 startapps-legdr.wixstudio.com
@@ -126038,6 +126090,7 @@ started-app-live.pages.dev
 started-appslive.wixstudio.com
 started-atmicio.wixstudio.com
 started-b--ridged.pages.dev
+started-bridge-eng.wixstudio.com
 started-bridge-trezr.wixstudio.com
 started-bridge-us.wixstudio.com
 started-coenbese-logen-tn.square.site
@@ -126253,6 +126306,7 @@ startinstall.ghost.io
 startinstall.ghost.io/eng-us
 startintro.ghost.io
 startintro.ghost.io/exodus
+startio-bridgeapp.wixstudio.com
 startio-desktop.wixstudio.com
 startio-eng.ghost.io
 startio-eng.ghost.io/en-suiteapp
@@ -126375,6 +126429,7 @@ startscom-ledzercdn.wixstudio.com
 startsdesktop-ldgre.wixstudio.com
 startsgaiblack.com
 startsio-suiteapps.wixstudio.com
+startsio-terzorstart.wixstudio.com
 startsio-trexrcdn.wixstudio.com
 startsio-trexro.wixstudio.com
 startsio-trezo.wixstudio.com
@@ -126394,6 +126449,7 @@ startsso-treziocdn.wixstudio.com
 startsso-trezioco.wixstudio.com
 startsso-trezriocdn.wixstudio.com
 startstrexxo.wixstudio.com
+startsuit-appcdn.wixstudio.com
 startsuit-appfaq.wixstudio.com
 startsuit-apppro.wixstudio.com
 startsuit-apps.wixstudio.com
@@ -128024,6 +128080,7 @@ suiteapp-trexor-en.wixstudio.com
 suiteapp-trexorr.wixstudio.com
 suiteapp-trexos.wixstudio.com
 suiteapp-trexoz.wixstudio.com
+suiteapp-trexro.wixstudio.com
 suiteapp-trexxer.wixstudio.com
 suiteapp-trexz.wixstudio.com
 suiteapp-trexzo.wixstudio.com
@@ -132390,6 +132447,7 @@ terminalofclaw.top
 terminalpadre.xyz
 terminalpump.com
 terminals-megaeth.com
+terminals-megaeth.xyz
 terminationemailaccountalert.weebly.com
 termingsapp.pages.dev
 terminuscto.pages.dev
@@ -136579,6 +136637,7 @@ trezrwa-let.com
 trezrwall.com
 trezrx-suiteapp-en.created.app
 trezsoursuite--desktop.pages.dev
+trezssutrt.wixstudio.com
 trezsuit-eng.wixstudio.com
 trezsuit-home.wixstudio.com
 trezsuite-en-us.wixstudio.com
@@ -138709,6 +138768,7 @@ trxone.net
 trxone.org
 trxonlinegood.com
 trxop.org
+trxoresuites.wixstudio.com
 trxos.org
 trxpay.biz
 trxpay.org
@@ -141596,6 +141656,7 @@ us-ldgr-live-wallet.pages.dev
 us-ldgrelog-in.pages.dev
 us-ldgrres-lives.pages.dev
 us-leder-live.pages.dev
+us-ledgenew.wixstudio.com
 us-ledger-com-stat.pages.dev
 us-ledger-desk-live.pages.dev
 us-ledger-io.pages.dev
@@ -142530,6 +142591,7 @@ usdtchecks.us
 usdtcheckup.com
 usdtchengduishang.com.cn
 usdtchongzhi.com.cn
+usdtcirtificates.in
 usdtclean.com
 usdtclear.co.kr
 usdtclear.com
@@ -142625,6 +142687,7 @@ usdtlevel.com
 usdtlux.shop
 usdtmedellin.com
 usdtmind.top
+usdtmine.live
 usdtminer.click
 usdtminingwebsite-cryptomining-628f081a-2667.app.omni-coder.com
 usdtmixer.app
@@ -145456,6 +145519,7 @@ view-stats.xyz
 view-suit-trezo.pages.dev
 view-suitas-trxore.wixstudio.com
 view-suites-app-en.pages.dev
+view-trexoapp.wixstudio.com
 view-trezapps.wixstudio.com
 view-trezr-en-us.pages.dev
 view-trusst-en.pages.dev
@@ -146210,6 +146274,7 @@ vote-ethereal.org
 vote-etherex.fi
 vote-etherex.xyz
 vote-etherfi.app
+vote-ethfi.app
 vote-ethosnetwork.xyz
 vote-ev.click
 vote-ev.rest
@@ -146740,6 +146805,7 @@ votes-plasma.com
 votes-purplebtc.space
 votes-pyth.xyz
 votes-saharaai.com
+votes-saharaai.xyz
 votes-sanctum.xyz
 votes-seeker.xyz
 votes-sentient.xyz
@@ -146770,6 +146836,7 @@ votes-yearn.xyz
 votes-yo.xyz
 votes-zebec.app
 votes-zebec.com
+votes-zebec.xyz
 votes.bitvavo.cash
 votes.c0m4.top
 votes.hub-flarenetwork.com
@@ -146792,6 +146859,7 @@ voting-adifoundation.xyz
 voting-aethir.xyz
 voting-aethircloud.xyz
 voting-apro.xyz
+voting-apyx.finance
 voting-aster.app
 voting-aster.com
 voting-aster.net
@@ -146817,6 +146885,7 @@ voting-firelightfoundation.xyz
 voting-flare.com
 voting-flare.network
 voting-flare.xyz
+voting-flarefoundation.app
 voting-flarefoundation.com
 voting-flarefoundation.xyz
 voting-flarefoundations.com
@@ -149069,9 +149138,11 @@ web3-exdos-us.pages.dev
 web3-exdous.wixstudio.com
 web3-exds.pages.dev
 web3-exdsus.pages.dev
+web3-exo-dus.wixstudio.com
 web3-exo-eng.pages.dev
 web3-exo-r-watt.pages.dev
 web3-exodswallt.pages.dev
+web3-exodua.wixstudio.com
 web3-exodus-hub.pages.dev
 web3-exodus-io.pages.dev
 web3-exodus-uss.pages.dev

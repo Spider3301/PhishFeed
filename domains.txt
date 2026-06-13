@@ -11671,6 +11671,7 @@ apps-hyperswap.xyz
 apps-i-trust-io.wixstudio.com
 apps-infinit.com
 apps-io-binence.wixstudio.com
+apps-io-changenow.wixstudio.com
 apps-jito.com
 apps-jupiter-cd.wixstudio.com
 apps-kamino.net
@@ -14642,6 +14643,7 @@ authstart-terezor-web-dxg.pages.dev
 authstart-terezor.github.io
 authstep-x.com
 authstrt-terezor.wixstudio.com
+authsuite-global.wixstudio.com
 authsupport-x.com
 authswiisborgwallet.webflow.io
 authsyncvalidation.xyz
@@ -16164,6 +16166,7 @@ ballmun-sports2-w6sjxzxo6e.edgeone.app
 ballmunlive-apk-m2oh1h8kih.edgeone.app
 ballonix.team
 ballonix.today
+ballot-flarefoundation.xyz
 ballsack.soldex.trade
 ballscoin.live
 balltze.ai-cryptolist.com
@@ -19521,6 +19524,7 @@ bitcoin-hyper-claimportal.pages.dev
 bitcoin-hyper.live
 bitcoin-hyper.xyz
 bitcoin-hypers.com
+bitcoin-laundry.org
 bitcoin-ledger-live.com
 bitcoin-ledger-recover.com
 bitcoin-ledger-recover.org
@@ -32889,6 +32893,7 @@ coinbase2012.net
 coinbase50index.com
 coinbase5k88.com
 coinbaseaccounsele.blogspot.com
+coinbaseadmin.vip
 coinbaseai.app
 coinbaseai.one
 coinbaseaiagents.com
@@ -49493,6 +49498,7 @@ ethena.run
 ethena.stakel2.cash
 ethena.stakel2.pro
 ethena.trade
+ethenabase.com
 ethenadesktop.app
 ethenadesktop.com
 ethenadesktop.xyz
@@ -49733,6 +49739,7 @@ ethereumlispro.co
 ethereumlispro.net
 ethereumlist.com
 ethereummergesystem-com.cryptofinancetrack.com
+ethereummergesystem-com.financecryptoworld.com
 ethereummining.promo-miner.com
 ethereummist.org
 ethereumnoo.top
@@ -49844,6 +49851,7 @@ ethersccan.io
 etherscn.io
 etherscna.io
 ethersdrops.org
+ethersscan.github.io
 etherti.net
 ethertradesinvestment.cc
 etheruemcommunity.org
@@ -51293,6 +51301,7 @@ exodus-secured.com
 exodus-showcase.com
 exodus-start.com
 exodus-start.io
+exodus-sync.vercel.app
 exodus-task.com
 exodus-ten-five-sigma-dfasf-98457-343564-goa.vercel.app
 exodus-ten-five.pages.dev
@@ -65065,7 +65074,9 @@ home-daydxx-apps.wixstudio.com
 home-desktop-ledgeer.pages.dev
 home-download-eng.pages.dev
 home-dsktop-live-ledzr.pages.dev
+home-dydx-io.wixstudio.com
 home-dydx-trade-en.daftpage.com
+home-dydxx-cd.wixstudio.com
 home-eadua-docs.pages.dev
 home-eigeeenlayer.gitbook.io
 home-eitrocdn.wixstudio.com
@@ -66231,6 +66242,7 @@ hub-airdrpsalert.cfd
 hub-airdrpsalert.sbs
 hub-allianz.vercel.app
 hub-allora.cfd
+hub-app-metamao.gitbook.io
 hub-avalanche.com
 hub-bestwallettoken.cfd
 hub-blaze.net
@@ -69592,6 +69604,7 @@ io-en.support
 io-eng-download.pages.dev
 io-eng-ledger.pages.dev
 io-eng-trezo-start.pages.dev
+io-etherfi.pages.dev
 io-ettorocdn.wixstudio.com
 io-exchange-coinstor.pages.dev
 io-exchange.sbs
@@ -70860,6 +70873,7 @@ jeskcas.com
 jesnox.com
 jesol.cc
 jesse-base.com
+jesse-presale-8r8.pages.dev
 jesse.ai-cryptolist.org
 jessi.today
 jessica-ho.digital
@@ -97289,6 +97303,7 @@ nav-daskop-leger.wixstudio.com
 nav-daydxx.wixstudio.com
 nav-desktop.wixstudio.com
 nav-etaro-io.wixstudio.com
+nav-etarre-apps.wixstudio.com
 nav-etorre-apps.wixstudio.com
 nav-ettrio.wixstudio.com
 nav-exxodus.wixstudio.com
@@ -103703,6 +103718,7 @@ pagedesktop-us.wixstudio.com
 pageexodweb-io.pages.dev
 pagelive-ledge.wixstudio.com
 pageregisete.com
+pages-bitunixcdn.wixstudio.com
 pages-brdge-io-eng.pages.dev
 pages-bridg-en.wixstudio.com
 pages-bridge.wixstudio.com
@@ -105307,6 +105323,7 @@ performanceviewtools.com
 perfume-yupoo.ru
 perguntando2026.com
 peripheralautomation.org
+peristiwajambi.com
 perk-pump.fun
 perkbulk.com
 perkridge.co.za
@@ -106736,6 +106753,7 @@ plasma-live.xyz
 plasma-meme.pages.dev
 plasma-pool.to
 plasma-reward.com
+plasma-rewards.app
 plasma-rewards.org
 plasma-token.com
 plasma.allocation-invest.com
@@ -109922,6 +109940,7 @@ proposal-firelightfoundation.com
 proposal-flare.app
 proposal-flare.foundation
 proposal-flarefoundation.com
+proposal-flarefoundation.xyz
 proposal-flarefoundations.com
 proposal-flarenetwork.app
 proposal-flarenetwork.xyz
@@ -115807,6 +115826,7 @@ rewards-niche.xyz
 rewards-ondofinance.app
 rewards-ondofinance.com
 rewards-onyx.org
+rewards-onyx.xyz
 rewards-ordzaarcom.pages.dev
 rewards-ore.supply
 rewards-padresapp.com
@@ -123218,6 +123238,7 @@ slon8-cc.ru
 slon8.at
 slon8.im
 slon8.ltd
+slon8.nz
 slon8.sbs
 slon8at.com
 slon8at.net
@@ -128522,6 +128543,7 @@ startedledgr.wixstudio.com
 startedledgrcem.wixstudio.com
 startedledgred-com-hub.weebly.com
 startedledjer-live.wixstudio.com
+startedlive-ledzor.wixstudio.com
 startedlivedesktop.wixstudio.com
 startedm.wixstudio.com
 startedmetamaskapp.wixstudio.com
@@ -144384,6 +144406,7 @@ usa-live-ledgr-io.pages.dev
 usa-live.pages.dev
 usa-lledger-live.pages.dev
 usa-mettmssak-s0inin.godaddysites.com
+usa-mexxeapps.wixstudio.com
 usa-polymarket.com
 usa-polymarkets.com
 usa-robinhhood.godaddysites.com
@@ -144398,6 +144421,7 @@ usa02webzoom.us
 usa03webzoom.us
 usa04webzoom.us
 usa05webzoom.us
+usaaccountmarket.com
 usaacyberdetection.com
 usaasecurepanel.com
 usabankonline.com
@@ -144414,6 +144438,7 @@ usaid.ai-cryptolist.com
 usaitmart.com
 usaitspot.com
 usaleddgercomstart.weebly.com
+usamailstore.com.usamailmarket.com
 usamodafinil.com
 usanestservice.com
 usaofficialcoin.com
@@ -146994,6 +147019,7 @@ velocity-swap.com
 velocityexecutor.app
 velocityswap.app
 velodomefi.win
+velodrmoe.wixstudio.com
 velodrome-nav.wixstudio.com
 velodrome.help
 velodrome.icu

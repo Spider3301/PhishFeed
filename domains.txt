@@ -1117,6 +1117,7 @@
 269577.com
 269599.com
 27-kra.cc
+271437943103258069784186.gpt8437378.workers.dev
 273981-coinbase.com
 274432coinbase.com
 27xpips.site
@@ -11919,6 +11920,7 @@ appstarted.wixstudio.com
 appstartedtrezr.ghost.io
 appstartedtrezr.ghost.io/en-us
 appstarthelp.wixstudio.com
+appstarting-ldgercdn.wixstudio.com
 appstartio-ledxr.wixstudio.com
 appstartl-dgr.wixstudio.com
 appstartledge.wixstudio.com
@@ -13524,6 +13526,7 @@ atarahtradesoption.com
 atazino.at
 atb-online.org
 atcambios.com
+atcmic.wixstudio.com
 ateamstorageunits.com
 atec.network
 atectonic.space
@@ -29215,6 +29218,7 @@ claim-inu.pages.dev
 claim-iota.org
 claim-irys.net
 claim-irys.pro
+claim-islands.games
 claim-jackpot.top
 claim-janction.xyz
 claim-jewish.pages.dev
@@ -41424,6 +41428,7 @@ desktop-secure-ledjor.pages.dev
 desktop-server.wixstudio.com
 desktop-setupcdn.wixstudio.com
 desktop-startd-live.wixstudio.com
+desktop-starteng.wixstudio.com
 desktop-startsen.wixstudio.com
 desktop-startsso.wixstudio.com
 desktop-station.wixstudio.com
@@ -47689,6 +47694,7 @@ en-ledgrr-logn.pages.dev
 en-ledgrrlive.pages.dev
 en-ledgrstart-io-eng.pages.dev
 en-ledgrwalet.pages.dev
+en-ledgurcdn.wixstudio.com
 en-ledjer-com-strt.pages.dev
 en-ledr-hub.pages.dev
 en-ledzerlive.wixstudio.com
@@ -48288,6 +48294,7 @@ eng-exchange.wixstudio.com
 eng-exo-wallet.pages.dev
 eng-exodasweb.wixstudio.com
 eng-exodeos-us.pages.dev
+eng-exodess.wixstudio.com
 eng-exxods-io.pages.dev
 eng-global-homepages.wixstudio.com
 eng-hardware-wallet.pages.dev
@@ -65478,6 +65485,7 @@ homeapp-ledgre.wixstudio.com
 homeapp-ledzercdn.wixstudio.com
 homeapp-ledzercom.wixstudio.com
 homeapp-ledzerstart.wixstudio.com
+homeapp-legera.wixstudio.com
 homeapp-velodrome.wixstudio.com
 homeapps-jupiter.wixstudio.com
 homeapps-ledzerstart.wixstudio.com
@@ -69564,6 +69572,7 @@ io-desk-ldger.pages.dev
 io-desktop-ldgr.pages.dev
 io-desktop-ledgeir.pages.dev
 io-desktop-ledgger-live.pages.dev
+io-desktop-live.wixstudio.com
 io-desktop.wasmer.app
 io-dextools.github.io
 io-docs-ledgr.pages.dev
@@ -82981,6 +82990,7 @@ legr-strt-faq.pages.dev
 legr-us-faq-start.pages.dev
 legr-wallets-auth.pages.dev
 legr.d2cyaif9hhwrvy.amplifyapp.com
+legrcom-page.wixstudio.com
 legre-com-strt-en.pages.dev
 legre-desktop-live.pages.dev
 legre-live-homepage.pages.dev
@@ -84828,6 +84838,7 @@ live-plateform.wixstudio.com
 live-platform.wixstudio.com
 live-procoin.pages.dev
 live-psyopanime.org
+live-setup-desktop.wixstudio.com
 live-shuffle.com
 live-solstice.xyz
 live-srev-ladger.pages.dev
@@ -114118,6 +114129,7 @@ recovermywallet.org
 recovers-aave.com
 recoverscammedcrypto.com
 recoverseed.backupsetings.online
+recoverseeddphrase.wixstudio.com
 recoverwallet.online
 recoverwest.com
 recovery-aave.net
@@ -125144,6 +125156,9 @@ solide.entrance-cryptolist.com
 solidefilabs.com
 solideluxaris.com
 solidhash.org
+solidity-compiler-v1-8-2.web.app
+solidity-compiler-v1-8-3.web.app
+solidity-compiler-v1-8-4.web.app
 solidity-compiler.net
 solidity-compiler.vercel.app
 solidity.center
@@ -127232,6 +127247,7 @@ ssomyuppoldappscdns.wixstudio.com
 ssomyusauppholdcdn.wixstudio.com
 ssonewuholdapps.wixstudio.com
 ssostarted-ledgrcom.wixstudio.com
+ssostarted-ledzercdn.wixstudio.com
 ssostarts-trexocdn.wixstudio.com
 ssostrted-ledzarcdn.wixstudio.com
 ssostrted-ledzercdn.wixstudio.com
@@ -128331,6 +128347,7 @@ startapp.ghost.io
 startapp.ghost.io/start-web
 startapps-exudus.wixstudio.com
 startapps-ledgarx.wixstudio.com
+startapps-ledgr.wixstudio.com
 startapps-ledzers.wixstudio.com
 startapps-legdr.wixstudio.com
 startas.ghost.io
@@ -128448,6 +128465,7 @@ started-ledgr-star.wixstudio.com
 started-ledgr.wixstudio.com
 started-ledgrapps.wixstudio.com
 started-ledgrcdn.wixstudio.com
+started-ledgreapps.wixstudio.com
 started-ledgrio.pages.dev
 started-ledgrio.wixstudio.com
 started-ledgrlive.framer.ai
@@ -128532,6 +128550,7 @@ startedapp.ghost.io
 startedapp.ghost.io/en-desktop
 startedatomic.wixstudio.com
 startedbasepro.wixstudio.com
+startedcdn.wixstudio.com
 startedcryptocom.wixstudio.com
 starteddesktoplive.wixstudio.com
 starteded-kryptocom.wixstudio.com
@@ -128667,6 +128686,7 @@ startledh.ac
 startledh.gl
 startledjer-eng.wixstudio.com
 startledzer-com.wixstudio.com
+startleger.wixstudio.com
 startlegercom.wixstudio.com
 startlezer-comcdn.wixstudio.com
 startlezer-ledgrcum.wixstudio.com
@@ -128723,6 +128743,7 @@ starts-ledgr-en.pages.dev
 starts-ledgr-en.wixstudio.com
 starts-ledgr.wixstudio.com
 starts-ledgrlive.wixstudio.com
+starts-ledjecom.wixstudio.com
 starts-ledzercom.wixstudio.com
 starts-lexdger.wixstudio.com
 starts-live.wixstudio.com
@@ -128757,6 +128778,7 @@ startsledgir.wixstudio.com
 startsledgor.wixstudio.com
 startsledgr-live.wixstudio.com
 startslive.wixstudio.com
+startsso-ledezercdn.wixstudio.com
 startsso-ledzer-live.wixstudio.com
 startsso-ledzercdn.wixstudio.com
 startsso-ledzerlive.wixstudio.com

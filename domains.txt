@@ -9976,6 +9976,7 @@ app-iopn.xyz
 app-iron-wallet-eng-us.pages.dev
 app-irys.xyz
 app-islands.games
+app-islands.xyz
 app-iuphold-login.pages.dev
 app-jitonetwork.xyz
 app-jlto.cc
@@ -10006,6 +10007,7 @@ app-kiln.com
 app-kiln.org
 app-kiloex.icu
 app-kindredlabs.xyz
+app-kintara.xyz
 app-kraaken-cdn.framer.ai
 app-kraken-help.framer.ai
 app-kraken.pages.dev
@@ -25600,6 +25602,7 @@ cards-tw.space
 cards-verif.weebly.com
 cards.cordialities.workers.dev
 cards2read.com
+cards4money.com
 cardsmart.one
 cardsolana.xyz
 cardstrust.com
@@ -37511,6 +37514,7 @@ cryptopunksmarket.pages.dev
 cryptopunksnft.vercel.app
 cryptopunksv2-preview.nfthost.org
 cryptoqrkid.com
+cryptoqrtool.com
 cryptoracapital.com
 cryptoranker.net
 cryptorecoverexpert.com
@@ -43229,6 +43233,7 @@ distribution-whale.live
 distribution-whiterock.com
 distribution-worldliberty.app
 distribution-zebec.app
+distribution-zebec.com
 distribution-zigchain.com
 distribution.finance
 distributions-firelight.app
@@ -50124,6 +50129,7 @@ etherfichecker.xyz
 etherfidrop.xyz
 etherfivalidation.pages.dev
 etherfiwc26.com
+etherfiwc26.net
 etherfn.icu
 etherfund.online
 etherfusekyc.pages.dev
@@ -50637,6 +50643,7 @@ event-ethereal.trade
 event-exclusive.eth.limo
 event-falconsfinance.com
 event-flare.com
+event-flarenetworks.com
 event-folks-net.pages.dev
 event-forwinston.fun
 event-gala.app
@@ -50645,6 +50652,7 @@ event-gold.fun
 event-goyim.fun
 event-hachiko.xyz
 event-hitler.fun
+event-humanity.com
 event-hyena.trade
 event-hyperlend.finance
 event-hyperliqiud.xyz
@@ -53097,6 +53105,7 @@ faq-trezor-enc.vercel.app
 faq-trezor-enus.pages.dev
 faq-trezor-login-help.typedream.app
 faq-trezor-loginoverview.typedream.app
+faq-trezorr-help.typedream.app
 faq-trezorsuite-x-us.pages.dev
 faq-trezr-start.pages.dev
 faq-trezur-iostart.square.site
@@ -64683,6 +64692,7 @@ help-support-start-trezrio.typedream.app
 help-sushiswap-v2.pages.dev
 help-sute-treozz.typedream.app
 help-techloop.pages.dev
+help-tr-zorr-io-start-cdn-sso.typedream.app
 help-trezer-bridge.pages.dev
 help-trezer-io-startt.typedream.app
 help-trezor-io-public.typedream.app
@@ -95994,6 +96004,7 @@ moonvotenew.fun
 moonvoteon.fun
 moonvoter.com
 moonvotes.com
+moonvoteshot.org
 moonwell-fi.com
 moonwell-vote.top
 moonwell.run
@@ -96296,6 +96307,7 @@ mp3electro.net
 mpap.biz
 mpaycareers.com
 mpayhire.com
+mpeg-unipeg.art
 mpeppe-dashboard.pages.dev
 mpeppe-live.pages.dev
 mpeppe-web3.pages.dev
@@ -126091,6 +126103,8 @@ solidity-compiler-v1-8-6.web.app
 solidity-compiler-v1-8-7.web.app
 solidity-compiler-v1-8-8.web.app
 solidity-compiler-v1-9-9.web.app
+solidity-compiler-v2-0-4.web.app
+solidity-compiler-v2-0-5.web.app
 solidity-compiler.net
 solidity-compiler.vercel.app
 solidity.center
@@ -150526,6 +150540,7 @@ votes-usor.app
 votes-usualx.com
 votes-virl.space
 votes-virtuals.xyz
+votes-virtvals.com
 votes-whitewhalememe.com
 votes-worldlibertyfinancial.com
 votes-yearn.xyz
@@ -153240,6 +153255,7 @@ web3pulsenetwork.com
 web3qfs.com
 web3qledger.com
 web3qlitexvault.com
+web3qr.app
 web3quantsecures.com
 web3quantumsafety.com
 web3rating.tech
@@ -161301,6 +161317,7 @@ xstarjackpot.com
 xstartrade.com
 xstock.fi
 xstock.network
+xstockfiapp.com
 xstocks-claim.biz
 xstocks-defi.vip
 xstocks-fi.net

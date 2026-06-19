@@ -10128,6 +10128,7 @@ app-kiln.com
 app-kiln.org
 app-kiloex.icu
 app-kindredlabs.xyz
+app-kintara.gg
 app-kintara.xyz
 app-kraaken-cdn.framer.ai
 app-kraken-help.framer.ai
@@ -58529,6 +58530,7 @@ gabawin.com
 gabc-global.com
 gabocas.com
 gabrielgiraldo.com
+gabrielnovaesdev.github.io
 gabrieltinoco01.github.io
 gabungwa.net
 gacancersupport.com
@@ -62241,6 +62243,7 @@ gradientt.network
 graficadigitaljuatuba.com
 graficasquare.com.br
 grailclaims.exchange
+gramevent.org
 gramfi-articles.pages.dev
 gramm45.biz
 gramsdailyxpress.com

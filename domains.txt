@@ -35779,6 +35779,7 @@ connect-leger-live.pages.dev
 connect-live-desktop-app.pages.dev
 connect-live-ledge-app.pages.dev
 connect-live-ledger-info.pages.dev
+connect-live-us.wixstudio.com
 connect-liveledgr.pages.dev
 connect-livelgr-learn.pages.dev
 connect-livelgr.pages.dev
@@ -63379,6 +63380,7 @@ guide-phantomm.pages.dev
 guide-phntom.framer.ai
 guide-pro-coin.pages.dev
 guide-rabbyy-wallet.pages.dev
+guide-starten.wixstudio.com
 guide-sushiswap-trade-eng.pages.dev
 guide-trazer.pages.dev
 guide-trez-bridge.pages.dev
@@ -82050,6 +82052,7 @@ learn-ledgr-live.weebly.com
 learn-ledgr.framer.wiki
 learn-ledgr.framer.wiki/desktop
 learn-ledgrapp.created.app
+learn-ledgrcom.wixstudio.com
 learn-ledgrer-liwe-acces.pages.dev
 learn-ledgrlive-logoo.pages.dev
 learn-ledgrlogin-eng.pages.dev
@@ -82434,6 +82437,7 @@ ledge-star.pages.dev
 ledge-start-review-us.pages.dev
 ledge-startapp.wixstudio.com
 ledge-usa-live.pages.dev
+ledgeapp-comstart.wixstudio.com
 ledgeapplive.wixstudio.com
 ledgear-live-wallat.pages.dev
 ledgecm-started.wixstudio.com
@@ -130859,6 +130863,7 @@ startblog.ghost.io/enus
 startbridge-home.wixstudio.com
 startbridges-com.wixstudio.com
 startcas.com
+startcdn-ledgr.wixstudio.com
 startcom-ldzer.zapier.app
 startcom-ledagr.wixstudio.com
 startcom-ledgeapp.wixstudio.com
@@ -130870,6 +130875,7 @@ startd-bridge-trzr.wixstudio.com
 startd-desktoplive.wixstudio.com
 startd-ledgecom.wixstudio.com
 startd-ledggr-com.wixstudio.com
+startd-ledgr.wixstudio.com
 startd-ledgrlive.wixstudio.com
 startd-ledjor-appsso.wixstudio.com
 startd-ledzorcdn.wixstudio.com
@@ -131146,6 +131152,7 @@ startio-bridgeapp.wixstudio.com
 startio-desktop.wixstudio.com
 startio-eng.ghost.io
 startio-eng.ghost.io/en-suiteapp
+startio-ledgecom.wixstudio.com
 startio-ledgrapp.wixstudio.com
 startio-ledzarcdn.wixstudio.com
 startio-ledzercdn.wixstudio.com

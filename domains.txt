@@ -98151,6 +98151,7 @@ multirbx.net
 multiresolvechain.firebaseapp.com
 multirevolutionchain.pages.dev
 multiroblox.at
+multiroblox.icu
 multiroblox.net
 multisafecon.pages.dev
 multisafeprotocol.xyz
@@ -110578,6 +110579,7 @@ portal-coinspot.com
 portal-coinss-base--x-nav-auth.pages.dev
 portal-conbase-extention-en.pages.dev
 portal-crawlo.com
+portal-crosspersonnel.pages.dev
 portal-cryptorank.com
 portal-descuentoparati.com
 portal-descuentospostpagos.com
@@ -122334,6 +122336,7 @@ secure-eng-kraken-com.pages.dev
 secure-eng-metamsk.pages.dev
 secure-esl-org.lat
 secure-etoro.com
+secure-exosolution.com
 secure-explore-exten.pages.dev
 secure-exploreokraken-sso.pages.dev
 secure-extn-coinbas-com.typedream.app
@@ -129573,6 +129576,7 @@ spx6900lab.com
 spxmigrate.live
 spxs6900.world
 spxspin.com
+spxtoken.live
 spxtoken.xyz
 spybet-casino.bet
 spybox.io

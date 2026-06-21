@@ -6277,6 +6277,7 @@ aitrader.astonptech.com.ng
 aitrader.my
 aitrader3-repo.vercel.app
 aitrader4-repo.vercel.app
+aitrader5-repo.vercel.app
 aitradeusmaximus.gate-cryptolist.com
 aitradingpost.site
 aitrendbot.com
@@ -10749,6 +10750,7 @@ app-work.pro
 app-worldlibertyfinance-v2.com
 app-wp-whatsappweb.com.cn
 app-xai-games.pages.dev
+app-xaman.app
 app-xlayer.com
 app-xpr-whatshktw.com
 app-xvf-whatshktw.com
@@ -20822,6 +20824,7 @@ bitspin.cc
 bitspin.live
 bitspin.us
 bitsplay.bet
+bitsplod.com
 bitsprocoins.com
 bitspronix.com
 bitsramp.org
@@ -31217,6 +31220,7 @@ claimera.top
 claimesa.pages.dev
 claimetc.com
 claimeth.vip
+claimethereum.com
 claimetherfi.net
 claimetherperksrewards.xyz
 claimevivo.pages.dev
@@ -37649,6 +37653,7 @@ crypto-future-finance.org
 crypto-future-finance.store
 crypto-holdings.org
 crypto-hrd-wllt-ldgr.pages.dev
+crypto-hub-website.vercel.app
 crypto-investments-llc.com
 crypto-jackpot.app
 crypto-juris.com
@@ -51271,6 +51276,7 @@ europe-blockchain-finance.com
 europe-north.bgeqnewsa.life
 europe-north.heinewsa.top
 europe-north.kleonewsai.info
+europe-north.osainewsds.info
 europe-north.rewainews.top
 europe-unionplc.us
 europe.coinbaseinv.com
@@ -52510,6 +52516,7 @@ exoduss-web3.pages.dev
 exoduss.co.com
 exodussecure.wordpress.com
 exodusshield.com
+exodussluginnus.gitbook.io
 exodussweb.pages.dev
 exodustrading-ai.com
 exodustroubleshoot.com
@@ -60516,6 +60523,7 @@ gettrxs.org
 gettrxx.org
 getugamb.com
 getupdate.help
+geturrbx1.netlify.app
 getusait.com
 getusd1.online
 getuser.ghost.io
@@ -63293,6 +63301,7 @@ growattsintegrated.com
 growbnb.info
 growclaudeai.com
 growegarden.netlify.app
+growgardenn2.netlify.app
 growino.net
 growminance.com
 growsalesfigures.com
@@ -72266,6 +72275,7 @@ jackzox.com
 jacobrhubbard.github.io
 jadestake.com
 jadewex.com
+jadran-kapitura.com
 jadrofinspirex.net
 jadstatusprodutos.com
 jadstatusprodutos.com/jad01
@@ -75401,6 +75411,7 @@ kinozone.app
 kinroyal50999.com
 kinsu.xyz
 kintara-rewards.live
+kintara.app-events.xyz
 kintara.org
 kintarabot.com
 kintaras.app
@@ -97219,6 +97230,7 @@ moonshot-listing-dkk.netlify.app
 moonshot-listing-dry.vercel.app
 moonshot-listing-due.netlify.app
 moonshot-listing-dug.netlify.app
+moonshot-listing-eif.netlify.app
 moonshot-listing-elg.vercel.app
 moonshot-listing-elv.vercel.app
 moonshot-listing-ett.netlify.app
@@ -97256,6 +97268,8 @@ moonshot-listing-rgq.vercel.app
 moonshot-listing-ryk.vercel.app
 moonshot-listing-s2x.vercel.app
 moonshot-listing-ses.netlify.app
+moonshot-listing-sgn.netlify.app
+moonshot-listing-sjq.netlify.app
 moonshot-listing-skg.netlify.app
 moonshot-listing-slg.netlify.app
 moonshot-listing-svs.netlify.app
@@ -108077,6 +108091,7 @@ pgwin138.com
 pgwin138.net
 pgxfv8.gaouga.com
 ph-antom-wallet.pages.dev
+ph-drop.cc
 ph-omt-swalet.pages.dev
 ph-omtqswa-let-dnr.pages.dev
 ph-omtt-swalet.pages.dev
@@ -108137,6 +108152,7 @@ phantom-360.pages.dev
 phantom-6uw.pages.dev
 phantom-7er.pages.dev
 phantom-7y2.pages.dev
+phantom-activate.com
 phantom-analytics.kolibrio.xyz
 phantom-app.co.uk
 phantom-app.webflow.io
@@ -119524,6 +119540,7 @@ robloxr.com.es
 robloxr.cv
 robloxr.de
 robloxr34videos.pages.dev
+robloxrewards.lovable.app
 robloxs-claim-heree.blogspot.com
 robloxspain.com
 robloxstudiopluginswordbuilder.pages.dev
@@ -119590,6 +119607,7 @@ robustledger.org
 robuuuxfree.blogspot.com
 robuux395.vercel.app
 robux-donate1.blogspot.com
+robux-rewards.vercel.app
 robux-store.com
 robux.media
 robux.zip
@@ -120704,6 +120722,7 @@ ruxbit.com
 ruxbl-2new.blogspot.com
 ruxbl66.blogspot.com
 ruxbl67.netlify.app
+ruxblox.netlify.app
 ruxplay.com
 ruzievana9-netize.github.io
 ruzodex.com
@@ -141200,6 +141219,7 @@ tr.madrid-giris2026.co
 tr.madridbetgirisleri.org
 tr.madridbetin-resmiadresi.com
 tr.madridbetteyiz.co
+tr.madriidbet.mobi
 tr.maximcasino-mobilgiris.click
 tr.merit-king-resmigiris.com
 tr.meritking-guncel-resmi-adresler.vip
@@ -141914,6 +141934,7 @@ treasury-telcoin.cc
 treasury-telcoin.network
 treasury-usdai.com
 treasury-usdai.xyz
+treasury-zinc.cash
 treasury-zora.com
 treasury.astersdex.io
 treasury.checker-asterdex.app
@@ -145959,6 +145980,7 @@ ubicar.club
 ubiiclou.info
 ubiquitous-gingersnap-809853.netlify.app
 ubiquitous-gumption-2d0403.netlify.app
+ubiro.netlify.app
 ubisupport.live
 ubitswapportal.pages.dev
 ublack.me
@@ -162526,6 +162548,7 @@ xaman-live.icu
 xaman-pass.com
 xaman-reward.com
 xaman-rewards.com
+xaman-share.us
 xaman-site.icu
 xaman-team.icu
 xaman-tech.icu
@@ -165576,6 +165599,7 @@ zerofex.com
 zerofoudationclaim.pages.dev
 zerogastrx-icu.pages.dev
 zerogastrx.com
+zerogastrx.icu
 zerogastrx.org
 zerogastrx.trade
 zerogastrx.xyz

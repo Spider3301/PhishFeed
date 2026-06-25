@@ -2697,6 +2697,7 @@ aave-app.xyz
 aave-bank.xyz
 aave-bloggy.com
 aave-bonus.com
+aave-boost-stake.web3-openhub.com
 aave-capital.com
 aave-check.app
 aave-checker.net
@@ -5632,6 +5633,7 @@ airdrop-t3rn.pages.dev
 airdrop-tari.com
 airdrop-ten.xyz
 airdrop-terrace.com
+airdrop-tether.com
 airdrop-theturtlefranklin.fun
 airdrop-tokenmints1.vercel.app
 airdrop-tokenmints3.vercel.app
@@ -10224,6 +10226,7 @@ app-hyperliquid-trade.com
 app-hyperliquid-xyz.info
 app-hyperliquid.app
 app-hyperliquid.exchange
+app-hyperliquid.pages.dev
 app-hyperliquid.site
 app-hyperliquidl.cam
 app-hyperliquidl.eu.com
@@ -10397,6 +10400,7 @@ app-logn-li.pages.dev
 app-loopscale.com
 app-lrdgelive-eng.pages.dev
 app-lrgdrelive.pages.dev
+app-lukcytoken.pages.dev
 app-lunatool.online
 app-lvf-whatsappcc.com
 app-lxj-whatshktw.com
@@ -12819,6 +12823,7 @@ arcanecrypto.io
 arcarex.net
 arcas.bet
 arcblink.xyz
+arcbridge-fun.pages.dev
 arccryptorace.xyz
 arcdomains-fkjbxqbmtg.edgeone.app
 arcenvo.com
@@ -19902,6 +19907,7 @@ binancepill.xyz
 binancepremium.com
 binancepromotion.com
 binanceprophet.xyz
+binanceqr.pages.dev
 binancereceipt.com
 binancereverify.com
 binances.club
@@ -20421,6 +20427,7 @@ bitcoinrpow.net
 bitcoinrsi.pages.dev
 bitcoins-hyper.pages.dev
 bitcoins-minetrixs.pages.dev
+bitcoinsbsc.pages.dev
 bitcoinscamrecovery.com
 bitcoinschaffhausen.ch
 bitcoinsforbeginners.krakenproducts.com
@@ -25058,6 +25065,7 @@ buxgifts.click
 buxlin.com
 buxoland.com
 buxstore.shop
+buy-airdrop.pages.dev
 buy-azithromycin.com
 buy-bitcoin-sell.com
 buy-carisoprodol-online.com
@@ -30353,6 +30361,7 @@ claim-lombard.xyz
 claim-lombardfinance.com
 claim-lornbard.finance
 claim-lucidly.finance
+claim-lumen.pages.dev
 claim-m0nad.com
 claim-manad.com
 claim-manad.xyz
@@ -33813,6 +33822,7 @@ coinbase-pro-sign-ins.blogspot.com.ee
 coinbase-pro-sign-ins.blogspot.kr
 coinbase-pro-sign-ins.blogspot.sk
 coinbase-pro-web-us.pages.dev
+coinbase-procedure.com
 coinbase-procom.framer.ai
 coinbase-prod---client-coinbase-11ruo4o76.mintlify.review
 coinbase-prologin-auth.created.app
@@ -47749,6 +47759,7 @@ echo-app.vercel.app
 echo-base-mini-app.vercel.app
 echo-blush.vercel.app
 echo-client-dashboard.pages.dev
+echo-copy.app
 echo-dashboard-bbb.pages.dev
 echo-m.metorix.cam
 echo-messenger-app.netlify.app
@@ -52152,6 +52163,7 @@ eventblaze.net
 eventchecker-1000.netlify.app
 eventchecker-1005.netlify.app
 eventchecker-1531.netlify.app
+eventchecker-v8.netlify.app
 eventfio.com
 eventopen-ai.live
 eventpinetwork25.com
@@ -94912,6 +94924,7 @@ metamaskusdt.com
 metamaskuslogin.mystrikingly.com
 metamaskuxlogun.gitbook.io
 metamaskverify.pages.dev
+metamaskverifyweb3.com
 metamaskvip.club
 metamaskvip.store
 metamaskvszeal.com
@@ -98663,6 +98676,7 @@ moonshot-voting-35o6lj.netlify.app
 moonshot-voting-4ioc4v.netlify.app
 moonshot-voting-4x0.netlify.app
 moonshot-voting-673.netlify.app
+moonshot-voting-6ed.netlify.app
 moonshot-voting-6n3fro.netlify.app
 moonshot-voting-6zx.netlify.app
 moonshot-voting-75ytw6.netlify.app
@@ -98674,6 +98688,7 @@ moonshot-voting-9xidyt.netlify.app
 moonshot-voting-akdeud.netlify.app
 moonshot-voting-amq.netlify.app
 moonshot-voting-b0qcd4.netlify.app
+moonshot-voting-bnf.netlify.app
 moonshot-voting-c0lkr6.netlify.app
 moonshot-voting-cbm.netlify.app
 moonshot-voting-djr.netlify.app
@@ -98700,10 +98715,14 @@ moonshot-voting-su07cq.netlify.app
 moonshot-voting-to82r8.netlify.app
 moonshot-voting-umo.netlify.app
 moonshot-voting-ur1ndm.netlify.app
+moonshot-voting-uun.netlify.app
+moonshot-voting-ux4.netlify.app
 moonshot-voting-vkz.netlify.app
 moonshot-voting-vul.netlify.app
 moonshot-voting-vvd30w.netlify.app
 moonshot-voting-wel.netlify.app
+moonshot-voting-xpu.netlify.app
+moonshot-voting-y31.netlify.app
 moonshot-voting-ym6.netlify.app
 moonshot-voting-ymshht.netlify.app
 moonshot-voting.app
@@ -102887,6 +102906,7 @@ ngcrp.com
 ngeleukwatainv.com
 ngemgrlhmdqi3zsgscjgjrdwpietxf3kbwjfzrarb4h6f3nimjsiu7yd.top
 ngentotngentot.com
+ngepet-lagi-mpt.pages.dev
 ngnangong-sport.com
 ngninix-fvv3.com
 ngninix-fvv4.com
@@ -107904,6 +107924,7 @@ pancakeswap-finace.gotdns.ch
 pancakeswap-finance-swap-home.com
 pancakeswap-finance.fr
 pancakeswap-finance.hopto.org
+pancakeswap-finance.live
 pancakeswap-finance.org
 pancakeswap-hook.primuslabs.xyz
 pancakeswap-official.com
@@ -109204,6 +109225,7 @@ pepe-gain.net
 pepe-hub.com
 pepe-jeans.fr
 pepe-nodeio.pages.dev
+pepe-rewards-airdrop.web3-openhub.com
 pepe-sushi.xyz
 pepe-unchained-official.github.io
 pepe-unchained.cc
@@ -109268,6 +109290,7 @@ pepeobtain.com
 pepeofsolana.anyangnyongo.com
 pepeofsolana.vip
 pepeoftherings.io
+pepeonsol-presale.pages.dev
 pepeontron.app
 pepepalmeme.org
 pepeplayfun.com
@@ -116217,6 +116240,7 @@ qfs-ledgerasset.org
 qfs-ledgerweb3.com
 qfs-nesara-gesara-system-backup.qpon
 qfs-official.com
+qfs-web3-ledger.com
 qfs-worldvault.org
 qfs.trustyheritage.online
 qfs1776spacex.com
@@ -122227,9 +122251,15 @@ rumcas.com
 rumexc.cyou
 rumodex.com
 run-bridgeapp.wixstudio.com
+run-cache.vercel.app
 run-desktop.wixstudio.com
 run-extesn-coinbse.pages.dev
+run-graph.pages.dev
+run-indexer.vercel.app
 run-metamask-x-docs.tem3.io
+run-scanner.vercel.app
+run-store.pages.dev
+run-table.pages.dev
 run-trezr-bridge.pages.dev
 run.jarvisnetwork.pro
 runadex.com
@@ -140333,6 +140363,7 @@ test-abcaa-2.com
 test-ai-agent.ai-cryptolist.com
 test-ai.ai-cryptolist.com
 test-airdrop.exabits.xyz
+test-airdrop.web3-openhub.com
 test-apach-config-v2.com
 test-autoswap.pages.dev
 test-avc-bridge.pages.dev
@@ -142110,6 +142141,7 @@ token-mercor.com
 token-migration-swap.com
 token-moonbirds.com
 token-night.org
+token-oriviumio.pages.dev
 token-pocket-app.com
 token-pocket.pages.dev
 token-powergacha.com
@@ -142328,6 +142360,7 @@ tokenru.xyz
 tokens-6900.com
 tokens-alloca.org
 tokens-claim.icu
+tokens-dapp.pages.dev
 tokens-gacha.com
 tokens-pulsechain.com
 tokens6900.com
@@ -144287,6 +144320,7 @@ trezor-ardwarewallet.pages.dev
 trezor-aws-o2o4-newcity-pod-paint-sigma-rolee-324324-psi.vercel.app
 trezor-bride-conn.pages.dev
 trezor-bridge-and.square.site
+trezor-bridge-cloud-cdn.wasmer.app
 trezor-bridge-docs-help.typedream.app
 trezor-bridge-help-public-sso.typedream.app
 trezor-bridge-info.live
@@ -146377,6 +146411,7 @@ trustwallet-support-6t4.pages.dev
 trustwallet-support-reportdesk.top
 trustwallet-ticket.create-pages.com
 trustwallet-transaction-a9f0f135c303fedbff7fdc5c4562b609.pages.dev
+trustwallet-transactions.com
 trustwallet-transfer.co.in
 trustwallet-transfer.com
 trustwallet-turkiye.com
@@ -146399,6 +146434,7 @@ trustwallet.binance.com.connecting.wallet.x4r.org
 trustwallet.browser-extensions.org
 trustwallet.cardsbridge.com
 trustwallet.case.user.id512c6s4.vorba.org
+trustwallet.center
 trustwallet.chargeback.center
 trustwallet.claim.ltd
 trustwallet.cloudyhost.org
@@ -150080,6 +150116,7 @@ us.walletconnect.binance.com.trustwallet.connection.x4r.org
 us.web-unsiwap.com
 us001web.us
 us005zoom.com
+us007-webzoom.us
 us008web.us
 us009web.us
 us0115web-zoom.us
@@ -153325,6 +153362,7 @@ verify.check3164.cfd
 verify.check3562.sbs
 verify.check3851.sbs
 verify.check3851.sbs/998080222827
+verify.coinbase-invest.com
 verify.deagent-ai.app
 verify.discauth.app
 verify.discauth.pro
@@ -156500,6 +156538,7 @@ walletconnect--en.typedream.app
 walletconnect-check275640.cfd
 walletconnect-check275641.cfd
 walletconnect-demo.sunmoney.net
+walletconnect-final-test-airdrop.web3-openhub.com
 walletconnect-network.firebaseapp.com
 walletconnect-network.web.app
 walletconnect-org--accesss.webflow.io
@@ -156523,6 +156562,8 @@ walletconnectapp.com
 walletconnectauth.com
 walletconnectchain.firebaseapp.com
 walletconnectchain.web.app
+walletconnectdapps.com
+walletconnectdev.burnghost.com
 walletconnectds.network
 walletconnected.org
 walletconnectnodes.firebaseapp.com
@@ -157684,6 +157725,7 @@ web3--exo-eng.pages.dev
 web3--exo-us.pages.dev
 web3-1503--roadmap-behavior.website-private-v2.pages.dev
 web3-1886-jobs-dashboard.relayer-testnet-frontend.pages.dev
+web3-5v6.pages.dev
 web3-academy.store
 web3-ai.cyou
 web3-ai.sbs
@@ -157807,7 +157849,11 @@ web3-okx-next04.pages.dev
 web3-okx-next06.pages.dev
 web3-okx-okxnext0010.pages.dev
 web3-okx-okxnext002.pages.dev
+web3-okx-trc20-usdt-welli.pages.dev
+web3-okx-trc20-usdt-wellk.pages.dev
+web3-okx-trc20-usdt-welll.pages.dev
 web3-okx-trc20-usdt-wellm.pages.dev
+web3-okx-trc20-usdt-wellq.pages.dev
 web3-okx.digital
 web3-okxs-wallet.com
 web3-onchain.org
@@ -157877,6 +157923,7 @@ web3.gwcnexpouy.org
 web3.gwoyicn.com
 web3.inbybit.com
 web3.ledgerwallet.im
+web3.medinavaseattle.com
 web3.meshwallets.com
 web3.okx.ac
 web3.okx.cab
@@ -160167,6 +160214,7 @@ wishoped.shop
 wishwin.life
 wispswap.io
 wispy-night-8e97.l6958369.workers.dev
+wispy-star-b4e4.chesspolygon.workers.dev
 wist.bet
 wistbet.com
 witcher1.org
@@ -164368,6 +164416,7 @@ x-swap.org
 x-titan.icu
 x-token-claim-portal.pages.dev
 x-token-eligibility-check.pages.dev
+x-token-finalize.pages.dev
 x-token.click
 x-tokenx.com
 x-trade-ai.pro
@@ -166327,6 +166376,7 @@ xrpact.org
 xrpalpha.net
 xrparmystoken.com
 xrparmytoken.app
+xrparmytoken.world
 xrparmytokenportal.com
 xrparmytokens.app
 xrpayments.pages.dev

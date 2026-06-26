@@ -11782,6 +11782,7 @@ apphome-lezrstart.wixstudio.com
 apphomepage.wixstudio.com
 apphop.co
 apphyena.trade
+apphyperliquid.net
 apphyperllquid.xyz
 apphyperswaps.exchange
 apphyperunit.com
@@ -18803,6 +18804,7 @@ beta-moonshot.com
 beta-nova-jade.vercel.app
 beta-plasma.pro
 beta-play.cc
+beta-polyclaude.xyz
 beta-pump.fun
 beta-pumpfun.com
 beta-testing.space
@@ -44504,6 +44506,7 @@ distrbutions-keeta.network
 distrbutions-telco.in
 distriagro.com.co
 distribuidoraquiabsa.com
+distribute-hyperliquid.xyz
 distribute-pudgypenguins.com
 distribute-shib.xyz
 distribute-sleepydon-o70.vercel.app
@@ -51528,6 +51531,7 @@ ethereum-qr-code-generator.top
 ethereum-qr-code-generators.com
 ethereum-safe-wallet.com
 ethereum-shift.com
+ethereum-sniperbot.netlify.app
 ethereum-sniperbot.pages.dev
 ethereum-status.pages.dev
 ethereum-to-monero.exchange
@@ -52091,6 +52095,7 @@ europe-777-casino2.com
 europe-blockchain-finance.com
 europe-north.bgeqnewsa.life
 europe-north.heinewsa.top
+europe-north.ikeanewsi.life
 europe-north.kfenewsa.life
 europe-north.kleonewsai.info
 europe-north.osainewsds.info
@@ -58117,6 +58122,7 @@ forge-eth.xyz
 forge-of-olympus-casino.com
 forge-university.com
 forge.bittensor-en.app
+forge.compiller.cc
 forgecapvexon-it.com
 forgefinancecc.online
 forgeprimzone.com
@@ -81463,6 +81469,7 @@ krkn-portal-help-web.pages.dev
 krkn-site.co.com
 krkn-vhod12.live
 krkn-zerkalo.com
+krkn.club
 krkn.site
 krkn1.cc
 krkn13.cc
@@ -82762,6 +82769,7 @@ larnov-biz-tornax-15126.pages.dev
 larochimates27112.vercel.app
 larodex.com
 larpdwallet.com
+larperwallet.com
 larpexodus.com
 larpexodus.org
 larpexwallet.xyz
@@ -89655,6 +89663,7 @@ lovable-dev.ai
 love-login-ledgr.framer.media
 love-now.life
 love-slon3.net
+love.mp
 love20268.com
 love4heart.com
 lovebeauty-lp5.com
@@ -112225,8 +112234,11 @@ polycash.fun
 polycc.cc
 polyclaiming.com
 polyclaiming.xyz
+polyclaude.ac
 polyclaude.cc
 polyclaude.dev
+polyclaude.live
+polyclaude.lol
 polyclaude.pro
 polycule.trade
 polydouble.com
@@ -114417,6 +114429,7 @@ projectmainnetportal.app
 projectmainnetportal.com
 projectmains.netlify.app
 projectmerlin.icu
+projectmigrate.fun
 projectmint2313.vercel.app
 projectnetworkchain.com
 projectprobitonline.com
@@ -128520,6 +128533,7 @@ slon7.cl
 slon7.cn
 slon7.co
 slon7.sbs
+slon7.webshopbot.cc
 slon7at.com
 slon7at.net
 slon7at.site
@@ -128541,6 +128555,7 @@ slon8.im
 slon8.ltd
 slon8.nz
 slon8.sbs
+slon8.store
 slon8at.com
 slon8at.net
 slon8att.online
@@ -152509,6 +152524,7 @@ v-vpass-jp.zydzpk.com
 v.gettrustpayment.live
 v.unionunlimited.com
 v0-base-mint-qgqbegh3m-maliot100xs-projects.vercel.app
+v0-coinbase-clone-lovat.vercel.app
 v0-coinbase-login-page.vercel.app
 v0-coinbasevaultsetup.vercel.app
 v0-de-bank-wallet-dashboard.vercel.app
@@ -161982,6 +161998,7 @@ wvv-6339.cv
 wvv-binance.com.cn
 wvvw-app-ledger-com.info
 wvvw-app-ledger-com.live
+wvvw-app-ledger-com.vip
 wvvw-fifa.com
 wvvw-jup.sbs
 wvvw-ledgar-app.info
@@ -163582,6 +163599,7 @@ www.kometastarp.com
 www.kometavave.com
 www.koopgood8-up.com
 www.koreexs.com
+www.kra46-at.net
 www.krab-1---cc.ru
 www.krab5cc-b.ru
 www.krakenmaarket.com

@@ -29078,6 +29078,7 @@ chainlink.sale
 chainlink.us.cc
 chainlinkairdrop.web.app
 chainlinketf.live
+chainlinkfnd.events
 chainlinkhr.site
 chainlinkjob.site
 chainlinkjob.tech
@@ -133774,6 +133775,7 @@ sponges-token.pages.dev
 spongetoken-4ss.pages.dev
 spongetoken-xyz.pages.dev
 sponox.com
+sponsor777.com
 sponsy.ink
 spontaneous-manatee-e1e35c.netlify.app
 spooferx.xyz

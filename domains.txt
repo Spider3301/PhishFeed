@@ -16172,6 +16172,7 @@ award-shibinu.com
 award-yieldusd.com
 award-yieldusd.net
 award-yieldusd.org
+award-zoobit.com
 awardlink.org
 awards-blaze.org
 awards-yieldusd.org
@@ -17342,6 +17343,7 @@ balanceindexequity.com
 balanceora.shop
 balanceqyral-invest.com
 balanceqyralapp.com
+balancer-chainlink.com
 balancer-chainlink.net
 balancer-chainlink.org
 balancer-defi-io-us.pages.dev
@@ -24199,6 +24201,7 @@ bounty-boosteth.org
 bounty-chainlink.org
 bounty-cp0.pages.dev
 bounty-etc.com
+bounty-everstake.com
 bounty-internal.xyz
 bounty-llnk.com
 bounty-nanoeth.com
@@ -42172,6 +42175,7 @@ dashboard-avax.com
 dashboard-axosbank.com
 dashboard-aztec.com
 dashboard-bancor.xyz
+dashboard-baseswap-fi.typedream.app
 dashboard-bdagpre-sales.xyz
 dashboard-beets.xyz
 dashboard-bestwallet.firebaseapp.com
@@ -45746,6 +45750,7 @@ distribution-bio.xyz
 distribution-blackhole.xyz
 distribution-blackwhale.fun
 distribution-blockstreet.xyz
+distribution-blosk.io
 distribution-boosteth.com
 distribution-boosteth.net
 distribution-chain.link
@@ -53637,6 +53642,7 @@ event-ethena.live
 event-ethena.xyz
 event-ethereal.com
 event-ethereal.trade
+event-everstake.com
 event-exclusive.eth.limo
 event-falconsfinance.com
 event-firelightfi.com
@@ -63519,6 +63525,7 @@ giftmshengu250-pixel.github.io
 giftpinetworkcoin.com
 giftredcircle.com
 gifts-aave.org
+gifts-chainlink.org
 gifts-events.cfd
 gifts-llnk.com
 gifts-stean.shop
@@ -65384,6 +65391,7 @@ grannygames.net
 gransino-casino3.com
 gransino-fr1.com
 grant-blaze.com
+grant-nanoeth.net
 grant-steth.com
 grant-yieldusd.net
 grant.timye.site
@@ -89667,6 +89675,7 @@ linksecwallet.online
 linkshift.org
 linkskybet138.shop
 linkstake.net
+linkswap.org
 linksweget.com
 linksyncconnect.online
 linksyncs.pages.dev
@@ -120331,6 +120340,7 @@ quant-distribution.com
 quant-events.org
 quant-network.live
 quant-network.world
+quant-prize.com
 quant-resilient.com
 quant.network-treasurypool.app
 quant.sushiswap.pro
@@ -120367,6 +120377,7 @@ quantnode.io
 quantollunex.net
 quantoraidev.xyz
 quantorovex.net
+quantprize.org
 quantrex-nexute.com
 quantrex.org
 quantricoincex.top
@@ -161355,9 +161366,11 @@ vvvevent.net
 vvvevent.org
 vvvv5677.weebly.com
 vvvvw-ledgar.com
+vvvvw-lladger-app.net
 vvwvv---roblox.com
 vvww-icioud-auth.info
 vvww-ledgerwallet.live
+vvww-lladger-app.com
 vvww-lladger-app.net
 vvxx564.weebly.com
 vwa-co.in

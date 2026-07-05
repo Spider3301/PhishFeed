@@ -29384,6 +29384,7 @@ chain-netcore.live
 chain-networking.org
 chain-nodes.com
 chain-operai.net
+chain-oracle.pages.dev
 chain-pay.org
 chain-query.net
 chain-rise.ltd
@@ -172674,6 +172675,7 @@ xstake.org
 xstaked.cc
 xstarjackpot.com
 xstartrade.com
+xstock.cfd
 xstock.fi
 xstock.network
 xstockfiapp.com

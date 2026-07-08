@@ -137187,6 +137187,9 @@ spx6900-token.com
 spx6900.gate-cryptolist.com
 spx6900app.com
 spx6900lab.com
+spx88k-cointelegraph.com
+spx88k.com
+spx88k.org
 spx99x.icu
 spx99x.net
 spx99x.org
@@ -168646,6 +168649,8 @@ www-krb1-at.ru
 www-krb2-cc.ru
 www-ladger-app.app
 www-ladger-live.app
+www-laedger.app
+www-laedger.com
 www-launchcake.com
 www-lbpiaccess.co.com
 www-lcloud.com

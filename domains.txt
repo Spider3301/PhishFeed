@@ -11635,6 +11635,7 @@ app.clioudit.com
 app.cloud-mahjong.com
 app.cloudcapitalinvest.com
 app.cloudprotocol.xyz
+app.coavox.com
 app.coinbaseweb3co.cc
 app.coinbasex.info
 app.compoundfinance.xyz
@@ -11823,6 +11824,7 @@ app.inifinex.xyz
 app.intlyksoffsglobal.online
 app.inuswap.org
 app.isbeef.com
+app.jaovex.com
 app.jaupux.com
 app.join-hyena.trade
 app.jpool.finance
@@ -20172,6 +20174,7 @@ betsat2592.com
 betsaves.com
 betset.top
 betsgame.live
+betshiv.com
 betslowe.com
 betsm0ve.com
 betsmove-orj-gir.icu
@@ -39979,6 +39982,7 @@ cryptoblocksphere.com
 cryptobonusindia-com.pages.dev
 cryptoboost.to
 cryptoboss-drop.buzz
+cryptoboss.casino
 cryptoboss233.top
 cryptobotbg.com
 cryptobotcheck.com
@@ -52727,6 +52731,7 @@ epicrate.info
 epicsdrop.com
 epicskin.info
 epicsloot.com
+epicstar.cc
 epicstats.info
 epictime.live
 epicurcork.pt
@@ -62351,6 +62356,7 @@ gambcoin.com
 gambeast.com
 gambeaster.com
 gambeaster.win
+gambed.cc
 gamberx.com
 gambet.best
 gambet.cc
@@ -64305,6 +64311,7 @@ gimp.my
 gimxinnilogxin.gitbook.io
 gingamb.at
 gingerwallet.pages.dev
+gingobet.com
 ginikigqling-us.godaddysites.com
 ginimin-logen.gitbook.io
 ginmenilogeun.gitbook.io
@@ -102108,6 +102115,7 @@ monpot.netlify.app
 monproto.pages.dev
 monref.xyz
 monreff.com
+monrocasino.casino
 monshap.club
 monshapesol.com
 monshapesolana.com
@@ -103463,6 +103471,7 @@ mspuitt.xrdapp.com
 msquarantainedmail.business-insights.live
 msquickcall.com
 msrecoveryfund.com
+mss-key.xyz
 mss32-25h4download.pro
 mssdold.vercel.app
 mssecuregateway.de
@@ -104731,6 +104740,7 @@ mywcwellness.com
 mywcwellness.reishouses.com
 myweb.outlookbase.net
 mywellnessgenius.com
+myweu.com
 mywhitelist.space
 mywhitelistnow.space
 mywormihole.media
@@ -108143,6 +108153,7 @@ noxiumcasino.com
 noxmot.com
 noxplay.fun
 noxplays.com
+noxtev.com
 noxtrom.app
 noxumszins.today
 noya-ai.app
@@ -115810,6 +115821,7 @@ play-wildcasino.com
 play.astroc2m.space
 play.beacox.com
 play.beucux.com
+play.boacux.com
 play.caozax.com
 play.coavox.com
 play.crustbet.com
@@ -115824,13 +115836,17 @@ play.gamesjoin999.space
 play.goufax.com
 play.heodox.com
 play.heodux.com
+play.hoahux.com
 play.irys.name
 play.jaupux.com
 play.koazox.com
+play.kuofax.com
+play.muocux.com
 play.naopux.com
 play.neugox.com
 play.nuotox.com
 play.paezax.com
+play.peupux.com
 play.polypoker.club
 play.raftwin.com
 play.rexawin.com
@@ -133907,6 +133923,7 @@ slotorex.net
 slotos.bet
 slotospins.com
 slotowin.bet
+slotowin.online
 slotparty.click
 slotrancho.us
 slotroll.us
@@ -136551,6 +136568,7 @@ sotlstice.finance
 sottoc.com
 soubl4ck.github.io
 souhua.net
+soukax.com
 soukglam.com
 soulbucks.entry-cryptolist.app
 soulevementdebatiment.ca
@@ -148582,6 +148600,7 @@ toawax.com
 toawex.com
 tobac.cn.com
 tobat-pendosa-dijalan-tuhan.pages.dev
+tobcas.com
 tobegame.com
 tobiblockwebsiteworking.pages.dev
 tobtipu-wq.github.io
@@ -155601,6 +155620,7 @@ unipegv4.app
 unipegv4.com
 unipegv4.site
 unipigs.xyz
+unipixnft.pages.dev
 uniplaycassino.com
 uniprotocol.com
 unique-cupcake-e5d0af.netlify.app
@@ -168257,6 +168277,7 @@ woonex.cc
 woopty.info
 woopwinde.com
 woord.worksinc.app
+woori.casino
 woosityapp.com
 wooteex.com
 wordbonk.app

@@ -1357,7 +1357,6 @@
 2ly2ut.com
 2ndline.pro
 2pigger.soldex.trade
-2piwallet.com
 2playcarvinvite.com
 2rhlubiwm4.46464tk.com
 2s.gg
@@ -11882,6 +11881,7 @@ app.ldo-steth.com
 app.ledger-live-application.io
 app.ledger-lives-desktop.io
 app.ledger-lives-download.io
+app.ledger.com-web-application.com
 app.ledgernets.com
 app.ledgerpilot.io
 app.ledglive.com
@@ -17694,7 +17694,6 @@ bancolombiacreditodirecto.zeabur.app
 bancolombiafinanciaciondirecta.zeabur.app
 bancolombiaprestamosonline.zeabur.app
 bancontrolx-ruleauthorize-fds1810c.netlify.app
-bancopichincha.paperless.com.pe
 bancopitalian.com
 bancoprovinciapersonas.rafaelaveronezi.com.br
 bancor.finance
@@ -26769,6 +26768,7 @@ byvotes.space
 byvotes.top
 byvotes.xyz
 bywoa.com
+byxasa.com
 byzanlink.pro
 byzantiumtrust.com
 byzanvaults.com
@@ -36113,6 +36113,7 @@ coincommunity-36.netlify.app
 coincommunity-cc.netlify.app
 coincommunity-gz.netlify.app
 coincommunity-jo.netlify.app
+coincommunity-pg.netlify.app
 coincommunity-r6.netlify.app
 coincommunity-ta.netlify.app
 coincommunity-vu.netlify.app
@@ -39085,6 +39086,7 @@ cpcontacts.104-248-235-74.cprapid.com
 cpcontacts.129-121-102-216.cprapid.com
 cpcontacts.20-120-116-237.cprapid.com
 cpcontacts.20-124-36-87.cprapid.com
+cpcontacts.20-244-37-226.cprapid.com
 cpcontacts.20-40-57-175.cprapid.com
 cpcontacts.20-64-229-156.cprapid.com
 cpcontacts.dapp-auth.com
@@ -39267,6 +39269,7 @@ craxsratgithub.pages.dev
 craybium.io
 crazedprice.com
 crazy-api.world
+crazy-critters.netlify.app
 crazy-fox.io
 crazy-frog-ethereum.ai-cryptolist.net
 crazy-money.bet
@@ -54447,6 +54450,7 @@ eventblaze.net
 eventchecker-1000.netlify.app
 eventchecker-1005.netlify.app
 eventchecker-1531.netlify.app
+eventchecker-2v.netlify.app
 eventchecker-3r.netlify.app
 eventchecker-ht.netlify.app
 eventchecker-io.netlify.app
@@ -77586,6 +77590,7 @@ js4519.com
 jscare43.top
 jsdakksd283ksl.com
 jsjsksksks.pages.dev
+jsmagna.com
 jsn-cux.pages.dev
 json.peludinhos-damel.com
 jsonkeeper.com
@@ -88273,6 +88278,7 @@ ledger.co-ch.sbs
 ledger.co.com
 ledger.com-desk.live
 ledger.com-starts.website
+ledger.com-web-application.com
 ledger.com-weblive.co
 ledger.com.ec
 ledger.com.ks.ua
@@ -89371,6 +89377,7 @@ legder-live-downloads.com
 legder-live.com.co
 legder-lives-downloads.com
 legder.at
+legder.com-web-application.com
 legder.com.co
 legder.com.es
 legder.com.mx
@@ -90972,7 +90979,6 @@ literate-happiness-six.vercel.app
 litere.uvt.ro
 litgert.com
 litghter.xyz
-litl.cc
 litle-pepe.com
 litlellpepe.com
 litlelpepe.com
@@ -92852,7 +92858,6 @@ lomega.cc
 lomonsol.blog
 lomrix.com
 lomsan.sbs
-lon110.truehost.cloud
 lon6.cc
 lonavixio-invest.net
 londahlatshwayo.github.io
@@ -95701,6 +95706,7 @@ maolax.com
 maonax.com
 maonex.com
 maopex.com
+maoqier.com
 maorax.com
 maorex.com
 maovax.com
@@ -102770,6 +102776,7 @@ moonshot-voting-4ioc4v.netlify.app
 moonshot-voting-4x0.netlify.app
 moonshot-voting-5x6.netlify.app
 moonshot-voting-61b.netlify.app
+moonshot-voting-63.netlify.app
 moonshot-voting-673.netlify.app
 moonshot-voting-6ed.netlify.app
 moonshot-voting-6ln.netlify.app
@@ -102956,6 +102963,9 @@ moonshotts.net
 moonshotts.xyz
 moonshotv.com
 moonshotvote-03.netlify.app
+moonshotvote-5v.netlify.app
+moonshotvote-ep.netlify.app
+moonshotvote-rq.netlify.app
 moonshotvote-zx.netlify.app
 moonshotvote.app
 moonshotvote.cc
@@ -110210,6 +110220,7 @@ onlinepharmrx.com
 onlineplanetfirst.com
 onlineportailweb.com
 onlineratingwork.id
+onlinerbloxs.blogspot.com
 onlineremotasks.cc
 onlineretatrutide.com
 onlines-kundendiensts.com
@@ -116719,6 +116730,7 @@ polyarb.app
 polyarb.bot
 polyarb.io
 polyarb.net
+polyarbiter.com
 polyarbitrage.net
 polybeta.market
 polybot-5vj.pages.dev
@@ -119148,7 +119160,6 @@ promo.alparionboarding.com
 promo.event-dege.top
 promo.getsmobile.shop
 promo.gl
-promo.ivitskiy.com
 promo.register-access.com
 promo.sol-screen.xyz
 promo.travelledger.org
@@ -121638,7 +121649,6 @@ qriucn.com
 qrjkgav3.authlnk.net
 qrlrefit.pages.dev
 qrlvalidatortogateoi.pages.dev
-qrlynx.com
 qroxlwallet.co.com
 qrperfect-automation.onrender.com
 qrposter.net
@@ -128286,7 +128296,6 @@ s3-jupiter.pro
 s3-jupiter.xyz
 s3-trader.com
 s3-whitewhalememe.com
-s3.dualstack.us-east-1.amazonaws.com
 s3.hmstorage.net
 s3.us-east-2.amazonaws.com
 s30g.top
@@ -134870,6 +134879,7 @@ sol-eu.live
 sol-euphoria.com
 sol-events.live
 sol-exchange-no-kyc.com
+sol-express.live
 sol-farming.xyz
 sol-fast.lol
 sol-fdusd.shop
@@ -148456,8 +148466,6 @@ tinycoin.uk
 tinyhub.vip
 tinyhypercats.com
 tinyurl-redirect.xyz
-tinyurl.com
-tinyurl.com/msew96vd
 tiodax.com
 tiodex.com
 tiokmallshop.info
@@ -165211,7 +165219,6 @@ web.im.token-app.ac
 web.indexbit.com
 web.intbitinc.top
 web.internalirsm.online
-web.ivitskiy.com
 web.jintao-company.com
 web.kabfiiso.com
 web.kraken19at-t.ru
@@ -169341,7 +169348,10 @@ www-lladgar-app.net
 www-llagder.app
 www-llagder.com
 www-llagder.net
+www-lledager-com.info
 www-lledager-com.live
+www-lledager-com.vip
+www-lledager.live
 www-lledgar-live.com
 www-lledgar-live.net
 www-llegdar.app

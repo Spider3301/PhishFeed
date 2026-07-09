@@ -4819,6 +4819,7 @@ aerodrome-app.finance
 aerodrome-by.cfd
 aerodrome-check.xyz
 aerodrome-claim.com
+aerodrome-dapp-router-v48.netlify.app
 aerodrome-distribution.com
 aerodrome-distribution.net
 aerodrome-distributions.com
@@ -5434,6 +5435,7 @@ aicopmtrade.click
 aicrypto.sbs
 aicryptoet.com
 aicryptoguard.com
+aicryptonet.net
 aid-box.online
 aid-coinbase.com
 aid-kraken.com
@@ -12870,6 +12872,7 @@ apps-phntomwallet.framer.ai
 apps-pionex.wixstudio.com
 apps-pionexx-io.wixstudio.com
 apps-platforms.wixstudio.com
+apps-polymarket.web.app
 apps-proton.com.cn
 apps-pump.fun
 apps-quant.network
@@ -13565,6 +13568,7 @@ arcnetwork.vercel.app
 arcoin.global
 arconacapitalam.com
 arconi.cc
+arcpay-tan.vercel.app
 arcpay-xyz.netlify.app
 arcpayai.xyz
 arcpayment.net
@@ -23789,6 +23793,7 @@ bolttradingfx.live
 boltwex.com
 bom-orjinalaktif.com
 bomavax.com
+bomawin.com
 bombardiha.framer.photos
 bombbet.top
 bomberio.world
@@ -26414,6 +26419,7 @@ buytrx.workers.dev
 buytrx.ws
 buytx.org
 buyukeczane.org
+buyula.com
 buyusaaccounts.com
 buyusdt.online
 buyusdtflash.com
@@ -28842,6 +28848,7 @@ cbase-pt.com
 cbase-robots.com
 cbase.co.com
 cbasecoin.com
+cbasemining.info
 cbaseprasalogilg.gitbook.io
 cbasestake.com
 cbash-coinbase.com
@@ -30253,7 +30260,6 @@ changenowio.com
 changenowio.to
 changenowx.com
 changepasspp.com.vn
-changeum.io
 changeum.org
 changeupmixer.space
 changewallet.pages.dev
@@ -45512,6 +45518,7 @@ dgon1.com
 dgpn-crypto.fr
 dgramclaim.network
 dgridrewards.icu
+dgruimi.com
 dgstacl.com
 dgt.hafiz.ba
 dgt.htef.cc
@@ -63077,6 +63084,7 @@ geminibalance.proai520.com
 geminibank.safepal.com.ng
 geminicopier.com
 geminicryptomining.vip
+geminidappchain.web.app
 geminieologin.gitbook.io
 geminifxnet-work.org
 geminihospitality.in
@@ -84504,6 +84512,7 @@ kranyknlogind.webflow.io
 kraoi.com
 kraonion.com
 kraonion.com/phishing
+kraoo.zuxizdo.cn
 krap6.com
 kraperehod.cc
 kraq7.cc
@@ -92296,7 +92305,6 @@ logewix.com
 logfiles.help
 loggemini-login-us.pages.dev
 loggersecure.com
-loggiecid.eth.limo
 loggiecid.net
 loggieos.net
 loggiinbitmartt.webflow.io
@@ -99583,6 +99591,7 @@ metsamloeginadsfu.webflow.io
 metsccsklogin.webflow.io
 metscklgin.webflow.io
 metseorc.click
+metskchroem-extsion.gitbook.io
 metskcromexttsion.webflow.io
 metsmask-wallet-ix.webflow.io
 metsmsklgoini.gitbook.io
@@ -104990,6 +104999,7 @@ nadoxyz.eth.limo
 nadsa.lweb3.app
 nadx-us-en.addpotion.com
 naebex.com
+naebwin.com
 naeemsoft.com
 naegox.com
 nafavex.top
@@ -143864,7 +143874,6 @@ symbiosisdrop.pages.dev
 symbiosisfinance.pages.dev
 symbiosisfinances.com
 symbiostic-fi.com
-symbiotic.ai
 symbioticlove.xyz
 symbioticstake.info
 symboticsfi-tge.com
@@ -152146,6 +152155,7 @@ tron.trustscan.info
 tron2026.site
 tronact.app
 tronact.co
+tronact.net
 tronactivate.com
 tronadspay.com
 tronagent.app

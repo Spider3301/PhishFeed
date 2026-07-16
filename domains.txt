@@ -5139,6 +5139,7 @@ aevo.sushistakes.biz
 aevo.sushistakes.info
 aevo.sushistakes.us
 aevo.sushiswap.it.com
+aevo.team
 aevodrop.com
 aevoexchang.cc
 aevonft.xyz
@@ -13519,6 +13520,7 @@ apyx-io.website
 apyx.ink
 apyx.team
 apyx.trade
+apyx.vote
 apyxfi.com
 apyxfi.digital
 apyxfi.info
@@ -39695,6 +39697,7 @@ cotidex.com
 cotiviti.top
 cotransa.cam
 cotrixauvex.ink
+cottonbox.co.il
 cottoncandycookie.github.io
 cottonwood-tractor.com
 couchepubli.com
@@ -45608,6 +45611,7 @@ desktop-ldegr.wixstudio.com
 desktop-ldgerlive--homepage.created.app
 desktop-ldgerlive-web.pages.dev
 desktop-ldgr-live-download.pages.dev
+desktop-ldgrexcdn.wixstudio.com
 desktop-le-dgr.pages.dev
 desktop-learn-ledgr.pages.dev
 desktop-learn.wixstudio.com
@@ -45620,6 +45624,7 @@ desktop-ledgar-live.wixstudio.com
 desktop-ledgar.pages.dev
 desktop-ledgarcom.pages.dev
 desktop-ledge-live-en.pages.dev
+desktop-ledgeapp.wixstudio.com
 desktop-ledger-app-en.pages.dev
 desktop-ledger-eng.onrender.com
 desktop-ledger-eng.teachable.com
@@ -52928,6 +52933,7 @@ en-us-live.wixstudio.com
 en-us-livedesktop.wixstudio.com
 en-us-liveledgr-learns.pages.dev
 en-us-livelegre.pages.dev
+en-us-livelogon.wixstudio.com
 en-us-lives-io.pages.dev
 en-us-lives-legr.pages.dev
 en-us-lives-legre.pages.dev
@@ -55612,8 +55618,10 @@ eventchecker-3h.netlify.app
 eventchecker-3j.netlify.app
 eventchecker-3r.netlify.app
 eventchecker-eo.netlify.app
+eventchecker-ev.netlify.app
 eventchecker-h6.netlify.app
 eventchecker-ht.netlify.app
+eventchecker-hz.netlify.app
 eventchecker-io.netlify.app
 eventchecker-jn.netlify.app
 eventchecker-md.netlify.app
@@ -66197,6 +66205,7 @@ global-excell.com
 global-expertfx.com
 global-exxodu.wixstudio.com
 global-fundsrecovery.com
+global-hardwere-enus.wixstudio.com
 global-infra.sbs
 global-interval.top
 global-io-trezer.wixstudio.com
@@ -66285,6 +66294,7 @@ globalcrestmarkets.org
 globalcryptotransfer.com
 globaldesktop-apps.wixstudio.com
 globaldesktop.wixstudio.com
+globaldesktopcdn.wixstudio.com
 globalearnings-endosement.com
 globalelitescapital.com
 globales-trezcdn.wixstudio.com
@@ -76782,6 +76792,7 @@ intro-ledgelive.wixstudio.com
 intro-ledggestarted.wixstudio.com
 intro-ledgrcom.wixstudio.com
 intro-liveleder.wixstudio.com
+intro-online-desktop.wixstudio.com
 intro-online-exodu.wixstudio.com
 intro-startsapp.wixstudio.com
 intro-suiteapp.wixstudio.com
@@ -77494,6 +77505,7 @@ ioapps-startsio-tre.wixstudio.com
 ioapps-trexorstart.wixstudio.com
 ioapps-trzor.wixstudio.com
 ioapps-velodrome.wixstudio.com
+ioappsstarts-trexo.wixstudio.com
 ioatomicwallextensio.wixstudio.com
 iobbank.com
 iobituninstaller.cn
@@ -81724,9 +81736,13 @@ kingpro-uniswap-wallet.co.com
 kingproehl.verifytoken.com
 kingpur.com
 kingpur.pt
+kingrayol1020.com
 kingrolls.bet
 kingroyal-adresi.icu
 kingroyal-guncelgirisi.icu
+kingroyal10040.com
+kingroyal2558.com
+kingroyal3528.com
 kingroyal831.com
 kingroyal832.com
 kingroyal833.com
@@ -81932,6 +81948,7 @@ kjmlkjedcfedcbupdate.zyxwvutonmlkjihgfedsummer-conference-2026.mario-s-event-org
 kjmlkjidsummer-conference-2026.mario-s-event-organization.fullsailevents.com
 kjmlkjihsummer-conference-2026.mario-s-event-organization.fullsailevents.com
 kjmqihbw.login-coinbase-secured.com
+kjngroyal1010.com
 kjs78.jkhij456.luhuijklma.yoga
 kk-1.sgrew.club
 kk-2-kraken-cc.pages.dev
@@ -89267,6 +89284,7 @@ led-ger-des-top.pages.dev
 led-ger-deusktop.pages.dev
 led-ger-live-deskt.pages.dev
 led-ger-live-eig.pages.dev
+led-gerlives.wixstudio.com
 led-jer-com-strt.pages.dev
 led-log-ger-us.pages.dev
 led-net1-9cjf.vercel.app
@@ -89457,6 +89475,7 @@ ledge-startapp.wixstudio.com
 ledge-us.wixstudio.com
 ledge-usa-live.pages.dev
 ledgeapp-comstart.wixstudio.com
+ledgeapp-iostart.wixstudio.com
 ledgeapplive.wixstudio.com
 ledgear-live-wallat.pages.dev
 ledgeb.com
@@ -100024,6 +100043,7 @@ meritking1919.com
 meritking2425.com
 meritking2689.com
 meritking3422.com
+meritking4124.com
 meritking4871.com
 meritking4946.com
 meritking5018.co
@@ -105889,9 +105909,11 @@ mritunjay121003.github.io
 mrjd483.com
 mrjkmcdonald194-ai.github.io
 mrkets.xyz
+mrking5020.cam
 mrkrabtoken.com
 mrkt-unisocks.xyz
 mrlampy.github.io
+mrlking5019.com
 mrluwas25.bubbleapps.io
 mrmandoza.live
 mrmarcuspeterlascelles.sbs
@@ -107027,6 +107049,7 @@ myledgerlivesycronizationwebapp.com
 myledgerwebapp.com
 myledgerwebextension.live
 myledgestarted.wixstudio.com
+myledgrecdn.wixstudio.com
 myledgrstarted.wixstudio.com
 mylennedrabos.com
 mylittleladies.blog.verifytoken.com
@@ -115077,6 +115100,7 @@ pan.pancakrswap.financial
 pan.rongtv.xyz
 pan.ssffaa19.xyz
 panacherealtors.com
+panalobet.ph
 panamaconecta-tramites.pro
 panbeto.com
 panca.keswap.financial
@@ -118516,6 +118540,7 @@ platfor--m-suites-1fv.pages.dev
 platform--live.wixstudio.com
 platform-ai.cyou
 platform-applive.wixstudio.com
+platform-apps-en.wixstudio.com
 platform-apps.wixstudio.com
 platform-bitbuycdn.wixstudio.com
 platform-bloffin.wixstudio.com
@@ -128921,6 +128946,7 @@ rewards-stbl.com
 rewards-store.com
 rewards-strata.markets
 rewards-strata.money
+rewards-strata.xyz
 rewards-tea-fi.lol
 rewards-tea-fi.xyz
 rewards-telco.in
@@ -132027,6 +132053,7 @@ salary.budgetaryfinancial.com
 salary.increase.michelin.e-docssign.net
 salarycoin.cfd
 salasaa-sa.store
+salat.cn
 salathebox.com
 saldo188aku.com
 saldodnagratis.my.id
@@ -138522,24 +138549,36 @@ solairdrop.top
 solairdropofficial.xyz
 solairdrops-6g.netlify.app
 solairdrops-6h.netlify.app
+solairdrops-7e.netlify.app
 solairdrops-8w.netlify.app
 solairdrops-bi.netlify.app
+solairdrops-d9.netlify.app
 solairdrops-df.netlify.app
 solairdrops-eo.netlify.app
 solairdrops-es.netlify.app
 solairdrops-eu.netlify.app
+solairdrops-fu.netlify.app
+solairdrops-fy.netlify.app
+solairdrops-h8.netlify.app
 solairdrops-ho.netlify.app
 solairdrops-i7.netlify.app
 solairdrops-ir.netlify.app
 solairdrops-jg.netlify.app
+solairdrops-l9.netlify.app
+solairdrops-mu.netlify.app
 solairdrops-mz.netlify.app
 solairdrops-nv.netlify.app
 solairdrops-nw.netlify.app
 solairdrops-p7.netlify.app
+solairdrops-pa.netlify.app
+solairdrops-qk.netlify.app
+solairdrops-rz.netlify.app
 solairdrops-s6.netlify.app
+solairdrops-uq.netlify.app
 solairdrops-ux.netlify.app
 solairdrops-v9.netlify.app
 solairdrops-vh.netlify.app
+solairdrops-vn.netlify.app
 solairdrops-w2.netlify.app
 solairdrops-w4.netlify.app
 solairdrops-w7.netlify.app
@@ -143247,6 +143286,7 @@ starting--ledgared.pages.dev
 starting-bridgeapp.wixstudio.com
 starting-bridges.wixstudio.com
 starting-gets.ghost.io
+starting-ledgruscdn.wixstudio.com
 starting-liveapp.wixstudio.com
 starting-livedesktop.wixstudio.com
 starting-trexocdn.wixstudio.com
@@ -144236,6 +144276,7 @@ store.gerald-main.shop/e90ae
 store.gerald1main.shop
 store.gerald1main.shop/eedfe
 store.glock18-workshop.com
+store.grafsynergy.com
 store.holdgeneral.ca
 store.isaaclomman.com
 store.itemsdetail.com
@@ -150136,6 +150177,7 @@ telewex.com
 telewexs.com
 telewhiw.sbs
 telewkwro.com
+telewlnu.sbs
 telewmvr.com
 telewpgd.com
 telewraf.sbs
@@ -154615,6 +154657,7 @@ trentx.cc
 trenx-io.pages.dev
 trenz-en.pages.dev
 treor-io-startapp.wixstudio.com
+treor-io-startapps.wixstudio.com
 treor.io
 treozr.io
 trepeplwe-lightu9e28uy-dpsqlabj9w79.edgeone.dev
@@ -154886,6 +154929,7 @@ trezoapp-page.zapier.app
 trezoapp-started.wixstudio.com
 trezoapp.wixstudio.com
 trezoapps-page.wixstudio.com
+trezobrid-home.wixstudio.com
 trezobridge-en-us.wixstudio.com
 trezobridgedocs.m-pages.com
 trezoe.io
@@ -157265,6 +157309,7 @@ trustwallet.support-agent.live
 trustwallet.tjgege.com
 trustwallet.transaction.cfd
 trustwallet.trustalphafaq.com
+trustwallet.uk.com
 trustwallet.validatorcards.app
 trustwallet.vc
 trustwallet.vg
@@ -166524,6 +166569,7 @@ vote-zetarium.xyz
 vote-zilliqa.com
 vote-zknation.xyz
 vote-zkspass.com
+vote.alturatrade.xyz
 vote.dapp-flarenetwork.xyz
 vote.deexscreener.fun
 vote.dev-pump.fun
@@ -174664,6 +174710,7 @@ www.gooerseowds-tordt.top
 www.google-flights.club
 www.google-lawsuit.com
 www.govbtcclaim.org
+www.governace-flarenetwork.app
 www.gp-drivingschoolmanchester.co.uk
 www.grambertenergy.com.atlascapitalescrow.com
 www.grand.usplatform-inc.com
@@ -175359,6 +175406,7 @@ www.rejekihuba5.com
 www.remmitix.network
 www.remoteapps2.suryagharyojna.com
 www.renaissanceiksuha.cyou
+www.repeg-apyx-fi.app
 www.report.abqweather.com
 www.reportaml.app
 www.reportaml.com
@@ -175371,6 +175419,7 @@ www.restoretok.live
 www.restructuring-kr-blockfi-portal.com
 www.reutheshel.org.il
 www.reveal-moonshot.xyz
+www.reward-telcoin.app
 www.rewardhub.safevpnapp.com
 www.rewards.banana-guy.fun
 www.rexastoken.live
@@ -175448,6 +175497,7 @@ www.scam-assist.co.uk
 www.scassetrecovery.com
 www.scfnl.org
 www.scuba-steve.com
+www.sdfewr.christmas
 www.sdgsdfsdg.pics
 www.sdvagroup.site
 www.seabeg.com
@@ -175668,6 +175718,7 @@ www.td-todiesk.com.cn
 www.teahousefinance.xyz
 www.tebbr.dindex.net
 www.tebby.store
+www.tecivtbt.shop
 www.teddybarza.com
 www.teenhub.live
 www.teiegtm.click
@@ -175701,6 +175752,7 @@ www.televemdl.com
 www.televhzk.com
 www.televqwn.sbs
 www.telewgqj.com
+www.telewrqf.sbs
 www.telewvhv.sbs
 www.telexkxu.com
 www.teleyotea.com
@@ -177790,6 +177842,7 @@ xn--kamno-vsa.com
 xn--kittenswapfinanceappdexswap-dx9pdd04546h.literarylantern.site
 xn--kjpe-bitcoin-wjb.com
 xn--kngroyal1009-zj6f.com
+xn--kngroyal1011-zj6f.com
 xn--kngroyalgiris-iib.xyz
 xn--kr-lbb.cc
 xn--kr-nia.com

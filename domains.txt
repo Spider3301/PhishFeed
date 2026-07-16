@@ -2793,7 +2793,9 @@
 99night-in-the-forest.pages.dev
 99nightforest.blogspot.com
 99nightintheforestx7.netlify.app
+99nightsintheforest.blogspot.com
 99nightsintheforestfree.com
+99nightsscript.blogspot.com
 99nightstheforest.netlify.app
 99nighttt.blogspot.com
 99rob.netlify.app
@@ -67907,6 +67909,7 @@ greatviewlimited.com
 greatweb3portfoliotestnet.top
 greatweeeeb.com
 greduddos-foillixau-f2d179.pages.dev
+greedy-projects.com
 greekcs.cyou
 green-bitcoin.io
 green-bitcoins.pages.dev
@@ -83187,6 +83190,7 @@ kra13.co
 kra13.net
 kra13.pro
 kra13.top
+kra13.vip
 kra132.cc
 kra132.cc/phishing
 kra135.cc
@@ -85608,6 +85612,7 @@ kraken-sitedark-net.pages.dev
 kraken-sitedarknet-net.pages.dev
 kraken-slon-at.ru
 kraken-slon-cc.info
+kraken-slon.cfd
 kraken-slon2-at.ru
 kraken-slon2-cc.ru
 kraken-ssilka-darknet.info
@@ -95015,6 +95020,7 @@ longbrokeragewallet.com
 longevity-solana.gate-cryptolist.com
 longinus-origindefi.org
 longmao.110407.xyz
+longrrbx.blogspot.com
 longtenz.cn
 lonixplay.com
 lonkake.cfd
@@ -110605,6 +110611,7 @@ nova-finance.app
 nova-fx-plus.xyz
 nova-inviolex.net
 nova-ltd.life
+nova-mp.live
 nova-mp.net
 nova-token.info
 nova-updates.live
@@ -111544,6 +111551,7 @@ official-ledger-app.live
 official-ledger-liv-e.pages.dev
 official-ledger-live-en.pages.dev
 official-ledger-live-wallet.pages.dev
+official-ledger-live.co
 official-ledger.app
 official-ledger.live
 official-ledger.pages.dev
@@ -132090,6 +132098,7 @@ salmon-ekx.pages.dev
 salmon-embeds-139089.framer.app
 salodecuba.vip
 salomon-bvi.pages.dev
+salon1.cc
 salonforge.com
 saloni-sys.github.io
 salospin.com
@@ -135978,6 +135987,7 @@ siodax.com
 siodex.com
 siofax.com
 siolax.com
+sion10.cc
 sion200506.github.io
 sionax.com
 siorax.com
@@ -136868,6 +136878,7 @@ slon-6-to.ru
 slon-6e-cc.ru
 slon-7cc.com
 slon-7to.ru
+slon-8-cc.info
 slon-8-to.ru
 slon-8.ru
 slon-9-cc.ru
@@ -137227,6 +137238,7 @@ slon6to.com
 slon6to.ru
 slon6z.cc
 slon7---cc.ru
+slon7--cc.ru
 slon7-at.com
 slon7-at.net
 slon7-cc.com
@@ -167383,6 +167395,7 @@ vyxwupdate.onmlkjihsummer-conference-2026.mario-s-event-organization.fullsaileve
 vyxwvuponmlkjihgfedsummer-conference-2026.mario-s-event-organization.fullsailevents.com
 vzaccesshub.net
 vzake.com
+vzj4noiy-ozon.homerenovationsdenver.com
 vzj4noiy-ozon.reliableortho.com
 vzj4noiy-ozon.socalmartialarts.com
 vzj862.it
@@ -173103,6 +173116,7 @@ wvw-coinoase.pro
 wvw-coinqase.pro
 wvw-facebook.com
 wvw-ledgerwallet.live
+wvw.trezor.io.start-suite-app.pro
 wvww-ledgar-app.live
 wvww-ledger-app.info
 wvww-ledger-app.vip

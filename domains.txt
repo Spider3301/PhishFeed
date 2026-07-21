@@ -17981,6 +17981,7 @@ arbitrum-cross-chain-bridge.github.io
 arbitrum-drip.com
 arbitrum-drip.icu
 arbitrum-etherfi.net
+arbitrum-foundations.vercel.app
 arbitrum-portal.com
 arbitrum-tax.pages.dev
 arbitrum-token-bridge-git-new-tx-history-s-a94206-offchain-labs.vercel.app
@@ -18171,6 +18172,7 @@ arcticpablotoken.xyz
 arcticvaltrix-invest.com
 arctiicpablo.pages.dev
 arctoken.run
+arcusdex.net
 arcusfinance.net
 arcvaults.xyz
 arcvoyage.com
@@ -31377,6 +31379,7 @@ bulla.su-shi.lat
 bulla.sushis.dev
 bulla.sushiswap.tech
 bullaclaim.com
+bullanaonsol.com
 bullbitcoin-desktop.com
 bullbot.fun
 bullbrute.com
@@ -45376,6 +45379,7 @@ crakeinuslgz.webflow.io
 craken-logi.pages.dev
 crakenineyilogiusa.webflow.io
 crakenuslogz-14119b.webflow.io
+crakenxeuslogz.webflow.io
 cranix-vez.pages.dev
 crapscrypto.com
 craservices.599785.com
@@ -48545,6 +48549,7 @@ dapps-dev.pages.dev
 dapps-firelightfi.app
 dapps-integrated.netlify.app
 dapps-magnifier.xyz
+dapps-mainnet.xyz
 dapps-mainnets.online
 dapps-nodeapplication.pages.dev
 dapps-noderr.42web.io
@@ -51572,6 +51577,7 @@ dexdecentralized.pages.dev
 dexdrop.live
 dexe-sushi.cfd
 dexe-sushi.xyz
+dexe.run
 dexe.sushis.dev
 dexe.sushis.pro
 dexealote.org
@@ -69778,6 +69784,7 @@ gamevortex.gives
 gamewinit.com
 gamewiz.in.net
 gamex.cc
+gamexbr.com
 gamezk.ru
 gamezone-3si.pages.dev
 gamicorp.com
@@ -77344,6 +77351,7 @@ hgadh.com
 hgbm.se
 hgbrn.com
 hgc2x.xyz
+hgfedcbghfuvnotexists3216c8cb8a8-1669-4888-9584-d7052cf15662.acquency.com
 hgfedcbnotexists87655031dcc46f47-e9f9-4b8a-a532-71b0d90be2f5.acquency.com
 hgfedcnotexists9876543216c8cb8a8-1669-4888-9584-d7052cf15662.acquency.com
 hgfedcnotexists987654www6c8cb8a8-1669-4888-9584-d7052cf15662.acquency.com
@@ -84229,6 +84237,7 @@ jabkaskin.online
 jabulabet-casino.com
 jack-bit.cc
 jack-bit.me
+jack.inthebox.world
 jack4fan.com
 jack4fun.com
 jack777.bet
@@ -103795,6 +103804,7 @@ maker.ai-cryptolist.com
 makeredto.org
 makershfc73621423.github.io
 makes-usdt0.top
+makesenseai.netlify.app
 makesevs.site
 maketrenchesgreat.com
 maketrenchesgreat.xyz
@@ -126067,6 +126077,7 @@ polymarket-bot-nextjs.vercel.app
 polymarket-bot.co.uk
 polymarket-ca.com
 polymarket-canada.com
+polymarket-ch.ch
 polymarket-chain.pages.dev
 polymarket-chains.web.app
 polymarket-check.whitestake.cc
@@ -126108,6 +126119,7 @@ polymarket-il.com
 polymarket-info.pages.dev
 polymarket-insight.org
 polymarket-issuer.air3.com
+polymarket-it.com
 polymarket-klarna.co.uk
 polymarket-kyc.co.uk
 polymarket-legal.co.uk
@@ -126123,6 +126135,7 @@ polymarket-pages.pages.dev
 polymarket-poc.pages.dev
 polymarket-privatemarkets.com
 polymarket-pt.com
+polymarket-resolve.pages.dev
 polymarket-rewards.com
 polymarket-scam.co.uk
 polymarket-sec.com
@@ -126138,6 +126151,7 @@ polymarket-tax.co.uk
 polymarket-test.com
 polymarket-tlh4.vercel.app
 polymarket-tools-hub.com
+polymarket-tr.com
 polymarket-trade.xyz
 polymarket-trading-bot.com
 polymarket-trends.com
@@ -126243,6 +126257,7 @@ polymarket.it.com
 polymarket.lever-labs.com
 polymarket.limited
 polymarket.m7.org
+polymarket.net.pl
 polymarket.ngrok.app
 polymarket.org.es
 polymarket.org.in
@@ -126266,6 +126281,7 @@ polymarket.support
 polymarket.surf
 polymarket.sushiswap.cyou
 polymarket.theoffsiteco.com
+polymarket.tr
 polymarket.trade
 polymarket.tw
 polymarket.uk.com
@@ -126298,6 +126314,7 @@ polymarketbots-update.pages.dev
 polymarketbots-updates.pages.dev
 polymarketbr.com
 polymarketchain.web.app
+polymarketcolombia.co
 polymarketcom.com
 polymarketconnect.pages.dev
 polymarketcopytrade.info
@@ -126305,6 +126322,8 @@ polymarketcopytrade.live
 polymarketcopytrading.com
 polymarketcreators.com
 polymarketdesktop.app
+polymarketdeutschland.com.de
+polymarketdeutschland.de
 polymarketdev.com
 polymarketecuador.com
 polymarketepl.xyz
@@ -126325,9 +126344,11 @@ polymarketlogin.us
 polymarketmobile.com
 polymarketoficial.com
 polymarketoscars.top
+polymarketosterreich.at
 polymarketplace.click
 polymarketplayer.pages.dev
 polymarketpod.com
+polymarketpolska.pl
 polymarketpredictionai.com
 polymarketprivate.reserved.market
 polymarketpro.app
@@ -126349,6 +126370,8 @@ polymarketsniper.com
 polymarketsport.com
 polymarketstat.xyz
 polymarketstats.xyz
+polymarketsuisse.ch
+polymarketswitzerland.ch
 polymarkett.at
 polymarkett.pages.dev
 polymarkettool.onrender.com
@@ -127610,6 +127633,7 @@ presalefarm.xyz
 presalemeteora.top
 presalenewsairdrop.blogspot.com
 presalepikainfinity.pages.dev
+presaleremittix.com
 presales-blockdag.network
 presales-connects.pages.dev
 presales-earthmeta.pages.dev
@@ -143222,6 +143246,7 @@ skinsmonkeyy.sbs
 skinsmonkye.com
 skinsmopkey.com
 skinsox.com
+skinsport.net
 skintbox.com
 skintut.com
 skinubox.com
@@ -148131,6 +148156,8 @@ spx6900-token.com
 spx6900.gate-cryptolist.com
 spx6900app.com
 spx6900lab.com
+spx80k-centurylink.com
+spx80k.com
 spx88k-cointelegraph.com
 spx88k.com
 spx88k.icu
@@ -148144,6 +148171,7 @@ spx99x.org
 spxearth.solcoins.icu
 spxmigrate.live
 spxofficial.com
+spxofficial.net
 spxs6900.world
 spxspin.com
 spxtoken.live
@@ -159098,6 +159126,7 @@ tigerfunded.xyz
 tigergamingwin-de.com
 tigflash.top
 tiggger.pages.dev
+tight-bread-3fd8.zmfkc29.workers.dev
 tigist-gizaw.github.io
 tigo-rewards.top
 tigo2.business
@@ -159772,6 +159801,7 @@ tokenmoonfixs.com
 tokennetwork.app
 tokennpocketserver.org
 tokenomics-stable.app
+tokenomics.my
 tokenopocket.com
 tokenp0cket.pro
 tokenp1.com
@@ -180296,6 +180326,7 @@ wozedex.com
 wp-windowf9.vercel.app
 wpcdnws.com
 wplink.cc
+wpm4g7y56uzj3i3wbkhcxevjff3basrjusqu5itiraua6hun636q.arweave.net
 wpner.cc
 wpolymarket.xyz
 wpp55w.com

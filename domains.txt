@@ -13581,6 +13581,7 @@ aml-sigma.win
 aml-signal.com
 aml-smart.com
 aml-sol.com
+aml-solana.xyz
 aml-solutions.icu
 aml-star.site
 aml-statistics.info
@@ -16333,6 +16334,7 @@ app-hyperliquid-launch.com
 app-hyperliquid-s4.com
 app-hyperliquid-trade.com
 app-hyperliquid-xyz.info
+app-hyperliquid-xyz.netlify.app
 app-hyperliquid.app
 app-hyperliquid.exchange
 app-hyperliquid.pages.dev
@@ -16392,6 +16394,7 @@ app-jlto.cc
 app-jlto.net
 app-joinopenstandard.top
 app-jtn-whatshktw.com
+app-jtx.trade
 app-jumper-launch.com
 app-jumper-v7.com
 app-jumperexchange.net
@@ -29379,6 +29382,7 @@ bitcoinhyper-presale.pages.dev
 bitcoinhyper-stake.com
 bitcoinhyper.app
 bitcoinhyper.com
+bitcoinhyper.connect-portal.live
 bitcoinhyper.de
 bitcoinhyper.dev
 bitcoinhyper.digital
@@ -31305,6 +31309,7 @@ blocksolutionauth.live
 blocksphere-raffle.com
 blockspin777.com
 blocksquarereward.xyz
+blocksrecovery.online
 blockstonefx.com
 blockstonefx.com.absuthng.org
 blockstranding-airdrop.xyz
@@ -34779,6 +34784,7 @@ bullheadcantina.com
 bullheadcantina.com/menu
 bullhubfinance.com
 bullhype.fun
+bullhype.xyz
 bullish-degen.com
 bullish-drop.live
 bullish-register.fun
@@ -35089,6 +35095,7 @@ buttcoin-allocation.xyz
 buttcoin-claims.pages.dev
 buttcoin-money.app
 buttcoin.app
+buttcoin.claim-portal.fun
 buttcoin.claims
 buttcoin.foundation
 buttcoin.guru
@@ -47792,6 +47799,7 @@ come-ledgercom-en.pages.dev
 come-review.github.io
 come-signin.quest
 come.ac
+comebackapp.net
 comedg.com
 comedian.nvault.live
 comedianmeme.xyz
@@ -48279,6 +48287,7 @@ conferencebtc.pro
 conferencexrp.com
 confgnexa.xyz
 confianzatrades.com
+confidence-point.uk
 confidencegauge.com
 confident-material-356311.framer.app
 confidentailtoken.com
@@ -60697,16 +60706,19 @@ dogebetting.org
 dogecast-bsc.next-cryptolist.net
 dogechain.ai-cryptolist.net
 dogecoin-7nx.pages.dev
+dogecoin-ca.com
 dogecoin-casino-canada.org
 dogecoin-casino.uk
 dogecoin-casinos.net
 dogecoin-change.com
 dogecoin-china.com
 dogecoin-cn.com
+dogecoin-crypto.ru
 dogecoin-qr-code-generator.com
 dogecoin-recovery.com
 dogecoin-wllet.webflow.io
 dogecoin.fan
+dogecoin.life
 dogecoin20-iio.pages.dev
 dogecoin20-web.pages.dev
 dogecoin8.com
@@ -60716,6 +60728,7 @@ dogecoinbetting.com
 dogecoinbettingsite.com
 dogecoinbettingsite.org
 dogecoinbyclaude.com
+dogecoincasino.nl.traffborris1.org
 dogecoinchina.com
 dogecoinewallets.webflow.io
 dogecoinicwallet.webflow.io
@@ -60729,7 +60742,9 @@ dogecoinmining.online
 dogecoinmixer.com
 dogecoinnnwallet.webflow.io
 dogecoinnwallet.webflow.io
+dogecoinprice.net
 dogecoinpricelive.org
+dogecoinqianbaoxiazai.cam
 dogecoinsnet.com
 dogecoinsnet.com.affiliasystem.com
 dogecoinstocks.net
@@ -64036,6 +64051,7 @@ ecofow.com
 ecofresh.com.au
 ecoin55.cc
 ecoinbase-signin-page.created.app
+ecoinda.org
 ecokidsarttw.com
 ecology-desktop.wixstudio.com
 ecom-clone-amber-six.vercel.app
@@ -69272,14 +69288,17 @@ eventchecker-hu.netlify.app
 eventchecker-hz.netlify.app
 eventchecker-ie.netlify.app
 eventchecker-io.netlify.app
+eventchecker-jm.netlify.app
 eventchecker-jn.netlify.app
 eventchecker-jo.netlify.app
+eventchecker-kz.netlify.app
 eventchecker-lq.netlify.app
 eventchecker-m8.netlify.app
 eventchecker-md.netlify.app
 eventchecker-nk.netlify.app
 eventchecker-oh.netlify.app
 eventchecker-p7.netlify.app
+eventchecker-p8.netlify.app
 eventchecker-pj.netlify.app
 eventchecker-qd.netlify.app
 eventchecker-qg.netlify.app
@@ -69297,6 +69316,7 @@ eventchecker-uq.netlify.app
 eventchecker-v8.netlify.app
 eventchecker-vd.netlify.app
 eventchecker-vy.netlify.app
+eventchecker-ww.netlify.app
 eventchecker-xe.netlify.app
 eventchecker-xi.netlify.app
 eventchecker-xl.netlify.app
@@ -79834,6 +79854,7 @@ gaseth.click
 gasewin.io
 gasfees.top
 gasfree4u.com
+gasfreetron.org
 gasfun.pages.dev
 gasgauge.app
 gasghv.meiqiea.com
@@ -81427,6 +81448,7 @@ gevinox.com
 gevonax.com
 gewinnen-einen-gratispreis2.myfreesites.net
 gewodex.com
+gewomex.com
 gex-robin00d.com
 gexbets.com
 gexcybet.icu
@@ -82559,6 +82581,7 @@ gloversecsolution.com.vintagecunion.com
 glovesinvest.com
 glovobrains.com
 glovotex.com
+glowcas.com
 glowcore.life
 glowcore.live
 glowcore.world
@@ -93545,6 +93568,7 @@ in.wttdz.my.id
 in0.nl
 in144.pro
 in22.online
+in2uhrkr.com
 ina777.autos
 inaccuratedapps.space
 inactive-x.com
@@ -99135,6 +99159,7 @@ jsr-4tf.pages.dev
 jstlndeo35lhse.kearia-3.workers.dev
 jstminner.com
 jstswap.com
+jstswap.org
 jstx-topgroup.com
 jsv7rr.lol
 jsvarp7q-wildberries.mode-3bq7h.cfd
@@ -100081,6 +100106,7 @@ justingauna.shop
 justinsun-allocation.xyz
 justinsun-allocations.xyz
 justlend-dao.github.io
+justlend-dex.org
 justlend-do-wallet.typedream.app
 justlend-mining.pages.dev
 justlend-site.github.io
@@ -101925,6 +101951,7 @@ kittlycraft.com
 kittsen-svcap.com
 kitty-dev.team
 kittyfriendfend.com
+kittyminingfun.com
 kittysnipers.com
 kittysniping.com
 kittyxkum.online
@@ -116052,6 +116079,7 @@ loguin-kuicoinn.godaddysites.com
 logunledgear-help.gitbook.io
 logverfgh.hstn.me
 logx.ai-cryptolist.org
+lohithp2804-star.github.io
 lohorealestates.com
 loinnkucoin.webflow.io
 loiom.com
@@ -123379,6 +123407,7 @@ melocas.com
 melodious-manatee-c2a637.netlify.app
 melomakarona1.netlify.app
 melomex.com
+melondogclaim.netlify.app
 melontnsgroup.com.ng
 melox.pro
 melrkl.xyz
@@ -123748,6 +123777,7 @@ mercadolivrecredito.com
 mercadolivreoutlet.com
 mercadolivrevariedades.com.br
 mercadomlseguro.com
+mercadona.abb-dev.fr
 mercadona.tribbal.net
 mercadonna.com
 mercadopagobr.top
@@ -124081,6 +124111,7 @@ messicupgoals.com
 messiflashusdt.sbs
 messigaul.pages.dev
 messiplay.pro
+messix.online
 messix.vip
 messol.network
 messtates.com
@@ -131417,6 +131448,7 @@ my.fondvault.net
 my.gradinate.network
 my.graidient.network
 my.greadient.network
+my.griedient.network
 my.growth-techfunds.live
 my.hfbfinance.site
 my.interbrokers.co
@@ -135472,6 +135504,7 @@ node-tulsonents.pages.dev
 node-web3blockchain.help
 node.airdropsalert.life
 node.authfxconnector.com
+node.bridgeinformations.com
 node.liberty-tfb.com
 node.rcabe.network
 node.rcad.network
@@ -135793,6 +135826,7 @@ norkhoysa.com
 normanbarryberman.online
 normandiebitcoin.com
 normdex.vercel.app
+normie.claim-portal.fun
 normie.earlydrop.fun
 normiebase-allocations.pages.dev
 normifesto.netlify.app
@@ -147069,6 +147103,7 @@ ponmlojihgfedsummer-conference-2026.mario-s-event-organization.fullsailevents.co
 ponmpojihgfedsummer-conference-2026.mario-s-event-organization.fullsailevents.com
 ponmwww.hgfedsummer-conference-2026.mario-s-event-organization.fullsailevents.com
 ponqpkjihgfedsummer-conference-2026.mario-s-event-organization.fullsailevents.com
+ponsfamily.org
 pont-e-cashback.dynv6.net
 pontateswap.com
 ponte-stellar-ai-app.com
@@ -150461,6 +150496,7 @@ pub-f797f02db53d4ff0b48db234d2ff6780.r2.dev
 pub-f868e77df61146e2a31924f0f62189d5.r2.dev
 pub-f8fde659e2dc4783b121a5445d3d74c0.r2.dev
 pub-fbf4ed0a761f428fae865a645e391436.r2.dev
+pub-feace8375b50491084e257e8c6d61cc3.r2.dev
 pub-feb99a8e8a744872bd5d9a7a88924454.r2.dev
 pub-ff2c89d21ea94dadac399b2d3cd15ad1.r2.dev
 pubf868e77df61146e2a31924f0f62189d5.r2.dev
@@ -152759,6 +152795,7 @@ quest-raster.com
 quest-solsticefinances.com
 quest-unichs.pages.dev
 quest-zealy.pages.dev
+quest.gal-connects.com
 quest.gal-login.com
 quest.log-gal.com
 questchurchstl.org
@@ -161140,6 +161177,7 @@ safeeconnect.com
 safeerc20.sol
 safeeyes.tech
 safefire.jo
+safefixerweb.com
 safegate-x.com
 safeglobaltrade.pro
 safeglobalwallet.xyz
@@ -164024,6 +164062,7 @@ send-it.fun
 send-trustwallet.com
 send-u5dt.vercel.app
 send-usd-31ca58.netlify.app
+send-usd-trust.netlify.app
 send-usd.cc
 send-usd.netlify.app
 send-usd2.netlify.app
@@ -169136,6 +169175,7 @@ solairdrops-eu.netlify.app
 solairdrops-ex.netlify.app
 solairdrops-fu.netlify.app
 solairdrops-fy.netlify.app
+solairdrops-gl.netlify.app
 solairdrops-h8.netlify.app
 solairdrops-ho.netlify.app
 solairdrops-i7.netlify.app
@@ -169145,6 +169185,7 @@ solairdrops-jg.netlify.app
 solairdrops-kg.netlify.app
 solairdrops-l9.netlify.app
 solairdrops-m6.netlify.app
+solairdrops-mh.netlify.app
 solairdrops-mi.netlify.app
 solairdrops-mu.netlify.app
 solairdrops-mz.netlify.app
@@ -169174,6 +169215,7 @@ solairdrops-v9.netlify.app
 solairdrops-vh.netlify.app
 solairdrops-vl.netlify.app
 solairdrops-vn.netlify.app
+solairdrops-vt.netlify.app
 solairdrops-w2.netlify.app
 solairdrops-w4.netlify.app
 solairdrops-w7.netlify.app
@@ -169181,6 +169223,7 @@ solairdrops-wa.netlify.app
 solairdrops-wm.netlify.app
 solairdrops-xb.netlify.app
 solairdrops-yf.netlify.app
+solairdrops-zm.netlify.app
 solairdrops-zn.netlify.app
 solairdrops-zw.netlify.app
 solairgg.world
@@ -170169,6 +170212,7 @@ solnspin.xyz
 solo-technology.com
 soloboris.com
 sologemini-2-0.pages.dev
+sologenic-dex.org
 sologenic-migrate.org
 sologenic-migration.live
 sologenic.site
@@ -181209,6 +181253,7 @@ tak2000.com
 takami-web.co.jp
 takaraland.com
 takavitutors.com
+take-firelight.xyz
 take-flarefoundation.app
 take-monad.io
 take-ripple-xrp.net
@@ -189273,6 +189318,7 @@ tronfronttest.trongotesting.com
 tronfuel.app
 tronfundbot.com
 trongambling.org
+trongaming.org
 trongas.net
 trongas.one
 trongas.shop
@@ -196175,6 +196221,7 @@ usdtggo.vip
 usdtgoumai.com.cn
 usdtgrowx.com
 usdtguard.com
+usdtguardaml.com
 usdtgulf.com
 usdtgw.com.cn
 usdtgw.vip
@@ -196557,6 +196604,7 @@ usernodeauthentication.org
 usernodeauthorize.com
 usernoonshot.app
 userocket.online
+userp2p.com
 userportal.ghost.io
 userportal.ghost.io/desktop-en
 userportaldex.com
@@ -200932,6 +200980,7 @@ voteing-okx.com
 votelist.cc
 votelist.live
 votelisting.xyz
+votelistingstatus-cc.netlify.app
 votemarket.trustwgf.com
 votemarketcap.com
 votemenow.org
@@ -202542,6 +202591,7 @@ walletledgr-us.pages.dev
 walletlink-828.pages.dev
 walletlive-auth-dshfkjsd84.shalee314.workers.dev
 walletlives-en.pages.dev
+walletmagic.link
 walletmaintain.pages.dev
 walletmonitor.cloud
 walletmonkeyfinance.com
@@ -207159,6 +207209,7 @@ wlfim.com
 wlfimemecoin.com
 wlfimetaverse.com
 wlfiminer.com
+wlfimomo.com
 wlfin.biz
 wlfin.org
 wlfinewcrypto.com
@@ -207989,6 +208040,7 @@ wsscopremiums.help
 wssusj2.cfd
 wst-fb.vip
 wstusdt.org
+wstusdt.xyz
 wsupholstered.com
 wswaim-whatsapp.hl.cn
 wswhts.one
@@ -213947,6 +213999,7 @@ xrpstarts.net
 xrpsupport.io
 xrpsw.app
 xrpswap.app
+xrpswap.io
 xrpswipe.com
 xrptagfix.app
 xrptokenrestaking.com

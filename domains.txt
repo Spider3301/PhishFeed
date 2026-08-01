@@ -55531,6 +55531,7 @@ darknetlive.cc
 darknetmarket.nexus
 darknetmarket.store
 darknetmarketexpert.com
+darknetmarketoffers.com
 darknetmarketplace.online
 darknetmarkets1.com
 darknetmarketshub.com
@@ -59751,6 +59752,7 @@ direct-dashboard.com
 direct-kredits.com
 direct-login-update.webflow.io
 direct-trust-wallet.com
+direct.nexus-tor-link.net
 direct.torzon-onion-market.com
 directa-miningbots.com
 directassetreclaim.com
@@ -69579,6 +69581,7 @@ eventchecker-io.netlify.app
 eventchecker-jm.netlify.app
 eventchecker-jn.netlify.app
 eventchecker-jo.netlify.app
+eventchecker-ko.netlify.app
 eventchecker-kz.netlify.app
 eventchecker-lq.netlify.app
 eventchecker-m8.netlify.app
@@ -86868,6 +86871,7 @@ gxh5.geminispro.com
 gxm2.top
 gxmble-casino-france.com
 gxmble.icu
+gxmcoinwb.com
 gxmuseum.com
 gxobf.sbs
 gxprelectrical.com
@@ -114276,6 +114280,7 @@ link.lecointreparis.com
 link.magicbrawl.gg
 link.mdy.at
 link.mon-l1.com
+link.nexus1darknet.com
 link.peludinhos-damel.com
 link.qfscoldstorage.com
 link.quickcheckers.com
@@ -135242,6 +135247,7 @@ nexulonix-app.com
 nexus-1.com
 nexus-46w.pages.dev
 nexus-97b829.webflow.io
+nexus-access.shop
 nexus-agent-7wp.pages.dev
 nexus-auth.de
 nexus-beta.xyz
@@ -135281,6 +135287,7 @@ nexus-market-online.com
 nexus-market.cfd
 nexus-market.nexus
 nexus-mgmt.pages.dev
+nexus-mirror.link
 nexus-mutual.github.io
 nexus-mutual.net
 nexus-mutual.org
@@ -135308,6 +135315,7 @@ nexus.tools.aws.vodafone.com
 nexus.yoyocode.agency
 nexus1onion.com
 nexus2darknet.info
+nexus2darknet.net
 nexus5darknet.info
 nexus77.store
 nexusaaso5kxt75bigvtixw63dot3mnthl3pwqxg4d6tlj5yfqjuviid.online
@@ -138098,6 +138106,7 @@ official-zeddex-swap.pages.dev
 official.darkmatterdarknet.com
 official.dewagaruda-new.site
 official.ledger-live-apps.com
+official.nexus-market-link.online
 official.thenexusmarket.com
 official.torzon-onion-market.com
 official.torzonlinkaccess.com
@@ -159651,6 +159660,7 @@ roblox-execu.net
 roblox-execut.info
 roblox-execute.net
 roblox-exploit-discord-server.pages.dev
+roblox-exploit.net
 roblox-fr-join.github.io
 roblox-free-online-log-in.pages.dev
 roblox-hair-id-codes-for-boys-black.pages.dev
@@ -160234,6 +160244,7 @@ rollbits.nl
 rollblitz.io
 rollblocktoken.live
 rollblocktoken.xyz
+rollbux.com
 rollbux.top
 rollcas.com
 rollcatch.click
@@ -170148,6 +170159,7 @@ solairdrops-6g.netlify.app
 solairdrops-6h.netlify.app
 solairdrops-7e.netlify.app
 solairdrops-8w.netlify.app
+solairdrops-8z.netlify.app
 solairdrops-az.netlify.app
 solairdrops-bi.netlify.app
 solairdrops-d9.netlify.app
@@ -183240,6 +183252,7 @@ teksanlq.com
 teksbybl.sbs
 tekscyoh.com
 teksddsc.com
+teksdomj.sbs
 teksdwfc.com
 teksglwm.sbs
 teksheil.com
@@ -187443,6 +187456,7 @@ tordex.so
 tordex.to
 tordipiti.com
 tordjman.me
+tordotwatch.com
 toreador.io
 torenixa-de.net
 torepex.com
@@ -192859,6 +192873,7 @@ tsia2-math-skills-2.pages.dev
 tsijhd02729.cn
 tsiobbluy.shop
 tsiobrlw.shop
+tsiogtzsv.shop
 tsiohgvtp.shop
 tsioqfjk.shop
 tsiornpbg.shop
@@ -211239,6 +211254,7 @@ www.legal-disbursement-blockfi.com
 www.legalsystems.cz
 www.legcoin.fun
 www.legitcryptoscamrecovery.com
+www.letger-app-v2.com
 www.letsbonkbot.fun
 www.letsbonkvolume.fun
 www.letsha.christmas
@@ -217541,6 +217557,7 @@ zondarecoverydocument.com
 zone-bridgeapp.wixstudio.com
 zone-mania.com
 zone-package.pages.dev
+zone.nexus-tor-link.net
 zone6farms.com
 zonecasinouk.com
 zonedirector.bellarinox860.it

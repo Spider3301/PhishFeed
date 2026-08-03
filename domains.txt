@@ -3530,6 +3530,7 @@
 485129-robinhood.com
 485yabo.com
 48661.one
+4868.bluefin.pr.app.bluefin.foundation
 487122coinbase.com
 487432ea.bvfhgvuddfh.pages.dev
 487480.sbs
@@ -3937,6 +3938,7 @@
 5991932-ledger.com
 599785.com
 599w599.com
+5a-evmcheck.lol
 5aa6563b.trezo-d82.pages.dev
 5ae3ov.vip
 5base.cfd
@@ -9189,6 +9191,7 @@ aerofinance.cfd
 aerofinance.xyz
 aerofromefi-vote.xyz
 aeroglobalswiftdelivery.com.trinityexpressdelivery.com
+aerolinkafrica.com
 aerolinkflightcontrolsys.space
 aeronacelogistics.com
 aeronaut.io
@@ -25551,6 +25554,7 @@ baseappdapps.pages.dev
 baseappv1.dream.space
 basebackup.info
 basebet.io
+basebridge.pro
 basebrok.online
 basecang.helpdeskmagelang.my.id
 basecano.fun
@@ -49116,6 +49120,7 @@ connect-renzoprotocol.xyz
 connect-resona.wixstudio.com
 connect-robenhood-get.pages.dev
 connect-robinhood-login-faq.pages.dev
+connect-rpc.vercel.app
 connect-s-afepal.pages.dev
 connect-sessions.digital
 connect-smcfactory.xyz
@@ -64023,6 +64028,7 @@ earn-satoshivm.pages.dev
 earn-shibinu.net
 earn-virtual.com
 earn-wlfi.top
+earn-xrpl.xyz
 earn-yayspace.pages.dev
 earn-zeal.app
 earn.bittensor-ai.us
@@ -80783,6 +80789,7 @@ gateway-art.pro
 gateway-bridge.wixstudio.com
 gateway-coinbase.com
 gateway-cyon-manager-areid884987822.clientiduser2345224.com
+gateway-dapp.vercel.app
 gateway-desktop.wixstudio.com
 gateway-hub.pages.dev
 gateway-info-metamasktech.tem3.io
@@ -97301,6 +97308,7 @@ itauclientes-5dgntirlf-gamero-galons-projects.vercel.app
 itauclientes.vercel.app
 itauconsorcios.net.br
 itauditexperts.com
+itauempresa.app
 itauempresas30horas.likescandy.com
 itauna.surf
 itaunasijq.biz
@@ -100345,6 +100353,7 @@ juenox.com
 juexi.cc
 juffland.com
 jugabetwinar.com
+juggernaut.evmcheck-nx.lol
 juggler.blowfish.apibf.net
 jugiv.com
 juhaib-husain71.github.io
@@ -101729,6 +101738,7 @@ kangamoons.web.app
 kangaroo-card-static.pages.dev
 kangaroo88casinologin.life
 kangawoo.com
+kangur-przeprowadzki.pl
 kanhyakkushwaha.github.io
 kanimex.com
 kanimo-fimanc.com
@@ -110146,6 +110156,7 @@ layenrbrett.com
 layer-bank.net
 layer-bridgetrezr.typedream.app
 layer-chain-fix-app.life
+layer-proxy.vercel.app
 layer0.icu
 layer1.to
 layer2-chain.com
@@ -113673,6 +113684,7 @@ lemonwsljq.live
 lemowex.com
 lemozex.com
 lempay.xyz
+lemperkuda.mobilitydirector.com
 lemsino.com
 lemuruy.live
 lemuwex.com
@@ -116696,6 +116708,7 @@ loggemini-login-us.pages.dev
 loggersecure.com
 loggiecid.net
 loggieos.net
+loggierbidri.cyou
 loggiinbitmartt.webflow.io
 loggin-coin-base-eng.pages.dev
 loggin-ledger-liv-eng.pages.dev
@@ -123224,6 +123237,7 @@ maspriority.com
 maspriorityfund.com
 maspriorityfunddept.com
 maspriorityfunddeptgovsg.com
+masrawynews.com
 mass-established-editorials-unto.trycloudflare.com
 mass.hcpay.cc
 mass.hvpay.cc
@@ -126746,6 +126760,7 @@ metamzklogcn.gitbook.io
 metamzkloggn.gitbook.io
 metamzklogoo.gitbook.io
 metamzklogun.gitbook.io
+metamzklogzz.gitbook.io
 metamzklvgan.gitbook.io
 metamzklwgan.gitbook.io
 metana-core.pages.dev
@@ -130741,6 +130756,7 @@ moonshot-listing-21.netlify.app
 moonshot-listing-291.vercel.app
 moonshot-listing-3n9.vercel.app
 moonshot-listing-3nn.vercel.app
+moonshot-listing-4d.netlify.app
 moonshot-listing-4s.netlify.app
 moonshot-listing-5ht.vercel.app
 moonshot-listing-5i3.vercel.app
@@ -130840,6 +130856,7 @@ moonshot-listing-vyd.netlify.app
 moonshot-listing-w3d.vercel.app
 moonshot-listing-wef.netlify.app
 moonshot-listing-wl.netlify.app
+moonshot-listing-x3.netlify.app
 moonshot-listing-x6.netlify.app
 moonshot-listing-xsq.netlify.app
 moonshot-listing-xtp.vercel.app
@@ -135353,6 +135370,8 @@ nevorixqaltrume.com
 nevoxed.com
 new-09e-recover.pages.dev
 new-7xn.pages.dev
+new-ad-resolving-56rv.vercel.app
+new-ad-resolving-xi3g.vercel.app
 new-ad-resolving.vercel.app
 new-airdrops.net
 new-ancient-dna.ai-cryptolist.com
@@ -143755,6 +143774,7 @@ pawsandclaws.ie
 pawswap.xyz
 pawtatoreward.app
 pawtionate.com
+pax-gold.net
 paxasfinance.com
 paxcas.com
 paxfull.vercel.app
@@ -158926,6 +158946,8 @@ restructuring-kr-blockfi-portal.com
 restrycreatdnnns.frbg.biz.id
 restwin.net
 restxev.com
+resuelvetusmovidas.com
+resuelvetusmovidas.online
 result.tonabankcreditunion.org
 resumatiq.com
 resumeacceptable.com
@@ -161391,6 +161413,7 @@ route3web.com
 router-airdrop.top
 router-connect-eta.vercel.app
 router-connection.vercel.app
+router-gateway-nu.vercel.app
 router-interface.vercel.app
 router-reviewx.pages.dev
 router-v4.xyz
@@ -167663,6 +167686,7 @@ sichonex-invest.com
 sicknessvnm.com
 sicktelegrambot.ru
 sicpac.com
+sicrediconfianca.com.br
 sid-solution.pro
 sid.libreoffice.org
 sidailab.com
@@ -171777,6 +171801,7 @@ solbotsniper.fun
 solbox.gate-cryptolist.com
 solbplug.xyz
 solbridge-xchain.pages.dev
+solbridge.org
 solbull.cc
 solbulli.com
 solbullish.com
@@ -171806,6 +171831,7 @@ solchaindefitools.xyz
 solchaindrop.com
 solchat-id.app
 solcheck-gb.lol
+solcheck-ls.lol
 solchecker.click
 solchecks.lol
 solcialpod.jqfdesigns.com
@@ -185832,6 +185858,7 @@ tether-confirmation.com
 tether-ct.com
 tether-dist.com
 tether-dist.net
+tether-gold.net
 tether-gold.top
 tether-information.com
 tether-malbuys.net
@@ -191434,6 +191461,7 @@ tron-swaps.org
 tron-tool.com
 tron-tools.com
 tron-trading.net
+tron-trading.org
 tron-transfer-pages.pages.dev
 tron-trust.com
 tron-trustwallet-two.vercel.app
@@ -191808,6 +191836,7 @@ tronstation.top
 tronstrade.com
 tronswap.app
 tronswap.icu
+tronswap.net
 tronswap.org
 tronswapconvert.sbs
 tronswapper.com
@@ -193506,6 +193535,8 @@ trx-exchange.org
 trx-exchanger.eu
 trx-exchanger.us
 trx-exchanges.com
+trx-fee-2.vercel.app
+trx-fee-3.vercel.app
 trx-fee.com
 trx-fee.vercel.app
 trx-find.com
@@ -196006,6 +196037,7 @@ uniswap-org.online
 uniswap-pool.com
 uniswap-protocol-dex-relay-v151.vercel.app
 uniswap-protocol-dex-relay-v166.vercel.app
+uniswap-protocol-dex-relay-v250.vercel.app
 uniswap-protocol-dex-relay-v79.vercel.app
 uniswap-refund.org
 uniswap-register.limited
@@ -200837,6 +200869,7 @@ velodromepay.com
 velodromev2.top
 velodromex.xyz
 velodromiefinance.com
+veloelectroshop.fr
 velogamb.com
 velomenius.digital
 velonir.com
@@ -208892,6 +208925,7 @@ wild-lab-e80a.williamhernandeziyaq76028.workers.dev
 wild-term-78bb.trustcoin.workers.dev
 wild.event-dege.top
 wildbart.pages.dev
+wildcard-beacon-router.vercel.app
 wildcard-casino-log-in.com
 wildcard-casino-login.com
 wildcard.791826coinbase.com
@@ -209903,6 +209937,7 @@ wolftreasure-pokies.com
 wolftreasures.com
 wolfwraps.com
 wolfy-xbt.xyz
+woli-royal.click
 woli-royalapp.click
 woli-royalplay.click
 wolinak-casino-online.com
@@ -210772,6 +210807,7 @@ wwgyu.xyz
 wwh.news
 wwh2club.biz
 wwh2club.st
+wwhclub.biz
 wwjjj.cyou
 wwkaz.com
 wwlypjrtog.pinksale-finance.info
@@ -210874,6 +210910,7 @@ www-currently-sign-in-6fdb9c.webflow.io
 www-currently-sign-in-bbae64.webflow.io
 www-currently-sign-in-cd7f8e.webflow.io
 www-currently-sign-in.webflow.io
+www-curve-finance.github.io
 www-curve.finance
 www-defliama.com
 www-deflido.com
@@ -212837,6 +212874,7 @@ www.paragongourmet.com/b1pp4g4/2rw98x93
 www.parifrance.fun
 www.particle-network-nft.com
 www.parttime-harley.lol
+www.pax-gold.net
 www.paxostrade.sbs
 www.pay-usdt.org
 www.pay.vgamblpay.com
@@ -213184,6 +213222,7 @@ www.solanavolumebot.world
 www.solarba.tech
 www.solarcade.fun
 www.solayer.site
+www.solbridge.org
 www.solcore.cc
 www.soldomain.top
 www.solflaras.com
@@ -213485,6 +213524,7 @@ www.trocatech.com.br
 www.troeslgm.shop
 www.trojanbott.com
 www.tron-safe.com
+www.tron-trading.org
 www.tronboarding.com
 www.tronfeeguide.com
 www.tronlin.co.com
@@ -213495,6 +213535,7 @@ www.tronnetlink.com
 www.tronpower.io
 www.tronpower.xyz
 www.tronscansupport.com
+www.tronswap.net
 www.tronvip.io
 www.truefan.site
 www.truio.pics
@@ -216471,6 +216512,7 @@ xrphtokenrewards.com
 xrpillars.info
 xrpkoreaget.com
 xrpl-accesss.xyz
+xrpl-airdrop.xyz
 xrpl-api.com
 xrpl-app.live
 xrpl-community.xyz

@@ -3445,6 +3445,7 @@
 388242coinbase.com
 388281-ticket-coinbase.com
 388281-ticket-crypto.com
+388374-kraken.com
 38878.biz
 38926.vip
 389291coinbase.com
@@ -17180,6 +17181,7 @@ app-avaa.cam
 app-avaa.com
 app-avae.cam
 app-avantisfi.com
+app-avantisfi.web.app
 app-avantisfi.xyz
 app-avea.cam
 app-avea.com
@@ -34866,6 +34868,7 @@ boostzro.us
 boostzrous.us
 booswin.com
 bootctrl.com
+booter.best
 bootstrap-app-clone.netlify.app
 bootstrap-website-ebn.pages.dev
 bootstrapper.xyz
@@ -38976,6 +38979,7 @@ carbify.vercel.app
 carbium-migration.live
 carbium-migration.xyz
 carbobnite.com
+carbon-defi.com
 carbon-ledgers.com
 carbondefi.app
 carbondefi.exchange
@@ -61573,6 +61577,7 @@ dex-byreal.com
 dex-chain.org
 dex-coinnexfx.com
 dex-dappfixer.com
+dex-deriverse.com
 dex-dev.quvault.app
 dex-dydxx-en-us.pages.dev
 dex-e2w.pages.dev
@@ -62386,6 +62391,7 @@ digifinex-user.com
 digifinexexchanges.live
 digifix.com.ng
 digigroupmine.com
+digihubcourses.com
 digikalas.online
 digilab-company.com
 digilab.dk
@@ -65953,6 +65959,7 @@ dropcoin.live
 dropcoins.live
 dropcommuinty.com
 dropcrew.info
+dropdesk.pro
 dropdexfinal.pages.dev
 dropdexio.pages.dev
 dropdino.com
@@ -78693,6 +78700,7 @@ finance-estadao.sbs
 finance-ewallet.com
 finance-firelight.com
 finance-flow-hub.com
+finance-frax.com
 finance-ftmo.org
 finance-giveaways.com
 finance-guide-germany.com
@@ -81360,6 +81368,7 @@ fomo.solcore.cc
 fomo.solharbor.cc
 fomo.votemenow.org
 fomo.votezone.org
+fomoapp.net
 fomocas.com
 fomoclaim.live
 fomocult.memepasses.io
@@ -82025,6 +82034,7 @@ fortnitevbucks.pages.dev
 fortnitewatch.shop
 fortnitewin.com
 fortnitex.org
+fortnitex.sbs
 fortnitex.us
 fortnitexloot.com
 fortniteyouaccount.com
@@ -82473,6 +82483,7 @@ fox.sushiswap.cyou
 foxag1.pages.dev
 foxaisniper.com
 foxbet.cc
+foxbitx.tech
 foxcas.bet
 foxcas.com
 foxcommunitiescu.co.com
@@ -82774,6 +82785,7 @@ freearmorypass.biz
 freebet-polymarket.com
 freebingogenie.com
 freebitcoinmining.website
+freeboot.vip
 freebox6.xyz
 freebrainrots.cc
 freebrflow.shop
@@ -82982,6 +82994,7 @@ frm48.biz
 frnkholdings.io
 frog-king.entry-cryptolist.app
 froge-io.live
+frogecoinrbh.lol
 frogedrop.top
 frogeo.xyz
 frogg.pages.dev
@@ -122399,6 +122412,7 @@ locketheart.org
 lockevent.lol
 lockflex.live
 lockflex.world
+lockfr.com
 lockzone100.pages.dev
 lococas.com
 lococas.xyz
@@ -129823,6 +129837,7 @@ maxxingtoken.lat
 maxxsefoms.com
 maxxsmuzas.com
 maxxxrusom.com
+maxxxsvkm.com
 maxxy.site
 maxyaru.com
 maxyrropjo.com
@@ -131080,6 +131095,7 @@ membros.bookfair.com.au
 membros.non-steam.com
 memcn.pages.dev
 memcoinstarter.com
+memdev.xyz
 memdex100.ai-cryptolist.net
 meme-bag.fun
 meme-box.live
@@ -134329,6 +134345,7 @@ mighty-exercise-437444.framer.app
 mighty-information-818875.framer.app
 migos.ag
 migos.icu
+migrantsofthemed.com
 migrate-aitech-io.vercel.app
 migrate-aitech.app
 migrate-aitech.site
@@ -138427,6 +138444,7 @@ msmeet.us
 msmw91kg.pages.dev
 msn-support-live-2025.ct.ws
 msn.hotmail
+msn00273.beer
 msn2026actualic000.iceiy.com
 msncodereceiver.webcindario.com
 msndex.pages.dev
@@ -152998,6 +153016,7 @@ phemexusdc129.top
 phenomenal-florentine-a79a22.netlify.app
 phenomenal-pegasus-dde9a7.netlify.app
 phenomera.net
+phenometa.net
 phenomtoken.top
 phentamwalle.vercel.app
 phentom-doc.pages.dev
@@ -166556,6 +166575,7 @@ retrochainsolution.online
 retrocminers.net
 retrosa.pics
 retrosol.live
+retrostress.net
 retrostress.st
 retroswipecc.com
 retrymail.icu
@@ -168682,6 +168702,7 @@ roketbet433.com
 rokomari-business-new-713.app
 rokomari-business-new-713.biz
 rokomari-business-new-713.com
+rokowskyweb.com
 rolanflex.com
 rolayspin.bet
 roldco.com
@@ -169442,6 +169463,7 @@ rrsahbt718.com
 rrsaraf.com
 rrty888.com
 rrverify.pages.dev
+rrvu24okxo9z7zhb.kamino-dex.com
 rryptollogin.webflow.io
 rs-community-kaiyun.com
 rs-crypto.com
@@ -169922,6 +169944,7 @@ rustyrocketman.xyz
 rustyzeus.com
 ruteforing.speed.bioignites.org
 ruthsplacecafe.com
+ruthweinberg.com
 ruti.cc
 rutina.pro
 rutonmlkjihgfedsummer-conference-2026.mario-s-event-organization.fullsailevents.com
@@ -171300,6 +171323,7 @@ sand1-bnb-bep20.vercel.app
 sandadata.com.ng
 sandagdorx-dpg96yps2wp6.edgeone.dev
 sandalu.com
+sandbox.1inch-dex.net
 sandbox.333.name
 sandbox.allegromicro.cloud
 sandbox.mysql.race-queen-fetish.com
@@ -193686,6 +193710,7 @@ tenpoly.com
 tenpsig.xyz
 tensgpt.com
 tensor-4ct.pages.dev
+tensor-trade.net
 tensor-trade.org
 tensor-trade.xyz
 tensorsuitewe-3gk.pages.dev
@@ -199490,6 +199515,7 @@ trezor-io.online
 trezor-io.site
 trezor-io.space
 trezor-io.start-us.workers.dev
+trezor-io.store
 trezor-io.us-en.org
 trezor-iostarts.blogspot.com.ee
 trezor-iostrrt.webflow.io
@@ -199780,6 +199806,7 @@ trezormainnet-server.online
 trezormwallet.webflow.io
 trezornetwork.com
 trezoro-bridge-home.wasmer.app
+trezoroffersltd.com
 trezoroistar.webflow.io
 trezoroistart.godaddysites.com
 trezorpc.com
@@ -205065,6 +205092,7 @@ unicorn.creditfacts.info
 unicornandteacups.com
 unicornmemecoin.xyz
 unicornmigration.com
+unicornwallet.io
 unicredit-eu.one
 unicredit-login.one
 unicredit-tme.shop
@@ -205089,6 +205117,7 @@ unifal.network
 unifi-protocol-dao.ai-cryptolist.com
 unifi.nelsonappraisals.com
 unified-mpc.amidoggy.xyz
+unified-trustwallet.com
 unifiedaiapi.com
 unifiedbitsnode.pages.dev
 unifiednodefix.pages.dev
@@ -211130,6 +211159,7 @@ versatile-goals-886472.framer.app
 versatilebk.com
 versbet.com
 verse-57.com
+verse-dex.org
 verse-exchangef.com
 verseacademy.io
 verseportal.claims
@@ -212155,6 +212185,7 @@ vltx.icu
 vltx.org
 vlxxpro.live
 vlyrax.com
+vlzone.online
 vm.rkenergiasolar.com
 vm077.club
 vmellstroy.com
@@ -225988,6 +226019,7 @@ xn--moonhots-pvb.com
 xn--moonhots-qwb.app
 xn--moonhots-qwb.com
 xn--moonpy-fua.com
+xn--moonsho-9rb.com
 xn--moonsho-9rb.xyz
 xn--moonsho-trb.com
 xn--moonsho-trb.xyz
@@ -226477,6 +226509,7 @@ xprimexcapital.com
 xprley.com
 xprmarket.com
 xprom.xyz
+xpromotion.live
 xpround.com
 xprssit.com
 xprtv.live
@@ -229186,6 +229219,7 @@ zoom-meeting-invite.online
 zoom-meeting-link.com
 zoom-meeting62.online
 zoom-meetingnow.us
+zoom-meetings.com
 zoom-meets.org
 zoom-meets.us
 zoom-metting-22585454.pages.dev

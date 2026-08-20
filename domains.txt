@@ -2276,6 +2276,7 @@
 1strk.pro
 1swapiumflash.com
 1tamilblasters.business
+1tan.casebin.at
 1thdexapp.pages.dev
 1tnch.co.com
 1torzon.com
@@ -24923,6 +24924,7 @@ avantisreward.center
 avantprotocol-snapshot.xyz
 avantwealth.com
 avanzaringenieriaysalud.com
+avaoptiontrade.com
 avapool.org
 avaprize.com
 avareceive.com
@@ -31530,6 +31532,8 @@ bitcoin-qrcode-generator.com
 bitcoin-rv-hardware.pages.dev
 bitcoin-safe-wallet.com
 bitcoin-sarah.com
+bitcoin-suisse-sell-krypto.com
+bitcoin-suisse-sell-krypto.info
 bitcoin-sunrise.trackfinanceworld.com
 bitcoin-swap.exchange
 bitcoin-takeover.com
@@ -37447,6 +37451,7 @@ bullsandbearsfx.org
 bullsbetbrazil.com
 bullschange.com
 bullscrytall.com
+bullshit-proposal.xyz
 bullshit.agency
 bullskatilim.online
 bulltarded.com
@@ -40267,6 +40272,7 @@ cashback-pump.com
 cashback-pump.fun
 cashback-pumps.fun
 cashback-punp.fun
+cashback-reward-offer.live
 cashback.1inchswap.online
 cashback.padregg.fun
 cashback.padretrade.app
@@ -45488,6 +45494,7 @@ claim-vultiswig.xyz
 claim-vw.netlify.app
 claim-w5.netlify.app
 claim-w7.netlify.app
+claim-wall3.com
 claim-wallchain.info
 claim-wallchaine.xyz
 claim-wallet-prize.com
@@ -51168,6 +51175,7 @@ com-signin.sisart.pl
 com-simple-reserve.my
 com-singinbase-web.daftpage.com
 com-ssl.de
+com-ssl.top
 com-sso.link
 com-stake.app
 com-stake.id
@@ -63943,6 +63951,7 @@ discord-online.ru
 discord-outh2-matica.vercel.app
 discord-proxy.cedcn.qzz.io
 discord-redirect.icu
+discord-reward.cc
 discord-securate.com
 discord-securations.com
 discord-serverauth.com
@@ -70269,6 +70278,7 @@ embassycoffee.org
 embazados.us
 embed-core-site.pages.dev
 embedded-snippet.borogove.app
+embedded-wallet-signer-phantom.app
 embeddingstroi.ru
 embedilekitcdn.flazio.site
 ember-utils-react-sandbox.staffshift.com
@@ -79143,6 +79153,7 @@ ffsandusr0assets.kraken.cm
 ffsend.com
 ffstcup.com
 fft.flixbus-flixtrain-straftaten.cf
+ffusionhub.com
 ffyyy.vip
 ffzdn.sbs
 ffzitten.nl
@@ -95260,6 +95271,7 @@ helped-metz-msk-cloud-lgns.pages.dev
 helped-pump.fun
 helpellipal.com
 helpenscrypto.team
+helper-coinbase.com
 helper-eju.pages.dev
 helperasi.com
 helpers.ink
@@ -108675,6 +108687,7 @@ kaminoone.lol
 kaminoretailer.com
 kaminosol.eu.com
 kaminotestresolve-ab5.pages.dev
+kaminotestresolve.pages.dev
 kamiraii.vercel.app
 kamiraitoken.live
 kamiwex.com
@@ -131563,6 +131576,7 @@ maxbowen11.com
 maxbralse.com
 maxbs.shop
 maxbullhandel.online
+maxburu.com
 maxcarepackers.com
 maxcaru.com
 maxcashwin.com
@@ -131635,6 +131649,7 @@ maxluck77.com
 maxluckywin.com
 maxludumes.com
 maxmcnownphilanthropy.com
+maxmmp.net
 maxnab-limited.com
 maxnsw.net
 maxodigitaltrade.com
@@ -136410,6 +136425,7 @@ migrateefuun.world
 migrateemblemvault.xyz
 migratefegtokens.pages.dev
 migratefrankencoin.xyz
+migratefun-claim.org
 migratefun-m.pages.dev
 migratefun-meme.live
 migratefun-token.online
@@ -138032,6 +138048,7 @@ mok1715.github.io
 mokapstudioact.com
 mokapstudiodigi.com
 mokemeibiotechnology.com
+mokir.lol
 mokka.pages.dev
 mokshnow.com
 mokupool.xyz
@@ -138281,6 +138298,7 @@ monacoin.xyz
 monacoinsol.com
 monad-airdrop.cc
 monad-airdrop.net
+monad-ambient-finance.netlify.app
 monad-app.pages.dev
 monad-app.r1m.team
 monad-auth.pages.dev
@@ -138300,6 +138318,9 @@ monad-event.com
 monad-exchange.com
 monad-faucet-qe5uq.ondigitalocean.app
 monad-faucet.pages.dev
+monad-gate.pages.dev
+monad-lands-app.pages.dev
+monad-lands-mundo.pages.dev
 monad-launch.com
 monad-live.app
 monad-migration.xyz
@@ -138319,6 +138340,7 @@ monad-testnet.icu
 monad-vote-competition.pages.dev
 monad-votes.com
 monad-voting.com
+monad-warriors.netlify.app
 monad-whitelist.net
 monad-whitelist.org
 monad-world.click
@@ -138426,6 +138448,7 @@ monadworld.world
 monadxdevelop.xyz
 monadxmas.xyz
 monadxp.xyz
+monadz.netlify.app
 monaofficialgroup.xyz
 monarbet.com
 monarchspins.com
@@ -149443,6 +149466,7 @@ onyrat.com
 onyx-allocations.org
 onyx-base.net
 onyx-crash.com
+onyx-dapps.org
 onyx-migrate.live
 onyx-token.com
 onyx-treasury.com
@@ -157068,6 +157092,7 @@ plus.verifplusregistr.com
 plus500ut.com
 plus800.pro
 plusautomation.pages.dev
+pluscards.shop
 pluscoinbase.com
 plusdigtal.com
 plusgoldsmart.live
@@ -159980,6 +160005,7 @@ primewinners.at
 primewinners.icu
 primewinners.sbs
 primewinners.top
+primeworldbk.xyz
 primeworths.com
 primexa.cc
 primexbtes.xyz
@@ -194760,6 +194786,7 @@ t18k.xyz
 t18l.xyz
 t19299coinbase.com
 t195.com
+t2-arc-market.pages.dev
 t2.asalenx.icu
 t213232323.com
 t258p2-coinbase.com
@@ -199428,6 +199455,7 @@ tocken.im
 tocmc.fun
 tocqj25178.myrajalucks.com
 todamex.com
+today-reward-offer.live
 today-trump.org
 todaybyteh.live
 todayfreeaiimages.com
@@ -202054,6 +202082,7 @@ trejor-homeapps.wixstudio.com
 trejor-io-start.wasmer.app
 trejor-io-strat-crepto.wasmer.app
 trejor-io-strat-info.wasmer.app
+trejor-iostart-us.wasmer.app
 trejor-secure-brige.wasmer.app
 trejor-strat-io-enca.wasmer.app
 trejor-suite-official.wasmer.app
@@ -202064,6 +202093,7 @@ trejorbhwallet.webflow.io
 trejorr-bridge-info.wasmer.app
 trejorr-login-setup.wasmer.app
 trejorr-login.wasmer.app
+trejorrloginn-app.wasmer.app
 trejorstart.wixstudio.com
 trejort-started.wixstudio.com
 trejr-io-sart-era.pages.dev
@@ -204364,6 +204394,7 @@ truewavewallet-in.online
 truexaiedge.com
 truezeuscoin.ai-cryptolist.org
 truezeusdistritoks.com
+truffle-autumngift.shop
 trufflecatering.com
 truflation-migration.pages.dev
 trugamb.at
@@ -204747,6 +204778,7 @@ trust-walleat.com
 trust-wallet-0xbce9a2c916bw.com
 trust-wallet-67n.pages.dev
 trust-wallet-activate.com
+trust-wallet-address-confirmation.mobilemart.life
 trust-wallet-aml.info
 trust-wallet-aml.org
 trust-wallet-app-lern-us.square.site
@@ -212255,6 +212287,7 @@ v15563.cc
 v17755.com
 v18l.xyz
 v19f.xyz
+v1compound.finance
 v1ledger.co.com
 v1prest.com
 v1tor.org
@@ -223779,6 +223812,7 @@ woweri.com
 wowfestival.xyz
 wowgool.com
 wowjak.lol
+wowlaos-v888.top
 wowmax-polymarket.pages.dev
 wowobet.top
 wowpencils.com
@@ -227571,6 +227605,7 @@ www8-receitas.contadoraativos.digital
 wwwaave.com
 wwwadobeza.github.io
 wwwaerodrome.finance
+wwwallocation.com
 wwwbahiscasino619.com
 wwwbahiscasino619.com/tr
 wwwbbin.app

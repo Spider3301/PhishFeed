@@ -9289,6 +9289,7 @@ activarcuernta.iceiy.com
 activate-exchange.pro
 activate-kotaiproject.pro
 activate-online.com
+activate-productscorp.com
 activate-pump.fun
 activate-your-free-verified-badge.vercel.app
 activate.pcrairdrop.com
@@ -18130,6 +18131,10 @@ app-hyperliquid-launch.com
 app-hyperliquid-s4.com
 app-hyperliquid-test.netlify.app
 app-hyperliquid-trade.com
+app-hyperliquid-xyz-app.gigahertz3.com
+app-hyperliquid-xyz-app.hypdashapp.com
+app-hyperliquid-xyz-app.hypedashapp.com
+app-hyperliquid-xyz-app.terminalgeneric.com
 app-hyperliquid-xyz.info
 app-hyperliquid-xyz.netlify.app
 app-hyperliquid.app
@@ -18778,6 +18783,10 @@ app-unionbuild.top
 app-unionbuilds.top
 app-unipeg.art
 app-unipeg.com
+app-uniswap-org-swap.dopeminers.com
+app-uniswap-org-swap.genericterminal.com
+app-uniswap-org-swap.undashapp.com
+app-uniswap-org-swap.v4daps.com
 app-uniswap-org.dashboardv4.com
 app-uniswap-v7.com
 app-uniswap-v9.com
@@ -21890,6 +21899,7 @@ artc.vip
 artchaincollection.com
 artconsult.be
 artdizain.net
+artdril.io
 artdrunk.shop
 arteam-zoominfo.com
 artecipo.com.br
@@ -23306,6 +23316,7 @@ atom.eng-update.com
 atom.gb.net
 atom.one
 atom.sushi.us.com
+atom108-alexander-tech.pages.dev
 atom108.org
 atom1c-web.com
 atomage.cc
@@ -48043,6 +48054,7 @@ clear.errorblockdag.network
 clear90489058903-document.workers.dev
 clearbet.nl
 clearcoinfx.com
+clearedgemarkets.com
 clearforge.tech
 clearhavenb.com
 clearl.digital
@@ -74965,6 +74977,7 @@ ettorologin.wixstudio.com
 ettytousdt.webflow.io
 etugamb.com
 etuktukpresale.pages.dev
+etv.antretentrega.com
 etv.az
 etvaultb.com
 etx-ethcoin.cc
@@ -90320,6 +90333,7 @@ globalfxtrades.net
 globalfxttrading.net
 globalgainpursuit.com
 globalgainstrade.live
+globalgatewaycf.com
 globalgj-aipartners.com
 globalgoalsmun.co
 globalgrantscenter.com
@@ -92034,6 +92048,7 @@ government.st
 governo.vip
 governorcrestlimited.com
 goves-flarenetwork.live
+govi-efootball.vercel.app
 govindkh04.github.io
 govinfotech.net
 govintonline.com
@@ -123331,6 +123346,7 @@ librertyswap.finance
 libreta.obsidia.ar
 libretv.dev
 libretyswap.finance
+libretywsap.finance
 lice-ledgr-dstop-ask.pages.dev
 licence.ikmot.co.uk
 licenciamento-detran.site
@@ -148654,6 +148670,7 @@ now.sh
 now.site
 now.venmo.com
 nowa.finance
+nowachain.com
 nowandthen.net.au
 nowatu.com
 nowayeco.com
@@ -154288,6 +154305,7 @@ pancakecwap.org
 pancakedex.info
 pancakedexswap.org
 pancakefinance.org
+pancakeiswap.finance
 pancakelabs.finance
 pancakepreet.sbs
 pancakerinswap.com
@@ -176853,6 +176871,7 @@ saudi-recruitment-office.com.khaledfozan.com
 saudi-services-office.com
 saudi-transactions-tracker.com
 saudiacoast.com
+saudibusiness-gav-sa.net
 saudiprem.net
 saudisales.net
 sauditowtech.com
@@ -205733,6 +205752,7 @@ trezor.com.co
 trezor.com.es
 trezor.com.im
 trezor.com.tc
+trezor.entropy-update-dashboard.com
 trezor.es
 trezor.fail
 trezor.feldmesser.co
@@ -209706,6 +209726,7 @@ tumindai.com
 tumorbiologie.info
 tumurt-urguu.com
 tunaofficial.xyz
+tunbarefo.pages.dev
 tuncao.com
 tundepay.weebly.com
 tundra-grid.pages.dev
@@ -212071,6 +212092,7 @@ unpackjs.b-cdn.net
 unpaidinvoiceremitaath.vercel.app
 unpayoffldger.org
 unpayoffledger.world
+unpeacekeepingtroops.com
 unpirswarp.cc
 unpretentious-kudu-c39ee8.instawp.site
 unreal-employee-605361.framer.app
@@ -214826,6 +214848,7 @@ ushealthbroadcast.online
 usherkomugisha.com
 ushib.top
 ushiejohn29-boop.github.io
+ushiplogistic.com
 ushrnnac.com
 ushtxcdn.wixstudio.com
 usi--phantom.pages.dev
@@ -217066,6 +217089,7 @@ veridact.solutions
 veridai.shop
 veridcex.com
 veridexmarkets.com
+veridianbnk.com
 veridiancu.us.com
 veridiatrade.com
 veridicta.shop
@@ -217940,6 +217964,7 @@ viagravpro.com
 viaigen.com
 viamichael.com
 vianatrademarkcollectionbywyndham.spahotel.guru
+viandraw.pl
 viaonjourney.digital
 viaonmove.digital
 viascdetran.online
@@ -231888,6 +231913,7 @@ xchat.to
 xchibi-allocation.com
 xchief.kz
 xchngbng.pages.dev
+xcityweb.com
 xclaim.site
 xcn-coin-news.pages.dev
 xcn-coin-news20250217.pages.dev

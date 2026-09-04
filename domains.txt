@@ -8973,6 +8973,7 @@ account.metrixcorehubs.com
 account.microsoft
 account.motradefinance.com
 account.msauth.live
+account.nexoglobalservice.com
 account.osrforum.it
 account.partneragencyportal.com
 account.pokeliquid.org
@@ -34719,6 +34720,7 @@ blop.fun
 bloqvest.com
 blornpliffy.top
 blosk.io
+blosscraft.net
 blossombusinessbk.com
 blotzm.xyz
 blovexa.com
@@ -42126,6 +42128,7 @@ causology.biz
 cavada.gate-cryptolist.com
 cavaflexmega.com
 cavaflexmega.com.fastearnersfx.com
+cavalier-house.cc
 cavalier-house.com
 cave.cash
 cave.co.com
@@ -58553,6 +58556,7 @@ cuahax.com
 cuangee.com
 cuannnterus.com
 cuanspin88lp1.xyz
+cuarax.com
 cubaseniors.com
 cubashp.vip
 cubbefo.click
@@ -71736,6 +71740,7 @@ elitemanagementlimited.com
 elitemining.us
 eliteminingstock.org
 elitemktllc.com
+elitemutabletrade.com
 eliteoptionexperts.com
 eliteparcelxpress.com
 elitepointinvest.com
@@ -79205,6 +79210,7 @@ faceit-verifyclubs.xyz
 faceit-verifying.com
 faceit.5v5room.com
 faceit.accept-invite.pro
+faceit.accsyncing.com
 faceit.auth-connectdiscord.com
 faceit.auth-gglegendscup.com
 faceit.auth-vertexclub.com
@@ -82893,6 +82899,7 @@ firstone.world
 firstonlineroyalbank.xyz
 firstonlineroyalbanks.xyz
 firstpayfinance.live
+firstpointtradingpro.com
 firstpriorityexpress.com
 firstradcapital.com
 firstrg.cfbn.online
@@ -113189,6 +113196,9 @@ kittlycraft.com
 kittsen-svcap.com
 kitty-dev.team
 kitty-mc.com
+kittycatcraft.xyz
+kittycraftsmp.com
+kittyescraft.com
 kittyfriendfend.com
 kittyminingfun.com
 kittynw.xyz
@@ -140796,6 +140806,7 @@ mixnovapro.com
 mixoor.com
 mixoor.fun
 mixoorfun.xyz
+mixowin.com
 mixquity.finance
 mixquitylabs.com
 mixquitylabs.net
@@ -145161,6 +145172,7 @@ mycryptoairdrops.io
 mycryptoairdrops.net
 mycryptoairdrops.org
 mycryptocdn.wixstudio.com
+mycryptoftmo.com
 mycryptomixer.com
 mycryptotest.com
 mycs.2ix.ch
@@ -146063,6 +146075,7 @@ nanoengineer-1.net
 nanoeth.net
 nanofex.com
 nanolax.com
+nanoledgerxquantum.com
 nanomarketingandreserve.com
 nanopoid.net
 nanoptionz.com
@@ -146682,6 +146695,7 @@ nectar-globe.com
 nederlandsnieuwsnu.nl
 nedflanders1237.github.io
 nedgroupe.com
+nedisrealtors.com
 nedkas.com
 nedode.pages.dev
 nedofex.com
@@ -148177,6 +148191,7 @@ nexonsolutions.pages.dev
 nexora-bonusflare.click
 nexora.to
 nexorachainassets.com
+nexoracreditunion.com
 nexorafunds.live
 nexoramining.org
 nexoramining.org.inxsolution.com
@@ -159846,6 +159861,7 @@ pink888fart.com
 pinkangels.site
 pinkasale-finance-bsc.pages.dev
 pinkcas.com
+pinkiesmc.com
 pinkoasistoken.com
 pinkotopcas.xyz
 pinkoyn.com
@@ -183351,6 +183367,7 @@ simpleswapi.to
 simpleswapl.org
 simpleswapp.at
 simpleswapp.com
+simpleswaps.to
 simpleswarnp.com
 simplewebs.pro
 simplewsap.net
@@ -210238,6 +210255,7 @@ trustedexchange166.com
 trustedexchange188.com
 trustedfinancial.sbs
 trustedfinancial.top
+trustedfxcredits.com
 trustedfxtrade-fr.live
 trustedgebrokerage.com
 trustedgeinvest.com
@@ -227096,6 +227114,7 @@ wewd36.it
 wewe001.bitbucket.io
 wewin-96.com
 wewin55.best
+wewin55.bet
 wewin55best.com
 wex.com
 wexabet.com
@@ -227915,6 +227934,7 @@ winbeaast.com
 winbeeast.com
 winberry-ca.net
 winbert.com
+winbest.asia
 winbet-casino.de
 winbet.cfd
 winbet.ink
@@ -234546,6 +234566,7 @@ xetyuiomnxcewat.vercel.app
 xever.bet
 xevest.com
 xevorixa.net
+xevowin.com
 xexbestpro.com
 xextra.bet
 xexz-gx.santxye.biz.id

@@ -12511,6 +12511,8 @@ ai-app.icu
 ai-appointment-booking.pages.dev
 ai-appusd.xyz
 ai-avatar.org
+ai-bot-mining.top
+ai-bot-mining.vip
 ai-centadecentralized.com
 ai-centazdecentralized.pro
 ai-centradecentralized.com
@@ -15986,6 +15988,7 @@ allocations-firelight.app
 allocations-firelight.fun
 allocations-flare.app
 allocations-flare.com
+allocations-flarenetwork.xyz
 allocations-flarenetworks.icu
 allocations-flyingtulip.com
 allocations-gensyn.network
@@ -20959,6 +20962,7 @@ app-pct.icu
 app-pencle.finance
 app-pendle-v7.com
 app-pendle.cc
+app-pendle.icu
 app-peopodsfinance.pages.dev
 app-pepeheimer.pages.dev
 app-perceptron.xyz
@@ -26048,6 +26052,7 @@ atomiacwallet.github.io
 atomic-crypto-guide.com
 atomic-crypto-guide.pages.dev
 atomic-crypto-hub.com
+atomic-crypto.org
 atomic-en-us.wixstudio.com
 atomic-eng.wixstudio.com
 atomic-exchange.online
@@ -30516,6 +30521,7 @@ baonax.com
 baonex.com
 baopxer.cn
 baorax.com
+baosteel.click
 baotao.live
 baovex.com
 baowex.com
@@ -47714,6 +47720,7 @@ chase-sapphire-ace-demo.vercel.app
 chase-uxprivacyautindex.zya.me
 chase.mineoverse.com
 chase.personalaccount.app
+chase.phntm.com
 chase998.club
 chasebank.fun
 chasebanks.world
@@ -50393,6 +50400,7 @@ claim-uptop.com
 claim-uranuscoin.org
 claim-usat.com
 claim-uscrgov.com
+claim-usd.com
 claim-usd1.xyz
 claim-usdai.com
 claim-usdai.org
@@ -52803,6 +52811,7 @@ cloude-suite-en.pages.dev
 cloude.ai
 cloudemulator.com
 cloudenginelab.web.app
+cloudfalre.net
 cloudfilebridge.com
 cloudflare-eth.com
 cloudflare-frontend-9xj.pages.dev
@@ -69036,6 +69045,7 @@ dexscreeners.online
 dexscreenertestresolve.pages.dev
 dexscreenervote.fun
 dexscreenervote.info
+dexscreenervotelive.com
 dexscreenervotenow.com
 dexscreenervoter.com
 dexscreenervoters.com
@@ -83477,6 +83487,7 @@ extravis-reshade-preset-download.pages.dev
 extream.me
 extreemdeals.com
 extrememaximopalplc.com
+extrememine.com
 extremepremiercapital.com
 extremeprofitss.standardelitemarket.com
 extremerealtylimited.com
@@ -91598,6 +91609,7 @@ fortyour.com
 fortys.lol
 fortys.xyz
 fortysc.live
+fortystats.com
 fortyxe.com
 fortyz.info
 fortyz.lol
@@ -91607,6 +91619,7 @@ fortzex.top
 fortzon.com
 fortzon.top
 fortzone.live
+fortzone.sbs
 fortzox.com
 fortzup.icu
 fortzz.com
@@ -91645,6 +91658,7 @@ forwardinking.com
 forwardleag.group
 forwardtogether-meetings.com
 forwarsprite.com
+forwayz.top
 forwox.pro
 forxed.com
 forxtrdpro.com
@@ -94698,6 +94712,7 @@ gbwhatsapp-22f.pages.dev
 gbwhatsapp-pro.pages.dev
 gc-4ya8-rzv1.staff-sunprosaccounting-com-s-account.workers.dev
 gc-telegram.pages.dev
+gc.bnjazi.com
 gc4hd.labxb11.cc
 gcas.bet
 gcbgcbadmin.org
@@ -143690,6 +143705,7 @@ mediaalert-x.xyz
 mediacases-x.com
 mediacix.com
 mediacontrol-x.xyz
+mediafiles.macoswinplus.com
 mediafire.com
 mediaflex.live
 mediaflowq.run
@@ -160285,6 +160301,7 @@ odral-core.pages.dev
 odsaod0sa1mzxds.shop
 odsports-verify.com
 odstranit.weebly.com
+odufps-fudyfuy.com
 odysaiteam.com
 odywj.com
 oe1-okx.com.cn
@@ -174070,6 +174087,7 @@ private-transaction-check.com
 private-wallet-service.vercel.app
 private.mudskipper.io
 private05webzoomworkspacemeeting-live-invite-us05web83517x.pages.dev
+privateaimfortnite.sbs
 privatealps.net
 privateascentcapital.com
 privatecheatz.app
@@ -174900,6 +174918,7 @@ promotioncondition24.org
 promotions.ppsmotors.co.in
 promotionsemirate.com
 promotionsemirates.com
+promotrustcard.ltd
 promovida.org.br
 promovoosbrasil.com
 promovooshoje.com
@@ -175737,6 +175756,7 @@ pt.libreoffice.org
 pt777akses.com.005.semogasukses1.com
 pt828.cc
 pt8868.com
+ptai.in
 ptb-portaltobitcoin.xyz
 ptb.airdropalerts.pro
 ptb.gov.pk
@@ -195462,6 +195482,7 @@ skinout.org
 skinouts.com
 skinp0r.com
 skinparty.gg
+skinpc.top
 skinport-cs2.at
 skinport-deal.com
 skinport-offer.com
@@ -195524,6 +195545,7 @@ skinubox.com
 skinuhouse.com
 skinuout.com
 skinuox.com
+skinupfort.click
 skinuut.com
 skinvalue.info
 skinvalue.pro
@@ -213160,6 +213182,7 @@ teams.cloud-server.net.in
 teams.de-php.info
 teams.microsofteams.top
 teams.ohmybargains.com
+teams.sharepoint.co.it
 teams.surf
 teams.us.org
 teams02live.us

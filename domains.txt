@@ -21736,6 +21736,7 @@ app-eigenlaeyer.com
 app-eigenlayer-v7.com
 app-ekubo.xyz
 app-electrum.com
+app-elysium.xyz
 app-en--ledgr-live-da0.pages.dev
 app-en-blue-wallet.pages.dev
 app-en-coin-pro-base.pages.dev
@@ -38042,6 +38043,7 @@ beunumaro.com
 beurerstore.shop
 beutiva.com
 bevactive.shop
+bevawin.com
 bevee.shop
 bevelcare.shop
 bevelgroominglux.shop
@@ -41505,6 +41507,7 @@ blacken.cyou
 blackforesthealth.shop
 blackforestindustries.shop
 blackforestindustriesauto.shop
+blackforestrituals.shop
 blackforeststore.shop
 blackforestsupplement.shop
 blackforestvitamins.shop
@@ -48537,6 +48540,7 @@ capitalbaseassets.com
 capitalbkonline.icu
 capitalbondinvfund.com
 capitalboomglobe.com
+capitalboosts.org
 capitalbracetrade.com
 capitalbridgecreditunion.com
 capitalbuildplc.com
@@ -56419,6 +56423,7 @@ claimpepe.xyz
 claimpepememe.live
 claimpeperewards.pages.dev
 claimpepeto.app
+claimperks.store
 claimpets.smdeals.xyz
 claimpifree.online
 claimpigeon.pages.dev
@@ -58290,6 +58295,7 @@ codemusk.net
 codename-custom.fr
 codeolix.info
 codepiler.net
+codepsn.top
 coder-eosin.vercel.app
 coderestar.com
 coderhub-one.vercel.app
@@ -60281,6 +60287,7 @@ coingeckor.sbs
 coingeckor.vip
 coingeckosprot.com
 coingekc.com
+coingekco.cash
 coingeko.info
 coingekx.cc
 coingekx.com
@@ -75959,6 +75966,7 @@ dju653.it
 djwn1bk9abb6okq5v4ijmapx.pages.dev
 djyz47.buzz
 dk-info.biz
+dk-phantom.ru
 dk562.top
 dkaldmalmda.pages.dev
 dkasino.bet
@@ -80931,6 +80939,7 @@ edgesub-2x1.pages.dev
 edgesvu.cn
 edgetradelab.org
 edgetrovia.online
+edgetrustcapital.com
 edgeultra.cc
 edgeup.vip
 edgeuriatrades.online
@@ -96241,6 +96250,8 @@ formidnxz-dnacostmer.frusciante.my.id
 formindoxdnanms.bascanetz.my.id
 forminformation.blogspot.com
 formly-x.com
+formlyx.jp
+formlyx.net
 formniceinewssid.depelover.my.id
 formnscosttmerlyan.hazelnutindo.com
 formnscosttmerlyanxs.xyzzmizuno.biz.id
@@ -100067,6 +100078,8 @@ gamzix.cfd
 gamzix.sbs
 gamzix.top
 ganaconfelalla.com
+ganar2026it.vip
+ganar2026sp.vip
 ganargold.top
 ganarluxgold.top
 ganarsiempre.com
@@ -159252,6 +159265,7 @@ mrking11073.com
 mrking11075.com
 mrking11085.com
 mrking11086.com
+mrking11098.com
 mrking11151.com
 mrking11860.com
 mrking12057.com
@@ -163184,6 +163198,7 @@ netflixclone05.vercel.app
 netflixclonebyyash.vercel.app
 netflixclonee.vercel.app
 netflixcom.pages.dev
+netflixcredit.sweepstakealert.info
 netflixfeitoaqui.com.br
 netflixfree2024.blogspot.com
 netflixfw54.rollout.site
@@ -175135,6 +175150,7 @@ periwinkle-weekender.shop
 perk-pump.fun
 perkbench.com
 perkbulk.com
+perkgems.com
 perkridge.co.za
 perktide.com
 perkyreward.online
@@ -176674,6 +176690,7 @@ pikashow-apk.com
 pikashow-official.net
 pikashow-tv.in
 pikashow.co.com
+pikashow.info
 pikashow.mov
 pikashow.or.at
 pikashow.run
@@ -186211,6 +186228,8 @@ quickmeeting.in
 quickmeetingliink.top
 quickmeetup.online
 quicknode.fhlac.com
+quicknode.vhuatu.com
+quicknode.zikaoe.com
 quickpromo.live
 quickrcourierdelivry.online
 quickrcourierdelivry.online.capitaltrustybk.com
@@ -187447,6 +187466,7 @@ rainbetbonus.net
 rainbetca.co.com
 rainbetca.com
 rainbetcanada.com
+rainbetcanada.site
 rainbetcanada.us.com
 rainbetcanadaofficial.com
 rainbetcas-org-uk.pages.dev
@@ -191522,6 +191542,7 @@ retail-shopping.shop
 retailcomercial.com
 retard.acafdxiaharbor.com
 retardretirement.com
+retatrutide-canada.com
 retatrutide-labs.vip
 retatrutide-research.vip
 retatrutide-shop.vip
@@ -205776,6 +205797,7 @@ socoser.com.bo
 socprofile.com
 socrates-gm.com
 socs6c.icu
+sodapex.com
 sodex-point.xyz
 sodex-soso.xyz
 sodex.live
@@ -214950,6 +214972,7 @@ streetsmarttrade.com
 strefa817.org
 streijl.eu
 stremiotv.online
+strendus-app.mx
 strendus-bet.com.mx
 strendus-bono.com
 strendus-casino-mexico.com
@@ -250301,6 +250324,7 @@ wettzox.com
 weturx.top
 wetw23.it
 weucex.com
+weumax.com
 weumox.com
 weutestresolve.pages.dev
 weuwux.com
@@ -252945,6 +252969,7 @@ wrapped-bitcoin-mixer.com
 wrapped-sol.live
 wrapped.co.com
 wrappedtx.com
+wrapwin.com
 wrb737.it
 wrdn.rest
 wrecksbet.com

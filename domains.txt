@@ -43158,6 +43158,7 @@ blackops-guide.cyou
 blackops-hub.cyou
 blackops-link.cyou
 blackops-link.online
+blackops-market-link.club
 blackops-market-url.cyou
 blackops-market.online
 blackops-market.world
@@ -46880,6 +46881,7 @@ boss-burger.entry-cryptolist.app
 boss-suite.live
 boss.metadscredit.com
 bossairdrop.pages.dev
+bossbeyroyal.click
 bossbytexai.net
 bossfightstudio.shop
 bosshossclub.shop
@@ -47301,6 +47303,7 @@ bpfi.fun
 bphaven.shop
 bpi-trading.com
 bpiaccessonline.com
+bpisad.com
 bpisportsgear.shop
 bpkin.art
 bpksbd.org
@@ -48168,6 +48171,7 @@ brightly.buzz
 brightmaple.pro
 brightmeadowtrail.xyz
 brightmint.org
+brightnodepath.link
 brightonbitcore.digital
 brightonvalelegal.com
 brightonwealthfx-client.io
@@ -63259,6 +63263,7 @@ coinbaseproaloegin.webador.com
 coinbaseprol0gin.onepage.website
 coinbaseprolgin.onepage.website
 coinbaseprolloginn.wordpress.com
+coinbaseprolng.com
 coinbaseprolog.created.app
 coinbaseprolog1.wordpress.com
 coinbaseprologen.framer.website
@@ -107551,6 +107556,7 @@ getbedrock.org
 getbest7kpromo.com
 getbfinexorg.com
 getbitco.com
+getblackops.com
 getblockaml.vercel.app
 getbluestacks.ru
 getblum.today
@@ -129373,6 +129379,7 @@ join-bullish.com
 join-bullishsol.xyz
 join-chud.fun
 join-concho.xyz
+join-coredao.pages.dev
 join-dein.com
 join-dreamcash.app
 join-edr.com
@@ -134298,6 +134305,7 @@ kogamb.cc
 kogamb.com
 koge-sushi.pro
 kogesushi.top
+kogundop.vip
 kogwin.com
 kohi.mom
 kohinoormotors.com
@@ -156866,6 +156874,7 @@ mark-wise.freehomeprice.org
 mark.com
 markangelohernandez.com
 markansoru.com
+markasorusu.com
 markatuna.com
 markerlessar.com
 markest.xyz
@@ -167736,6 +167745,7 @@ mrking11151.com
 mrking11589.com
 mrking11860.com
 mrking12057.com
+mrking12062.com
 mrking12065.com
 mrking13061.com
 mrking14.com
@@ -183806,6 +183816,7 @@ pba.onl
 pbantom.com
 pbconsultancy.space
 pbconsulttrade.com
+pbeachtaxsuitfr.firebaseapp.com
 pbeto.com
 pbh8-casefb773880.vercel.app
 pbkminer.com
@@ -184575,6 +184586,7 @@ penteledata-docs.web.app
 penvex-darvin-biz-marpex-hilnox-sp15ct12.pages.dev
 penvoapextrustbnk.com
 penzkezelodik.com
+penzoinfia.store
 peodax.com
 peodox.com
 peogux.com
@@ -187114,6 +187126,7 @@ pl.funtrip360.com
 pl.libreoffice.org
 pl.ochnikoutlet.com
 pl.skol1mgra.life
+pl2.plsource.eu.cc
 pl5iqnogtq.pages.dev
 placardd-pt.com
 place-bridge.wixstudio.com
@@ -187801,6 +187814,7 @@ plivnote.com
 plixy-zgron-jmudz-1fd82e-wjkv-skrypn.pages.dev
 pljnsad.vercel.app
 pljsw.gdn
+plliprice.com
 plllshffjjjss.top
 pllume.org
 plmrkt.xyz
@@ -187958,6 +187972,8 @@ pluscoinbase.com
 plusdigtal.com
 plusgoldsmart.live
 plush-assets.com
+plush-exhaust.com
+plush-fern.com
 plushmc.com
 plusierufraichegolding.firebaseapp.com
 plusierufraichegolding.web.app
@@ -188317,6 +188333,7 @@ polarfi.ttdev.kz
 polaris-cod.gg
 polaris-invest.net
 polaris-mas.com
+polaris-soft.digital
 polaris-vip.cc
 polarisai-app.fyi
 polarisai.click
@@ -188401,6 +188418,7 @@ polipackcargoexpress.buzz
 poliplevro.com
 polipy.com
 polis-appen.infosynk.se
+polish-glide.com
 polish-glint.com
 polish-wind.com
 polished-breeze.com
@@ -189495,6 +189513,7 @@ porezna-uprava-23b83.web.app
 porezna-uprava-4b978.firebaseapp.com
 porezna-uprava-4b978.web.app
 porezna-uprava-5e120.firebaseapp.com
+porezna-uprava-5e120.web.app
 porezna-uprava-82a29.firebaseapp.com
 porezna-uprava-82a29.web.app
 porezna-uprava-8f75b.firebaseapp.com
@@ -189573,6 +189592,7 @@ portal-aave.xyz
 portal-aerodrome.xyz
 portal-alianzas-qa.inter.mx
 portal-allocation.xyz
+portal-amb.firebaseapp.com
 portal-app-ledger.com
 portal-app-ndax--io-cdn--v.webflow.io
 portal-app-ndax-io-cdn--now.webflow.io
@@ -190199,6 +190219,7 @@ pos555.com
 posatoshi.com
 posawin.com
 posblockchainmining.org
+poscaro.firebaseapp.com
 posec-landing.pages.dev
 poseidon-menu.pages.dev
 poseidon-online.pages.dev
@@ -190290,6 +190311,7 @@ postamixe.web.app
 postargah2.lat
 postbank-id268.firebaseapp.com
 postbank-id268.web.app
+postbank-konto.web.app
 postbits.org
 postboxesmail.store
 postcapitalplc.com
@@ -190319,6 +190341,7 @@ postfinancee.netsons.org
 postfinexus.com
 postfinexus.org
 postgres.click
+postia-slovenija.firebaseapp.com
 postia-slovenija.web.app
 postiflare-app.pages.dev
 postimages.cc
@@ -190395,7 +190418,9 @@ pouhox.com
 poulet.casino
 pound.cm
 poundsf.com
+pouracquisconf-fr.firebaseapp.com
 pouracquisconf-fr.web.app
+pourlavictorias.firebaseapp.com
 pourlavictorias.web.app
 pourset.com
 pousadajamanta.com
@@ -191154,6 +191179,7 @@ prihlasenikvasemuuctu.weebly.com
 priimta.weebly.com
 priivneate.com
 priivnote.com
+prijava-logare.firebaseapp.com
 prijava-logare.web.app
 prijaviteseportalsrbija.weebly.com
 priknote.com
@@ -191422,6 +191448,7 @@ primetrustwallet.com
 primetrustwallet.com.soundvests.com
 primetrustyfinance.xyz
 primeubfinancials.com
+primeukplace.shop
 primeutili.online
 primevalleyassetmanagement.com
 primevaultfxs.com
@@ -191462,6 +191489,7 @@ primeworthaniance.net
 primeworths.com
 primex-ai.net
 primexa.cc
+primexai-app.shop
 primexai-it.fyi
 primexai.digital
 primexbtc.net
@@ -192412,6 +192440,7 @@ prologin.xyz
 proly.market
 prom-pumpfun.com
 prom.xin
+promaillptdadmin.weebly.com
 promarketbanking.sbs
 promartpips.org
 promas.com.ng
@@ -192482,6 +192511,7 @@ promocionalesbbase.com
 promocioneesbhd2025rd.imi.lat
 promociones2026.iceiy.com
 promociongarena.online
+promocjadnia.shop
 promocje24.shop
 promodagazine.com
 promohadiah-shopee12.blogspot.com
@@ -192511,6 +192541,7 @@ promosexclusivasparati.com
 promoshop-nivel-laser.vercel.app
 promosyon.cfd
 promotememes.fun
+promotion-1etter-and-salary-adjustment.webflow.io
 promotion-chatgpt.com
 promotion-letter-and-salary-update-2026.webflow.io
 promotion-of-resources.com
@@ -193060,6 +193091,7 @@ protekser.com
 proteuschain.com
 protkani93.ru
 protl-project.pages.dev
+proto-glide.com
 proto2product.in
 protocnodes.pages.dev
 protocol-3.ghost.io
@@ -193258,6 +193290,7 @@ prpeo.run
 prreporter.com
 prrt1steamlocomotivetrust.org
 prrump.fun
+prsepotle.firebaseapp.com
 prsivnote.com
 prt-invest.com
 prteccionsgrddmcroffchtwh.iceiy.com
@@ -194006,6 +194039,7 @@ puemp.fun
 puep.fun
 puermama.com
 puertaimss.com
+puesc-kas.firebaseapp.com
 puetax.com
 pufendorf.live
 puff-classes.com
@@ -194079,6 +194113,7 @@ pulse-click-funnel.vercel.app
 pulse-link-traffic.vercel.app
 pulse-node-channel.vercel.app
 pulse-platform.xyz
+pulse-wave-tech.com
 pulse.cryptowavematrix6.cyou
 pulse.qa.circle.colligence.in
 pulse.quantumvaultmesh2.lol
@@ -194136,6 +194171,7 @@ pulsynk.org
 pulte.top
 pulwins.cc
 pulzetrendcapital.com
+pulzinvella.cfd
 pum6.fun
 pum6.fun/gnfmf6jvrhaqpba9r8yw16xycynknkxfbaybuslepump
 pumamy.cheap
@@ -194958,6 +194994,7 @@ pur-finrevoux-france.com
 pur-finrevouxpro.com
 pur-store.de
 pura-monetivo.org
+pura-monetivo.pro
 puraacervanza-software.digital
 puracustodier-no.live
 puracustodier.live
@@ -194997,6 +195034,7 @@ purchs-allocation.xyz
 purchsolana.com
 pure-aquamarine-ucz4les3-dpsv4t5or05c.edgeone.dev
 pure-blue-cxctxadq-dpim7xr6qi14.edgeone.dev
+pure-craft.com
 pure-cryptoplus.com
 pure-exchange.com
 pure-finance.org
@@ -195033,6 +195071,7 @@ purelivestockllc.com
 pureluxeglow.com
 purelyusdt.com
 puremods.net
+puremotifservicefr.firebaseapp.com
 pureonax.com
 purepaw.app
 purepeptid.com
@@ -195167,6 +195206,7 @@ pushkar-hub.github.io
 pushpakunwar123.github.io
 pushpayer.run
 pushplay.net
+pushtan-i.web.app
 puslacom-sitesi.vip
 puslbt-infogiris.vip
 puslechain.org
@@ -195426,6 +195466,7 @@ q-ledger.pages.dev
 q-ledgerpro.live
 q-r.to
 q0ntv3l5uvynzje.com
+q1-238.firebaseapp.com
 q1-238.web.app
 q111.solcenter.cc
 q1665.com
@@ -195953,6 +195994,7 @@ qontomsg04.firebaseapp.com
 qontomsg04.web.app
 qontomsg07.firebaseapp.com
 qontomsg07.web.app
+qontomsg08.web.app
 qoonbass-proz-logz.godaddysites.com
 qooqle-meet.com
 qopcas.com
@@ -196266,6 +196308,7 @@ quantium.top
 quantiva.group
 quantivaglobal.net
 quantiveou.com
+quantivex.live
 quantivexholdings.com
 quantivextrade.com
 quantivisionbusinessinstitute.net
@@ -196329,6 +196372,7 @@ quantum-prime-profit.com
 quantum-quotient-ai.pages.dev
 quantum-system.net
 quantum-tradewave.com
+quantum-trading-software.com
 quantum6alrex.com
 quantumai-es.com
 quantumai-eu.com
@@ -196408,6 +196452,7 @@ quantumglobals.org
 quantumhancock.org
 quantumhivehub.com
 quantumhotwallet.com
+quantumincomeai.click
 quantuminsight-ai.com
 quantuminvertir.net
 quantuminvest.app
@@ -201242,6 +201287,7 @@ regul.rw
 regulacoin.com
 regular-patterns-355532.framer.app
 regular-selfies-474531.framer.app
+regular-turquoise-nwp4lqgh-dpvj7dx5bmm0.edgeone.dev
 regularisation-cpam.info
 regularisation-sante.com
 regulariza-mei-oficial.icu
@@ -203434,6 +203480,7 @@ richinarco.rest
 richiobet.com
 richirites.com
 richmondzux.shop
+richnastay.co.kr
 richnetfndses.live
 richnetfx.com
 richnetsfunds.com
@@ -204099,6 +204146,7 @@ roadietrack.info
 roadirecta.es
 roadonellogistics.com
 roadpolice-am.icu
+roadrunnermailer.weebly.com
 roadwin.cc
 roagent.com
 roam-token.ai-cryptolist.org
@@ -219793,6 +219841,7 @@ soulwinz.com
 souma-g.heteml.net
 soumken.com
 soumkenofficial.com
+soumkentech.com
 soumya-shree-panda.github.io
 soumyadip718.github.io
 soumyajana466.github.io
@@ -230225,6 +230274,7 @@ swiftcoinlive.firebaseapp.com
 swiftcoinlive.web.app
 swiftcore-vaults.org
 swiftcrestoptions.com
+swiftcrestvalnexsolution.com
 swiftcryptos.com
 swiftdapps.network
 swiftdevchain.firebaseapp.com
@@ -230461,6 +230511,7 @@ swithproject.pages.dev
 switowinzyskarnia.org
 switzapps.blogspot.com
 switzerlandbetting.com
+switzerlandu.web.app
 swizzglobal24.com
 swlng.xyz
 swnvd0fdran-jkstrlpw-7j4h6d-jk811a.pages.dev
@@ -233185,6 +233236,7 @@ tb-bulletin.ru
 tb-facebook.blogspot.com
 tb-meli-challenge.vercel.app
 tb1292923k2.top
+tbank.click
 tbarton.biz
 tbcuk.top
 tbfseob.vip
@@ -234437,6 +234489,7 @@ telzora-gld-fentora-r9t6hk55.pages.dev
 telzqsb.sbs
 telzyfl.sbs
 telzzma.sbs
+temakolik.net
 temarocar.net
 temasekbitfundexprime.digital
 temaseknexonsg.pro
@@ -235664,6 +235717,7 @@ teyui-sv.gitbook.io
 tez-box.com
 tez-suite.render-app.com
 tez.eu.com
+tezaqsha.com
 tezawin.com
 tezbox.net
 tezcas.com
@@ -236494,6 +236548,7 @@ therocket-ledger.pages.dev
 therockuniverse.live
 theroobet.com
 theroomemes.com
+theroplmnghtuop.weebly.com
 thesaferelemento.net
 thesalmonjerk.com
 thesamenft.web.app
@@ -238795,6 +238850,7 @@ topstroy.com
 topswisscapital.com
 toptalshippingavenue.online
 toptheadvisoryinvestmentbank.com
+toptiercopytrading.com
 toptiertradeinsights.com
 toptmgmone.com
 toptracepoint.com
@@ -238992,6 +239048,7 @@ torzdex.com
 torzex.com
 torzon--darknet.com
 torzon-1.biz
+torzon-1.cfd
 torzon-2026.com
 torzon-darkmarket.com
 torzon-darknet-link.org
@@ -239024,6 +239081,7 @@ torzon-mirrors.org
 torzon-official-darknet-mirror.net
 torzon-official.site
 torzon-onion-link.info
+torzon-onion-market.net
 torzon-onion-market.xyz
 torzon-onion.com
 torzon-onion.uk
@@ -272346,8 +272404,10 @@ xodus-web3.wixstudio.com
 xodusweb.pages.dev
 xofafrp.digital
 xogereward.com
+xoilac-17-euro.lol
 xoilac365gg.cc
 xoilac365ll.cc
+xoilac37tva.wiki
 xoilaciip.cc
 xoilacvvr.cc
 xoilaczz35.live
